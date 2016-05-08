@@ -1,0 +1,95 @@
+---
+id: 541
+lang: en
+ref: find-and-delete-the-zero-size-files-and-empty-directories
+title: Find and delete the zero size files and empty directories
+date: 2015-02-21T17:06:34+00:00
+author: Arthur Gareginyan
+layout: post
+guid: http://mycyberuniverse.com/?p=541
+permalink: /linux/find-and-delete-the-zero-size-files-and-empty-directories.html
+categories:
+  - DD-WRT
+  - Debian/Ubuntu
+  - Linux
+  - Mac OS
+  - Raspberry Pi
+tags:
+  - directories
+  - files
+  - zero bytes
+  - zero length
+  - zero size
+
+---
+
+![thumb](/images/find-150x150.png)
+How to, in the terminal, using the `find` utility, find and optionally delete all zero bytes/size/length files and empty directories in the specified directory including subdirectories.
+
+
+### Zero size files
+
+To find all zero size files, simply use:
+
+```
+find ./ -type f -size 0
+```
+
+or:
+
+```
+find ./ -type f -empty
+```
+
+This commands will find all zero size files in the current directory with subdirectories and then print the full pathname for each file to the screen.
+
+* The `./` means start searching from the current directory. If you want to find files from another directory then replace the `./` with the path to needed directory. For example, to search everything under the system log directory you need to replace `./` with `/var/log`.
+* The `-type f` flag is specifies to find only files.
+* The `-size 0` and `-empty` flags is specifies to find zero length files.
+
+To find and then delete all zero size files, there are variants you can use:
+
+```
+find ./ -type f -size 0 -exec rm -f {} \;
+```
+
+```
+find ./ -type f -size 0 | xargs rm -f
+```
+
+```
+find ./ -type f -size 0 -delete
+```
+
+The `xargs` will cause all the filenames to be sent as arguments to the `rm -f` commands. This will save processes that are forked everytime `-exec rm -f` is run. But is fails with spaces etc in file names.
+
+The `-delete` is the best when it is supported by the find you are using (because it avoids the overhead of executing the `rm` command by doing the `unlink()` call inside `find()`.
+
+
+### Empty directories
+
+To find all empty directories, simply use:
+
+```
+find ./ -type d -empty
+```
+
+This command will find all empty directories in the current directory with subdirectories and then print the full pathname for each empty directory to the screen.
+
+* The `./` means start searching from the current directory. If you want to find files from another directory then replace the `./` with the path to needed directory. For example, to search everything under the system log directory you need to replace `./` with `/var/log`.
+* The `-type d` flag is specifies to find only directories.
+* The `-empty` flag is specifies to find empty directories.
+
+To find and then delete all empty directories, use:
+
+```
+find ./ -depth -type d -empty -exec rmdir {} \;
+```
+
+or:
+
+```
+find ./ -type d -empty -delete
+```
+
+The `-delete` is the best when it is supported by the find you are using.

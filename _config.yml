@@ -1,0 +1,41 @@
+# Site settings
+
+title:
+  en: My Cyber Universe
+  ru: Моя Кибер Вселенная
+description:
+  en: Back to the future!
+  ru: Вернуться в будущее!
+
+url: "http://mycyberuniverse.com" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+highlighter: rouge
+
+index:
+    en: index.html
+    ru: _pages/ru/index.html
+archive:
+    en: _pages/en/archive.html
+    ru: _pages/ru/archive.html
+author:
+    en: _pages/en/author.html
+    ru: _pages/ru/author.html
+contact:
+    en: _pages/en/contact.html
+    ru: _pages/ru/contact.html
+contact-thanks:
+    en: _pages/en/contact-thanks.html
+    ru: _pages/ru/contact-thanks.html
+donate:
+    en: _pages/en/donate.html
+    ru: _pages/ru/donate.html
+feed:
+    en: feed.xml
+    ru: feed.xml
+
+email: arthurgareginyan@gmail.com
+twitter_username: AGareginyan
+github_username:  ArthurGareginyan
+
+include: ['_pages']
+exclude: [vendor]
