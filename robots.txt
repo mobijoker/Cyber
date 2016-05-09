@@ -1,2 +1,3 @@
 User-agent: *
-Sitemap: {{ site.url }}/sitemap.xml
+Sitemap: http://mycyberuniverse.com/sitemap.xml
+Host: mycyberuniverse.com
