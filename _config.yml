@@ -39,3 +39,9 @@ github_username:  ArthurGareginyan
 
 include: ['_pages']
 exclude: [vendor]
+
+gems:
+    - jemoji
+    - jekyll-redirect-from
+    - jekyll-sitemap
+    - jekyll-feed

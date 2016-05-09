@@ -8,6 +8,7 @@ date: 2015-09-11T17:44:11+00:00
 author: Arthur Gareginyan
 layout: page
 permalink: /contact.html
+redirect_from: /contacts.html
 guid: http://mycyberuniverse.com/?page_id=8415
 
 ---

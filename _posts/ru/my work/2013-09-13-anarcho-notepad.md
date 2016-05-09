@@ -8,6 +8,7 @@ author: Arthur Gareginyan
 layout: post
 guid: http://mycyberuniverse.com/?page_id=305
 permalink: /ru/web/anarcho-notepad.html
+redirect_from: /ru/anarcho-notepad.html
 categories:
   - Web
   - Мои программы
