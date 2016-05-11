@@ -24,9 +24,11 @@ tags:
 ![thumb](/images/screenshot2-1024x742.png)
 Some time ago, for web-surfing, I used Google Chromium Web browser (open-source version of Chrome). Then I created the theme "White Knight", now I want to share it.
 
+<br/><br/><br/>
 
 Download Google Chrome Theme “White Knight”:
-[anarcho_d_button url="http://goo.gl/8FDmkR"]
+
+{% assign url = "http://goo.gl/8FDmkR" %}{% include button-download.html %}
 
 It can be installed in Chrome and Chromium. To install this theme, drag and drop the crx theme file on chrome window and Bingo!
 

@@ -248,7 +248,7 @@ Example:
 
 and result:
 
-[github_btn url="https://github.com/ArthurGareginyan/social-media-buttons-toolbar"]
+{% assign url = "https://github.com/ArthurGareginyan/social-media-buttons-toolbar" %}{% include button-github.html %}
 
 **P.S.**
 If you use any other CMS instead of WordPress then you must remove the string with creating shortcode and filter:

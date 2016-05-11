@@ -121,15 +121,16 @@ Commercial licensing (e.g. for projects that can’t use an open-source license)
 
 ### Download
 
-[wp-download-btn url="http://wordpress.org/themes/download/anarcho-notepad.zip"]
+{% assign url = "http://wordpress.org/themes/download/anarcho-notepad.zip" %}{% include button-wordpress.html %}
 
-[github_btn url="https://github.com/ArthurGareginyan/anarcho-notepad"]
+{% assign url = "https://github.com/ArthurGareginyan/anarcho-notepad" %}{% include button-github.html %}
 
 Download "Anarcho Notepad Child Theme":
-[anarcho_d_button url="http://goo.gl/6EdlVj"]
+
+{% assign url = "http://goo.gl/6EdlVj" %}{% include button-download.html %}
 
 Or you can go to the dedicated theme page "Anarcho Notepad" at WordPress.org:
-[anarcho_l_button url="http://wordpress.org/themes/anarcho-notepad"]
+{% assign url = "http://wordpress.org/themes/anarcho-notepad" %}{% include button-link.html %}
 
 
 A child theme is a theme that inherits the functionality of another theme, called the parent theme. Child themes allow you to modify, or add to the functionality of that parent theme. A child theme is the best, safest, and easiest way to modify an existing theme, whether you want to make a few tiny changes or extensive changes. Instead of modifying the theme files directly, you can create a child theme and override within.
@@ -149,10 +150,12 @@ You can read more about child theme on <a href="http://codex.wordpress.org/Child
 ### Support
 
 Did you enjoy this theme? Please donate to support ongoing development:
-[anarcho_donate_buttons]
+{% include button-paypal.html %}
 
-If you have any questions or suggestions for improving and adding new features, feel free to contact me at support at: [anarcho_l_button url="http://wordpress.org/support/theme/anarcho-notepad"]
+If you have any questions or suggestions for improving and adding new features, feel free to contact me at support at:
+{% assign url = "http://wordpress.org/support/theme/anarcho-notepad" %}{% include button-link.html %}
 
-If you liked the theme "Anarcho Notepad, then I'll be glad if you would appreciate "Anarcho Notepad" or leave feedback on the site WordPress.org: [anarcho_l_button url="http://wordpress.org/support/view/theme-reviews/anarcho-notepad"]
+If you liked the theme "Anarcho Notepad, then I'll be glad if you would appreciate "Anarcho Notepad" or leave feedback on the site WordPress.org:
+{% assign url = "http://wordpress.org/support/view/theme-reviews/anarcho-notepad" %}{% include button-link.html %}
 
 If you notice any problems by using this theme, please notify me and I will investigate and fix the issues. Ideally your request should contain: URL of the website (if your website is public), PHP version, WordPress version and all the steps in order to replicate the issue (if you are able to reproduce it somehow).

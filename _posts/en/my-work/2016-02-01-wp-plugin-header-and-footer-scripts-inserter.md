@@ -104,19 +104,20 @@ Commercial licensing (e.g. for projects that can’t use an open-source license)
 
 ### Download
 
-[wp-download-btn url="https://downloads.wordpress.org/plugin/header-and-footer-scripts-inserter.zip"]
+{% assign url = "https://downloads.wordpress.org/plugin/header-and-footer-scripts-inserter.zip" %}{% include button-wordpress.html %}
     
-[github_btn url="https://github.com/ArthurGareginyan/header-and-footer-scripts-inserter"]
+{% assign url = "https://github.com/ArthurGareginyan/header-and-footer-scripts-inserter" %}{% include button-github.html %}
 
 
 ### Support
 
-<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=8A88KC7TFF6CS" target="_blank" rel="nofollow"><img style="float:right;" src="https://www.paypal.com/en_US/i/btn/btn_donateCC_LG.gif" alt="Make a donation"></a>Did you enjoy this plugin? Please donate to support ongoing development:
+Did you enjoy this plugin? Please donate to support ongoing development:
+{% include button-paypal.html %}
 
 Go to the dedicated plugin page on WordPress.org:
-[anarcho_l_button url="https://wordpress.org/plugins/header-and-footer-scripts-inserter/"]
+{% assign url = "https://wordpress.org/plugins/header-and-footer-scripts-inserter/" %}{% include button-link.html %}
 
 If you liked the plugin, then I'll be glad if you would appreciate or leave feedback on the site WordPress.org:
-[anarcho_l_button url="http://wordpress.org/support/view/plugin-reviews/header-and-footer-scripts-inserter"]
+{% assign url = "http://wordpress.org/support/view/plugin-reviews/header-and-footer-scripts-inserter" %}{% include button-link.html %}
 
 Do you have any ideas or suggestions to make the plugin better? I can't wait to hear them! Please share!

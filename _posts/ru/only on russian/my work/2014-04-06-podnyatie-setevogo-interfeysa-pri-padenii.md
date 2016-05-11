@@ -113,4 +113,5 @@ sudo nano /etc/crontab
 2014-03-21(14:51) iface tun UP
 </pre>
 
-[github_btn url="https://github.com/ArthurGareginyan/If-interface-tun-down"]</br>
+<br/>
+{% assign url = "https://github.com/ArthurGareginyan/If-interface-tun-down" %}{% include button-github.html %}

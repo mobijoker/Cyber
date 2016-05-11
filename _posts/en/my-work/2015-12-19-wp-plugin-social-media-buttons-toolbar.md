@@ -160,18 +160,20 @@ Icon set [Social Buttons 2](https://www.iconfinder.com/iconsets/social-buttons-2
 
 ### Download
 
-[wp-download-btn url="https://downloads.wordpress.org/plugin/social-media-buttons-toolbar.zip"]
+{% assign url = "https://downloads.wordpress.org/plugin/social-media-buttons-toolbar.zip" %}{% include button-wordpress.html %}
     
-[github_btn url="https://github.com/ArthurGareginyan/social-media-buttons-toolbar"]
+{% assign url = "https://github.com/ArthurGareginyan/social-media-buttons-toolbar" %}{% include button-github.html %}
 
 
 ### Support
 
-<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=8A88KC7TFF6CS" target="_blank" rel="nofollow"><img style="float:right;" src="https://www.paypal.com/en_US/i/btn/btn_donateCC_LG.gif" alt="Make a donation"></a>Did you enjoy this plugin? Please donate to support ongoing development:
-</br>
+Did you enjoy this plugin? Please donate to support ongoing development:
+{% include button-paypal.html %}
 
-Go to the dedicated plugin page on WordPress.org: [anarcho_l_button url="https://wordpress.org/plugins/social-media-buttons-toolbar/"]
+Go to the dedicated plugin page on WordPress.org:
+{% assign url = "https://wordpress.org/plugins/social-media-buttons-toolbar/" %}{% include button-link.html %}
 
-If you liked the plugin, then I'll be glad if you would appreciate or leave feedback on the site WordPress.org: [anarcho_l_button url="http://wordpress.org/support/view/plugin-reviews/social-media-buttons-toolbar"]
+If you liked the plugin, then I'll be glad if you would appreciate or leave feedback on the site WordPress.org:
+{% assign url = "http://wordpress.org/support/view/plugin-reviews/social-media-buttons-toolbar" %}{% include button-link.html %}
 
 Do you have any ideas or suggestions to make the plugin better? I can't wait to hear them! Please share!

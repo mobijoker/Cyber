@@ -55,7 +55,7 @@ tree
 
 * **Name:** space_to_underscore.sh
 * **Description:** Recursively replace spaces with underscores in file and directory names.
-* **Language:** BASH</strong>
+* **Language:** BASH
 
 ```
 #!/bin/bash
@@ -171,4 +171,5 @@ Run the `space_to_underscore.sh` which placed in user home directory:
 ~/space_to_underscore.sh
 ```
 
-[github_btn url="https://github.com/ArthurGareginyan/space_to_underscore/"]
+<br/>
+{% assign url = "https://github.com/ArthurGareginyan/space_to_underscore/" %}{% include button-github.html %}

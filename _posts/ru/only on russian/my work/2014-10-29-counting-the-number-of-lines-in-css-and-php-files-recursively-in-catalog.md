@@ -170,4 +170,5 @@ IN 1 CSS FILES: 292 lines
 IN ALL 3 FILES: 522 lines
 </pre>
 
-[github_btn url="https://github.com/ArthurGareginyan/counting-number-of-lines"]
+<br/>
+{% assign url = "https://github.com/ArthurGareginyan/counting-number-of-lines" %}{% include button-github.html %}

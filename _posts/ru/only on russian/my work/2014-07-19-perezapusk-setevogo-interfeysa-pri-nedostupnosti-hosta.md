@@ -90,4 +90,5 @@ sudo nano /etc/crontab
 
 Если хочется запускать не каждую минуту, а например каждые 5 минут, тогда нужно исправить `1` на `5`.
 
-[github_btn url="https://github.com/ArthurGareginyan/restart-interface-if-host-down"]</br>
+<br/>
+{% assign url = "https://github.com/ArthurGareginyan/restart-interface-if-host-down" %}{% include button-github.html %}

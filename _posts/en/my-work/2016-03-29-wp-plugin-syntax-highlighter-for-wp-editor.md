@@ -95,15 +95,17 @@ Commercial licensing (e.g. for projects that can’t use an open-source license)
 
 ### Download
 
-[wp-download-btn url="https://downloads.wordpress.org/plugin/syntax-highlighter-for-wp-editor.zip"]
+{% assign url = "https://downloads.wordpress.org/plugin/syntax-highlighter-for-wp-editor.zip" %}{% include button-wordpress.html %}
     
-[github_btn url="https://github.com/ArthurGareginyan/syntax-highlighter-for-wp-editor"]
+{% assign url = "https://github.com/ArthurGareginyan/syntax-highlighter-for-wp-editor" %}{% include button-github.html %}
 
 
 ### Support
 
-<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=8A88KC7TFF6CS" target="_blank" rel="nofollow"><img style="float:right;" src="https://www.paypal.com/en_US/i/btn/btn_donateCC_LG.gif" alt="Make a donation"></a>Did you enjoy this plugin? Please donate to support ongoing development:
+Did you enjoy this plugin? Please donate to support ongoing development:
+{% include button-paypal.html %}
 
-If you liked the plugin, then I'll be glad if you would appreciate or leave feedback on the site WordPress.org: [anarcho_l_button url="http://wordpress.org/support/view/plugin-reviews/syntax-highlighter-for-wp-editor"]
+If you liked the plugin, then I'll be glad if you would appreciate or leave feedback on the site WordPress.org:
+{% assign url = "http://wordpress.org/support/view/plugin-reviews/syntax-highlighter-for-wp-editor" %}{% include button-link.html %}
 
 Do you have any ideas or suggestions to make the plugin better? I can't wait to hear them! Please share!

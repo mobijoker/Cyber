@@ -89,16 +89,17 @@ Commercial licensing (e.g. for projects that can’t use an open-source license)
 
 ### Download
 
-[wp-download-btn url="http://downloads.wordpress.org/plugin/my-custom-styles.zip"]
+{% assign url = "http://downloads.wordpress.org/plugin/my-custom-styles.zip" %}{% include button-wordpress.html %}
 
-[github_btn url="https://github.com/ArthurGareginyan/my-custom-styles"]
+{% assign url = "https://github.com/ArthurGareginyan/my-custom-styles" %}{% include button-github.html %}
 
 Go to the dedicated plugin page on WordPress.org:
-[anarcho_l_button url="http://wordpress.org/plugins/my-custom-styles/"]
+{% assign url = "http://wordpress.org/plugins/my-custom-styles/" %}{% include button-link.html %}
 
 
 ### Support
 
-<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=HQYRXGUG5RNUA" target="_blank" rel="nofollow"><img style="float:right;" src="https://www.paypal.com/en_US/i/btn/btn_donateCC_LG.gif" alt="Make a donation"></a>Did you enjoy this plugin? Please donate to support ongoing development:
+Did you enjoy this plugin? Please donate to support ongoing development:
+{% include button-paypal.html %}
 
 Do you have any ideas or suggestions to make the plugin better? I can't wait to hear them! Please share!

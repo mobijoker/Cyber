@@ -218,4 +218,5 @@ openssl req -new -x509 -days 365 -nodes -out /etc/apache2/ssl/$__servername.crt 
 /etc/nginx/ssl/*.crt и /etc/nginx/ssl/*.key
 </pre>
 
-[github_btn url="https://github.com/ArthurGareginyan/SSL-Certificate-Creater"]
+<br/>
+{% assign url = "https://github.com/ArthurGareginyan/SSL-Certificate-Creater" %}{% include button-github.html %}

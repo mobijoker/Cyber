@@ -30,6 +30,9 @@ img.author {
 Спасибо за то, что посетили MyCyberUniverse.com! Надеюсь, что вы найдете на этом веб-сайте интересующую вас информацию и станете постоянным читателем.
 
 
+<br/><br/>
+{% include social-buttons.html %}
+
 ### Занятость
 
 Я самостоятельно занятый (freelance) веб дизайнер и разработчик программного обеспечения (full stack software engineer) который заботится о красивом дизайне и элегантном коде. Я очарован графикой и дизайном, за несколько последних лет я трудился над проектами для многих людей. Я являюсь автором и владельцем веб-хостинга «<a href="http://anarcho-hosting.tk" target="_blank">Anarcho Hosting</a>», автором темы «<a href="http://wordpress.org/themes/anarcho-notepad" target="_blank">Anarcho Notepad</a>», а также различных плагинов для CMS WordPress и многое другое.
@@ -76,5 +79,3 @@ I’m always interested in hearing of project ideas and opportunities, so feel f
 **P.S.**
   
 Пожалуйста, дайте мне знать, если вам понравилась моя статья или другое и вы хотели бы использовать их. Я буду рад, если они будут опубликованы где-нибудь еще, но не без ссылки на мое имя и/или ссылку на мой блог. Спасибо!
-
-{% include social-buttons.html %}

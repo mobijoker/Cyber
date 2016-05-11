@@ -29,6 +29,8 @@ I am 29 years old. I'm happily married to beautiful Milena. Originally from Kiro
 
 Thank you for visiting MyCyberUniverse.com! I hope that, on this website, you will find the information you need and will become a regular reader.
 
+<br/><br/>
+{% include social-buttons.html %}
 
 ### Work
 
@@ -76,5 +78,3 @@ I’m always interested in hearing of project ideas and opportunities, so feel f
 **P.S.**
   
 Please let me know if you like my posts or other and would like to use them in any way. I will be glad if somewhere else are published, but not without reference to my name and/or a link to my blog. Thanks!
-
-{% include social-buttons.html %}

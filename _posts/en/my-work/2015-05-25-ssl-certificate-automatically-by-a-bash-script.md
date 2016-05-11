@@ -218,4 +218,5 @@ or at:
 /etc/nginx/ssl/*.crt и /etc/nginx/ssl/*.key
 </pre>
 
-[github_btn url="https://github.com/ArthurGareginyan/SSL-Certificate-Creater"]
+<br/>
+{% assign url = "https://github.com/ArthurGareginyan/SSL-Certificate-Creater" %}{% include button-github.html %}

@@ -176,7 +176,7 @@ Example:
 
 and result:
 
-[wp-download-btn url="https://downloads.wordpress.org/theme/authors-notepad.1.0.zip"]
+{% assign url = "https://downloads.wordpress.org/theme/authors-notepad.1.0.zip" %}{% include button-wordpress.html %}
 
 **P.S.**
 If you use any other CMS instead of WordPress then you must remove the string with creating shortcode and filter:
@@ -193,4 +193,4 @@ Here's an example of this button from CodePen.io:
 <p data-height="400" data-theme-id="0" data-slug-hash="XmmYBp" data-default-tab="result" data-user="berserkr" class='codepen'>See the Pen <a href='http://codepen.io/berserkr/pen/XmmYBp/'>CSS3 Gradient Active WordPress Download Button</a> by Arthur Gareginyan (<a href='http://codepen.io/berserkr'>@berserkr</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
 
-The code of this button are under the <a href="http://opensource.org/licenses/MIT" target="_blank">MIT license</a> and can be found at http://codepen.io/berserkr/pen/XmmYBp/.
+The code of this button are under the <a href="http://opensource.org/licenses/MIT" target="_blank">MIT license</a> and can be found at [Codepen.io](http://codepen.io/berserkr/pen/XmmYBp/).
