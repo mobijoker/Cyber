@@ -18,14 +18,16 @@ body {
 /**
  * Add line mreak before H2 and H3 tags
  */
-h3,
-h4 {
-    white-space: pre;
-}
+article .post {
+    
+    > h3, h4 {
+        white-space: pre;
 
-h3:before,
-h4:before {
-    content: '\A';
+        &:before,
+        &:before {
+            content: '\A';
+        }
+    }
 }
 
 /**
@@ -61,7 +63,17 @@ img[alt=thumb] {
     float: left;
 }
 
+/**
+ * Language trigger
+ */
+.en:lang(en),
+.ru:lang(ru) {
+    font-weight: bold;
+}
+
 .lang-tirgger {
+    background-color: #424242;
+    margin-top: -5px;
     float: right;
     border: 1px solid orange;
     border-top: 0;
@@ -88,14 +100,6 @@ img[alt=thumb] {
     li a {
         font-weight: 300;
     }
-}
-
-/**
- * Language trigger
- */
-.en:lang(en),
-.ru:lang(ru) {
-    font-weight: bold;
 }
 
 /**
@@ -400,15 +404,6 @@ article {
     }
 }
 
-.footer-heading {
-    font-size: 18px;
-    margin-bottom: $spacing-unit / 2;
-    
-    > h2 {
-        padding-top: 0;
-    }
-}
-
 .contact-list,
 .social-media-list {
     list-style: none;
@@ -418,13 +413,13 @@ article {
 .footer-col-wrapper {
     font-size: 15px;
     color: $grey-color;
+    margin-top: 10px;
     margin-left: -$spacing-unit / 2;
     @extend %clearfix;
 }
 
 .footer-col {
     float: left;
-    margin-bottom: $spacing-unit / 2;
     padding-left: $spacing-unit / 2;
 }
 
@@ -434,23 +429,35 @@ article {
 }
 
 .footer-col-2 {
-    width: -webkit-calc(20% - (#{$spacing-unit} / 2));
-    width:         calc(20% - (#{$spacing-unit} / 2));
+    width: -webkit-calc(65% - (#{$spacing-unit} / 2));
+    width:         calc(65% - (#{$spacing-unit} / 2));
 }
 
-.footer-col-3 {
-    width: -webkit-calc(45% - (#{$spacing-unit} / 2));
-    width:         calc(45% - (#{$spacing-unit} / 2));
+.footer-nav-list {
+    
+    li {
+        color: grey;
+        float: left;
+        list-style-type: none;
+        padding-right: 0;
+        padding-left: 0;
+        text-transform: uppercase;
+        border-right: 2px solid grey;
+    }
+
+    a {
+        color: grey;
+        font-size: 12px;
+    }
 }
 
 @include media-query($on-laptop) {
-    .footer-col-1,
-    .footer-col-2 {
-        width: -webkit-calc(50% - (#{$spacing-unit} / 2));
-        width:         calc(50% - (#{$spacing-unit} / 2));
+    .footer-col-1 {
+        width: -webkit-calc(100% - (#{$spacing-unit} / 2));
+        width:         calc(100% - (#{$spacing-unit} / 2));
     }
 
-    .footer-col-3 {
+    .footer-col-2 {
         width: -webkit-calc(100% - (#{$spacing-unit} / 2));
         width:         calc(100% - (#{$spacing-unit} / 2));
     }
