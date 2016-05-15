@@ -10,8 +10,14 @@ layout: default
 
   <div class="post-content" itemprop="articleBody">
     {{ content }}
+    
+    <br/>
+    {% include adsense-bottom.html %}
   </div>
-  
-  {% include comments.html %}
 
 </article>
+
+<br/>
+<section class="post-comments">
+    {% include comments.html %}
+</div>
