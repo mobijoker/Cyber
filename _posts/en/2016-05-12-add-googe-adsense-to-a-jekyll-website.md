@@ -21,7 +21,7 @@ tags:
 
 ---
 
-![thumb](/images/adsense-logo.png)
+![thumb](/images/gadsense-logo.png)
 Google AdSense is a free, simple way to earn money by placing third-party advertisements on a website. My Github hosted Jekyll website is being used primarily as a blog as you can see, so I wanted to host an advertisement at the end of each blog post, just above the comments section.
 
 Now, step by step guide.
@@ -44,7 +44,7 @@ Ad unit - is set of Google ads displayed as a result of one piece of AdSense ad 
 
 You can find the button called `code` on the bottom of your ad unit.
 
-![](/images/adsense-code.png)
+![](/images/gadsense-code.png)
 
 Your ad code will be similar to the following one:
 
