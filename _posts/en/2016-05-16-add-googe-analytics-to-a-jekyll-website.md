@@ -35,7 +35,7 @@ To generate your analytics tracking code you first need to create the account (i
 
 **Note:** You must to create new one accaut for every website you want to tracking.
 
-![thumb](/images/analytics-account.png)
+![](/images/analytics-account.png)
 
 
 **3.** Get the tracking code.
