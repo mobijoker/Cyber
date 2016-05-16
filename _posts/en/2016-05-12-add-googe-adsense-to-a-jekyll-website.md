@@ -1,11 +1,11 @@
 ---
-lang: en
 title: Add Googe AdSense to a Jekyll website
-date: 2016-05-12T22:35:03+00:00
-author: Arthur Gareginyan
-layout: post
 ref: add-googe-adsense-to-a-jekyll-website
 permalink: /web/add-googe-adsense-to-a-jekyll-website.html
+date: 2016-05-12T22:35:03+00:00
+author: Arthur Gareginyan
+lang: en
+layout: post
 categories:
   - web
 tags:

@@ -1,11 +1,11 @@
 ---
-lang: en
 title: Add Google Analytics to a Jekyll website
-date: 2016-05-12T22:35:03+00:00
-author: Arthur Gareginyan
-layout: post
 ref: add-googe-analytics-to-a-jekyll-website
 permalink: /web/add-googe-analytics-to-a-jekyll-website.html
+date: 2016-05-16T17:51:00+00:00
+author: Arthur Gareginyan
+lang: en
+layout: post
 categories:
   - web
 tags:
@@ -17,9 +17,7 @@ tags:
 ---
 
 ![thumb](/images/analytics-logo.png)
-Google Analytics allows you to get information about your websites visitors such as the devices or OS they were using and their location. It goes without saying that information like this can be very useful for deciding how best to deliver content.
-
-I have recently added Google Analytics to my Github site that is built using Jekyll, here’s how I did it.
+Google Analytics allows you to get information about your websites visitors such as the devices or OS they were using and their location. Such information can be very useful for deciding how best to deliver content. Below, I’ll explain how to set up a Google Analytics on Github website that is built using Jekyll.
 
 Now, step by step guide.
 
@@ -37,18 +35,14 @@ To generate your analytics tracking code you first need to create the account (i
 
 **Note:** You must to create new one accaut for every website you want to tracking.
 
-![thumb](/images/analytics-logo.png)
+![thumb](/images/analytics-account.png)
 
 
 **3.** Get the tracking code.
 
-You can find the button called `code` on the bottom of your ad unit.
-
-Once you are finished to create an account for website, you will click the Get Tracking ID button.
-
 Tracking code - is a snippet of JavaScript that collects and sends data to Analytics from a website. It’s automatically generated for every web property.
 
-Your tracking code (in this example is Universal Analytics) will be similar to the following one:
+Once you are finished to create an account for website, you will click the "Get Tracking ID" button. Your tracking code (in this example is Universal Analytics) will be similar to the following one:
 
 ```
 <script>
@@ -70,22 +64,18 @@ Your tracking code (in this example is Universal Analytics) will be similar to t
 
 Create a file called `google-analytics.html` in the `_includes` catalog of your Jekyll website. Insert your tracking code to this file.
 
-Copy this code and I recommend that you paste it within the `_layouts/default.html` file, right towards the top within the `<head>` tag. This will ensure that the code snippet will be added to every page so you can keep track of your whole website.
 
-add the tracking code before the </head> tag on 
+**5.** Call the google-analytics template from a default template.
 
-
-**5.** Call the advertisements template in a post template.
-
-Go into the `_layouts` catalog and find the `post.html` file (or any layout file for which you would like ads displayed) and insert the following code.
+Go into the `_layouts` catalog, find the `default.html` file and insert the following code right before the `</head>` tag.
 
 ```
 {% raw %}{% include google-analytics.html %}{% endraw %}
 ```
 
-I place this right after the `{{ content }}`, but the placements is totally up to you. In my case an ads will be displayed at the end of each blog post, just above the comments section.
+This will ensure that the code snippet will be added to every page so you can keep track of your whole website.
+
+**Note:** Some themes have a separeted file with head section (`<head></head>` tags). This file can be named `head.html` and be placed in the `_includes` catalog.
 
 
-**6.** Reporting.
-
-Now you are all set up, simply publish your website (note your website must be live for this to take effect). Then within the Google Analytics home page, select the `Reporting` tab at the top of the page. From here you will be able to see reports for the number of page views, geospatial information, technology and even your sites behaviour.
+That’s it! Once tracking is set up, Google Analytics will start collecting data immediately. After a few days, you can start reviewing the reports.

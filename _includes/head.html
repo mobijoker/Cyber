@@ -28,5 +28,7 @@
 
     {% include meta-tags.html %}
 
+    {% include google-analytics.html %}
+
     <link rel="alternate" type="application/rss+xml" title="{{ site.title[page.lang] }}" href="{{ site.feed[page.lang] | prepend: site.baseurl | prepend: site.url }}">
 </head>
