@@ -24,7 +24,7 @@ tags:
 
 ---
 
-![thumb]()
+![thumb](/images/kinect-top-hard-01-top.jpg)
 Статья о том, как добавить специальный порт для сенсора Kinect в игровой консоли XBox360 FAT.
 
 

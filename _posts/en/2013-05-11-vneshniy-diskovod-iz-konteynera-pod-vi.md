@@ -27,7 +27,7 @@ tags:
 
 ---
 
-![thumb]()
+![thumb](/images/IMG_1480.jpg)
 Turn already unnecessary container under the hdd or external drive into an external optical disk drive.
 
 Lately I more often work on the NetBook and, as every knows, in them is no  optical drive. But, sometimes is necessary to use some optical disk. For example, when I need to install a driver for some device, and it is only on a optical disk. Then need to read information from optical disk on another computer with a optical drive, record on a USB flash drive and then use it on a NetBook. I could buy an external optical disc drive but they are not cheap. And I, probably like many, have many different devices that is not used.
