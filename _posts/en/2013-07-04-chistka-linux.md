@@ -15,7 +15,7 @@ categories:
 
 ---
 
-![thumb]()
+![thumb](/images/Clean-linux.png)
 Clean Linux from debris.
  
 
