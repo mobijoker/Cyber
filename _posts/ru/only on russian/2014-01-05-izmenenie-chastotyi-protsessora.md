@@ -18,6 +18,8 @@ categories:
 Динамическое масштабирование частоты процессора (также известное как регулирование частоты процессора) представляет собой метод в компьютерной архитектуре, где процессор работает на частоте менее максимальной в целях экономии электроэнергии (src: <a href="http://en.wikipedia.org/wiki/Dynamic_frequency_scaling">Wikipedia</a>).
 
 
+---
+
 Установите пакет <a href="http://packages.debian.org/cpufrequtils">cpufrequtils</a>:
 
 ```
