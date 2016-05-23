@@ -99,7 +99,7 @@ sudo clamscan -ri --bell --max-dir-recursion=50 --move=/home/user/INFECTED/ --lo
 ```
 
 
-</br><h4>Automation</h4>
+### Automation
 
 To automate the scanning, you can use the Cron task scheduler. To do this, you need to enter several lines in the file `/etc/crontab`.
 

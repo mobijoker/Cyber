@@ -30,7 +30,7 @@ tags:
 
 ---
 
-![thumb]()
+![thumb](/images/wordpress.png)
 Sometimes you may want to create a separate style sheet and/or JavaScript file for settings page of your plugin, versus inserting it into existing code of this page. But how load this script on only a plugin’s or theme’s settings page (on certain `/wp-admin` pages)?
 
 
