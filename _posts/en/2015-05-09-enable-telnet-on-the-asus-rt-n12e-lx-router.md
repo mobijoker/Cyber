@@ -39,8 +39,6 @@ How to, in the original firmware, on the router Asus RT-N12E/LX, enable the Teln
 
 ### About the ASUS RT-N12 router
 
-<img class="aligncenter wp-image-577 " src="/images/ASUS-RT-N12-router-300x300.png" alt="ASUS RT-N12 router" width="250" height="250" />
-
 There are two types of ASUS RT-N12 router, "LX" and “E”. The "LX" and “E” versions are the same, but “LX” version have the two antennas, when “E” have only one antenna. I have the Asus RT-N12LX.
 
 This router don’t have alternative firmwares like OpenWRT or DD-WRT, because the chip RTL8192C is too old.

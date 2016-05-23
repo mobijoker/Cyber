@@ -26,7 +26,6 @@ tags:
 
 ![thumb](/images/attachment-icon-150x150.png)
 MIME stands for "Multipurpose Internet Mail Extensions. It's a way of identifying files on the Internet according to their nature and format. For example, using the `Content-type` header value defined in a HTTP response, the browser can open the file with the proper extension/plugin. Or, if this is a screenshot of plugin which located on WordPress.org repository, then it must be opened in the tab of web browser rather than downloaded to computer. Next, I'll show you how to set the correct MIME Type of a file using Subversion (SVN) from the command line.
- 
 
 
 In a Linux system you can use the `file` tool with `--mime-type` option to display an existing MIME type of file:
@@ -39,7 +38,6 @@ file --mime-type file.txt
 file.txt: text/plain
 </pre>
 
-</br>
 But this article is about Subversion, so let's do this using SVN tool:
 
 ```
@@ -58,7 +56,6 @@ image-2.png - image/png
 image-3.png - image/png
 </pre>
 
-</br>
 If the MIME type of files is incorrect then you need to set it appropriately. 
 
 Change to the proper mime type of the files (for example, png files):
@@ -73,14 +70,12 @@ property 'svn:mime-type' set on 'catalog/image-2.png'
 property 'svn:mime-type' set on ‘catalog/image-3.png'
 </pre>
 
-</br>
 Afterwards, commit the changes:
 
 ```
 svn ci -m "Modify the mime-type of images"
 ```
 
-</br>
 And here is a list of common MIME types and their corresponding file extensions:
 <table border="1" cellpadding="2" cellspacing="2" width="60%" style="border-collapse: collapse">
   <tbody><tr>

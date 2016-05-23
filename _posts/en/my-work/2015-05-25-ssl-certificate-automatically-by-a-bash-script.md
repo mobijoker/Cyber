@@ -26,7 +26,7 @@ tags:
 
 ---
 
-![thumb]()
+![thumb](/images/bash.png)
 To quickly and easily create a self-signed SSL certificate for Web servers Apache and Nginx I wrote a little script in "BASH".
 
 

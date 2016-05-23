@@ -22,7 +22,7 @@ tags:
 
 ---
 
-![thumb]()
+![thumb](/images/bash.png)
 A safe solution to recursively replace spaces with underscores in file and directory names starting from the current directory.
 
 
