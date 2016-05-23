@@ -66,7 +66,7 @@ GitHub страницы это невероятно лёгкое и удобно
 
 **e)** В разделе "A (Host)" добавьте две А-записи:
 
-* Первая: "A (Host)" запись с `host` = `@` и `Points to` = `192.30.252.153".
+* Первая: "A (Host)" запись с `host` = `@` и `Points to` = `192.30.252.153`.
 * Вторая: "A (Host)" запись с `host` = `@` и `Points to` = `192.30.252.1534`.
 
 
@@ -95,8 +95,10 @@ GitHub страницы это невероятно лёгкое и удобно
 dig arthurgarginyan.com +nostats +nocomments +nocmd
 ```
 
-<pre>;arthurgarginyan.com
+<pre>
+;arthurgarginyan.com
 arthurgarginyan.com.   73  IN  A 192.30.252.153
-arthurgarginyan.com.   73  IN  A 192.30.252.154</pre>
+arthurgarginyan.com.   73  IN  A 192.30.252.154
+</pre>
 
 Вы можете проверить мою страницу GitHub на <a href="http://arthurgareginyan.com" target="_blank">http://arthurgareginyan.com</a>.
