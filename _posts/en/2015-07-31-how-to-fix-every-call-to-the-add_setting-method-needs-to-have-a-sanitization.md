@@ -29,7 +29,7 @@ tags:
 
 ---
 
-![thumb](/images/error-2-e1423133289573.png)
+![thumb](/images/error.png)
 Some time ago WordPress.org is changed the rules of the publication of a themes to their repository. And then, I have not been able to publish update of my theme, because of the following error:
 
 

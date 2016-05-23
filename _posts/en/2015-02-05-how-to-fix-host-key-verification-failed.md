@@ -25,7 +25,7 @@ tags:
 
 ---
 
-![thumb](/images/error-2-e1423133289573.png)
+![thumb](/images/error.png)
 When attempting to connect using SSH, the connection may be automatically rejected with the following error:
 <pre>
 Host key verification failed

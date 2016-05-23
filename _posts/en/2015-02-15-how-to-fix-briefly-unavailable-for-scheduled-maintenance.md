@@ -22,7 +22,7 @@ tags:
 
 ---
 
-![thumb](/images/error-2-e1423133289573.png)
+![thumb](/images/error.png)
 How to, in the CMS WordPress, fix the error due to which is displayed the message "Briefly unavailable for scheduled maintenance. Check back in a minute."
 
 

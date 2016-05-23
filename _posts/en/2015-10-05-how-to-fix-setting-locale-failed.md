@@ -22,7 +22,7 @@ tags:
 
 ---
 
-![thumb]()
+![thumb](/images/error.png)
 In different situations (for example, during the installation of Perl applications, or when I use `apt-get install`) I get the following warning message:
 <pre>
 perl: warning: Setting locale failed.
