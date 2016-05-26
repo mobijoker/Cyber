@@ -20,10 +20,8 @@ tags:
 
 ![thumb](/images/Mac-App-Store-icon-150x150.png)
 При замене Mac на новый приходится столкнутся с вопросом переноса информации. Для перехода на новый Mac есть утилита «Ассистент миграции» которая переносит все данные, приложения и настройки ситемы. Но, в этот раз, мне не нужно переносить всё, а хочется сесть за «чистый» Mac и установить только необходимые программы. Для этого нужно, для наглядности, составить список установленных программ и выбрать из них необходимые.
- 
 
-### Список программ которыми Я пользуюсь на своём Mac
-
+<br>
 
 #### FREE:
 
@@ -31,7 +29,6 @@ tags:
 * **Wunderlist** (App Store) - Планировщик задач.
 * **ExifTool** (<a title="http://owl.phy.queensu.ca/~phil/exiftool/" href="http://owl.phy.queensu.ca/~phil/exiftool/" target="_blank">http://owl.phy.queensu.ca/~phil/exiftool/</a>) - Просмотр и редактирование мета-данных файлов (консоль).
 * **ImageOptim** (<a title="https://imageoptim.com" href="https://imageoptim.com" target="_blank">https://imageoptim.com</a>) - Оптимизатор изображений.
-* **Gitbox** (<a title="http://www.gitboxapp.com/" href="http://www.gitboxapp.com/" target="_blank">http://www.gitboxapp.com/</a>) - Клиент для системы контроля версий GitHub.
 * **GitHub** (<a title="https://mac.github.com/" href="https://mac.github.com/" target="_blank">https://mac.github.com/</a>) - Клиент для системы контроля версий GitHub.
 * **iTools** (<a title="http://www.itools.cn/itoolsmacyingwenbanxiazai" href="http://www.itools.cn/itoolsmacyingwenbanxiazai" target="_blank">http://www.itools.cn/itoolsmacyingwenbanxiazai</a>) - Универсальное приложение для работы с i-устройствами.
 * **Kopypasta** (App Store) - Расширенный буфер копирования.
@@ -45,20 +42,14 @@ tags:
 * **CleanMyDrive** (App Store) - Очистка USB-накопителей от временных файлов.
 * **Sparrow Lite** (App Store) - Почтовый клиент.
 * **Twitter** (App Store) - Twitter клиент.
-* **Archy** (App Store) - Альтернативный клиент для GoogleDrive.
 * **Avast!** (<a title="http://www.avast.com/en-us/free-antivirus-mac" href="http://www.avast.com/en-us/free-antivirus-mac" target="_blank">http://www.avast.com/en-us/free-antivirus-mac</a>) - Бесплатный антивирус.
 * **ClamXav** (App Store) - Вирус-сканер на основе ClamAV.
 * **Blackmagic Disk Speed Test** (App Store) - Тестирование накопителя на производительность.
-* **iBooks Author** (App Store) - Создание иллюстрированных книг и т.п..
-* **Perian** (<a title="http://perian.org" href="http://perian.org" target="_blank">http://perian.org</a>) - Добавляет поддержку многих кодеков в QuickTime Player.
 * **Bitnami MAMP + WordPress** (<a title="https://bitnami.com/stack/wordpress/installer#osx" href="https://bitnami.com/stack/wordpress/installer#osx" target="_blank">https://bitnami.com/stack/wordpress/installer#osx</a>) - Apache сервер со всем необходимым + WordPress.
 * **Firefox** - Web-браузер.
 * **Cyberduck** (<a title="http://cyberduck.io" href="http://cyberduck.io" target="_blank">http://cyberduck.io</a>) - Клиент для FTP, SFTP, WebDAV, S3 и OpenStack Swift.
-* **FileZilla** (<a title="https://filezilla-project.org" href="https://filezilla-project.org" target="_blank">https://filezilla-project.org</a>) - Клиент FTP.
-* **RCDefaultApp** (<a title="http://www.rubicode.com/Software/RCDefaultApp/" href="http://www.rubicode.com/Software/RCDefaultApp/" target="_blank">http://www.rubicode.com/Software/RCDefaultApp/</a>) - Системная надстройка для изменения приложений запускающихся по умолчанию.
 * **Gimp** (<a title="http://www.gimp.org" href="http://www.gimp.org" target="_blank">http://www.gimp.org</a>) - Графический редактор.
 * **SketchUp** (<a title="http://www.sketchup.com" href="http://www.sketchup.com" target="_blank">http://www.sketchup.com</a>) - 3D редактор.
-* **Fireplace** (App Store) - Screensaver «Камин».
 * **Plex Media Server** (<a title="https://plex.tv" href="https://plex.tv" target="_blank">https://plex.tv</a>) - Сервер и клиент для стриминга видео.
 * **PlexConnect** (<a title="https://github.com/iBaa/PlexConnect/" href="https://github.com/iBaa/PlexConnect/" target="_blank">https://github.com/iBaa/PlexConnect/</a>) - AppleTV PlexConnect.
 

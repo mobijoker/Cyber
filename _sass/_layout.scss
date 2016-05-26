@@ -56,7 +56,8 @@ ul li p img {
 
 img[alt=thumb] {
     float: left;
-    height: 120px;
+    max-height: 120px;
+    max-width: 250px;
 }
 
 .alignleft {
