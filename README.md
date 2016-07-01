@@ -1,8 +1,13 @@
 # www.MyCyberUniverse.com
 
-My personal website hosted on GitHub.
+Technical Blog of Arthur Gareginyan hosted on GitHub.
 
 [![screenshot](https://github.com/MilenaKiseleva/mycyberuniverse/blob/master/screenshot.png)]()
+
+
+## Copyright
+
+(c) 2013-2016 Arthur Garegnyan.
 
 
 ## Author
