@@ -66,7 +66,7 @@ I'll assume this is done. In my case, I set up a user page at `arthurgareginyan.
 **e)** Under the "A (Host)" section add a two A-records:
 
 * First: "A (Host)" record with `host` = `@` and `Points to` = `192.30.252.153`.
-* Second: "A (Host)" record with `host` = `@` and `Points to` = `192.30.252.1534`.
+* Second: "A (Host)" record with `host` = `@` and `Points to` = `192.30.252.154`.
 
 
 <img src="/images/godaddy-4.png" alt="github & godaddy" width="1024" height="541" class="size-large wp-image-8825" />
