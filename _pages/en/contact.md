@@ -12,7 +12,6 @@ redirect_from: /contacts.html
 guid: http://mycyberuniverse.com/?page_id=8415
 
 ---
-If we have crossed paths or if I have managed to do something that you found helpful, I’d love it if you would take a few minutes to write it down and send it to me. 
 
 <form id="contact-form" action="http://formspree.io/arthurgareginyan@gmail.com" method="POST">
 
@@ -141,5 +140,3 @@ If we have crossed paths or if I have managed to do something that you found hel
 	top:1px;
 }
 </style>
-
-If you’re willing to have the story shared publicly, please indicate that accordingly. By default, I will keep everything confidential.
