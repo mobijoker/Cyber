@@ -11,11 +11,9 @@ permalink: /donate.html
 guid: http://mycyberuniverse.com/?page_id=437
 
 ---
-If you appreciate something I made, you can use PayPal to buy me a coffee!
-
-I spend a lot of time trying to make sure that the themes, plugins and another thing I build are useful and easy to use, and the ultimate proof of that for me is that you actually want to use them.
-
-I’m a freelance developer, without a regular income, so every little contribution helps cover my costs and lets me spend more time building things for people like you to enjoy.
+If you appreciate something I made, you can buy me a coffee!
+ 
+I spend a lot of time trying to make sure that the themes, plugins and another thing I build are useful, and the ultimate proof of that for me is that you actually want to use them. But, I’m an independent developer, without a regular income, so every little contribution helps cover my costs and lets me spend more time building things for people like you to enjoy.
 
 &nbsp;
 &nbsp;
@@ -47,4 +45,4 @@ PayPal button:    
 &nbsp;
 &nbsp;
 
-Thank you for the appreciation, and I’m really glad you found my work useful!
+Thank you!

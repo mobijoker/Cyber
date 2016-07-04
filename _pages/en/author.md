@@ -34,7 +34,7 @@ Thank you for visiting MyCyberUniverse.com! I hope that, on this website, you wi
 
 ### Work
 
-I'm a self-employed (freelance) web designer and software developer (full stack software engineer) who cares deeply about beautiful design and elegant code. I’m fascinated by graphics and design, and for several years I’ve been working on projects for many people. I am the author and owner of web-hosting «Anarcho Hosting», the author of the theme «<a href="http://wordpress.org/themes/anarcho-notepad" target="_blank">Anarcho Notepad</a>», and several plugins for CMS WordPress, and many more.
+I'm an independent web designer and software developer (full stack software engineer) who cares deeply about beautiful design and elegant code. I’m fascinated by graphics and design, and for several years I’ve been working on projects for many people. I am the author and owner of web-hosting «Anarcho Hosting», the author of the theme «<a href="http://wordpress.org/themes/anarcho-notepad" target="_blank">Anarcho Notepad</a>», and several plugins for CMS WordPress, and many more.
 
 My intention is to create projects that will make this world a better place. I am really passionate about my work, I like what I am doing and hope that you will be enriched by my projects too.
  

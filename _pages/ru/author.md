@@ -35,7 +35,7 @@ img.author {
 
 ### Занятость
 
-Я самостоятельно занятый (freelance) веб дизайнер и разработчик программного обеспечения (full stack software engineer) который заботится о красивом дизайне и элегантном коде. Я очарован графикой и дизайном, за несколько последних лет я трудился над проектами для многих людей. Я являюсь автором и владельцем веб-хостинга «<a href="http://anarcho-hosting.tk" target="_blank">Anarcho Hosting</a>», автором темы «<a href="http://wordpress.org/themes/anarcho-notepad" target="_blank">Anarcho Notepad</a>», а также различных плагинов для CMS WordPress и многое другое.
+Я независимый веб дизайнер и разработчик программного обеспечения (full stack software engineer) который заботится о красивом дизайне и элегантном коде. Я очарован графикой и дизайном, за несколько последних лет я трудился над проектами для многих людей. Я являюсь автором и владельцем веб-хостинга «<a href="http://anarcho-hosting.tk" target="_blank">Anarcho Hosting</a>», автором темы «<a href="http://wordpress.org/themes/anarcho-notepad" target="_blank">Anarcho Notepad</a>», а также различных плагинов для CMS WordPress и многое другое.
 
 My intention is to create projects that will make this world a better place. I am really passionate about my work, I like what I am doing and hope that you will be enriched by my projects too.
  
