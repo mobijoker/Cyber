@@ -34,6 +34,7 @@ PayPal button:    
     height: 45px;
     background-position: -5px -5px;
     padding: 0;
+    margin-left: 150px;
 }
 
 .sprite-paypal-button:hover {
