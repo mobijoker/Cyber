@@ -9,6 +9,9 @@ permalink: /ru/contact-thanks.html
 guid: http://mycyberuniverse.com/?page_id=8874
 
 ---
-Your message has been successfully sent. I will contact you as soon as possible.
 
-You are very important to me, all information received will always remain confidential.
+Your message has been successfully sent.
+
+I will contact you as soon as possible. But please do not think badly of me if I don't answer you. I receive a lot of emails and sometimes I do not have time to read and answer to all.
+
+Thank you!
