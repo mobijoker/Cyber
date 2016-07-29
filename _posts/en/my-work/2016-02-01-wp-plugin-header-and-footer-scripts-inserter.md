@@ -2,7 +2,7 @@
 id: 8847
 lang: en
 ref: wp-plugin-header-and-footer-scripts-inserter
-title: 'WP Plugin: "Header and Footer Scripts Inserter"'
+title: 'WP Plugin: "Head and Footer Scripts Inserter"'
 date: 2016-02-01T19:58:40+00:00
 author: Arthur Gareginyan
 layout: post
@@ -37,57 +37,62 @@ tags:
   - js
   - meta
   - meta tags
-  - php
   - script
   - scripts
 
 ---
 
 ![thumb](/images/icon-256x256-3.png)
-An easy to use and lightweight WordPress plugin that gives you the ability to easily insert custom scripts (HTML with JavaScript, CSS and else) in the head or/and footer section of your website.
+An easy to use and lightweight WordPress plugin that gives you the ability to easily insert custom scripts (HTML, JavaScript, and CSS) in the head and footer sections of your website.
 
 
 ### Description
 
-<img src="/images/banner-772x250-2.png" alt="WP Plugin &quot;Header and Footer Scripts Inserter&quot;" width="772" height="250" class="size-full wp-image-8848" />
+<img src="/images/banner-772x250-2.png" alt="WP Plugin &quot;Head and Footer Scripts Inserter&quot;" width="772" height="250" class="size-full wp-image-8848" />
 No need anymore to editing a files of your theme or plugins in order to add custom scripts (HTML with JavaScript, CSS and else). You can add they on plugin's page. Just add your scripts in the field on the plugin's page and this plugin will do the rest for you. It adds required scripts to the head section of your website automatically, without changing any of your themes file and without slowing down your website. It's really useful in case of any theme update, because your scripts would never be lost! Your scripts will keep on working, no matter how many times you upgrade or switch your theme and plugins.
 
-Third-party services like Google Webmaster Tools, Alexa, Pinterest and Google+ require you to verify your domain. This makes sure that you are the correct owner of your blog or store before they provide their services to you. You can use this plugin to easily verify your website or domain and get a more effective and efficient sharing results. Example with Pinterest. Once you completed the verification process, people will see a checkmark next to your domain in your Pinterest profile and in pinner search results. That check mark emphasis you have confirmed the ownership of your blog or website on Pinterest. This will help your website to rank better in google and other search engines. You can easily increase your blog traffic using this plugin. "Header and Footer Scripts Inserter" is a simple but effective SEO plugin.
+Third-party services like Google Webmaster Tools, Alexa, Pinterest and Google+ require you to verify your domain. This makes sure that you are the correct owner of your blog or store before they provide their services to you. You can use this plugin to easily verify your website or domain and get a more effective and efficient sharing results. Example with Pinterest. Once you completed the verification process, people will see a checkmark next to your domain in your Pinterest profile and in pinner search results. That check mark emphasis you have confirmed the ownership of your blog or website on Pinterest. This will help your website to rank better in google and other search engines. You can easily increase your blog traffic using this plugin. "Head and Footer Scripts Inserter" is a simple but effective SEO plugin.
 
 
 ### Quick-Start Guide
 
-1. Upload "Header and Footer Scripts Inserter" to the `/wp-content/plugins/` directory.
+1. Upload "Head and Footer Scripts Inserter" to the `/wp-content/plugins/` directory.
 2. Activate the plugin through the "Plugins" menu in WordPress.
-3. Go to "Settings" -> "Header and Footer Scripts Inserter".
+3. Go to "Settings" -> "Head and Footer Scripts Inserter".
 
 
 ### Features
 
-**Current features:**
-
 * Light weight
 * User-friendly
 * No configuration required
-* Inserts scripts in beginning or/and end of header
+* Inserts scripts in beginning or/and end of <head> tag
 * Inserts scripts in beginning or/and end of footer
-* Ready for translation (.pot file included).
+* Ready for translation (.pot file included)
 
+Got more ideas? Tell me!
 
-**Coming soon:**
+### Translation
 
-* Adding Russian translation.
-* (Got more ideas? Tell me!)
+* English
+* Russian
+* Polish
+
+### Supported
+
+* HTML
+* JavaScript (in HTML tag)
+* CSS (in HTML tag)
 
 
 ### Screenshot's
 
 1. Plugin’s page. Section "Header Section" :
-<img src="/images/screenshot-1-2.png" alt="WP plugin &quot;Header and Footer Scripts Inserter&quot; by Arthur Gareginyan" width="1024" height="541" class="size-large wp-image-8850" />
+<img src="/images/screenshot-1-2.png" alt="WP plugin &quot;Head and Footer Scripts Inserter&quot; by Arthur Gareginyan" width="1024" height="541" class="size-large wp-image-8850" />
 2. Plugin’s page. Section "Footer Section":
-<img src="/images/screenshot-2.png" alt="WP plugin &quot;Header and Footer Scripts Inserter&quot; by Arthur Gareginyan" width="1024" height="541" class="size-large wp-image-8851" />
+<img src="/images/screenshot-2.png" alt="WP plugin &quot;Head and Footer Scripts Inserter&quot; by Arthur Gareginyan" width="1024" height="541" class="size-large wp-image-8851" />
 3. Plugin’s page with Google Tag Manager code added and saved:
-<img src="/images/screenshot-3-2.png" alt="WP plugin &quot;Header and Footer Scripts Inserter&quot; by Arthur Gareginyan" width="1024" height="541" class="size-large wp-image-8852" />
+<img src="/images/screenshot-3-2.png" alt="WP plugin &quot;Head and Footer Scripts Inserter&quot; by Arthur Gareginyan" width="1024" height="541" class="size-large wp-image-8852" />
 
 
 ### Translation
