@@ -14,8 +14,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 markdown: kramdown
 kramdown:
     input: GFM
-    syntax_highlighter: rouge
-# highlighter: rouge
+#syntax_highlighter: rouge
+highlighter: rouge
 
 
 index:
