@@ -9,7 +9,14 @@ description:
 
 url: "http://mycyberuniverse.com" # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog
-highlighter: rouge
+
+
+markdown: kramdown
+kramdown:
+    input: GFM
+#syntax_highlighter: rouge
+# highlighter: rouge
+
 
 index:
     en: index.html
