@@ -1,12 +1,10 @@
 ---
-id: 546
 lang: en
 ref: convert-many-disk-image-formats-to-iso9660-from-terminal
 title: Convert many disk image formats to ISO9660 from Terminal
 date: 2015-02-28T16:57:17+00:00
 author: Arthur Gareginyan
 layout: post
-guid: http://mycyberuniverse.com/?p=546
 permalink: /linux/convert-many-disk-image-formats-to-iso9660-from-terminal.html
 categories:
   - Debian/Ubuntu

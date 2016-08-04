@@ -1,12 +1,10 @@
 ---
-id: 669
 lang: ru
 ref: access-to-the-library-folder-library-in-the-finder
 title: 'Доступ к папке Библиотеки (~/Library) в Finder'
 date: 2015-08-04T18:55:10+00:00
 author: Arthur Gareginyan
 layout: post
-guid: http://mycyberuniverse.com/?p=669
 permalink: /ru/mac-os/access-to-the-library-folder-library-in-the-finder.html
 categories:
   - Mac OS

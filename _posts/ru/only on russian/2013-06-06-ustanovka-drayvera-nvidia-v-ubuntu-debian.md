@@ -1,12 +1,10 @@
 ---
-id: 97
 lang: ru
 ref: ustanovka-drayvera-nvidia-v-ubuntu-debian
 title: Установка драйвера NVIDIA в Ubuntu/Debian
 date: 2013-06-06T01:38:35+00:00
 author: Arthur Gareginyan
 layout: post
-guid: http://mycyberuniverse.com/?p=97
 permalink: /ru/linux/ustanovka-drayvera-nvidia-v-ubuntu-debian.html
 categories:
   - Debian/Ubuntu

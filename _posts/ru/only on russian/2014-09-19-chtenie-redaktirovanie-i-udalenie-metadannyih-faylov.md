@@ -1,12 +1,10 @@
 ---
-id: 472
 lang: ru
 ref: chtenie-redaktirovanie-i-udalenie-metadannyih-faylov
 title: Чтение, редактирование и удаление метаданных файлов
 date: 2014-09-19T14:23:24+00:00
 author: Arthur Gareginyan
 layout: post
-guid: http://mycyberuniverse.com/?p=472
 permalink: /ru/linux/chtenie-redaktirovanie-i-udalenie-metadannyih-faylov.html
 categories:
   - Debian/Ubuntu

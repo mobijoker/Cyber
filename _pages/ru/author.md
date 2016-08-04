@@ -1,5 +1,4 @@
 ---
-id: 193
 title: Обо мне
 lang: ru
 ref: author
@@ -9,7 +8,6 @@ author: Arthur Gareginyan
 layout: page
 permalink: /ru/author.html
 redirect_from: /ru/about.html
-guid: http://mycyberuniverse.com/?page_id=193
 
 ---
 <img class="author" src="/images/author.png" alt="Arthur Gareginyan" width="200" />

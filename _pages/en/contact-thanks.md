@@ -1,12 +1,10 @@
 ---
-id: 8874
 lang: en
 ref: contact-thanks
 date: 2016-02-25T10:47:36+00:00
 author: Arthur Gareginyan
 layout: page
 permalink: /contact-thanks.html
-guid: http://mycyberuniverse.com/?page_id=8874
 
 ---
 

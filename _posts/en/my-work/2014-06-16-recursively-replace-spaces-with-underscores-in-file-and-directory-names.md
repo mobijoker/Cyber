@@ -1,12 +1,10 @@
 ---
-id: 418
 lang: en
 ref: recursively-replace-spaces-with-underscores-in-file-and-directory-names
 title: Recursively replace spaces with underscores in file and directory names
 date: 2014-06-16T05:22:13+00:00
 author: Arthur Gareginyan
 layout: post
-guid: http://mycyberuniverse.com/?p=418
 permalink: /linux/recursively-replace-spaces-with-underscores-in-file-and-directory-names.html
 categories:
   - Debian/Ubuntu

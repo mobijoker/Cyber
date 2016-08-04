@@ -1,12 +1,10 @@
 ---
-id: 506
 lang: en
 ref: horizontal-navigation-menu-in-blogger
 title: Horizontal Navigation Menu in Blogger
 date: 2015-01-31T00:09:08+00:00
 author: Arthur Gareginyan
 layout: post
-guid: http://mycyberuniverse.com/?p=506
 permalink: /web/horizontal-navigation-menu-in-blogger.html
 categories:
   - Web

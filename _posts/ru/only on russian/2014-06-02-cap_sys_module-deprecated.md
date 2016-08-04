@@ -1,12 +1,10 @@
 ---
-id: 410
 lang: ru
 ref: cap_sys_module-deprecated
 title: CAP_SYS_MODULE (deprecated)
 date: 2014-06-02T19:40:36+00:00
 author: Arthur Gareginyan
 layout: post
-guid: http://mycyberuniverse.com/?p=410
 permalink: /ru/linux/cap_sys_module-deprecated.html
 categories:
   - Debian/Ubuntu

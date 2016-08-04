@@ -1,5 +1,4 @@
 ---
-id: 8415
 title: Контакты
 lang: ru
 ref: contact
@@ -9,7 +8,6 @@ author: Arthur Gareginyan
 layout: page
 permalink: /ru/contact.html
 redirect_from: /ru/contacts.html
-guid: http://mycyberuniverse.com/?page_id=8415
 
 ---
 

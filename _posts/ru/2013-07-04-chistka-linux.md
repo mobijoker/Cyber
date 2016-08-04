@@ -1,12 +1,10 @@
 ---
-id: 289
 lang: ru
 ref: chistka-linux
 title: Чистка Linux
 date: 2013-07-04T20:14:08+00:00
 author: Arthur Gareginyan
 layout: post
-guid: http://mycyberuniverse.com/?p=289
 permalink: /ru/linux/chistka-linux.html
 categories:
   - Debian/Ubuntu

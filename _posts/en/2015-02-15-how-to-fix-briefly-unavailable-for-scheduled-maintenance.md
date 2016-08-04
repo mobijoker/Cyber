@@ -1,12 +1,10 @@
 ---
-id: 540
 lang: en
 ref: how-to-fix-briefly-unavailable-for-scheduled-maintenance
 title: 'How to fix: “Briefly unavailable for scheduled maintenance”'
 date: 2015-02-15T13:36:33+00:00
 author: Arthur Gareginyan
 layout: post
-guid: http://mycyberuniverse.com/?p=540
 permalink: /web/how-to-fix-briefly-unavailable-for-scheduled-maintenance.html
 switch_like_status:
   - 1

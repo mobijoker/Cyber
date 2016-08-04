@@ -1,12 +1,10 @@
 ---
-id: 429
 lang: ru
 ref: chrooted-sftp-ssh-ftp
 title: Chrooted SFTP (SSH FTP)
 date: 2014-07-11T02:38:12+00:00
 author: Arthur Gareginyan
 layout: post
-guid: http://mycyberuniverse.com/?p=429
 permalink: /ru/linux/chrooted-sftp-ssh-ftp.html
 categories:
   - Debian/Ubuntu

@@ -1,10 +1,8 @@
 ---
-id: 8657
 date: 2015-09-17T03:40:43+00:00
 author: Arthur Gareginyan
 layout: page
 permalink: /privacy-policy.html
-guid: http://mycyberuniverse.com/?page_id=8657
 
 ---
 # Privacy Policy

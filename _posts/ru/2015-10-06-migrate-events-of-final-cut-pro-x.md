@@ -1,12 +1,10 @@
 ---
-id: 8683
 lang: ru
 ref: migrate-events-of-final-cut-pro-x
 title: 'Перенос событий Final Cut Pro X'
 date: 2015-10-06T21:39:08+00:00
 author: Arthur Gareginyan
 layout: post
-guid: http://mycyberuniverse.com/?p=8683
 permalink: /ru/mac-os/migrate-events-of-final-cut-pro-x.html
 categories:
   - Mac OS

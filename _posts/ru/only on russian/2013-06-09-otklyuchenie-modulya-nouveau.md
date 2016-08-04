@@ -1,12 +1,10 @@
 ---
-id: 160
 lang: ru
 ref: otklyuchenie-modulya-nouveau
 title: Отключение модуля nouveau
 date: 2013-06-09T00:13:44+00:00
 author: Arthur Gareginyan
 layout: post
-guid: http://mycyberuniverse.com/?p=160
 permalink: /ru/linux/otklyuchenie-modulya-nouveau.html
 categories:
   - Debian/Ubuntu

@@ -1,12 +1,10 @@
 ---
-id: 8833
 lang: en
 ref: custom-404-page-for-website-hosted-on-github
 title: Custom 404 page for website hosted on GitHub
 date: 2016-01-13T00:57:11+00:00
 author: Arthur Gareginyan
 layout: post
-guid: http://mycyberuniverse.com/?p=8833
 permalink: /developing/custom-404-page-for-website-hosted-on-github.html
 categories:
   - Developing

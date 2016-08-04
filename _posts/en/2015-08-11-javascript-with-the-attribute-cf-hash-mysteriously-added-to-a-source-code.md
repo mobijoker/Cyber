@@ -1,12 +1,10 @@
 ---
-id: 680
 lang: en
 ref: javascript-with-the-attribute-cf-hash-mysteriously-added-to-a-source-code
 title: JavaScript with the attribute “CF-Hash” mysteriously added to a source code
 date: 2015-08-11T05:06:54+00:00
 author: Arthur Gareginyan
 layout: post
-guid: http://mycyberuniverse.com/?p=680
 permalink: /web/javascript-with-the-attribute-cf-hash-mysteriously-added-to-a-source-code.html
 categories:
   - Error

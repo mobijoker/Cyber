@@ -1,12 +1,10 @@
 ---
-id: 427
 lang: en
 ref: perenos-proektov-iweb
 title: Migrate iWeb projects
 date: 2014-07-04T17:03:15+00:00
 author: Arthur Gareginyan
 layout: post
-guid: http://mycyberuniverse.com/?p=427
 permalink: /mac-os/perenos-proektov-iweb.html
 categories:
   - Mac OS

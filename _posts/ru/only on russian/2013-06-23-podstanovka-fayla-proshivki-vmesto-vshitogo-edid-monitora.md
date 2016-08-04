@@ -1,12 +1,10 @@
 ---
-id: 269
 lang: ru
 ref: podstanovka-fayla-proshivki-vmesto-vshitogo-edid-monitora
 title: Подстановка файла прошивки вместо вшитого EDID монитора
 date: 2013-06-23T14:55:13+00:00
 author: Arthur Gareginyan
 layout: post
-guid: http://mycyberuniverse.com/?p=269
 permalink: /ru/linux/podstanovka-fayla-proshivki-vmesto-vshitogo-edid-monitora.html
 categories:
   - Debian/Ubuntu

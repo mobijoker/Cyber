@@ -1,12 +1,10 @@
 ---
-id: 420
 lang: ru
 ref: programmyi-v-mac-os-x-zapuskayutsya-ne-na-russkom-yazyike
 title: Программы в Mac OS X запускаются не на русском языке
 date: 2014-06-22T11:03:41+00:00
 author: Arthur Gareginyan
 layout: post
-guid: http://mycyberuniverse.com/?p=420
 permalink: /ru/mac-os/programmyi-v-mac-os-x-zapuskayutsya-ne-na-russkom-yazyike.html
 categories:
   - Mac OS

@@ -1,12 +1,10 @@
 ---
-id: 439
 lang: en
 ref: afp-and-bonjour-under-linux
 title: AFP and Bonjour under Linux
 date: 2014-08-14T15:58:05+00:00
 author: Arthur Gareginyan
 layout: post
-guid: http://mycyberuniverse.com/?p=439
 permalink: /linux/afp-and-bonjour-under-linux.html
 categories:
   - Debian/Ubuntu

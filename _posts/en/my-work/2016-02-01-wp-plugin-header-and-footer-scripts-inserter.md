@@ -1,12 +1,10 @@
 ---
-id: 8847
 lang: en
 ref: wp-plugin-header-and-footer-scripts-inserter
 title: 'WP Plugin: "Head and Footer Scripts Inserter"'
 date: 2016-02-01T19:58:40+00:00
 author: Arthur Gareginyan
 layout: post
-guid: http://mycyberuniverse.com/?p=8847
 permalink: /my_programs/wp-plugin-header-and-footer-scripts-inserter.html
 categories:
   - Мои программы

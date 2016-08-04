@@ -1,12 +1,10 @@
 ---
-id: 305
 lang: ru
 ref: anarcho-notepad
 title: 'WP Тема: “Anarcho Notepad”'
 date: 2013-09-13T17:35:48+00:00
 author: Arthur Gareginyan
 layout: post
-guid: http://mycyberuniverse.com/?page_id=305
 permalink: /ru/web/anarcho-notepad.html
 redirect_from: /ru/anarcho-notepad.html
 categories:

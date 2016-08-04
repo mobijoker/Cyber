@@ -1,12 +1,10 @@
 ---
-id: 584
 lang: ru
 ref: full-controling-the-asus-router-via-command-line
 title: 'Полный контроль над роутером ASUS из командной строки'
 date: 2015-05-16T18:38:27+00:00
 author: Arthur Gareginyan
 layout: post
-guid: http://mycyberuniverse.com/?p=584
 permalink: /ru/linux/full-controling-the-asus-router-via-command-line.html
 categories:
   - Hacking

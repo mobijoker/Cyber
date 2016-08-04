@@ -1,12 +1,10 @@
 ---
-id: 8864
 lang: en
 ref: wp-plugin-best-preloader
 title: 'WP Plugin: "Best Preloader"'
 date: 2016-02-24T03:19:22+00:00
 author: Arthur Gareginyan
 layout: post
-guid: http://mycyberuniverse.com/?p=8864
 permalink: /my_programs/wp-plugin-best-preloader.html
 categories:
   - Мои программы

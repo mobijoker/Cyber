@@ -1,12 +1,10 @@
 ---
-id: 397
 lang: ru
 ref: proverka-na-utechku-dns-dns-leak
 title: Проверка на утечку DNS (DNS leak)
 date: 2014-05-29T10:20:00+00:00
 author: Arthur Gareginyan
 layout: post
-guid: http://mycyberuniverse.com/?p=397
 permalink: /ru/linux/proverka-na-utechku-dns-dns-leak.html
 categories:
   - Debian/Ubuntu

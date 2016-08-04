@@ -1,12 +1,10 @@
 ---
-id: 580
 lang: en
 ref: due-to-the-dos-attack-router-stops-working
 title: Due to the DoS attack router stops working
 date: 2015-05-15T09:48:14+00:00
 author: Arthur Gareginyan
 layout: post
-guid: http://mycyberuniverse.com/?p=580
 permalink: /linux/due-to-the-dos-attack-router-stops-working.html
 switch_like_status:
   - 1

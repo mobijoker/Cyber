@@ -1,12 +1,10 @@
 ---
-id: 285
 lang: ru
 ref: na-vse-komandyi-otvet-segmentation-fault
 title: 'На все команды ответ &#8211; Segmentation fault'
 date: 2013-07-03T19:17:11+00:00
 author: Arthur Gareginyan
 layout: post
-guid: http://mycyberuniverse.com/?p=285
 permalink: /ru/linux/na-vse-komandyi-otvet-segmentation-fault.html
 categories:
   - Debian/Ubuntu

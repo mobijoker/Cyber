@@ -1,12 +1,10 @@
 ---
-id: 428
 lang: ru
 ref: moy-spisok-programm-na-mac
 title: Мой список программ на Mac
 date: 2014-07-07T21:48:53+00:00
 author: Arthur Gareginyan
 layout: post
-guid: http://mycyberuniverse.com/?p=428
 permalink: /ru/mac-os/moy-spisok-programm-na-mac.html
 categories:
   - Mac OS

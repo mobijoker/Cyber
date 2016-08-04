@@ -1,12 +1,10 @@
 ---
-id: 419
 lang: ru
 ref: bezopasnyiy-i-anonimnyiy-veb-syorfing-s-mozilla-firefox
 title: Безопасный и анонимный веб-сёрфинг с Mozilla Firefox
 date: 2014-06-21T16:52:27+00:00
 author: Arthur Gareginyan
 layout: post
-guid: http://mycyberuniverse.com/?p=419
 permalink: /ru/web/bezopasnyiy-i-anonimnyiy-veb-syorfing-s-mozilla-firefox.html
 categories:
   - Web

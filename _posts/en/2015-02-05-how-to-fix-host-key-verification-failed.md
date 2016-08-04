@@ -1,12 +1,10 @@
 ---
-id: 511
 lang: en
 ref: how-to-fix-host-key-verification-failed
 title: 'How to fix: “Host key verification failed”'
 date: 2015-02-05T10:49:51+00:00
 author: Arthur Gareginyan
 layout: post
-guid: http://mycyberuniverse.com/?p=511
 permalink: /linux/how-to-fix-host-key-verification-failed.html
 categories:
   - Debian/Ubuntu

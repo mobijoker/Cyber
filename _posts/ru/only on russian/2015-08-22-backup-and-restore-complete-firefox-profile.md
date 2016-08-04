@@ -1,12 +1,10 @@
 ---
-id: 684
 lang: ru
 ref: backup-and-restore-complete-firefox-profile
 title: 'Резервное копирование и восстановление профиля Firefox'
 date: 2015-08-22T11:20:21+00:00
 author: Arthur Gareginyan
 layout: post
-guid: http://mycyberuniverse.com/?p=684
 permalink: /ru/web/backup-and-restore-complete-firefox-profile.html
 categories:
   - Web

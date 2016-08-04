@@ -1,12 +1,10 @@
 ---
-id: 8876
 lang: en
 ref: wp-plugin-simple-scroll-to-top-button
 title: 'WP Plugin: "Simple Scroll to Top Button"'
 date: 2016-02-27T02:12:06+00:00
 author: Arthur Gareginyan
 layout: post
-guid: http://mycyberuniverse.com/?p=8876
 permalink: /my_programs/wp-plugin-simple-scroll-to-top-button.html
 categories:
   - Мои программы

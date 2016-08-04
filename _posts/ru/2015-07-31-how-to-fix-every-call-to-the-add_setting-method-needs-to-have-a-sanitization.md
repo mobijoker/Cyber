@@ -1,12 +1,10 @@
 ---
-id: 666
 lang: ru
 ref: how-to-fix-every-call-to-the-add_setting-method-needs-to-have-a-sanitization
 title: 'How to fix: "Every call to the add_setting() method needs to have a sanitization"'
 date: 2015-07-31T05:09:29+00:00
 author: Arthur Gareginyan
 layout: post
-guid: http://mycyberuniverse.com/?p=666
 permalink: /ru/web/how-to-fix-every-call-to-the-add_setting-method-needs-to-have-a-sanitization.html
 switch_like_status:
   - 1

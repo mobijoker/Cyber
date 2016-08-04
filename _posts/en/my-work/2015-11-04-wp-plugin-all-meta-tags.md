@@ -1,12 +1,10 @@
 ---
-id: 8704
 lang: en
 ref: wp-plugin-all-meta-tags
 title: 'WP Plugin: "All Meta Tags"'
 date: 2015-11-04T23:48:28+00:00
 author: Arthur Gareginyan
 layout: post
-guid: http://mycyberuniverse.com/?p=8704
 permalink: /my_programs/wp-plugin-all-meta-tags.html
 categories:
   - Мои программы

@@ -1,12 +1,10 @@
 ---
-id: 430
 lang: en
 ref: bash-aliases
 title: BASH aliases
 date: 2014-07-28T15:56:39+00:00
 author: Arthur Gareginyan
 layout: post
-guid: http://mycyberuniverse.com/?p=430
 permalink: /linux/bash-aliases.html
 categories:
   - DD-WRT

@@ -1,12 +1,10 @@
 ---
-id: 8788
 lang: en
 ref: wp-plugin-social-media-buttons-toolbar
 title: 'WP Plugin: "Social Media Buttons Toolbar"'
 date: 2015-12-19T02:50:44+00:00
 author: Arthur Gareginyan
 layout: post
-guid: http://mycyberuniverse.com/?p=8788
 permalink: /my_programs/wp-plugin-social-media-buttons-toolbar.html
 categories:
   - Мои программы

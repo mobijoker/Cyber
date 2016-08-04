@@ -1,12 +1,10 @@
 ---
-id: 10
 lang: en
 ref: vneshniy-diskovod-iz-konteynera-pod-vi
 title: External optical disk drive from the external HDD drive
 date: 2013-05-11T23:32:03+00:00
 author: Arthur Gareginyan
 layout: post
-guid: http://mycyberuniverse.com/?p=10
 permalink: /electronics/vneshniy-diskovod-iz-konteynera-pod-vi.html
 categories:
   - Электроника

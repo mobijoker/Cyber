@@ -1,12 +1,10 @@
 ---
-id: 8827
 lang: en
 ref: contact-form-for-static-website
 title: Contact form for static website
 date: 2016-01-05T20:53:44+00:00
 author: Arthur Gareginyan
 layout: post
-guid: http://mycyberuniverse.com/?p=8827
 permalink: /web/contact-form-for-static-website.html
 categories:
   - Web

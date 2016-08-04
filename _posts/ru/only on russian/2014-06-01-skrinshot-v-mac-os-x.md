@@ -1,12 +1,10 @@
 ---
-id: 408
 lang: ru
 ref: skrinshot-v-mac-os-x
 title: Скриншот в Mac OS X
 date: 2014-06-01T10:13:20+00:00
 author: Arthur Gareginyan
 layout: post
-guid: http://mycyberuniverse.com/?p=408
 permalink: /ru/mac-os/skrinshot-v-mac-os-x.html
 categories:
   - Mac OS

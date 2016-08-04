@@ -1,12 +1,10 @@
 ---
-id: 432
 lang: ru
 ref: perezapusk-setevogo-interfeysa-pri-nedostupnosti-hosta
 title: Перезапуск сетевого интерфейса при недоступности хоста
 date: 2014-07-19T18:25:21+00:00
 author: Arthur Gareginyan
 layout: post
-guid: http://mycyberuniverse.com/?p=432
 permalink: /ru/linux/perezapusk-setevogo-interfeysa-pri-nedostupnosti-hosta.html
 categories:
   - Debian/Ubuntu

@@ -1,12 +1,10 @@
 ---
-id: 669
 lang: en
 ref: access-to-the-library-folder-library-in-the-finder
 title: Access to the Library folder (~/Library) in the Finder
 date: 2015-08-04T18:55:10+00:00
 author: Arthur Gareginyan
 layout: post
-guid: http://mycyberuniverse.com/?p=669
 permalink: /mac-os/access-to-the-library-folder-library-in-the-finder.html
 categories:
   - Mac OS

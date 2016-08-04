@@ -1,12 +1,10 @@
 ---
-id: 8838
 lang: en
 ref: creating-pop-up-windows-by-using-html-and-javascript
 title: Creating pop-up windows by using HTML and JavaScript
 date: 2016-01-16T02:49:51+00:00
 author: Arthur Gareginyan
 layout: post
-guid: http://mycyberuniverse.com/?p=8838
 permalink: /developing/creating-pop-up-windows-by-using-html-and-javascript.html
 categories:
   - Developing

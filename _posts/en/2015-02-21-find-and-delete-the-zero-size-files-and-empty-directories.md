@@ -1,12 +1,10 @@
 ---
-id: 541
 lang: en
 ref: find-and-delete-the-zero-size-files-and-empty-directories
 title: Find and delete the zero size files and empty directories
 date: 2015-02-21T17:06:34+00:00
 author: Arthur Gareginyan
 layout: post
-guid: http://mycyberuniverse.com/?p=541
 permalink: /linux/find-and-delete-the-zero-size-files-and-empty-directories.html
 categories:
   - DD-WRT

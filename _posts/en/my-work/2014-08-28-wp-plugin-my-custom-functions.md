@@ -1,12 +1,10 @@
 ---
-id: 443
 lang: en
 ref: wp-plugin-my-custom-functions
 title: 'WP Plugin: “My Custom Functions”'
 date: 2014-08-28T00:58:54+00:00
 author: Arthur Gareginyan
 layout: post
-guid: http://mycyberuniverse.com/?p=443
 permalink: /my_programs/wp-plugin-my-custom-functions.html
 categories:
   - Мои программы

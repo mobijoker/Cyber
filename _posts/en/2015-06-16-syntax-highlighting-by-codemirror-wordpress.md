@@ -1,12 +1,10 @@
 ---
-id: 641
 lang: en
 ref: syntax-highlighting-by-codemirror-wordpress
 title: 'Syntax highlighting by CodeMirror &#038; WordPress'
 date: 2015-06-16T22:41:35+00:00
 author: Arthur Gareginyan
 layout: post
-guid: http://mycyberuniverse.com/?p=641
 permalink: /web/syntax-highlighting-by-codemirror-wordpress.html
 switch_like_status:
   - 1

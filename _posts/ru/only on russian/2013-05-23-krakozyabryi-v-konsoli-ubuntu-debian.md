@@ -1,12 +1,10 @@
 ---
-id: 51
 lang: ru
 ref: krakozyabryi-v-konsoli-ubuntu-debian
 title: Кракозябры в консоли Ubuntu/Debian
 date: 2013-05-23T06:36:54+00:00
 author: Arthur Gareginyan
 layout: post
-guid: http://mycyberuniverse.com/?p=51
 permalink: /ru/linux/krakozyabryi-v-konsoli-ubuntu-debian.html
 categories:
   - Debian/Ubuntu

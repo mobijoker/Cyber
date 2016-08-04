@@ -1,12 +1,10 @@
 ---
-id: 601
 lang: en
 ref: ssl-certificate-automatically-by-a-bash-script
 title: SSL Certificate automatically by a BASH script
 date: 2015-05-25T23:06:27+00:00
 author: Arthur Gareginyan
 layout: post
-guid: http://mycyberuniverse.com/?p=601
 permalink: /linux/ssl-certificate-automatically-by-a-bash-script.html
 categories:
   - Debian/Ubuntu

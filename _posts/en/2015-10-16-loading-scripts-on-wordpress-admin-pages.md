@@ -1,12 +1,10 @@
 ---
-id: 8693
 lang: en
 ref: loading-scripts-on-wordpress-admin-pages
 title: Loading scripts on WordPress admin pages
 date: 2015-10-16T09:28:48+00:00
 author: Arthur Gareginyan
 layout: post
-guid: http://mycyberuniverse.com/?p=8693
 permalink: /web/loading-scripts-on-wordpress-admin-pages.html
 categories:
   - Web

@@ -1,12 +1,10 @@
 ---
-id: 427
 lang: ru
 ref: perenos-proektov-iweb
 title: 'Перенос проектов iWeb'
 date: 2014-07-04T17:03:15+00:00
 author: Arthur Gareginyan
 layout: post
-guid: http://mycyberuniverse.com/?p=427
 permalink: /ru/mac-os/perenos-proektov-iweb.html
 categories:
   - Mac OS

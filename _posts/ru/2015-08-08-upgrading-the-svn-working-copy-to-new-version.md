@@ -1,12 +1,10 @@
 ---
-id: 676
 lang: ru
 ref: upgrading-the-svn-working-copy-to-new-version
 title: 'Обновление рабочей копии SVN до новой версии'
 date: 2015-08-08T23:33:39+00:00
 author: Arthur Gareginyan
 layout: post
-guid: http://mycyberuniverse.com/?p=676
 permalink: /ru/linux/upgrading-the-svn-working-copy-to-new-version.html
 categories:
   - Debian/Ubuntu

@@ -1,12 +1,10 @@
 ---
-id: 8676
 lang: en
 ref: how-to-fix-codemirror-editor-is-not-loading-content-until-clicked
 title: 'How to fix: CodeMirror editor is not loading content until clicked'
 date: 2015-09-27T21:53:32+00:00
 author: Arthur Gareginyan
 layout: post
-guid: http://mycyberuniverse.com/?p=8676
 permalink: /web/how-to-fix-codemirror-editor-is-not-loading-content-until-clicked.html
 categories:
   - Error

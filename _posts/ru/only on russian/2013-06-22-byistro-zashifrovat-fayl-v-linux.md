@@ -1,12 +1,10 @@
 ---
-id: 264
 lang: ru
 ref: byistro-zashifrovat-fayl-v-linux
 title: Быстро зашифровать файл в Linux
 date: 2013-06-22T05:25:05+00:00
 author: Arthur Gareginyan
 layout: post
-guid: http://mycyberuniverse.com/?p=264
 permalink: /ru/linux/byistro-zashifrovat-fayl-v-linux.html
 categories:
   - Debian/Ubuntu

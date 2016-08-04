@@ -1,12 +1,10 @@
 ---
-id: 8888
 lang: en
 ref: wp-plugin-syntax-highlighter-for-wp-editor
 title: 'WP Plugin: "Syntax Highlighter for WP Editor"'
 date: 2016-03-29T04:25:00+00:00
 author: Arthur Gareginyan
 layout: post
-guid: http://mycyberuniverse.com/?p=8888
 permalink: /my_programs/wp-plugin-syntax-highlighter-for-wp-editor.html
 categories:
   - Мои программы

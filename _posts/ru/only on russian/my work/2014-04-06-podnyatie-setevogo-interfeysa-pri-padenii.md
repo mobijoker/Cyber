@@ -1,12 +1,10 @@
 ---
-id: 370
 lang: ru
 ref: podnyatie-setevogo-interfeysa-pri-padenii
 title: Поднятие сетевого интерфейса при падении
 date: 2014-04-06T08:01:32+00:00
 author: Arthur Gareginyan
 layout: post
-guid: http://mycyberuniverse.com/?p=370
 permalink: /ru/linux/podnyatie-setevogo-interfeysa-pri-padenii.html
 categories:
   - Debian/Ubuntu

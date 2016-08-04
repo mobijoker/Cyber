@@ -1,12 +1,10 @@
 ---
-id: 10
 lang: ru
 ref: vneshniy-diskovod-iz-konteynera-pod-vi
 title: 'Внешний дисковод из контейнера под винчестеры'
 date: 2013-05-11T23:32:03+00:00
 author: Arthur Gareginyan
 layout: post
-guid: http://mycyberuniverse.com/?p=10
 permalink: /ru/electronics/vneshniy-diskovod-iz-konteynera-pod-vi.html
 categories:
   - Электроника

@@ -1,12 +1,10 @@
 ---
-id: 7514
 lang: ru
 ref: increasing-the-upload_max_filesize
 title: Увеличение upload_max_filesize
 date: 2015-09-07T14:38:21+00:00
 author: Arthur Gareginyan
 layout: post
-guid: http://mycyberuniverse.com/?p=7514
 permalink: /ru/linux/increasing-the-upload_max_filesize.html
 categories:
   - Error

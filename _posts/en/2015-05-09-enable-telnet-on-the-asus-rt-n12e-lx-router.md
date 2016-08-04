@@ -1,12 +1,10 @@
 ---
-id: 575
 lang: en
 ref: enable-telnet-on-the-asus-rt-n12e-lx-router
 title: Enable Telnet on the ASUS RT-N12E/LX router
 date: 2015-05-09T16:31:55+00:00
 author: Arthur Gareginyan
 layout: post
-guid: http://mycyberuniverse.com/?p=575
 permalink: /linux/enable-telnet-on-the-asus-rt-n12e-lx-router.html
 categories:
   - Hacking

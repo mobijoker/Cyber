@@ -1,12 +1,10 @@
 ---
-id: 660
 lang: en
 ref: wp-plugin-rss-feed-icon-for-specificfeeds-com
 title: 'WP Plugin: “RSS Feed Icon for SpecificFeeds.com"'
 date: 2015-07-27T20:39:52+00:00
 author: Arthur Gareginyan
 layout: post
-guid: http://mycyberuniverse.com/?p=660
 permalink: /my_programs/wp-plugin-rss-feed-icon-for-specificfeeds-com.html
 categories:
   - Мои программы

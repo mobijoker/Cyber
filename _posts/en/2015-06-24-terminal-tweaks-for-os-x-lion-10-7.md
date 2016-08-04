@@ -1,12 +1,10 @@
 ---
-id: 647
 lang: en
 ref: terminal-tweaks-for-os-x-lion-10-7
 title: Terminal Tweaks for OS X Lion 10.7
 date: 2015-06-24T17:20:52+00:00
 author: Arthur Gareginyan
 layout: post
-guid: http://mycyberuniverse.com/?p=647
 permalink: /mac-os/terminal-tweaks-for-os-x-lion-10-7.html
 switch_like_status:
   - 1

@@ -1,12 +1,10 @@
 ---
-id: 606
 lang: en
 ref: antivirus-on-a-linux-machine
 title: Antivirus on a Linux machine
 date: 2015-05-31T04:44:30+00:00
 author: Arthur Gareginyan
 layout: post
-guid: http://mycyberuniverse.com/?p=606
 permalink: /linux/antivirus-on-a-linux-machine.html
 switch_like_status:
   - 1

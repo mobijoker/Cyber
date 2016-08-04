@@ -1,12 +1,10 @@
 ---
-id: 415
 lang: en
 ref: creating-public-private-key-authentication-for-ssh
 title: Creating public/private key authentication for SSH
 date: 2014-06-14T02:50:19+00:00
 author: Arthur Gareginyan
 layout: post
-guid: http://mycyberuniverse.com/?p=415
 permalink: /linux/creating-public-private-key-authentication-for-ssh.html
 categories:
   - Debian/Ubuntu

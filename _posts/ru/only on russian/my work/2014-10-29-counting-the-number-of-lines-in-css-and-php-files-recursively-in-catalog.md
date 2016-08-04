@@ -1,12 +1,10 @@
 ---
-id: 487
 lang: ru
 ref: counting-the-number-of-lines-in-css-and-php-files-recursively-in-catalog
 title: Counting the number of lines in CSS and PHP files, recursively in catalog
 date: 2014-10-29T14:19:54+00:00
 author: Arthur Gareginyan
 layout: post
-guid: http://mycyberuniverse.com/?p=487
 permalink: /ru/linux/counting-the-number-of-lines-in-css-and-php-files-recursively-in-catalog.html
 categories:
   - Debian/Ubuntu

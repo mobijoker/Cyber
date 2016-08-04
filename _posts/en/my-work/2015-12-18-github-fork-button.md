@@ -1,12 +1,10 @@
 ---
-id: 8798
 lang: en
 ref: github-fork-button
 title: GitHub Fork Button
 date: 2015-12-18T08:12:50+00:00
 author: Arthur Gareginyan
 layout: post
-guid: http://mycyberuniverse.com/?p=8798
 permalink: /web/github-fork-button.html
 categories:
   - Web

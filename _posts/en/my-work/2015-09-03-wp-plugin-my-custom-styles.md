@@ -1,12 +1,10 @@
 ---
-id: 5244
 lang: en
 ref: wp-plugin-my-custom-styles
 title: 'WP Plugin: “My Custom Styles”'
 date: 2015-09-03T20:08:01+00:00
 author: Arthur Gareginyan
 layout: post
-guid: http://mycyberuniverse.com/?p=5244
 permalink: /my_programs/wp-plugin-my-custom-styles.html
 categories:
   - Мои программы

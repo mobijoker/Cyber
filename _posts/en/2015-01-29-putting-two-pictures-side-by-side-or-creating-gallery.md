@@ -1,12 +1,10 @@
 ---
-id: 504
 lang: en
 ref: putting-two-pictures-side-by-side-or-creating-gallery
 title: Putting two pictures side by side or creating gallery
 date: 2015-01-29T02:49:48+00:00
 author: Arthur Gareginyan
 layout: post
-guid: http://mycyberuniverse.com/?p=504
 permalink: /web/putting-two-pictures-side-by-side-or-creating-gallery.html
 categories:
   - Web

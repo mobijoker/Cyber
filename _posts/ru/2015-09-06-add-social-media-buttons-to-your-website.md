@@ -1,12 +1,10 @@
 ---
-id: 7166
 lang: ru
 ref: add-social-media-buttons-to-your-website
 title: 'Добавление кнопок социальных медиа на ваш вебсайт'
 date: 2015-09-06T15:23:50+00:00
 author: Arthur Gareginyan
 layout: post
-guid: http://mycyberuniverse.com/?p=7166
 permalink: /ru/web/add-social-media-buttons-to-your-website.html
 categories:
   - Web

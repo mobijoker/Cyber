@@ -1,12 +1,10 @@
 ---
-id: 8842
 lang: en
 ref: disabling-right-clicking-by-using-javascript
 title: Disabling right-clicking by using JavaScript
 date: 2016-01-23T07:53:21+00:00
 author: Arthur Gareginyan
 layout: post
-guid: http://mycyberuniverse.com/?p=8842
 permalink: /developing/disabling-right-clicking-by-using-javascript.html
 categories:
   - Developing

@@ -1,12 +1,10 @@
 ---
-id: 258
 lang: ru
 ref: ustanovka-na-sayt-favicon
 title: Установка на сайт Favicon
 date: 2013-06-20T07:05:48+00:00
 author: Arthur Gareginyan
 layout: post
-guid: http://mycyberuniverse.com/?p=258
 permalink: /ru/web/ustanovka-na-sayt-favicon.html
 categories:
   - Web

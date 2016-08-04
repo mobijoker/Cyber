@@ -1,12 +1,10 @@
 ---
-id: 8693
 lang: ru
 ref: loading-scripts-on-wordpress-admin-pages
 title: 'Загрузка скриптов на админ страницах WordPress'
 date: 2015-10-16T09:28:48+00:00
 author: Arthur Gareginyan
 layout: post
-guid: http://mycyberuniverse.com/?p=8693
 permalink: /ru/web/loading-scripts-on-wordpress-admin-pages.html
 categories:
   - Web

@@ -1,12 +1,10 @@
 ---
-id: 534
 lang: en
 ref: connect-raspberry-pi-to-the-wifi-network
 title: Connect Raspberry Pi to the WiFi network
 date: 2015-02-11T05:43:42+00:00
 author: Arthur Gareginyan
 layout: post
-guid: http://mycyberuniverse.com/?p=534
 permalink: /linux/connect-raspberry-pi-to-the-wifi-network.html
 categories:
   - Debian/Ubuntu
