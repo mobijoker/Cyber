@@ -44,7 +44,7 @@ locale: Cannot set LC_ALL to default locale: No such file or directory
 
 Проверьте, какие языки в настоящее время созданы используя `locale -a`:
 
-```
+```sh
 locale -a
 ```
 
@@ -59,7 +59,7 @@ ru_RU.utf8
 
 И/или используя `locale`:
 
-```
+```sh
 locale
 ```
 
@@ -105,7 +105,7 @@ LC_ALL=
 
 Чтобы увидеть, какие языки поддерживаются используйте:
 
-```
+```sh
 less /usr/share/i18n/SUPPORTED
 ```
 
@@ -118,7 +118,7 @@ en_US.UTF-8
 
 Теперь вам нужно сгенерировать эти локали. Вы можете сделать это с помощью `locale-gem`:
 
-```
+```sh
 sudo locale-gen en_US.UTF-8
 ```
 
@@ -130,7 +130,7 @@ Generation complete.
 
 В качестве альтернативы файл локали может быть создан вручную с `localedef`:
 
-```
+```sh
 sudo localedef -i en_US -f UTF-8 en_US.UTF-8
 ```
 
@@ -138,7 +138,7 @@ sudo localedef -i en_US -f UTF-8 en_US.UTF-8
 
 Выполните команду `locale -a` для проверки списка доступных локалей (обратите внимание на изменение синтаксиса):
 
-```
+```sh
 locale -a
 ```
 
@@ -152,7 +152,7 @@ ru_RU.utf8
 
 Проверьте новые локали:
 
-```
+```sh
 locale
 ```
 

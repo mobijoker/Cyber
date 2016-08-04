@@ -73,7 +73,7 @@ tags:
 
 **2.** Введите следующую команду, чтобы показать спрятанную папку:
 
-```
+```sh
 chflags nohidden ~/Library
 ```
 
@@ -81,6 +81,6 @@ chflags nohidden ~/Library
 
 Возврат к стандартным настройкам:
 
-```
+```sh
 chflags hidden ~/Library
 ```

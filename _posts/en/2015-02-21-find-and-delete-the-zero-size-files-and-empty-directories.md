@@ -29,13 +29,13 @@ How to, in the terminal, using the `find` utility, find and optionally delete al
 
 To find all zero size files, simply use:
 
-```
+```sh
 find ./ -type f -size 0
 ```
 
 or:
 
-```
+```sh
 find ./ -type f -empty
 ```
 
@@ -47,15 +47,15 @@ This commands will find all zero size files in the current directory with subdir
 
 To find and then delete all zero size files, there are variants you can use:
 
-```
+```sh
 find ./ -type f -size 0 -exec rm -f {} \;
 ```
 
-```
+```sh
 find ./ -type f -size 0 | xargs rm -f
 ```
 
-```
+```sh
 find ./ -type f -size 0 -delete
 ```
 
@@ -68,7 +68,7 @@ The `-delete` is the best when it is supported by the find you are using (becaus
 
 To find all empty directories, simply use:
 
-```
+```sh
 find ./ -type d -empty
 ```
 
@@ -80,13 +80,13 @@ This command will find all empty directories in the current directory with subdi
 
 To find and then delete all empty directories, use:
 
-```
+```sh
 find ./ -depth -type d -empty -exec rmdir {} \;
 ```
 
 or:
 
-```
+```sh
 find ./ -type d -empty -delete
 ```
 

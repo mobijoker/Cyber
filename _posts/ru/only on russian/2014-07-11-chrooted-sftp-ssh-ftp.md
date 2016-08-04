@@ -32,19 +32,19 @@ tags:
 
 Если необходимый юзер ещё не существует, то создадим:
 
-```
+```sh
 adduser Arthur
 ```
 
 Создадим группу:
 
-```
+```sh
 groupadd users
 ```
 
 Добавим юзера `Arthur` в группу `users`:
 
-```
+```sh
 useradd -G users Arthur
 ```
 
@@ -53,7 +53,7 @@ useradd -G users Arthur
 
 Если OpenSSH ещё не установлен:
 
-```
+```sh
 apt-get install ssh openssh-server
 ```
 
@@ -62,7 +62,7 @@ apt-get install ssh openssh-server
 
 Для включения SFTP откроем файл настройки OpenSSH сервера:
 
-```
+```sh
 nano /etc/ssh/sshd_config
 ```
 
@@ -108,19 +108,19 @@ Match Group users
 
 Перезапустим OpenSSH:
 
-```
+```sh
 sudo /etc/init.d/ssh restart
 ```
 
 или так:
 
-```
+```sh
 sudo service ssh restart
 ```
 
 Если мы chroot-им разных юзеров в одну директорию но не хотим, чтобы они гуляли по домашним директориям других юзеров, тогда нужно изменить права на каждую домашнюю директорию:
 
-```
+```sh
 chmod 700 /home/Arthur
 ```
 

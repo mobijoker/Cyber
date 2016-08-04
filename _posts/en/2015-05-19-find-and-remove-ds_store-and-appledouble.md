@@ -41,19 +41,19 @@ The method described below will find and delete all `.DS_Store` files and `.Appl
 
 **2.** Go to the needed directory, example:
 
-```
+```sh
 cd your_folder
 ```
 
 **3.** Execute this command:
 
-```
+```sh
 find ./ -depth -name ".DS_Store" -exec rm {} \;
 ```
 
 **4.** And then execute this command:
 
-```
+```sh
 find ./ -depth -name ".AppleDouble" -exec rm -Rf {} \;
 ```
 
@@ -75,7 +75,7 @@ Example, if you have such a directory structure:
 
 Then do this:
 
-```
+```sh
 cd Photos
 find ./ -depth -name ".AppleDouble" -exec rm -Rf {} \;
 ```
@@ -93,7 +93,7 @@ You can also go a step further and prevent the OS X from creating the `.DS_Store
 
 **2.** Execute this command:
 
-```
+```sh
 defaults write com.apple.desktopservices DSDontWriteNetworkStores true
 ```
 

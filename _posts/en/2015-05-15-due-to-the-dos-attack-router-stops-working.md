@@ -48,7 +48,7 @@ I have the router Asus RT-N12LX. The web interface of the router doesn’t have 
 
 First of all, we will find all variables with word "LOG" in the NVRAM (Non Volatile Random Access Memory):
 
-```
+```sh
 flash all | grep LOG
 ```
 
@@ -66,36 +66,36 @@ Needed variable is `SCRLOG_ENABLED`. The value of this variable is 3, that is a 
 
 So, to reduce the level of logging, run this:
 
-```
+```sh
 flash set SCRLOG_ENABLED 2
 ```
 
 or this:
 
-```
+```sh
 flash set SCRLOG_ENABLED 1
 ```
 
 And to completely disable the logging, run this:
 
-```
+```sh
 flash set SCRLOG_ENABLED 0
 ```
 
 Now, you must reboot your router, for the changes to take effect:
 
-```
+```sh
 reboot
 ```
 
 All previous logs will be automatically deleted after the reboot, but if you need to immediately delete (before the reboot) it then run this:
 
-```
+```sh
 rm /var/log/messages*
 ```
 
 And, you can run this to show all logs from console:
 
-```
+```sh
 ls /var/log/
 ```

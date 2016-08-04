@@ -41,19 +41,19 @@ tags:
 
 **2.** Перейдите в необходимую директорию, например:
 
-```
+```sh
 cd your_folder
 ```
 
 **3.** Выполните эту команду:
 
-```
+```sh
 find ./ -depth -name "`.DS_Store`" -exec rm {} \;
 ```
 
 **4.** А теперь выполните эту команду:
 
-```
+```sh
 find ./ -depth -name "`.AppleDouble`" -exec rm -Rf {} \;
 ```
 
@@ -75,7 +75,7 @@ find ./ -depth -name "`.AppleDouble`" -exec rm -Rf {} \;
 
 Тогда выполните это:
 
-```
+```sh
 cd Photos
 find ./ -depth -name "`.AppleDouble`" -exec rm -Rf {} \;
 ```
@@ -93,7 +93,7 @@ find ./ -depth -name "`.AppleDouble`" -exec rm -Rf {} \;
 
 **2.** Выполните эту команду:
 
-```
+```sh
 defaults write com.apple.desktopservices DSDontWriteNetworkStores true
 ```
 

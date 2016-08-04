@@ -33,7 +33,7 @@ First, you need a Flattr account. Sign up for Flattr using the following link: [
 
 Create a file called `flattr-script.html` in the `_includes` catalog of your Jekyll website. Insert the following content into that file:
 
-```
+```javascript
 <script type="text/javascript">
     /* <![CDATA[ */
     (function() {
@@ -60,7 +60,7 @@ This is a ready to use code. For further information see [Embedded buttons](http
 
 Create a file called `flattr-button.html` in the `_includes` catalog of your Jekyll website. Insert the following content into that file:
 
-```
+```html
 {% raw %}
 <a class="FlattrButton" style="display:none;"
     title="{{ page.title }}"

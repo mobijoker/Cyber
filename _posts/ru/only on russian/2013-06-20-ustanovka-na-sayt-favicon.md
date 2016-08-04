@@ -53,7 +53,7 @@ Favicon можно создать разными способами. Есть с
 
 Если `favicon.ico`:
 
-```
+```html
 <!-- Favicon -->
 	<link href="/favicon.ico" rel="shortcut icon" type="image/x-icon" />
 	<link href="/favicon.ico" rel="icon" type="image/x-icon" />
@@ -62,7 +62,7 @@ Favicon можно создать разными способами. Есть с
 
 Если `favicon.gif`:
 
-```
+```html
 <!-- Favicon -->
 	<link href="favicon.ico" rel="shortcut icon" type="image/gif" /> 
 	<link href="favicon.gif" rel="icon" type="image/gif" />
@@ -73,7 +73,7 @@ Favicon можно создать разными способами. Есть с
 
 Если `ico`:
 
-```
+```html
 <!-- Favicon -->
 	<link href="http://Ваш сайт/название картинки.ico" rel="shortcut icon" />
 	<link href="http://Ваш сайт/название картинки.ico" rel="icon" type="image/x-icon" />
@@ -82,7 +82,7 @@ Favicon можно создать разными способами. Есть с
 
 Если gif:
 
-```
+```html
 <!-- Favicon -->
 	<link href="http://Ваш сайт/название картинки.gif" rel="shortcut icon" />
 	<link href="http://Ваш сайт/название картинки.gif" rel="icon" type="image/gif" />
@@ -99,7 +99,7 @@ Favicon можно создать разными способами. Есть с
 
 Если `favicon.ico`:
 
-```
+```php
 /* Favicon */
 function my_favicon() {
 	echo '	<link href="'.get_bloginfo('wpurl').'/favicon.ico" rel="shortcut Icon" type="image/x-icon" />';
@@ -112,7 +112,7 @@ function my_favicon() {
 
 Если `favicon.gif`:
 
-```
+```php
 /* Favicon */
 function my_favicon() {
 	echo '	<link href="'.get_bloginfo('wpurl').'/favicon.gif" rel="shortcut Icon" type="image/gif" />';

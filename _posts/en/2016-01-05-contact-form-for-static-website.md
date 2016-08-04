@@ -45,7 +45,7 @@ Setting it up is easy and free. You don't even have to register.
 
 To create a simple contact form you just need to copy the following code and paste it where you want to display a form:
 
-```
+```html
 <form action="//formspree.io/your@email.com" method="POST">
     <input type="text" name="name">
     <input type="email" name="_replyto">
@@ -69,7 +69,7 @@ Form inputs can have specially named name-attributes, which alter functionality.
 
 We can style this contact form however we want. There’s no iframe or anything else to restrict what it looks like. Just add the attribute `id` or `class` to tags that you want to styling and wrap the stylesheet for it with HTML tag `< style>`. Example:
 
-```
+```html
 <form id="my-contact-form" action="//formspree.io/your@email.com" method="POST">
     <input class="field" type="text" name="name">
     <input class="field" type="email" name="_replyto">
@@ -95,7 +95,7 @@ I hope that my contact form is going to be a very simple way for people to get i
 
 Here’s the markup for my form:
 
-```
+```html
 <form id="contact-form" action="http://formspree.io/arthurgareginyan@gmail.com" method="POST">
 
     <div class="form-title">Name:</div>
@@ -123,7 +123,7 @@ Here’s the markup for my form:
 
 Here’s the stylesheet for it:
 
-```
+```css
 <style>
 #contact-form {
    font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;

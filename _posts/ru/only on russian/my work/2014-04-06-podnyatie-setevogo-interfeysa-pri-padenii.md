@@ -38,7 +38,7 @@ tags:
 * **Description:** Check and start interface tun if it down
 * **Language:** Shell
 
-```
+```bash
 #!/bin/sh
 #################################################################
 #   Name: 	 	 IfDownTun		   								#
@@ -84,13 +84,13 @@ exit 0
 
 Необходимо дать права на исполнение:
 
-```
+```sh
 chmod +x IfDownTun.sh
 ```
 
 И сделать запись в `cron` для автоматического запуска скрипта по расписанию:
 
-```
+```sh
 sudo nano /etc/crontab
 ```
 

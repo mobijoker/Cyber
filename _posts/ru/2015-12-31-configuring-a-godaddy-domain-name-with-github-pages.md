@@ -89,7 +89,7 @@ GitHub страницы это невероятно лёгкое и удобно
 
 Вы можете проверить вашу работу с помощью следующей команды:
 
-```
+```sh
 dig arthurgarginyan.com +nostats +nocomments +nocmd
 ```
 

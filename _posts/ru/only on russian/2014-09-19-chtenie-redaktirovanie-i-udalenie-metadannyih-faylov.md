@@ -95,19 +95,19 @@ tags:
 
 Для установки «ExifTool» на «Debian», «Ubuntu» или «Linux Mint»:
 
-```
+```sh
 sudo apt-get install libimage-exiftool-perl
 ```
 
 Для установки «ExifTool» на «Fedora»:
 
-```
+```sh
 sudo yum install perl-Image-ExifTool
 ```
 
 Для установки «ExifTool» на «CentOS» или «RHEL», сначала нужно подключить репозиторий «EPEL», а затем:
 
-```
+```sh
 sudo yum install perl-Image-ExifTool
 ```
 
@@ -120,13 +120,13 @@ sudo yum install perl-Image-ExifTool
 
 Прочитать все метаданные файла:
 
-```
+```sh
 exiftool input.jpg
 ```
 
 Прочитать информацию о GPS координатах фотографии :
 
-```
+```sh
 exiftool -gpslatitude -gpslongitude input.jpg
 ```
 
@@ -139,7 +139,7 @@ GPS Longitude : 5 deg 58' 35.93" W
 
 Для отображения информации о GPS координатах содержащихся в фотографии в форматированном виде:
 
-```
+```sh
 exiftool -filename -gpslatitude -gpslongitude -T input.jpg
 ```
 
@@ -156,19 +156,19 @@ input.jpg 54 deg 9' 42.68" N 5 deg 58' 35.93" W
 
 Изменить теги "Title" и "Author":
 
-```
+```sh
 exiftool -Title="This is the title" -Author="Arthur Gareginyan" input.pdf
 ```
 
 Изменить тэги нескольких файлов:
 
-```
+```sh
 exiftool -copyright="2014 Arthur Gareginyan" a.jpg b.jpg c.jpg
 ```
 
 Изменить тег "artist" для всех файлов в директории назначения:
 
-```
+```sh
 exiftool -artist="Arthur Gareginyan" ./folder
 ```
 
@@ -177,25 +177,25 @@ exiftool -artist="Arthur Gareginyan" ./folder
 
 Удалить все метаданные из файла:
 
-```
+```sh
 exiftool -all= input.jpg
 ```
 
 Удалить метаданные из всех файлов с расширением `.jpg` в текущей директории:
 
-```
+```sh
 exiftool -all= *.jpg
 ```
 
 Удалить метаданные из всех файлов в текущей директории:
 
-```
+```sh
 exiftool -all= *
 ```
 
 Если нужно удалить метаданные рекурсивно из всех файлов в директории `/home/user/photo/`, не создавая бэкапы и с показам прогресса:
 
-```
+```sh
 exiftool -overwrite_original -progress -r -all=  /home/user/photo/*
 ```
 

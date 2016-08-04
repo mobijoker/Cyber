@@ -28,7 +28,7 @@ MIME stands for "Multipurpose Internet Mail Extensions. It's a way of identifyin
 
 In a Linux system you can use the `file` tool with `--mime-type` option to display an existing MIME type of file:
 
-```
+```sh
 file --mime-type file.txt
 ```
 
@@ -38,13 +38,13 @@ file.txt: text/plain
 
 But this article is about Subversion, so let's do this using SVN tool:
 
-```
+```sh
 svn propget svn:mime-type file.txt
 ```
 
 Or, if you have more than one file:
 
-```
+```sh
 svn propget svn:mime-type catalog/*
 ```
 
@@ -58,7 +58,7 @@ If the MIME type of files is incorrect then you need to set it appropriately.
 
 Change to the proper mime type of the files (for example, png files):
 
-```
+```sh
 svn propset svn:mime-type image/png catalog/*.png
 ```
 
@@ -70,7 +70,7 @@ property 'svn:mime-type' set on ‘catalog/image-3.png'
 
 Afterwards, commit the changes:
 
-```
+```sh
 svn ci -m "Modify the mime-type of images"
 ```
 

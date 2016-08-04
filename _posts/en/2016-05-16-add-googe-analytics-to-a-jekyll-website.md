@@ -44,7 +44,7 @@ Tracking code - is a snippet of JavaScript that collects and sends data to Analy
 
 Once you are finished to create an account for website, you will click the "Get Tracking ID" button. Your tracking code (in this example is Universal Analytics) will be similar to the following one:
 
-```
+```js
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

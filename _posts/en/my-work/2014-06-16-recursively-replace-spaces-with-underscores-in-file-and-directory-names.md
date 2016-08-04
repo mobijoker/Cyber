@@ -55,7 +55,7 @@ tree
 * **Description:** Recursively replace spaces with underscores in file and directory names.
 * **Language:** BASH
 
-```
+```bash
 #!/bin/bash
 #=============================================================#
 # Name:         Space to Underscore	                      #
@@ -153,19 +153,19 @@ exit 0
 
 Give execute permissions:
 
-```
+```sh
 chmod +x space_to_underscore.sh
 ```
 
 Go to needed directory:
 
-```
+```sh
 cd /home/user/example
 ```
 
 Run the `space_to_underscore.sh` which placed in user home directory: 
 
-```
+```sh
 ~/space_to_underscore.sh
 ```
 

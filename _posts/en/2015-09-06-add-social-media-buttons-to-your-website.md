@@ -70,7 +70,7 @@ The first way to add social media buttons is a using Text Widget.
 
 **Step 2.** Add to the Text Widget the some HTML that is similar to below (I using this code):
 
-```
+```html
 Follow me on social media:
 <ul class="social-icons">
 	<li>
@@ -152,7 +152,7 @@ Follow me on social media:
 
 How you see the code above is composed of two parts. The first is a list with links to your social network profiles and your icons:
 
-```
+```html
 <ul>
 	<li>
 		…
@@ -164,7 +164,7 @@ Replace all my links with your links that you want the button to point to. Make 
 
 The second is a styles for your buttons:
 
-```
+```html
 <style>
 	…
 </style>
@@ -179,7 +179,7 @@ The second way to add social media buttons is a creating the php function for di
 
 **Step 1.** We will use the same code as in the first way, but we close the code into a function. Add some HTML that is similar to below in `functions.php` file of your theme or in the plugin:
 
-```
+```php
 /* SOCIAL MEDIA BUTTONS
 ************************************/
 function my_social_media_icons(){
@@ -280,13 +280,13 @@ And now you can use the shortcode `[my_social_media_icons]`. Just put this short
 **P.S.**
 If you use any other CMS instead of WordPress then you must remove the string with creating shortcode and filter:
 
-```
+```php
 add_shortcode('my_social_media_icons', ‘my_social_media_icons');
 add_filter('widget_text', 'do_shortcode');
 ```
 
 Instead of using shortcode you must use below code to display the buttons:
 
-```
+```html
 <?php my_social_media_icons(); ?>
 ```

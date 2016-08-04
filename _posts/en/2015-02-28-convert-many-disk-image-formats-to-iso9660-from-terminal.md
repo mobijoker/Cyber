@@ -38,7 +38,7 @@ Iat (Iso9660 Analyzer Tool) is a tool, by Salvatore Santagati, for detecting the
 
 It’s included in the Debian repositories, so installation is simple:
 
-```
+```sh
 sudo apt-get install iat
 ```
 
@@ -47,7 +47,7 @@ sudo apt-get install iat
 
 It very easy to use:
 
-```
+```sh
 iat input-image-file output-iso-file
 ```
 
@@ -56,25 +56,25 @@ EXAMPLES:
 
 Convert MDX-image to ISO9660:
 
-```
+```sh
 iat image.mdx image.iso
 ```
 
 Convert NRG-image to ISO9660:
 
-```
+```sh
 iat image.nrg image.iso
 ```
 
 Convert BIN-image to ISO9660:
 
-```
+```sh
 iat image.bin > image.iso
 ```
 
 Write CD directly from MDF-image:
 
-```
+```sh
 iat image.mdf | cdrecord
 ```
 
@@ -82,6 +82,6 @@ If output file name is not defined, then STDOUT will be used instead.
 
 Then we can mount ISO image with standard Linux tools:
 
-```
+```sh
 mount -o loop image.iso /mnt/disk
 ```

@@ -33,7 +33,7 @@ The uploaded file exceeds the upload_max_filesize directive in php.ini
 
 **Step 2.** Locate the `php.ini` filer:
 
-```
+```sh
 sudo find / -name "php.ini"
 ```
 
@@ -48,7 +48,7 @@ Examples of output:
 
 **Step 3.** Open a php.ini file:
 
-```
+```sh
 sudo nano /etc/php5/apache2/php.ini
 ```
 
@@ -76,13 +76,13 @@ Save the changes to the file (press `Ctrl+O` to write out and `Ctrl+X` to exit).
 
 For Apache:
 
-```
+```sh
 sudo service apache2 restart
 ```
 
 or Nginx:
 
-```
+```sh
 sudo service nginx restart
 ```
 

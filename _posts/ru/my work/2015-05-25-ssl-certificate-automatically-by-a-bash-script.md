@@ -34,7 +34,7 @@ SSL сертификаты необходимы для обеспечения б
 * **Описание:** Create a self-signed SSL Certificates for Apache and Nginx web-servers.
 * **Язык:** BASH
 
-```
+```bash
 #!/bin/bash
 #=============================================================#
 # Name:         SSL Certificate Creater                       #
@@ -161,13 +161,13 @@ exit 0
 
 Перед запуском сценария необходимо установить права на исполнение:
 
-```
+```sh
 chmod +x ssl_crt_creater.sh
 ```
 
 Запуск сценария:
 
-```
+```sh
 ./ssl_crt_creater.sh
 ```
 

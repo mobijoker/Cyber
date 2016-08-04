@@ -48,7 +48,7 @@ You can find the button called `code` on the bottom of your ad unit.
 
 Your ad code will be similar to the following one:
 
-```
+```html
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Single post - 1 (yourwebsite.com) -->
 <ins class="adsbygoogle"

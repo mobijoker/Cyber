@@ -29,13 +29,13 @@ tags:
 
 Для `axel`:
 
-```
+```sh
 sudo apt-get install axel
 ```
 
 Для `aria2`:
 
-```
+```sh
 sudo apt-get install aria2
 ```
 
@@ -43,13 +43,13 @@ sudo apt-get install aria2
 
 Для `axel`:
 
-```
+```sh
 wget -U firefox http://www.mattparnell.com/linux/apt-fast/apt-fast.sh
 ```
 
 Для `aria2`:
 
-```
+```sh
 wget -U firefox http://www.mattparnell.com/linux/apt-fast/apt-fast%20modded/apt-fast_aria2c.sh
 ```
 
@@ -57,19 +57,19 @@ wget -U firefox http://www.mattparnell.com/linux/apt-fast/apt-fast%20modded/apt-
 
 Для `axel`:
 
-```
+```sh
 sudo mv apt-fast.sh /usr/bin/apt-fast
 ```
 
 Для `aria2`:
 
-```
+```sh
 sudo mv apt-fast_aria2c.sh /usr/bin/apt-fast
 ```
 
 **4)** Дадим права на исполнение файлу apt-fast:
 
-```
+```sh
 sudo chmod +x /usr/bin/apt-fast
 ```
 
@@ -77,13 +77,13 @@ sudo chmod +x /usr/bin/apt-fast
 
 Обновим кэш пакетов:
 
-```
+```sh
 sudo apt-fast update
 ```
 
 И скачаем какой-нибудь пакет:
 
-```
+```sh
 sudo apt-fast install “имя_пакета”
 ```
 

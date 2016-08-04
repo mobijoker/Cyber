@@ -42,46 +42,46 @@ sudo apt-get install linux-headers-`uname -r` binutils pkg-config build-essentia
 Комманда остановки зависит от того какая оболочка установленна у вас.
 Если версия Ubuntu 11.10 или выше (Unity):
  
-```
+```sh
 sudo service lightdm stop
 ``` 
 
 
 Если старая версия Ubuntu (Gnome):
  
-```
+```sh
 sudo service gdm stop
 ``` 
 
 
 Если оболочка "Gnome":
  
-```
+```sh
 sudo service gdm stop
 ``` 
 
 или:
  
-```
+```sh
 sudo service gdm3 stop
 ``` 
 
 
 Если оболочка "KDE":
  
-```
+```sh
 sudo service kdm stop
 ``` 
 
 **5.** Перейти в папку со скаченным драйвером. В моём случае файл лежит в домашней папке пользователя:
  
-```
+```sh
 cd /home/user
 ``` 
 
 **6.** Запускаем установщик (тот самый драйвер который скачали):
  
-```
+```sh
 sudo sh ./NVIDIA-Linux-*.run
 ``` 
 
@@ -89,6 +89,6 @@ sudo sh ./NVIDIA-Linux-*.run
 
 **8.** Перезагружаем компьютер:
  
-```
+```sh
 reboot
 ``` 

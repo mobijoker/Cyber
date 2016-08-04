@@ -33,13 +33,13 @@ tags:
 
 Устанавливаем пакет `read-edid`:
 
-```
+```sh
 sudo apt-get install read-edid
 ```
 
 Считаем EDID дисплея:
 
-```
+```sh
 sudo get-edid | parse-edid
 ```
 
@@ -48,13 +48,13 @@ sudo get-edid | parse-edid
 
 Считать EDID и записать его в файл:
 
-```
+```sh
 sudo get-edid > edid.bin
 ```
 
 Прочитать файл прошивки EDID:
 
-```
+```sh
 sudo parse-edid < edid.bin
 ```
 
@@ -77,7 +77,7 @@ parse-edid: IO error reading EDID
 
 Сначало узнаем как именуется наш монитор:
 
-```
+```sh
 cat /etc/X11/xorg.conf | grep ConnectedMonitor
 ```
 
@@ -91,7 +91,7 @@ Option "ConnectedMonitor" "DFP-0"
 
 Дальше поправим `xorg.conf` для чтения EDID из файла прошивки. Откроем для редактирования `xorg.conf`:
 
-```
+```sh
 sudo nano /etc/X11/xorg.conf
 ```
 

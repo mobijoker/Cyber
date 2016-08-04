@@ -81,7 +81,7 @@ codemirror-.
 
 Пример загрузки скриптов с регистрацией:
 
-```
+```php
 /**
  * Register and enqueue the CodeMirror scripts and styles
  */
@@ -121,7 +121,7 @@ add_action( 'admin_enqueue_scripts', 'enqueue_codemirror_scripts' );
 
 И без регистрации (если нет необходимости в регистрации):
 
-```
+```php
 /**
  * Enqueue the CodeMirror scripts and styles
  */
@@ -163,7 +163,7 @@ wp_enqueue_script( 'my_custom_script', get_template_directory_uri( __FILE__ ) . 
 
 Загрузка скриптов на всех страницах вэб-сайта:
 
-```
+```php
 function enqueue_codemirror_scripts() {
 
     // Enqueue scripts
@@ -175,7 +175,7 @@ add_action( 'wp_enqueue_scripts', 'enqueue_codemirror_scripts' );
 
 Загрузка скриптов на всех страницах админки:
 
-```
+```php
 function enqueue_codemirror_scripts() {
 
     // Enqueue scripts
@@ -187,7 +187,7 @@ add_action( 'admin_enqueue_scripts', 'enqueue_codemirror_scripts' );
 
 Загрузка скриптов на определённой странице (в моём примере это страница `edit.php`): 
 
-```
+```php
 function enqueue_codemirror_scripts($hook) {
     if ( 'edit.php' != $hook ) {
         return;
@@ -225,7 +225,7 @@ themes.php?page=my-page.php
 
 Вся настройка CodeMirror производится из конфигурационного файла `config.js`. Этот файл нужно создать и поместить в него следующее содержимое:
 
-```
+```js
 // Configuration file for CodeMirror v1.0
 
   var myCodeMirror = CodeMirror.fromTextArea(document.getElementById('CodeMirror'), {
@@ -261,7 +261,7 @@ indentUnit: 4 					// Размер табуляции (длина отступа
 
 Пример содержания файла `customestyle.css`:
 
-```
+```css
   .CodeMirror {
      border: 1px solid cornflowerblue;
      height: auto;
@@ -275,7 +275,7 @@ indentUnit: 4 					// Размер табуляции (длина отступа
 
 Теперь последний пункт. Нужно указать CodeMirror'у область для обработки кода. Это делается спомощью HTML тэга `<textarea>` (текстовое поле) с `id` - `CodeMirror`. Тоесть, на нужных страницах, подсвечиваемый код нужно обернуть в этот тэг, например так:
 
-```
+```html
 <textarea cols="50" rows="10" id="CodeMirror" >
 </textarea>
 ```
@@ -285,7 +285,7 @@ indentUnit: 4 					// Размер табуляции (длина отступа
 
 Если весь код размесить на одной HTML странце то он будет выглядеть так:
 
-```
+```html
 ...
    <script src="codemirror/lib/codemirror.js"></script>
    <script src="codemirror/mode/xml.js"></script>

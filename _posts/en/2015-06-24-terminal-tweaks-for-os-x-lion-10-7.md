@@ -37,13 +37,13 @@ It is possible to completely disable OS X Dashboard. This could save some memory
 
 Use the following command:
 
-```
+```sh
 defaults write com.apple.dashboard mcx-disabled -boolean true ; killall Dock
 ```
 
 You can reactivate OS X Dashboard by using this command:
 
-```
+```sh
 defaults write com.apple.dashboard mcx-disabled -boolean false ; killall Dock
 ```
 
@@ -54,13 +54,13 @@ When viewing a file with QuickLook it will appear in the foreground of the scree
 
 Terminal command:
 
-```
+```sh
 defaults write com.apple.Finder QLHidePanelOnDeactivate 0 ; killall Finder
 ```
 
 Revert the change with:
 
-```
+```sh
 defaults write com.apple.Finder  1 ; killall Finder
 ```
 
@@ -71,7 +71,7 @@ Launchpad shows a fade effect anytime it is opened or closed. If you want to acc
 
 Terminal commands:
 
-```
+```sh
 defaults write com.apple.dock springboard-show-duration -int 0
 defaults write com.apple.dock springboard-hide-duration -int 0
 killall Dock
@@ -79,7 +79,7 @@ killall Dock
 
 Re-enable launchpad fading effect:
 
-```
+```sh
 defaults delete com.apple.dock springboard-show-duration
 defaults delete com.apple.dock springboard-hide-duration
 killall Dock
@@ -92,13 +92,13 @@ Disable all window animations and the animation when opening the info window in 
 
 Use the following OS X Terminal command:
 
-```
+```sh
 defaults write com.apple.finder DisableAllAnimations -bool true
 ```
 
 To restore the animations in OS X Finder:
 
-```
+```sh
 defaults write com.apple.finder DisableAllAnimations -bool false
 ```
 
@@ -109,7 +109,7 @@ Turn off the new window animation in Mac OS X 10.7 and higher, new windows will 
 
 Terminal command:
 
-```
+```sh
 defaults write NSGlobalDomain NSAutomaticWindowAnimationsEnabled -bool false
 ```
 
@@ -117,7 +117,7 @@ Relaunch any currently running apps or reboot your Mac to have the changes take 
 
 To restore the new window animation:
 
-```
+```sh
 defaults write NSGlobalDomain NSAutomaticWindowAnimationsEnabled -bool true
 ```
 
@@ -128,13 +128,13 @@ If the 3D Dock isn’t your taste, you can switch to the 2D visual implementatio
 
 Terminal command:
 
-```
+```sh
 defaults write com.apple.dock no-glass -boolean YES ; killall Dock
 ```
 
 Revert the change with:
 
-```
+```sh
 defaults write com.apple.dock no-glass -boolean NO ; killall Dock
 ```
 
@@ -143,7 +143,7 @@ defaults write com.apple.dock no-glass -boolean NO ; killall Dock
 
 Enable the AirDrop in a wired network even when your Mac is not supported:
 
-```
+```sh
 defaults write com.apple.NetworkBrowser BrowseAllInterfaces -bool true ; killall Finder
 ```
 
@@ -151,6 +151,6 @@ After restarting the Finder, Airdrop will appear in Finder’s navigation bar.
 
 Revert the change with:
 
-```
+```sh
 defaults write com.apple.NetworkBrowser BrowseAllInterfaces -bool false ; killall Finder
 ```

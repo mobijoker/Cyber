@@ -26,13 +26,13 @@ With the `fdupes` you can remove duplicate files very easily.
 
 But first you need to install `fdupes`:
 
-```
+```sh
 sudo apt-get install fdupes
 ```
 
 To search a directory for duplicate files, simply run the following command:
 
-```
+```sh
 fdupes ./
 ```
 
@@ -44,7 +44,7 @@ The command will search the directory for any duplicate files and show the progr
 
 Also, you can redirect the results of serching to a text file:
 
-```
+```sh
 fdupes -r ./ > duplicates.txt
 ```
 
@@ -58,7 +58,7 @@ The fdupes can do more with options like:
 
 To recursively search the directory and delete duplicates:
 
-```
+```sh
 fdupes -r -d catalog/
 ```
 
@@ -66,7 +66,7 @@ You will need to manually select a file for deleting in each set of duplicates.
 
 Or you can run following command for automatically delete the duplicate files:
 
-```
+```sh
 fdupes -r -d -N catalog/
 ```
 
@@ -82,12 +82,12 @@ Marked as plus is the kepted file and marked as minus is the deleted files.
 
 Also note that the two following commands do the same things:
 
-```
+```sh
 fdupes -r -d -N ./
 ```
 
 and:
 
-```
+```sh
 fdupes -rdN ./
 ```

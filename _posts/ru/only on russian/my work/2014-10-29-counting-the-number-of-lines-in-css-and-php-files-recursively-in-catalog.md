@@ -37,7 +37,7 @@ tags:
 
 **Language:** BASH
 
-```
+```bash
 #!/bin/bash
 #=============================================================#
 # Name:         Counting the number of lines                  #
@@ -149,7 +149,7 @@ exit 0
 
 Run the num_lines.sh with path to needed directory: 
 
-```
+```sh
 ~/num_lines.sh /example_directory
 ```
 

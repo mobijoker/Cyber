@@ -80,7 +80,7 @@ You must load CodeMirror scripts (those created in previous paragraph) in the he
 
 Example of loading the scripts with registration:
 
-```
+```php
 /**
  * Register and enqueue the CodeMirror scripts and styles
  */
@@ -119,7 +119,8 @@ add_action( 'admin_enqueue_scripts', 'enqueue_codemirror_scripts' );
 ```
 
 And without registration (if there is no need for registration):
-```
+
+```php
 /**
  * Enqueue the CodeMirror scripts and styles
  */
@@ -145,13 +146,13 @@ add_action( 'admin_enqueue_scripts', 'enqueue_codemirror_scripts' );
 
 For plugin paths to scripts specified using `plugin_dir_url()`:
 
-```
+```php
 wp_enqueue_script( 'my_custom_script', plugin_dir_url( __FILE__ ) . 'myscript.js' );
 ```
 
 And for themes with the `get_template_directory_uri()`:
 
-```
+```php
 wp_enqueue_script( 'my_custom_script', get_template_directory_uri( __FILE__ ) . 'myscript.js' );
 ```
 
@@ -161,7 +162,7 @@ Depending on the purpose, you can load scripts on all pages of the website, on a
 
 Load scripts on all pages of website:
 
-```
+```php
 function enqueue_codemirror_scripts() {
 
     // Enqueue scripts
@@ -173,7 +174,7 @@ add_action( 'wp_enqueue_scripts', 'enqueue_codemirror_scripts' );
 
 Load scripts on all Admin pages:
 
-```
+```php
 function enqueue_codemirror_scripts() {
 
     // Enqueue scripts
@@ -185,7 +186,7 @@ add_action( 'admin_enqueue_scripts', 'enqueue_codemirror_scripts' );
 
 Load scripts on a specific Admin page (in my example is edit.php): 
 
-```
+```php
 function enqueue_codemirror_scripts($hook) {
     if ( 'edit.php' != $hook ) {
         return;
@@ -223,7 +224,7 @@ The title will be `appearance_page_my-page`.
 
 All configuration of CodeMirror is made from the config file `config.js`. You must create this file and put into it the following contents:
 
-```
+```js
 // Configuration file for CodeMirror v1.0
 
   var myCodeMirror = CodeMirror.fromTextArea(document.getElementById('CodeMirror'), {
@@ -259,7 +260,7 @@ To apply your own styles you need to create the file `customestyle.css`.
 
 An example of the contents of a file `customestyle.css`:
 
-```
+```css
   .CodeMirror {
      border: 1px solid cornflowerblue;
      height: auto;
@@ -273,7 +274,7 @@ An example of the contents of a file `customestyle.css`:
 
 Now the last paragraph. You must specify the CodeMirror area for handling code. This is done using the HTML tag `<textarea>` (text box) with `id` - `CodeMirror`. On needed pages, highlighted code need to wrap in this tag, like so:
 
-```
+```html
 <textarea cols="50" rows="10" id="CodeMirror" >
 </textarea>
 ```
@@ -283,7 +284,7 @@ Now the last paragraph. You must specify the CodeMirror area for handling code. 
 
 If all the code put on one HTML page it will look like this:
 
-```
+```html
 ...
    <script src="codemirror/lib/codemirror.js"></script>
    <script src="codemirror/mode/xml.js"></script>

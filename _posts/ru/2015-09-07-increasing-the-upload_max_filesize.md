@@ -31,7 +31,7 @@ tags:
 
 **Шаг 2.** Найдите файл `php.ini`:
 
-```
+```sh
 sudo find / -name "php.ini"
 ```
 
@@ -46,7 +46,7 @@ sudo find / -name "php.ini"
 
 **Шаг 3.** Откройте файл php.ini:
 
-```
+```sh
 sudo nano /etc/php5/apache2/php.ini
 ```
 
@@ -74,13 +74,13 @@ upload_max_filesize = 10M
 
 Для Apache:
 
-```
+```sh
 sudo service apache2 restart
 ```
 
 или Nginx:
 
-```
+```sh
 sudo service nginx restart
 ```
 

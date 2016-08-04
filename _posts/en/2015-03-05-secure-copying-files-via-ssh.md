@@ -35,61 +35,61 @@ Typically, a syntax of scp program is like the syntax of cp (copy) program.
 
 Copying the file to the home directory of the user on the remote host:
 
-```
+```sh
 scp SourceFile user@remote.host:
 ```
 
 Copying file to the specified directory on the remote host:
 
-```
+```sh
 scp SourceFile user@remote.host:directory/TargetDir
 ```
 
 Copying file from remote host:
 
-```
+```sh
 scp user@remote.host:directory/SourceFile TargetFile
 ```
 
 Copying directory to remote host:
 
-```
+```sh
 scp -r SourceDir user@remote.host:directory/TargetDir
 ```
 
 Copying directory from remote host:
 
-```
+```sh
 scp -r user@remote.host:directory/SourceDir TargetDir
 ```
 
 Copying file from one remote host to another remote host:
 
-```
+```sh
 scp user@remote.host1:/directory/SourceFile user@remote.host2:/directory/
 ```
 
 Copying multiple files to remote host:
 
-```
+```sh
 scp SourceFile1 SourceFile2 user@remote.host:
 ```
 
 Copying multiple files from remote host:
 
-```
+```sh
 scp user@remote.host:~/\{SourceFile1, SourceFile2, SourceFile3\} .
 ```
 
 Copying file to remote host with port 2222 (default is 22):
 
-```
+```sh
 scp -P 2222 user@host:directory/SourceFile TargetFile
 ```
 
 Copying file with saving the creating time, modification time and permissions to the remote host:
 
-```
+```sh
 scp -p SourceFile user@remote.host:
 ```
 
@@ -98,12 +98,12 @@ scp -p SourceFile user@remote.host:
 
 Copying file with Blowfish encryption (default is AES-128) to remote host:
 
-```
+```sh
 scp -c blowfish SourceFile user@remote.host:
 ```
 
 Copying file with limit the bandwidth to 100 Kbit/s to the remote host:
 
-```
+```sh
 scp -l 100 SourceFile user@remote.host:
 ```

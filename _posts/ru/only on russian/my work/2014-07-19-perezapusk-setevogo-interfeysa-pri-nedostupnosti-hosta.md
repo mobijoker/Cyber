@@ -29,7 +29,7 @@ tags:
 * **Description:** Ping host and restart interface if host is down
 * **Language:** Shell
 
-```
+```bash
 #!/bin/sh
 #=============================================================#
 # Name:         If Down Net                                   #
@@ -71,13 +71,13 @@ exit 0
 
 Дадим права на исполнение:
 
-```
+```sh
 chmod +x ifdown_net.sh
 ```
 
 И сделаем запись в `cron` для автоматического запуска скрипта каждую минуту:
 
-```
+```sh
 sudo nano /etc/crontab
 ```
 

@@ -36,7 +36,7 @@ categories:
 
 Посмотрим на таблицу разделов для того, чтобы узнать как именуется раздел с корнем файловой системы который мы будем чинить.
 
-```
+```sh
 sudo fdisk -l
 ```
 
@@ -54,7 +54,7 @@ sudo fdisk -l
 
 Примонтируем раздел с корнем файловой системы и еще несколько важных директорий:
 
-```
+```sh
 sudo mount /dev/sda2 /mnt
 sudo mount --bind /dev /mnt/dev
 sudo mount --bind /proc /mnt/proc
@@ -63,7 +63,7 @@ sudo mount --bind /sys  /mnt/sys
 
 Попробуем перейти в среду `chroot`:
 
-```
+```sh
 sudo chroot /mnt
 ```
 
@@ -76,7 +76,7 @@ sudo chroot /mnt
 
 Скачиваем `libc6`:
 
-```
+```sh
 sudo apt-get download libc6
 ```
 
@@ -97,7 +97,7 @@ sudo apt-get download libc6
 
 Используем `dpkg` с параметром `-x`, чтобы просто распаковать но не устанавливать. Распакуем в корень сломавшейся системы:
 
-```
+```sh
 sudo dpkg -x libc6_2.13-38_i386.deb /mnt
 ```
 
@@ -105,20 +105,20 @@ sudo dpkg -x libc6_2.13-38_i386.deb /mnt
 
 Распакуем в текущюю директорию 3 файла: `control.tar.gz`, `data.tar.gz` и `debian-binary`.
 
-```
+```sh
 sudo ar vx libc6_2.13-38_i386.deb
 ```
 
 Распакуем содержимое `data.tar.gz` в корень сломавшейся системы:
 
-```
+```sh
 sudo tar zxvf  data.tar.gz -C /mnt
 ```
 
 
 ### 5. Проверяем
 
-```
+```sh
 sudo chroot /mnt
 ```
 
@@ -129,13 +129,13 @@ sudo chroot /mnt
 
 Выходим из `chroot`:
 
-```
+```sh
 exit
 ```
 
 Отмонтируем ранее примонтированные разделы:
 
-```
+```sh
 sudo umount /mnt/dev
 sudo umount /mnt/proc
 sudo umount /mnt/sys
@@ -144,7 +144,7 @@ sudo umount /mnt
 
 Перезагрузим компьютер:
 
-```
+```sh
 sudo reboot
 ```
 

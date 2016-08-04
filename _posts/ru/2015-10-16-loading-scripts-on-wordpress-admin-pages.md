@@ -38,7 +38,7 @@ tags:
 
 **1.** Загрузить скрипты везде на вашем веб сайте:
 
-```
+```php
 function enqueue_my_scripts() {
  
     // ENQUEUE SCRIPTS…
@@ -49,7 +49,7 @@ add_action( 'wp_enqueue_scripts', 'enqueue_my_scripts' );
 
 **2.** Загрузить скрипты на всех страницах панели администратора:
 
-```
+```php
 function enqueue_my_scripts() {
  
     // ENQUEUE SCRIPTS…
@@ -60,7 +60,7 @@ add_action( 'admin_enqueue_scripts', 'enqueue_my_scripts' );
 
 **3.** Загрузить скрипты на определённой странице меню верхнего уровня в панели администратора (в примере `edit.php` - “Записи”):
 
-```
+```php
 function enqueue_my_scripts($hook) {
     if ( 'edit.php' != $hook ) {
         return;
@@ -76,7 +76,7 @@ add_action( 'admin_enqueue_scripts', 'enqueue_my_scripts' );
 
 Пример:
 
-```
+```php
 function enqueue_my_scripts($hook) {
     if ( 'appearance_page_my-page' != $hook ) {
         return;
@@ -101,7 +101,7 @@ appearance_page_{page menu-slug}</pre>
 
 Временно добавьте эту функцию в основной файл вашего плагина:
 
-```
+```php
 function enqueue_my_scripts($hook) {
     echo "<p style='text-align:center;'>" .$hook. "</p>";
 }

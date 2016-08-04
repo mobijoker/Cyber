@@ -32,7 +32,7 @@ You can use a `TARGET="_blank"` in the `<\a>` tag, but this simply opens a new b
 
 **Step 1.** Add this javascript into the body (to the head) of your HTML document or preferably to an external javascript file:
 
-```
+```js
 <script language="JavaScript">
   /**
    * Open centered pop-up window
@@ -106,17 +106,17 @@ Parameter values:
 
 In Adobe Muse you can use hyperlink code for objects:
 
-```
+```js
 javascript:popUpWindow('http://www.your-site.com','Example','700','600')
 ```
 
 For else cases you can use one of the following hyperlinks (both are the same):
 
-```
+```html
 <a onclick="popUpWindow('http://www.your-site.com','Example','700','600');" href="javascript:void(0);">CLICK TO OPEN POP-UP</a>
 ```
 
-```
+```html
 <a href="javascript:popUpWindow('http://www.your-site.com','Example','700','600')">CLICK TO OPEN POP-UP</a>
 ```
 

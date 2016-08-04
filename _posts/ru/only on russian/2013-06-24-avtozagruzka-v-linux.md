@@ -38,13 +38,13 @@ tags:
 
 **1.** Устанавливаем `sysv-rc-conf` если ещё не установленна:
 
-```
+```sh
 sudo apt-get install sysv-rc-conf
 ```
 
 **2.** Запускаем `sysv-rc-conf`:
 
-```
+```sh
 sudo sysv-rc-conf
 ```
 
@@ -63,13 +63,13 @@ btsync [][x][x][x][x][][][]
 
 **1.** Создаём файл (service init script) `/etc/init.d/btsync`:
 
-```
+```sh
 sudo nano /etc/init.d/btsync
 ```
 
 со следующим содержимым:
 
-```
+```sh
 #!/bin/sh
 ### BEGIN INIT INFO
 # Provides:     	btsync
@@ -86,19 +86,19 @@ sudo nano /etc/init.d/btsync
 
 **2.** Дадим права на исполнение:
 
-```
+```sh
 sudo chmod +x /etc/init.d/btsync
 ```
 
 **3.** Обновляем ссылки на сценарии инициализации стиля `System-V`:
 
-```
+```sh
 sudo update-rc.d btsync defaults
 ```
 
 **4.** А теперь протестируем:
 
-```
+```sh
 sudo service btsync start
 ```
 
@@ -109,19 +109,19 @@ sudo service btsync start
 
 **1.** За основу берётся init-скрипт `/etc/init.d/skeleton`, по этому копируем его с новым именем соотвествующим имени демона, а точнее самого бинарника, а не его коммерческое название.
 
-```
+```sh
 sudo cp /etc/init.d/skeleton /etc/init.d/btsync
 ```
 
 **2.** Правим файл `/etc/init.d/btsync`:
 
-```
+```sh
 sudo nano /etc/init.d/btsync
 ```
 
 Нас интересует только эта часть скрипта:
 
-```
+```sh
 #! /bin/sh
 ### BEGIN INIT INFO
 # Provides:      	skeleton
@@ -173,19 +173,19 @@ SCRIPTNAME=/etc/init.d/$NAME	(Имя скрипта в /etc/init.d/)
 
 **3.** Дадим права на исполнение:
 
-```
+```sh
 sudo chmod +x /etc/init.d/btsync
 ```
 
 **4.** Обновляем ссылки на сценарии инициализации стиля `System-V`:
 
-```
+```sh
 sudo update-rc.d btsync defaults
 ```
 
 **5.** А теперь протестируем:
 
-```
+```sh
 sudo service btsync start
 ```
 

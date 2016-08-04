@@ -34,7 +34,7 @@ On one of my websites, I have a pop-up page where I placed gallery with my copyr
 
 Simply add the following code to the <BODY> section of your web page (Press Ctrl C after selecting code to copy it) :
 
-```
+```js
 <script language="JavaScript">
 /**
   * Disable mouse right-click on page
@@ -49,7 +49,7 @@ document.addEventListener("contextmenu", function(e){
 
 The HTML code above have a simple inline JavaScript code:
 
-```
+```js
 document.addEventListener("contextmenu", function(e){ e.preventDefault(); }, false);
 ```
 

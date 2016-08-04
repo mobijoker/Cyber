@@ -54,7 +54,7 @@ tags:
 
 Устанавливаем пакет:
 
-```
+```sh
 sudo apt-get install secure-delete
 ```
 
@@ -63,13 +63,13 @@ sudo apt-get install secure-delete
 
 Использование `srm` аналогично `rm`. Соответственно, чтобы надёжно стереть директорию просто используйте `srm` вместо `rm`:
 
-```
+```sh
 srm -r /home/user/private-photos
 ```
 
 Для одного прохода надо добавить ключ `s` (`--simple`):
 
-```
+```sh
 srm -sr /home/user/private-photos
 ```
 
@@ -80,7 +80,7 @@ srm -sr /home/user/private-photos
 
 Запуск в однопроходном режиме:
 
-```
+```sh
 sudo sdmem -l -l
 ```
 
@@ -89,25 +89,25 @@ sudo sdmem -l -l
 
 Узнаем где раздел с `swap`:
 
-```
+```sh
 cat /proc/swaps
 ```
 
 Отключаем `swap` (при условии, что он на `/dev/sda2`):
 
-```
+```sh
 sudo swapoff /dev/sda2
 ```
 
 Очищаем `swap` в однопроходном режиме:
 
-```
+```sh
 sudo sswap -l -l /dev/sda2
 ```
 
 Включаем `swap`:
 
-```
+```sh
 sudo swapon /dev/sda2
 ```
 
@@ -116,7 +116,7 @@ sudo swapon /dev/sda2
 
 Очистим всё свободное место в директории/точке монтирования:
 
-```
+```sh
 sudo sfill -l -l /
 ```
 
@@ -130,19 +130,19 @@ sudo sfill -l -l /
 
 Удалить файл (25 проходов):
 
-```
+```sh
 shred -u file
 ```
 
 Удалить файл произвольным количеством проходов (например 35):
 
-```
+```sh
 shred -u -n 35 file
 ```
 
 Для удаления нескольких файлов можно указать их подряд, или удалить по маске:
 
-```
+```sh
 shred -u -n 35 file1 file2 file3
 shred -u -n 35 *.txt
 ```
@@ -151,7 +151,7 @@ shred -u -n 35 *.txt
 
 Для удаления всего содержимого жёсткого диска:
 
-```
+```sh
 shred /dev/sda
 ```
 
@@ -165,13 +165,13 @@ shred /dev/sda
 
 Установим `wipe`:
 
-```
+```sh
 sudo apt-get install wipe
 ```
 
 Для удаления каталога:
 
-```
+```sh
 wipe -rf catalog
 ```
 
@@ -188,19 +188,19 @@ wipe -rf catalog
 
 Узнаем раздела который необходимо очистить:
 
-```
+```sh
 sudo fdisk -l
 ```
 
 Для заполнения раздела накопителя нулями:
 
-```
+```sh
 sudo dd if=/dev/zero of=/dev/<disk identifier> bs=4k
 ```
 
 Или произвольными значениями (`/dev/urandom`):
 
-```
+```sh
 sudo dd if=/dev/urandom of=/dev/<disk identifier> bs=4k
 ```
 
@@ -208,19 +208,19 @@ sudo dd if=/dev/urandom of=/dev/<disk identifier> bs=4k
 
 Установим `pv`:
 
-```
+```sh
 sudo apt-get install pv
 ```
 
 Заполним раздел накопителя нулями:
 
-```
+```sh
 pv /dev/zero -s <disk size> | dd of=/dev/<disk identifier> bs=4k
 ```
 
 * обьём раздела для вычисления оставшегося время. Можно указать в байтах (например `80026361856`) или в гигабайтах (например `80G`). Узнать обьём можно также с помощью `fdisk`:
 
-```
+```sh
 sudo fdisk -l
 ```
 
@@ -230,13 +230,13 @@ sudo fdisk -l
 
 Очистить свободное место на разделе с корнем файловой системы заполнив его нулями:
 
-```
+```sh
 dd if=/dev/zero of=/zerofile bs=4K
 ```
 
 Или произвольными числами:
 
-```
+```sh
 dd if=/dev/urandom of=/zerofile bs=4K
 ```
 
@@ -246,7 +246,7 @@ dd if=/dev/urandom of=/zerofile bs=4K
 
 А когда место на разделе закончится нужно удалить этот файл:
 
-```
+```sh
 rm /zerofile
 ```
 

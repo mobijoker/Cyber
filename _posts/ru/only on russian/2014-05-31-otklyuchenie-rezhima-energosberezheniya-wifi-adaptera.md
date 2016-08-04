@@ -43,7 +43,7 @@ tags:
 
 Проблема состоит в том, что чип `8192cu` имеет функцию управления питанием (power management) включенную по умолчанию. Так ли это можно проверить, выполнив команду:
 
-```
+```sh
 cat /sys/module/8192cu/parameters/rtw_power_mgnt
 ```
 
@@ -53,7 +53,7 @@ cat /sys/module/8192cu/parameters/rtw_power_mgnt
 
 Чтобы отключить функцию управления питанием, нужно создать новый файл:
 
-```
+```sh
 sudo nano /etc/modprobe.d/8192cu.conf
 ```
 
@@ -66,13 +66,13 @@ options 8192cu rtw_power_mgnt=0
 
 И перезагрузить RPi:
 
-```
+```sh
 sudo reboot
 ```
 
 После перезагрузки проверим статус энергосбережения:
 
-```
+```sh
 cat /sys/module/8192cu/parameters/rtw_power_mgnt
 ```
 

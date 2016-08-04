@@ -71,7 +71,7 @@ Social Media Buttons Toolbar displayed in the footer using a shortcode in text w
 
 **Шаг 2.** Добавьте в "Text Widget" HTML код подобный следующему (Я использую этот код):
 
-```
+```html
 Следуйте за мной в социальных сетях::
 <ul class="social-icons">
 	<li>
@@ -153,7 +153,7 @@ Social Media Buttons Toolbar displayed in the footer using a shortcode in text w
 
 Как вы видите, код выше состоит из двух частей. Первая часть это список из ссылок к вашим профилям в социальных сетях и ваши иконки:
 
-```
+```html
 <ul>
 	<li>
 		…
@@ -165,7 +165,7 @@ Social Media Buttons Toolbar displayed in the footer using a shortcode in text w
 
 Вторая часть это стили для ваших кнопок:
 
-```
+```html
 <style>
 	…
 </style>
@@ -180,7 +180,7 @@ Social Media Buttons Toolbar displayed in the footer using a shortcode in text w
 
 **Шаг 1.** Мы будем использовать код подобный тому, что использовали в первом способе, но закроем код в функцию. Добавьте HTML код тому, что приведён ниже в `functions.php` файл вашей темы или в плагин:
 
-```
+```php
 /* SOCIAL MEDIA BUTTONS
 ************************************/
 function my_social_media_icons(){
@@ -281,13 +281,13 @@ add_filter('widget_text', 'do_shortcode');  // Allow shortcodes in widgets
 **P.S.**
 Если вы используете другую CMS вместо WordPress тогда вам нужно удалить строки создания шорткода и фильтр:
 
-```
+```php
 add_shortcode('my_social_media_icons', ‘my_social_media_icons');
 add_filter('widget_text', 'do_shortcode');
 ```
 
 Вместо использования шорткода вам нужно использовать следующий код для отображения кнопок:
 
-```
+```html
 <?php my_social_media_icons(); ?>
 ```

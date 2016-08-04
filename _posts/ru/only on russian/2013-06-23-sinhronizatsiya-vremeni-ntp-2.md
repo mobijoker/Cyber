@@ -25,7 +25,7 @@ tags:
 
 **1.** Устанавливаем `ntp` клиент:
 
-```
+```sh
 sudo apt-get install ntp ntpdate
 ```
 
@@ -33,43 +33,37 @@ sudo apt-get install ntp ntpdate
 
 Открываем `/etc/ntp.conf`:
 
-```
+```sh
 sudo nano /etc/ntp.conf
 ```
 
 Находим такие строки:
 
-```
-server 0.debian.pool.ntp.org iburst dynamic
-server 1.debian.pool.ntp.org iburst dynamic
-server 2.debian.pool.ntp.org iburst dynamic
-server 3.debian.pool.ntp.org iburst dynamic
-```
+	server 0.debian.pool.ntp.org iburst dynamic
+	server 1.debian.pool.ntp.org iburst dynamic
+	server 2.debian.pool.ntp.org iburst dynamic
+	server 3.debian.pool.ntp.org iburst dynamic
 
 И вместо них вписываем свой список серверов `ntp`:
 
-```
-server 0.ru.pool.ntp.org iburst dynamic
-server 1.ru.pool.ntp.org iburst dynamic
-server 2.ru.pool.ntp.org iburst dynamic
-server 3.ru.pool.ntp.org iburst dynamic
-```
+	server 0.ru.pool.ntp.org iburst dynamic
+	server 1.ru.pool.ntp.org iburst dynamic
+	server 2.ru.pool.ntp.org iburst dynamic
+	server 3.ru.pool.ntp.org iburst dynamic
 
 **3.** Остановим `ntp`:
 
-```
+```sh
 sudo service ntp stop
 ```
 
 иначе при вводе следующей комманды мы получим такое сообщение:
 
-```
-12 Jun 18:52:06 ntpdate[12097]: the NTP socket is in use, exiting
-```
+	12 Jun 18:52:06 ntpdate[12097]: the NTP socket is in use, exiting
 
 **4.** Сверимся с сервером при помощи `ntpdate`:
 
-```
+```sh
 sudo ntpdate -q 0.ru.pool.ntp.org
 ```
 
@@ -91,22 +85,23 @@ server 93.180.6.3, stratum 2, offset 3.256370, delay 0.02885
 
 **5.** Разово синхронизируем  часы при помощи того же `ntpdate`:
 
-```
+```sh
 sudo ntpdate -bs 0.ru.pool.ntp.org
 ```
 
 **6.** Снова сверимся для того, чтобы убедиться в том, что наши часы синхронизированны с сервером точного времени:
 
-```
+```sh
 sudo ntpdate -q 0.ru.pool.ntp.org
-12 Jun 23:02:53 ntpdate[27338]: adjust time server 62.76.96.4 offset -0.000050 sec
 ```
+
+	12 Jun 23:02:53 ntpdate[27338]: adjust time server 62.76.96.4 offset -0.000050 sec
 
 Теперь часы идут точно!
 
 **7.** Снова запустим `ntp`:
 
-```
+```sh
 sudo service ntp start
 ```
 
@@ -117,7 +112,7 @@ sudo service ntp start
 
 **1.** Устанавливаем ntp-server:
 
-```
+```sh
 sudo apt-get install ntp-server
 ```
 
@@ -149,13 +144,13 @@ restrict 10.0.0.0 mask 255.0.0.0 noquery
 
 Разрешение для входящего трафика:
 
-```
+```sh
 sudo iptables -I INPUT -p udp --dport 123 -j ACCEPT
 ```
 
 Разрешение для исходящего трафика:
 
-```
+```sh
 sudo iptables -I OUTPUT -p udp --sport 123 -j ACCEPT
 ```
 

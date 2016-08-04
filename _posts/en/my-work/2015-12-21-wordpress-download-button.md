@@ -32,7 +32,7 @@ We begin creating our button by making the body of button and then we will add t
 
 There is a HTML code (markup) of the buttons body:
 
-```
+```html
 <a class="wp_download_btn" href="#">
 
 </a>
@@ -40,7 +40,7 @@ There is a HTML code (markup) of the buttons body:
 
 And there is a stylesheet for it:
 
-```
+```css
 .wp_download_btn {
     height: 45px;
     border: 1px solid #2a2c2f;
@@ -78,7 +78,7 @@ I used Adobe Illustrator to draw the WordPress logo and text, then I saved it in
 
 There is a SVG data that we will use:
 
-```
+```html
 <svg width="200"  xmlns="http://www.w3.org/2000/svg" version="1.1" x="0" y="0" viewBox="0 0 722.3 164.7" xml:space="preserve"><style type="text/css">
 	.st0{fill:#FFFFFF;}
 	.st1{fill:none;}
@@ -95,7 +95,7 @@ Now let's create the php function in which we will close the all code above. For
 
 Here's what we've got:
 
-```
+```php
 /* WordPress Download Button
  * by Arthur Gareginyan
 ************************************/
@@ -179,7 +179,7 @@ and result:
 **P.S.**
 If you use any other CMS instead of WordPress then you must remove the string with creating shortcode and filter:
 
-```
+```php
 add_shortcode('github_button', 'github_button'); // Create shortcode
 add_filter('widget_text', 'do_shortcode');  // Allow shortcodes in widgets
 ```

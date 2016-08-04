@@ -29,7 +29,7 @@ tags:
 
 Вот Javascript код который Я использую:
 
-```
+```js
 var editor = CodeMirror.fromTextArea(document.getElementById('codeEditor'), {
 	lineNumbers: true,
 	matchBrackets: true,
@@ -43,13 +43,13 @@ var editor = CodeMirror.fromTextArea(document.getElementById('codeEditor'), {
 
 jQuery:
 
-```
+```js
 $("#editor").focus();
 ```
 
 Javascript:
 
-```
+```js
 document.getElementById( 'editor' ).focus();
 ```
 
@@ -57,7 +57,7 @@ document.getElementById( 'editor' ).focus();
 
 Затем Я попробовал вызвать `refresh()` метод после того как редактор станет видимым:
 
-```
+```js
 setTimeout(function() {
 	editor.refresh();
 },1);
@@ -69,7 +69,7 @@ setTimeout(function() {
 
 Теперь, весь Javascript код выглядит так:
 
-```
+```js
 var editor = CodeMirror.fromTextArea(document.getElementById('editor'), {
 	lineNumbers: true,
 	matchBrackets: true,

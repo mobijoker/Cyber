@@ -38,7 +38,7 @@ ClamAV (Clam AntiVirus) - is an open source antivirus engine for detecting troja
 
 It’s included in the Debian repositories, so installation is simple:
 
-```
+```sh
 sudo apt-get update
 sudo apt-get install clamav
 ```
@@ -47,7 +47,7 @@ sudo apt-get install clamav
 
 Before scanning, you must update the virus signature database:
 
-```
+```sh
 sudo freshclam
 ```
 
@@ -62,7 +62,7 @@ Database updated (3816869 signatures) from db.local.clamav.net (IP: 198.148.78.4
 
 Now you can scan any directory (such as `/home`) for a viruses:
 
-```
+```sh
 clamscan -r -i /home
 ```
 
@@ -86,13 +86,13 @@ The utility clamscan have many additional options for scanning. Example:
 
 To learn about ClamAv's other options try `man`:
 
-```
+```sh
 man clamscan
 ```
 
 An example of the use of additional parameters:
 
-```
+```sh
 sudo clamscan -ri --bell --max-dir-recursion=50 --move=/home/user/INFECTED/ --log=/var/log/clamav/clamav.log --exclude-dir=/mnt/storage/ /
 ```
 
@@ -101,7 +101,7 @@ sudo clamscan -ri --bell --max-dir-recursion=50 --move=/home/user/INFECTED/ --lo
 
 To automate the scanning, you can use the Cron task scheduler. To do this, you need to enter several lines in the file `/etc/crontab`.
 
-```
+```sh
 sudo nano /etc/crontab
 ```
 
@@ -144,7 +144,7 @@ And to enable detection of PUA:
 
 Example:
 
-```
+```sh
 sudo clamscan -r -i --detect-pua=yes / 
 ```
 
@@ -155,7 +155,7 @@ sudo clamscan -r -i --detect-pua=yes /
 
 When you update the virus signature database, it can return this error message:
 
-```
+```sh
 freshclam
 ```
 
@@ -166,7 +166,7 @@ ERROR: Problem with internal logger (UpdateLogFile = /var/log/clamav/freshclam.l
 
 This is because the user was running freshclam without certain rights. This is solved by running freshclam with sudo:
 
-```
+```sh
 sudo freshclam
 ```
 
@@ -183,6 +183,6 @@ LibClamAV Error: fmap_readpage: pread error: Input/output error
 
 For this to not happen, you must to exclude from scanning several directories, like so:
 
-```
+```sh
 sudo clamscan -ir --exclude-dir=^/sys --exclude-dir=^/dev --exclude-dir=^/proc /
 ```

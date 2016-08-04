@@ -81,7 +81,7 @@ To use a command line client:
 
 **2.** Connect to the router via Telnet access protocol:
 
-```
+```sh
 telnet 192.168.1.1
 ```
 

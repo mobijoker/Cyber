@@ -88,7 +88,7 @@ When the DNS updates, you should be able to navigate to your custom domain and s
 
 You can check your work with the following command:
 
-```
+```bash
 dig arthurgarginyan.com +nostats +nocomments +nocmd
 ```
 

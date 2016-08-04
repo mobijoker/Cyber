@@ -42,18 +42,18 @@ First, you need to add the icon-fonts to your Muse project so that you could use
 
 Font Awesome icon-font:
 
-```
+```html
 <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.4.0/css/font-awesome.min.css">
 ```
 
 Bootstrap icon-font:
 
-```
+```html
 <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
 ```
 Google icon-font:
 
-```
+```html
 <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 ```
 
@@ -68,19 +68,19 @@ Close the panel and thats it. You can now start adding icons to the page.
 
 Font Awesome icon:
 
-```
+```html
 <i class="fa fa-cloud"></i>
 ```
 
 Bootstrap icon:
 
-```
+```html
 <i class="glyphicon glyphicon-cloud"></i>
 ```
 
 Google icon:
 
-```
+```html
 <i class="material-icons">cloud</i>
 ```
 

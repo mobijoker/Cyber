@@ -43,13 +43,13 @@ Then modify `customizer.php` file which is located at `plugins/theme-check/check
 
 Now, in the file `customizer.php`, add this:
 
-```
+```php
 echo "$file_path: $match ";
 ```
 
 After this section of code:
 
-```
+```php
 if ( false === strpos( $match, 'sanitize_callback' ) && false === strpos( $match, 'sanitize_js_callback' ) ) {
 $this->error[] = '<span class="tc-lead tc-required">' . __('REQUIRED','theme-check') . '</span>: ' . __( 'Found a Customizer setting that did not have a sanitization callback function. Every call to the <strong>add_setting()</strong> method needs to have a sanitization callback function passed.', 'theme-check' );
 ```
@@ -67,7 +67,7 @@ This string mean that code which causing the error is this:
 
 and it located in the file `customizer.php`. So I need to find this code in that file. There is:
 
-```
+```php
 // Copyright after post
 $wp_customize->add_setting( 'copyright_post', array(
 	'default'			=> 'Copyright &copy; 2014. All rights reserved.',

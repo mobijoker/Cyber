@@ -28,7 +28,7 @@ tags:
 
 Если мы попытаемся использовать Subversion 1.7 на рабочей копии созданной более старой версией Subversion, то мы увидим следующее сообщение об ошибке:
 
-```
+```sh
 svn status
 ```
 
@@ -39,7 +39,7 @@ svn: E155036: Working copy '/home/user/project' is too old (format 10, created b
 
 Нам нужно использовать команду `svn upgrade` для обновления рабочей копии до последнего формата метаданных, поддерживаемого новой версией Subversion.
 
-```
+```sh
 svn upgrade [PATH TO PROJECT]
 ```
 

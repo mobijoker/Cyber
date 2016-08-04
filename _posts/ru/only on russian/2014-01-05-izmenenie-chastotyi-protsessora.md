@@ -19,7 +19,7 @@ categories:
 
 Установите пакет <a href="http://packages.debian.org/cpufrequtils">cpufrequtils</a>:
 
-```
+```sh
 apt-get install cpufrequtils
 ```
 
@@ -35,7 +35,7 @@ apt-get install cpufrequtils
 
 #### Intel
 
-```
+```sh
 modprobe acpi-cpufreq
 ```
 
@@ -51,7 +51,7 @@ FATAL: Error inserting acpi_cpufreq ([...]/acpi-cpufreq.ko): No such device
 
 #### AMD
 
-```
+```sh
 modprobe powernow-k8
 ```
 
@@ -111,13 +111,13 @@ cpufreq stats: 1.60 GHz:1.99%, 1.33 GHz:0.00%, 1.07 GHz:0.00%, 800 MHz:98.01%  
 
 Для просмотра списка доступных регуляторов:
 
-```
+```sh
 cat /sys/devices/system/cpu/cpu0/cpufreq/scaling_available_governors
 ```
 
 Наблюдать за частотой процессора в режиме реального времени можно, выполнив команду:
 
-```
+```sh
 watch grep \&amp;quot;cpu MHz\&amp;quot; /proc/cpuinfo
 ```
 

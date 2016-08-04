@@ -29,7 +29,7 @@ In my WordPress plugin, there is a `textarea`, and i am replacing it with CodeMi
 
 This is a Javascript that I use:
 
-```
+```js
 var editor = CodeMirror.fromTextArea(document.getElementById('codeEditor'), {
 	lineNumbers: true,
 	matchBrackets: true,
@@ -43,13 +43,13 @@ All of the CodeMirror editor work as expected so I figured maybe the `textarea` 
 
 jQuery:
 
-```
+```js
 $("#editor").focus();
 ```
 
 Javascript:
 
-```
+```js
 document.getElementById( 'editor' ).focus();
 ```
 
@@ -57,7 +57,7 @@ But it is not worked because you need to click below the line 26 and not above.
 
 Then I tried to call `refresh()` method after editor is made visible:
 
-```
+```js
 setTimeout(function() {
 	editor.refresh();
 },1);
@@ -69,7 +69,7 @@ And it’s work.
 
 Now, all Javascript code looks like this:
 
-```
+```js
 var editor = CodeMirror.fromTextArea(document.getElementById('editor'), {
 	lineNumbers: true,
 	matchBrackets: true,

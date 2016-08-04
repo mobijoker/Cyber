@@ -27,7 +27,7 @@ The new HTML5 form input types save me tons of work on form validation, and they
 
 To remove the default styling and allow your CSS properties to work you need to change the `-webkit-appearance` property. Add this rule to your stylesheet:
 
-```
+```css
 input[type="search"] {
 	-webkit-appearance: none;
 }
@@ -35,7 +35,7 @@ input[type="search"] {
 
 Or, if the input have a class name, you can use it (for `class="search"`):
 
-```
+```css
 .search {
     -webkit-appearance: none;
 }
@@ -43,7 +43,7 @@ Or, if the input have a class name, you can use it (for `class="search"`):
 
 Also you can force Safari and Chrome to treat your search input like a typical text field input by this:
 
-```
+```css
 input[type="search"] {
 	-webkit-appearance: textfield;
 }

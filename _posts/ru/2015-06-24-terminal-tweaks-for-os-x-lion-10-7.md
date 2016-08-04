@@ -37,13 +37,13 @@ tags:
 
 Используйте следующую команду:
 
-```
+```sh
 defaults write com.apple.dashboard mcx-disabled -boolean true ; killall Dock
 ```
 
 Вы можете повторно активировать OS X Dashboard с помощью следующей команды:
 
-```
+```sh
 defaults write com.apple.dashboard mcx-disabled -boolean false ; killall Dock
 ```
 
@@ -52,13 +52,13 @@ defaults write com.apple.dashboard mcx-disabled -boolean false ; killall Dock
 
 При просмотре файла с помощью QuickLook, он будет отображаться на переднем плане экрана, но при выборе другого окна, QuickLook уходит на задний план. Можно сделать так, чтобы QuickLook окна держались на переднем плане постоянно.
 
-```
+```sh
 defaults write com.apple.Finder QLHidePanelOnDeactivate 0 ; killall Finder
 ```
 
 Для отмены изменений:
 
-```
+```sh
 defaults write com.apple.Finder  1 ; killall Finder
 ```
 
@@ -67,7 +67,7 @@ defaults write com.apple.Finder  1 ; killall Finder
 
 Launchpad показывает эффект затухания во время открытия или закрытия. Отключение эффекта ускорит доступ к Launchpad.
 
-```
+```sh
 defaults write com.apple.dock springboard-show-duration -int 0
 defaults write com.apple.dock springboard-hide-duration -int 0
 killall Dock
@@ -75,7 +75,7 @@ killall Dock
 
 Для отмены изменений:
 
-```
+```sh
 defaults delete com.apple.dock springboard-show-duration
 defaults delete com.apple.dock springboard-hide-duration
 killall Dock
@@ -86,13 +86,13 @@ killall Dock
 
 Отключить всю анимацию окон и анимацию при открытии окна информация в Finder. 
 
-```
+```sh
 defaults write com.apple.finder DisableAllAnimations -bool true
 ```
 
 Для отмены изменений:
 
-```
+```sh
 defaults write com.apple.finder DisableAllAnimations -bool false
 ```
 
@@ -101,7 +101,7 @@ defaults write com.apple.finder DisableAllAnimations -bool false
 
 Если отключить новую анимацию окон в Mac OS X 10.7 и выше, то новые окна будут появляться мгновенно, без задержки.
 
-```
+```sh
 defaults write NSGlobalDomain NSAutomaticWindowAnimationsEnabled -bool false
 ```
 
@@ -109,7 +109,7 @@ defaults write NSGlobalDomain NSAutomaticWindowAnimationsEnabled -bool false
 
 Для отмены изменений:
 
-```
+```sh
 defaults write NSGlobalDomain NSAutomaticWindowAnimationsEnabled -bool true
 ```
 
@@ -118,13 +118,13 @@ defaults write NSGlobalDomain NSAutomaticWindowAnimationsEnabled -bool true
 
 Если 3D Dock не в вашем вкусе, то вы можете переключится на 2D.
 
-```
+```sh
 defaults write com.apple.dock no-glass -boolean YES ; killall Dock
 ```
 
 Для отмены изменений:
 
-```
+```sh
 defaults write com.apple.dock no-glass -boolean NO ; killall Dock
 ```
 
@@ -133,7 +133,7 @@ defaults write com.apple.dock no-glass -boolean NO ; killall Dock
 
 Можно включить AirDrop в проводной сети и на неподдерживаемых Mac:
 
-```
+```sh
 defaults write com.apple.NetworkBrowser BrowseAllInterfaces -bool true ; killall Finder
 ```
 
@@ -141,6 +141,6 @@ defaults write com.apple.NetworkBrowser BrowseAllInterfaces -bool true ; killall
 
 Для отмены изменений:
 
-```
+```sh
 defaults write com.apple.NetworkBrowser BrowseAllInterfaces -bool false ; killall Finder
 ```

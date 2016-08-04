@@ -28,7 +28,7 @@ Today I upgraded the Subversion on my computer from 1.6 to 1.7 version. Subversi
 
 If we attempt to use Subversion 1.7 on a working copy created with an older version of Subversion, then we will see the following error:
 
-```
+```sh
 svn status
 ```
 
@@ -39,7 +39,7 @@ svn: E155036: Working copy '/home/user/project' is too old (format 10, created b
 
 We need to use the `svn upgrade` command to upgrade the working copy to the most recent metadata format supported by the new version of Subversion.
 
-```
+```sh
 svn upgrade [PATH TO PROJECT]
 ```
 

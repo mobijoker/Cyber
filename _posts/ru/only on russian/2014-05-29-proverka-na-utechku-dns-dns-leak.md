@@ -42,13 +42,13 @@ tags:
 
 Устанавливаем "tcpdump":
 
-```
+```sh
 sudo apt-get install tcpdump
 ```
 
 Начнём прослушивание для проверки на утечку DNS:
 
-```
+```sh
 sudo tcpdump port 53
 ```
 
@@ -56,7 +56,7 @@ sudo tcpdump port 53
 
 Если используется несколько сетевых устройств, то возможно дополнительно придется указать требуемый сетевой интерфейс. Их список можно узнать консольной программой `ifconfig`.
 
-```
+```sh
 sudo ifconfig
 ```
 
@@ -65,7 +65,7 @@ sudo ifconfig
 -i &lt;имя&#95;сетевого_интерфейса или его номер>
 </pre>
 
-```
+```sh
 sudo tcpdump -i eth0 port 53
 ```
 
@@ -82,13 +82,13 @@ Wireshark (ранее — Ethereal) — программа-анализатор 
 
 Устанавливаем:
 
-```
+```sh
 sudo apt-get install tshark
 ```
 
 Начнём прослушивание для проверки на утечку DNS:
 
-```
+```sh
 sudo tshark -i eth0 port 53
 ```
 
@@ -99,7 +99,7 @@ sudo tshark -i eth0 port 53
 
 Устанавливаем:
 
-```
+```sh
 sudo apt-get install wireshark
 ```
 
@@ -107,20 +107,20 @@ sudo apt-get install wireshark
 
 Создаём группу `wireshark`:
 
-```
+```sh
 sudo groupadd wireshark
 ```
 
 Добавляем в группу `wireshark` пользователя (то есть себя), заменив `user` на своё имя пользователя:
 
-```
+```sh
 sudo usermod -G wireshark -a user
 ```
 
 **Примечание:**
 Впишем в место `user` своё имя юзера.
 
-```
+```sh
 sudo chgrp wireshark /usr/bin/dumpcap
 sudo chmod 754 /usr/bin/dumpcap
 sudo setcap 'CAP_NET_RAW+eip CAP_NET_ADMIN+eip' /usr/bin/dumpcap
@@ -132,7 +132,7 @@ sudo setcap 'CAP_NET_RAW+eip CAP_NET_ADMIN+eip' /usr/bin/dumpcap
 
 Запускаем `wireshark`:
 
-```
+```sh
 wireshark &
 ```
 

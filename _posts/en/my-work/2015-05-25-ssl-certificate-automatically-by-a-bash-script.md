@@ -34,7 +34,7 @@ SSL certificates are required to ensure the secure transfer of information in th
 * **Description:** Create a self-signed SSL Certificates for Apache and Nginx web-servers.
 * **Language:** BASH
 
-```
+```bash
 #!/bin/bash
 #=============================================================#
 # Name:         SSL Certificate Creater                       #
@@ -161,13 +161,13 @@ exit 0
 
 Before you run the script, you must set the performance rights:
 
-```
+```sh
 chmod +x ssl_crt_creater.sh
 ```
 
 Run the script:
 
-```
+```sh
 ./ssl_crt_creater.sh
 ```
 

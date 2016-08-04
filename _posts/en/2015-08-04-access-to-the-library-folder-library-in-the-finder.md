@@ -73,7 +73,7 @@ This method was used in OS X Lion and Mountain Lion, but also works in OS X Mave
 
 **2.** Type the following command to show the hidden folder:
 
-```
+```sh
 chflags nohidden ~/Library
 ```
 
@@ -81,6 +81,6 @@ Folder "Library" will be visible.
 
 Return to the default settings:
 
-```
+```sh
 chflags hidden ~/Library
 ```

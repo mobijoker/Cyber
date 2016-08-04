@@ -60,7 +60,7 @@ To use a command line client:
 
 **2.** Connect to the router via Telnet access protocol by enter this command:
 
-```
+```sh
 telnet 192.168.1.1
 ```
 **3.** Login using username and password the same as in the web admin panel of the router.
@@ -84,7 +84,7 @@ In general, the Linux router is very similar to Debian but has some its features
 
 To show info about hardware and firmware of your router you can do by this way:
 
-```
+```sh
 cat /proc/version
 ```
 
@@ -94,7 +94,7 @@ Linux version 2.6.30.9 (root@wireless-desktop) (gcc version 3.4.6-1.3.6) #4 Thu 
 
 and this way:
 
-```
+```sh
 cat /proc/cpuinfo
 ```
 
@@ -109,7 +109,7 @@ mips16 implemented      : yes
 
 and this way:
 
-```
+```sh
 cat /etc/version
 ```
 
@@ -124,7 +124,7 @@ Feature support version is: -
 
 To show all mounted volumes, run this:
 
-```
+```sh
 mount
 ```
 
@@ -139,7 +139,7 @@ How you see the squashfs volume is mounted in `ro` i.e. reed only. But the ramfs
 
 All initialization scripts are placed in the directory `/etc/init.d/`.
 
-```
+```sh
 ls /etc/init.d/
 ```
 
@@ -154,7 +154,7 @@ On the router installed BusyBox. BusyBox — is a set of UNIX command line tools
 
 To get a list of the commands supported by this instance of BusyBox, run it without any arguments, or use the `--list` option:
 
-```
+```sh
 busybox
 ```
 
@@ -182,13 +182,13 @@ Currently defined functions:
 
 To see what an individual command does, use the `--help` option to that command:
 
-```
+```sh
 busybox zcip --help
 ```
 
 But not all programs in the firmware is a part of the BusyBox. So you may need to see a list of all programs:
 
-```
+```sh
 ls -l /bin
 ```
 
@@ -358,7 +358,7 @@ And now about the its features of which I wrote above. All the settings of the r
 
 Run it without any arguments to see all options:
 
-```
+```sh
 flash
 ```
 
@@ -387,7 +387,7 @@ All the settings are stored in the variables.
 
 To show all variables:
 
-```
+```sh
 flash all
 ```
 
@@ -417,7 +417,7 @@ And many more variables.
 
 To find variables with word `NAME`, use command `flash` together with the `grep`:
 
-```
+```sh
 flash all | grep "NAME"
 ```
 
@@ -453,7 +453,7 @@ Aborted
 
 To show the value of a specific variable (for example, name of administrator):
 
-```
+```sh
 flash get SUPER_NAME
 ```
 
@@ -463,7 +463,7 @@ SUPER_NAME="admin"
 
 To set the new value to a variable (for example, name of administrator):
 
-```
+```sh
 flash set SUPER_NAME superadmin
 ```
 
@@ -471,13 +471,13 @@ Now, you have the new name of admin (login) and it improves the security.
 
 But, for the changes to take effect you must reboot your router:
 
-```
+```sh
 reboot
 ```
 
 If you need to return the original settings (reset to original configuraton):
 
-```
+```sh
 flash default
 ```
 

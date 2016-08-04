@@ -38,7 +38,7 @@ Depending on the purpose, you can load scripts on all pages of the web-site, on 
 
 **1.** Load scripts everywhere on your website:
 
-```
+```php
 function enqueue_my_scripts() {
  
     // ENQUEUE SCRIPTS…
@@ -49,7 +49,7 @@ add_action( 'wp_enqueue_scripts', 'enqueue_my_scripts' );
 
 **2.** Load scripts on all Admin Panel pages:
 
-```
+```php
 function enqueue_my_scripts() {
  
     // ENQUEUE SCRIPTS…
@@ -60,7 +60,7 @@ add_action( 'admin_enqueue_scripts', 'enqueue_my_scripts' );
 
 **3.** Load scripts on a specific page of the top level menu in Admin Panel (in example `edit.php` - “Posts”):
 
-```
+```php
 function enqueue_my_scripts($hook) {
     if ( 'edit.php' != $hook ) {
         return;
@@ -76,7 +76,7 @@ add_action( 'admin_enqueue_scripts', 'enqueue_my_scripts' );
 
 Example:
 
-```
+```php
 function enqueue_my_scripts($hook) {
     if ( 'appearance_page_my-page' != $hook ) {
         return;
@@ -104,7 +104,7 @@ The `appearance_page_` is a prefix for pages in this section of menu. You need t
 
 Temporary add this function to your plugin's main file:
 
-```
+```php
 function enqueue_my_scripts($hook) {
     echo "<p style='text-align:center;'>" .$hook. "</p>";
 }
