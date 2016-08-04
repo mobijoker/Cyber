@@ -1,13 +1,37 @@
 # www.MyCyberUniverse.com
 
-Technical Blog of Arthur Gareginyan hosted on GitHub.
+Technical Blog of Arthur Gareginyan.
 
 [![screenshot](https://github.com/MilenaKiseleva/mycyberuniverse/blob/master/screenshot.png)]()
+
+This is the code for my personal website - [www.mycyberuniverse.com](http://www.mycyberuniverse.com) - it's a static site built with Jekyll. There are a few differences from a 'vanilla' Jekyll website, which are laid out in the Under the hood section.
+
+## Under the hood
+
+#### Hosting
+
+Website hosted at [GitHub Pages](https://pages.github.com).
+
+#### Theme
+
+Theme "Toxin" designed by [Arthur Gareginyan](http://www.arthurgareginyan.com).
+
+#### Syntax highlighting
+
+Syntax highlighting are powered by Rodge
+
+#### Contact form
+
+Contact form are powered by [Formspree](https://formspree.io).
+
+#### Comments
+
+Comments are powered by [Disqus](https://disqus.com/).
 
 
 ## Copyright
 
-(c) 2013-2016 Arthur Garegnyan.
+Copyright © 2013-2016 Arthur Garegnyan.
 
 
 ## Author
