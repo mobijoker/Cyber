@@ -18,7 +18,7 @@ Theme "Toxin" designed by [Arthur Gareginyan](http://www.arthurgareginyan.com).
 
 #### Syntax highlighting
 
-Syntax highlighting are powered by Rouge
+Syntax highlighting are powered by Rouge and [Son of Obsidian](son-of-obsidian) theme.
 
 #### Contact form
 
