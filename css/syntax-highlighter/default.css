@@ -1,0 +1,62 @@
+.highlighter .hll { background-color: #ffffcc }
+.highlighter  { background: #f8f8f8; }
+.highlighter .c { color: #408080; font-style: italic } /* Comment */
+.highlighter .err { border: 1px solid #FF0000 } /* Error */
+.highlighter .k { color: #008000; font-weight: bold } /* Keyword */
+.highlighter .o { color: #666666 } /* Operator */
+.highlighter .cm { color: #408080; font-style: italic } /* Comment.Multiline */
+.highlighter .cp { color: #BC7A00 } /* Comment.Preproc */
+.highlighter .c1 { color: #408080; font-style: italic } /* Comment.Single */
+.highlighter .cs { color: #408080; font-style: italic } /* Comment.Special */
+.highlighter .gd { color: #A00000 } /* Generic.Deleted */
+.highlighter .ge { font-style: italic } /* Generic.Emph */
+.highlighter .gr { color: #FF0000 } /* Generic.Error */
+.highlighter .gh { color: #000080; font-weight: bold } /* Generic.Heading */
+.highlighter .gi { color: #00A000 } /* Generic.Inserted */
+.highlighter .go { color: #808080 } /* Generic.Output */
+.highlighter .gp { color: #000080; font-weight: bold } /* Generic.Prompt */
+.highlighter .gs { font-weight: bold } /* Generic.Strong */
+.highlighter .gu { color: #800080; font-weight: bold } /* Generic.Subheading */
+.highlighter .gt { color: #0040D0 } /* Generic.Traceback */
+.highlighter .kc { color: #008000; font-weight: bold } /* Keyword.Constant */
+.highlighter .kd { color: #008000; font-weight: bold } /* Keyword.Declaration */
+.highlighter .kn { color: #008000; font-weight: bold } /* Keyword.Namespace */
+.highlighter .kp { color: #008000 } /* Keyword.Pseudo */
+.highlighter .kr { color: #008000; font-weight: bold } /* Keyword.Reserved */
+.highlighter .kt { color: #B00040 } /* Keyword.Type */
+.highlighter .m { color: #666666 } /* Literal.Number */
+.highlighter .s { color: #BA2121 } /* Literal.String */
+.highlighter .na { color: #7D9029 } /* Name.Attribute */
+.highlighter .nb { color: #008000 } /* Name.Builtin */
+.highlighter .nc { color: #0000FF; font-weight: bold } /* Name.Class */
+.highlighter .no { color: #880000 } /* Name.Constant */
+.highlighter .nd { color: #AA22FF } /* Name.Decorator */
+.highlighter .ni { color: #999999; font-weight: bold } /* Name.Entity */
+.highlighter .ne { color: #D2413A; font-weight: bold } /* Name.Exception */
+.highlighter .nf { color: #0000FF } /* Name.Function */
+.highlighter .nl { color: #A0A000 } /* Name.Label */
+.highlighter .nn { color: #0000FF; font-weight: bold } /* Name.Namespace */
+.highlighter .nt { color: #008000; font-weight: bold } /* Name.Tag */
+.highlighter .nv { color: #19177C } /* Name.Variable */
+.highlighter .ow { color: #AA22FF; font-weight: bold } /* Operator.Word */
+.highlighter .w { color: #bbbbbb } /* Text.Whitespace */
+.highlighter .mf { color: #666666 } /* Literal.Number.Float */
+.highlighter .mh { color: #666666 } /* Literal.Number.Hex */
+.highlighter .mi { color: #666666 } /* Literal.Number.Integer */
+.highlighter .mo { color: #666666 } /* Literal.Number.Oct */
+.highlighter .sb { color: #BA2121 } /* Literal.String.Backtick */
+.highlighter .sc { color: #BA2121 } /* Literal.String.Char */
+.highlighter .sd { color: #BA2121; font-style: italic } /* Literal.String.Doc */
+.highlighter .s2 { color: #BA2121 } /* Literal.String.Double */
+.highlighter .se { color: #BB6622; font-weight: bold } /* Literal.String.Escape */
+.highlighter .sh { color: #BA2121 } /* Literal.String.Heredoc */
+.highlighter .si { color: #BB6688; font-weight: bold } /* Literal.String.Interpol */
+.highlighter .sx { color: #008000 } /* Literal.String.Other */
+.highlighter .sr { color: #BB6688 } /* Literal.String.Regex */
+.highlighter .s1 { color: #BA2121 } /* Literal.String.Single */
+.highlighter .ss { color: #19177C } /* Literal.String.Symbol */
+.highlighter .bp { color: #008000 } /* Name.Builtin.Pseudo */
+.highlighter .vc { color: #19177C } /* Name.Variable.Class */
+.highlighter .vg { color: #19177C } /* Name.Variable.Global */
+.highlighter .vi { color: #19177C } /* Name.Variable.Instance */
+.highlighter .il { color: #666666 } /* Literal.Number.Integer.Long */

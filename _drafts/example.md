@@ -1,7 +1,7 @@
 ---
-title: Add Google Analytics to a Jekyll website
-ref: add-googe-analytics-to-a-jekyll-website
-permalink: /web/add-googe-analytics-to-a-jekyll-website.html
+title: The Title of Post
+ref: the-title-of-post
+permalink: /web/the-title-of-post.html
 author: Arthur Gareginyan
 lang: en
 layout: post
