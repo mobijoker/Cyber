@@ -76,3 +76,18 @@ Rouge is compatible with the Pygments syntax highlighter, which means that we ca
 **Note:** All of those themes uses `.codehilite` as the default class. So we need to open for edit the CSS file of theme and replace all `.codehilite` with `.highlight` class.
 
 Just replace with new the content of `syntax.css` file that contain a style sheet of default theme of syntax highlighter. This file placed in the `css` catalog of your Jekyll website.
+
+---
+
+Copy `son-of-obsidian.css` file to `your-blog-root-directory/css/son-of-obsidian.css`.
+
+Open `your-blog-root-directory/css/main.css` file and replace default monokai.css theme import with our new theme.
+
+```
+/* default theme */
+@import url(monokai.css);
+/* our new theme*/
+@import url(son-of-obsidian.css);
+```
+
+But that’s not all. Open the `son-of-obsidian.css` in your favorite text editor, ideally with multi-line edit function. Add .highlight term at the beginning of all lines.
