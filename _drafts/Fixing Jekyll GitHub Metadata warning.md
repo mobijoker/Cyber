@@ -57,15 +57,15 @@ echo $JEKYLL_GITHUB_TOKEN
 
 ---------------------------------------------------------------------------
 
-1. Create an GitHub access token with `public_repo` scope. (Remember to keep your tokens secret; treat them just like passwords!)
+1. Create the GitHub personal access token with `public_repo` scope. You can find guide [here](https://help.github.com/articles/creating-an-access-token-for-command-line-use/).
+
+**Note:** Remember to keep the token secret - you don’t want other people to use the API on your behalf!
 
 2. Now similarly as previous goto `Control Panel > System > Advances system settings` and click Environment Variables. Or simply type “environment variables” on Start menu search box.
 
 3. Then define new user variable with variable name `JEKYLL_GITHUB_TOKEN` and GitHub access token as variable value (which is something like `abc123def456`).
 
-4. Now click OK and Apply.
-
-5. System reboot may needed to work for first time.
+4. Reload Terminal.
 
 For security reason you can also access GitHub token with the following command line while building or serving Jekyll site:
 
@@ -75,7 +75,7 @@ JEKYLL_GITHUB_TOKEN=abc123def456 bundle exec jekyll serve
 
 ---
 
-1. Create GitHub personal token ([guide](https://help.github.com/articles/creating-an-access-token-for-command-line-use/))
+1. Create GitHub personal token ()
 
 2. Add the `JEKYLL_GITHUB_TOKEN` environment variable whose content is the created token.
 
