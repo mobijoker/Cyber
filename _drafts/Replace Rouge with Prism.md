@@ -81,6 +81,8 @@ In `footer.html` add JS:
 <script src="//cdnjs.cloudflare.com/ajax/libs/prism/1.5.1/prism.js"></script>
 ```
 
+Notice how we've placed our script at the bottom of the page, just before the closing body tag. This is always a smart move, as it improves performance.
+
 And then, when writing markdown with code, just wrap the code with a triple backticks:
 
 	```

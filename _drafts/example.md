@@ -13,4 +13,4 @@ tags:
 
 ---
 
-![thumb]()
+![thumb](/images/xxx.png)
