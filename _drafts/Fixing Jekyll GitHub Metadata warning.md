@@ -68,5 +68,5 @@ $ JEKYLL_GITHUB_TOKEN=abc123def456 bundle exec jekyll serve
 
 ```
 # Environment variables
-export JEKYLL_GITHUB_TOKEN='bffcf73276b43c3ef9990319ce82b1aec9fc3c2f'
+export JEKYLL_GITHUB_TOKEN='abc123def456'
 ```
