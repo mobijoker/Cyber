@@ -1,52 +1,61 @@
+---
+title: Fixing Jekyll GitHub Metadata warning
+ref: the-title-of-post
+permalink: /web/the-title-of-post.html
+author: Arthur Gareginyan
+lang: en
+layout: post
+categories:
+  - web
+tags:
+  - monetize
+  - 
 
+---
 
+![thumb](/images/xxx.png)
 
-https://milanaryal.com/jekyll-on-windows/
+## Description
 
-Fixing Jekyll GitHub Metadata warning
+How to fix the error of Jelyll + GitHub Pages due to which is displayed the following message:
 
 	GitHub Metadata: No GitHub API authentication could be found. Some fields may be missing or have incorrect data.
 
+If you have recently upgraded to Jekyll v3.x.x then you may face GitHub Metadata warning (in your local development environment).
 
----
+Here’s the solution to fix this warning:
 
 This is what I did to resolve this problem:
 
-1. Create GitHub personal token ([guide](https://help.github.com/articles/creating-an-access-token-for-command-line-use/))
-
-2. Add the JEKYLL_GITHUB_TOKEN env variable whose content is the created token
-
-3. Download the CA cert file from https://curl.haxx.se/ca/cacert.pem
-Add the SSL_CERT_FILE env variable pointing to the download .pem file.
-I also wrote a blog post about this case here.
+<br>
 
 ---
 
-GitHub Metadata is a gem required by Jekyll. We need a GitHub personal token to make it work. Follow the excellent guide on GitHub to create a token, copy it to a safe place.
+## Causing
 
-Now, create new environment variable in your system named JEKYLL_GITHUB_TOKEN with the value pasted from the created token. Open a new instance of command line and make sure this command displays correct information (I use Windows machine).
-
-```
-echo $JEKYLL_GITHUB_TOKEN
-```
-
-You can read more at the GitHub Metadata [README](https://github.com/jekyll/github-metadata) file.
-
----
-
-I decided to play with Jekyll today. It is an amazing static site generator. I ran local server by execute this command:
+I ran local server by execute this command:
 
 ```
 $> jekyll serve
 ```
 
-I could browse my site locally then. When I had updated one of my files, Jekyll stated regenerating the output HTML file and I got this errors on the command line window.
+I got this errors on the command line window.
 
----
 
-If you have recently upgraded to Jekyll v3.x.x then you may face GitHub Metadata warning (in your local development environment) if you have have use any [github-metadata](https://github.com/jekyll/github-metadata), a.k.a. `site.github` Liquid tag in your Jekyll site.
+## Create token
 
-Here’s the solution to fix this warning and access GitHub Metadata on your Windows local development environment:
+GitHub Metadata is a gem required by Jekyll. We need a GitHub personal token to make it work. Follow the excellent guide on GitHub to create a token, copy it to a safe place.
+
+
+## Create environment variable
+
+Now, create new environment variable in your system named `JEKYLL_GITHUB_TOKEN` with the value pasted from the created token. Open a new instance of command line and make sure this command displays correct information.
+
+```
+echo $JEKYLL_GITHUB_TOKEN
+```
+
+---------------------------------------------------------------------------
 
 1. Create an GitHub access token with `public_repo` scope. (Remember to keep your tokens secret; treat them just like passwords!)
 
@@ -61,8 +70,15 @@ Here’s the solution to fix this warning and access GitHub Metadata on your Win
 For security reason you can also access GitHub token with the following command line while building or serving Jekyll site:
 
 ```
-$ JEKYLL_GITHUB_TOKEN=abc123def456 bundle exec jekyll serve
+JEKYLL_GITHUB_TOKEN=abc123def456 bundle exec jekyll serve
 ```
+
+---
+
+1. Create GitHub personal token ([guide](https://help.github.com/articles/creating-an-access-token-for-command-line-use/))
+
+2. Add the `JEKYLL_GITHUB_TOKEN` environment variable whose content is the created token.
+
 
 ---
 
