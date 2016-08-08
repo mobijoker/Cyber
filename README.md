@@ -36,7 +36,8 @@ Comments are powered by [Disqus](https://disqus.com/).
 
 The blog entries on this website are available as an [Atom 1.0 newsfeed](http://mycyberuniverse.com/feed.xml). 
 
-#### Linking
+
+### Linking
 
 Please do not [hotlink](http://en.wikipedia.org/wiki/Hotlinking) the files contained on this webserver, e.g. by including an image hosted here in any external HTML. Hotlinking is not only a breach of "netiquette": It is bandwidth theft and will be blocked with extreme prejudice.
 
