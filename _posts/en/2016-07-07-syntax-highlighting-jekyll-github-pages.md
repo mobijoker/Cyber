@@ -12,6 +12,10 @@ tags:
   - syntax-highlighter
   - syntax highlight
   - syntax-highlight
+  - code highlighter
+  - code-highlighter
+  - code highlight
+  - code-highlight
   - highlighter
   - jekyll
   - github pages
@@ -24,8 +28,8 @@ tags:
 
 ---
 
-![thumb](/images/jekyll.png)
-Jekyll has built in support for syntax highlighting of over 100 languages. You can have code snippets highlighted so that they are easier to read on your GitHub Pages website. In this post I will show you how you can integrate Rouge into your Jekyll setup.
+![thumb](/images/jekyll-rouge.png)
+Jekyll has built in support for [Syntax Highlighting](https://en.wikipedia.org/wiki/Syntax_highlighting) of over 100 languages. You can have code snippets highlighted so that they are easier to read on your GitHub Pages website. In this post I will show you how you can integrate Rouge into your Jekyll setup.
 
 <br>
 
@@ -34,7 +38,7 @@ Jekyll has built in support for syntax highlighting of over 100 languages. You c
 
 ### Set up
 
-Ever since GitHub pages have upgraded Jekyll to version 3 you can use Rouge in combination with Jekyll that hosted on GitHub Pages natively. To get syntax highlighting working in Jekyll 2, we need to enable the Rouge syntax highlighter. To do this, just add the following one line to `_config.yml` file that placed in the root of your Jekyll website and ensure the `rouge` gem is installed properly.
+Ever since GitHub pages have upgraded Jekyll to version 3 you can use Rouge in combination with Jekyll that hosted on GitHub Pages natively. To get syntax highlighting working in Jekyll 2, we need to enable the Rouge syntax highlighter. To do this, just add the following one line to `_config.yml` file that placed in the root of your Jekyll website, and ensure the `rouge` gem is installed properly.
 
 **1)** Open the `_config.yml` file and add the following line:
 

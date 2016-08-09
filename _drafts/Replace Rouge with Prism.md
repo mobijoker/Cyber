@@ -12,6 +12,10 @@ tags:
   - syntax-highlighter
   - syntax highlight
   - syntax-highlight
+  - code highlighter
+  - code-highlighter
+  - code highlight
+  - code-highlight
   - highlighter
   - jekyll
   - github pages
@@ -20,15 +24,15 @@ tags:
 
 ---
 
-![thumb]()
+![thumb](/images/prismjs.png)
 
-Prism.js is a great JavaScript library to provide code highlighting on your websites. We use it here on CodeHive and I use it on my personal site which is running on Jekyll.
+Prism.js is a great JavaScript library to provide code highlighting on your websites.
 
 a JavaScript based syntax highlighter
 
 It's fairly simple to set up - but there's a trick to getting it to work from a CDN. When you download `prism.js` from the project website, a configuration tool lets you choose the languages you want included, then gives you a `prism.js` with only those languages included.
 
-By default Jekyll, ships with kramdown to convert markdown to HTML. For some reason, the output kramdown was producing wasn't the way Prism expects code blocks.
+By default Jekyll, ships with Rouge syntax highlighter.
 
 ---
 
