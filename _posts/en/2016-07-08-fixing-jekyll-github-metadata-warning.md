@@ -29,11 +29,13 @@ GitHub Metadata: No GitHub API authentication could be found. Some fields may be
 
 Here’s the solution to fix this warning:
 
+
 **Step 1.** Create the GitHub personal access token with `public_repo` scope. You can find guide [here](https://help.github.com/articles/creating-an-access-token-for-command-line-use/).
 
 ![](/images/github-metadata-error.png)
 
-**Note:** Remember to keep the token secret - you don’t want other people to use the API on your behalf!
+Note: Remember to keep the token secret - you don’t want other people to use the API on your behalf!
+
 
 <br>
 **Step 2.** Open the `~/.bash_profile` file (you can use your favorite text editor instead of `nano` if you’d like).
@@ -42,7 +44,8 @@ Here’s the solution to fix this warning:
 nano ~/.bash_profile
 ```
 
-**Note:** This file may have different names and locations depending on your shell and OS. For example: `.profile`, `.bashrc`, `.zshenv`. In MacOS is a `.bash_profile` that loacated at user home directory (`~/`). You can search in Google for information about file in your OS in wich you can add a new environment variable.
+Note: This file may have different names and locations depending on your shell and OS. For example: `.profile`, `.bashrc`, `.zshenv`. In MacOS is a `.bash_profile` that loacated at user home directory (`~/`). You can search in Google for information about file in your OS in wich you can add a new environment variable.
+
 
 <br>
 **Step 3.** Then define new environment variable with variable name `JEKYLL_GITHUB_TOKEN` and GitHub access token as variable value (which is something like `abc123def456`). You can do this by add the following line to a new blank line:
@@ -51,7 +54,8 @@ nano ~/.bash_profile
 export JEKYLL_GITHUB_TOKEN='abc123def456'
 ```
 
-**Note:** Replace the `abc123def456` with your token.
+Note: Replace the `abc123def456` with your token.
+
 
 <br>
 **Step 4.** Now reload the Terminal.
@@ -61,6 +65,7 @@ You can check the new environment variable with the following command line that 
 ```sh
 echo $JEKYLL_GITHUB_TOKEN
 ```
+
 
 ### In addition
 

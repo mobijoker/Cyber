@@ -32,6 +32,7 @@ tags:
 Jekyll has built in support for [Syntax Highlighting](https://en.wikipedia.org/wiki/Syntax_highlighting) of over 100 languages. You can have code snippets highlighted so that they are easier to read on your GitHub Pages website. In this post I will show you how you can integrate Rouge into your Jekyll setup.
 
 <br>
+<br>
 
 [Rouge](http://rouge.jneen.net/) is a pure-ruby syntax highlighter. It can highlight 100 different languages, and output HTML or ANSI 256-color text. Its HTML output is compatible with stylesheets designed for Pygments. Rouge is the default highlighter in Jekyll 3 and above.
 
@@ -40,13 +41,13 @@ Jekyll has built in support for [Syntax Highlighting](https://en.wikipedia.org/w
 
 Ever since GitHub pages have upgraded Jekyll to version 3 you can use Rouge in combination with Jekyll that hosted on GitHub Pages natively. To get syntax highlighting working in Jekyll 2, we need to enable the Rouge syntax highlighter. To do this, just add the following one line to `_config.yml` file that placed in the root of your Jekyll website, and ensure the `rouge` gem is installed properly.
 
-**1)** Open the `_config.yml` file and add the following line:
+1. Open the `_config.yml` file and add the following line:
 
 ```yaml
 highlighter: rouge
 ```
 
-**2)** Open the terminal and enter the following command (this not needed if you just clone a starting point from some GitHub repository instead of create a new boilerplate website using `jekyll new`):
+2. Open the terminal and enter the following command (this not needed if you just clone a starting point from some GitHub repository instead of create a new boilerplate website using `jekyll new`):
 
 ```sh
 gem install rouge
@@ -61,11 +62,11 @@ Just replace with new the content of file that contain a style sheet of default 
 
 My Jekyll website have the `_syntax-highlighting.scss` file located in `_scss` directory. This file contains the default style sheet for syntax highlighter. If your website don't have this file, then find out which file is responsible for the syntax highlighting, or do the following.
 
-**1)** Select the theme that you like from link abbove.
+1. Select the theme that you like from link abbove.
 
-**2)** Copy the CSS file of theme (for exmaple `monokai.css`) to `your-blog-root-directory/css/` directory.
+2. Copy the CSS file of theme (for exmaple `monokai.css`) to `your-blog-root-directory/css/` directory.
 
-**3)** Open `your-blog-root-directory/css/main.css` file and add the `monokai.css` theme import:
+3. Open `your-blog-root-directory/css/main.css` file and add the `monokai.css` theme import:
 
 ```css
 @import url(monokai.css);

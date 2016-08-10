@@ -75,17 +75,17 @@ Create a file called `flattr-button.html` in the `_includes` catalog of your Jek
 {% endraw %}
 ```
 
-**Note:** The `style="display:none;"` option needed to avoid that the embedded button definition is shown while the page is loading
+Note: The `style="display:none;"` option needed to avoid that the embedded button definition is shown while the page is loading
 
-**Note:** Replace the `YOUR-USER-NAME` with your own user name from your Fllatr account.
+Note: Replace the `YOUR-USER-NAME` with your own user name from your Fllatr account.
 
-**Note:** The `data-flattr-category` variable can be set to any of the available categories: `text`, `images`, `video`, `audio`, `software`, `people`, `rest`.
+Note: The `data-flattr-category` variable can be set to any of the available categories: `text`, `images`, `video`, `audio`, `software`, `people`, `rest`.
 
-**Note:** Since my blog supports both english and russian posts so I define a dynemic language attribute. If your Jekyll-website is written in one language only then replace the `{% raw %}{{ page.lang }}{% endraw %}` with your actual language code. All available language codes you can see [here](https://api.flattr.com/rest/v2/languages.txt).
+Note: Since my blog supports both english and russian posts so I define a dynemic language attribute. If your Jekyll-website is written in one language only then replace the `{% raw %}{{ page.lang }}{% endraw %}` with your actual language code. All available language codes you can find [here](https://api.flattr.com/rest/v2/languages.txt).
 
-**Note:** Decide which button you want to use – compact or classic. To switch to classic, all you need to do is deleting the `data-flattr-button="compact"` line completely.
+Note: Decide which button you want to use – compact or classic. To switch to classic, all you need to do is deleting the `data-flattr-button="compact"` line completely.
 
-**Note:** Make sure you’ve set `page.excerpt` via "Front Matter" on top of your posting. See the following example:
+Note: Make sure you’ve set `page.excerpt` via "Front Matter" on top of your posting. See the following example:
 
 ```
 ---
@@ -110,7 +110,7 @@ Go into the `_layouts` catalog, find the `default.html` file and insert the foll
 
 This will ensure that the flattr-script template will be added to every page of your website.
 
-**Note:** Some themes have a separeted file with head section (`<head></head>` tags). This file can be named `head.html` and be placed in the `_includes` catalog.
+Note: Some themes have a separeted file with head section (`<head></head>` tags). This file can be named `head.html` and be placed in the `_includes` catalog.
 
 <br>
 **Step 5.** Call the flattr-button template from a post template.

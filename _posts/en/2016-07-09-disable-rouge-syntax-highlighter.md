@@ -41,6 +41,8 @@ highlighter: none
 
 Now you have Rouge syntax highlighter disabled.
 
+<br>
+
 But this is not working with Jekyll-based websites that hosted on GitHub Pages. In this case, we need some trick with `syntax_highlighter_opts`. Instead of `highlighter: none` add the following lines:
 
 ```yaml
