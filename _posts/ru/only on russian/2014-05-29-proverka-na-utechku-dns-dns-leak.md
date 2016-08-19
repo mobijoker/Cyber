@@ -139,7 +139,7 @@ wireshark &
 Мышью открываем вкладку **Capture ⇒ Capture Filters**:
 
 Создадим фильтр перехвата DNS.
-<a href="http://mycyberuniverse.com/wp-content/uploads/DNS_leak_03.png"><img src="/images/DNS_leak_03.png" alt="DNS_leak_03" width="756" height="551" class="alignleft size-full wp-image-398" /></a>
+<a href="http://mycyberuniverse.com/wp-content/uploads/DNS_leak_03.png"><img src="/images/DNS_leak_03.png" alt="DNS_leak_03" class="alignleft" /></a>
 
 В блоке **“Properties”** в строке **“Filter name”** вписываем:
 
@@ -160,14 +160,14 @@ port 53
 Нажимаем **“Ok”**.
 
 Нажимаем **CTRL+I** или мышью открываем вкладку **Capture ⇒ Interfaces**:
-<a href="http://mycyberuniverse.com/wp-content/uploads/DNS_leak_00.png"><img src="/images/DNS_leak_00-1024x554.png" alt="DNS_leak_00" width="1024" height="554" class="alignleft size-large wp-image-399" /></a>
+<a href="http://mycyberuniverse.com/wp-content/uploads/DNS_leak_00.png"><img src="/images/DNS_leak_00-1024x554.png" alt="DNS_leak_00" class="alignleft" /></a>
 
 Ставим галочку напротив сетевого интерфейса который мы собираемся слушать и нажимаем **“Options”**:
-<a href="http://mycyberuniverse.com/wp-content/uploads/DNS_leak_01.png"><img src="/images/DNS_leak_01.png" alt="DNS_leak_01" width="837" height="332" class="alignleft size-full wp-image-400" /></a>
+<a href="http://mycyberuniverse.com/wp-content/uploads/DNS_leak_01.png"><img src="/images/DNS_leak_01.png" alt="DNS_leak_01" class="alignleft" /></a>
 
 Нажимаем на кнопку **“Capture Filter”** и в открывшемся окне выбираем фильтр **“TCP or UDP port 53 (DNS)”**, который мы создали.
 
 Нажимаем **“Start”**.
 
 Наконец мы можем увидеть все пакеты прошедшие через 53 порт. 
-<a href="http://mycyberuniverse.com/wp-content/uploads/DNS_leak_02.png"><img src="/images/DNS_leak_02-1024x554.png" alt="DNS_leak_02" width="1024" height="554" class="alignleft size-large wp-image-401" /></a>
+<a href="http://mycyberuniverse.com/wp-content/uploads/DNS_leak_02.png"><img src="/images/DNS_leak_02-1024x554.png" alt="DNS_leak_02" class="alignleft" /></a>

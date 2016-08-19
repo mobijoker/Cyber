@@ -28,12 +28,12 @@ tags:
 
 У меня есть игровая консоль XBox360 (FAT) и Kinect сенсор (модель для XBox360 FAT). Так-как в FAT версии нет порта Kinect а в SLIM он есть то для FAT версии продаётся комплект Kinect с внешним блоком питания и переходником на USB.
 
-<img class="wp-image-620 size-medium" src="/images/Kinect-for-FAT-300x224.jpeg" alt="Kinect for FAT" width="300" height="224" />
+<img src="/images/Kinect-for-FAT-300x224.jpeg" alt="Kinect for FAT" />
 <caption>Kinect sensor for XBox360 FAT</caption>
 
 Или можно приобрести блок питания с переходником отдельно от Kinect.
 
-<img class="wp-image-621 size-medium" src="/images/Kinect-power-supply-e1434218521514-300x214.jpg" alt="Kinect power supply" width="300" height="214" />
+<img src="/images/Kinect-power-supply-e1434218521514-300x214.jpg" alt="Kinect power supply" />
 <caption>Kinect sensor power supply</caption>
 
 Мне постоянно мешал внешний блок питания и переходник от Kinect и тогда Я решил модифицировать XBox360 добавив порт Kinect как в SLIM версии консоли для того, чтобы избавиться от лишних проводов.
@@ -45,10 +45,10 @@ tags:
 
 Теперь нужно найти распиновку разъёма питания XBox360 и подключиться к нему на материнской плате.
 
-<img class="size-medium wp-image-465" src="/images/360female-289x300.png" alt="Power connector" width="289" height="300" />
+<img src="/images/360female-289x300.png" alt="Power connector" />
 <caption>Power connector of XBox360</caption>
 
-<img class="size-medium wp-image-469" src="/images/PWRConnector-251x300.jpg" alt="Power connector" width="251" height="300" />
+<img src="/images/PWRConnector-251x300.jpg" alt="Power connector" />
 <caption>Power connector of XBox360</caption>
 
 Нужные контакты:
@@ -61,7 +61,7 @@ tags:
 
 Данные Kinect передаёт по специальному кабелю. Для того, чтобы подключить его к USB-порту необходим переходник с USB на Kinect-port.
 
-<img class="wp-image-467 size-medium" src="/images/kinect-extension-cable-e1434218471965-300x135.jpg" alt="Kinect sensor extension cable" width="300" height="135" />
+<img src="/images/kinect-extension-cable-e1434218471965-300x135.jpg" alt="Kinect sensor extension cable" />
 <caption>Kinect sensor extension cable</caption>
 
 **Примечание:** Если у вас нет переходника USB-Kinect то его можно сделать самостоятельно из подручных деталей и материалов. Инструкции есть в сети.
@@ -73,29 +73,29 @@ tags:
 
 **Шаг 1.** Сначало нужно разобрать XBox и достать материнскую плату так. Разборка не сложна и инструкций в сети много.
 
-<a href="http://mycyberuniverse.com/wp-content/uploads/IMG_1487.jpg" target="_blank"><img class="aligncenter wp-image-633 size-medium" src="/images/IMG_1487-225x300.jpg" alt="IMG_1487" width="225" height="300" /></a>
+<a href="http://mycyberuniverse.com/wp-content/uploads/IMG_1487.jpg" target="_blank"><img class="aligncenter" src="/images/IMG_1487-225x300.jpg" /></a>
 
-<a href="http://mycyberuniverse.com/wp-content/uploads/IMG_1499.jpg" target="_blank"><img class="alignnone wp-image-634 size-medium" src="/images/IMG_1499-300x225.jpg" alt="IMG_1499" width="300" height="225" /></a> <a href="http://mycyberuniverse.com/wp-content/uploads/IMG_1500.jpg" target="_blank"><img class="alignnone wp-image-632 size-medium" src="/images/IMG_1500-300x225.jpg" alt="IMG_1500" width="300" height="225" /></a>
+<a href="http://mycyberuniverse.com/wp-content/uploads/IMG_1499.jpg" target="_blank"><img class="alignnone" src="/images/IMG_1499-300x225.jpg" /></a> <a href="http://mycyberuniverse.com/wp-content/uploads/IMG_1500.jpg" target="_blank"><img class="alignnone" src="/images/IMG_1500-300x225.jpg" /></a>
 
 **Шаг 2.** Припаеваем провода питания к материнской плате.
 
-<a href="http://mycyberuniverse.com/wp-content/uploads/IMG_1502.jpg" target="_blank"><img class=" size-medium wp-image-628 alignnone" src="/images/IMG_1502-300x225.jpg" alt="IMG_1502" width="300" height="225" /></a> <a href="http://mycyberuniverse.com/wp-content/uploads/IMG_1498.jpg" target="_blank"><img class="alignnone wp-image-635 size-medium" src="/images/IMG_1498-300x225.jpg" alt="IMG_1498" width="300" height="225" /></a>
+<a href="http://mycyberuniverse.com/wp-content/uploads/IMG_1502.jpg" target="_blank"><img class="alignnone" src="/images/IMG_1502-300x225.jpg" /></a> <a href="http://mycyberuniverse.com/wp-content/uploads/IMG_1498.jpg" target="_blank"><img class="alignnone" src="/images/IMG_1498-300x225.jpg" /></a>
 
 **Шаг 3.** Припаеваем USB-female порт к одному из двух USB портов на передней панели.
 
-<a href="http://mycyberuniverse.com/wp-content/uploads/IMG_1507.jpg" target="_blank"><img class=" size-medium wp-image-627 alignnone" src="/images/IMG_1507-300x225.jpg" alt="IMG_1507" width="300" height="225" /></a> <a href="http://mycyberuniverse.com/wp-content/uploads/IMG_1501.jpg" target="_blank"><img class=" size-medium wp-image-631 alignnone" src="/images/IMG_1501-300x225.jpg" alt="IMG_1501" width="300" height="225" /></a>
+<a href="http://mycyberuniverse.com/wp-content/uploads/IMG_1507.jpg" target="_blank"><img class="alignnone" src="/images/IMG_1507-300x225.jpg" /></a> <a href="http://mycyberuniverse.com/wp-content/uploads/IMG_1501.jpg" target="_blank"><img class="alignnone" src="/images/IMG_1501-300x225.jpg" /></a>
 
 **Шаг 4.** Закрепляем новый порт (внутренний USB) на корпусе.
 
-<a href="http://mycyberuniverse.com/wp-content/uploads/IMG_1496.jpg" target="_blank"><img class="aligncenter wp-image-637 size-medium" src="/images/IMG_1496-300x225.jpg" alt="IMG_1496" width="300" height="225" /></a>
+<a href="http://mycyberuniverse.com/wp-content/uploads/IMG_1496.jpg" target="_blank"><img class="aligncenter" src="/images/IMG_1496-300x225.jpg" /></a>
 
 **Шаг 5.** Подключаем переходник USB-Kinect к внутреннему USB-порту (только-что установленный USB-female порт ) и укладываем кабель так, чтобы он не мешал.
 
-<a href="http://mycyberuniverse.com/wp-content/uploads/IMG_1493.jpg" target="_blank"><img class="aligncenter wp-image-638 size-medium" src="/images/IMG_1493-300x225.jpg" alt="IMG_1493" width="300" height="225" /></a>
+<a href="http://mycyberuniverse.com/wp-content/uploads/IMG_1493.jpg" target="_blank"><img class="aligncenter" src="/images/IMG_1493-300x225.jpg" /></a>
 
 **Шаг 6.** Новый разъём (другая сторона только-что установленного переходника USB-Kinect) устанавливаем и закрепляем термопластичным клеем на любое свободное место на задней панели XBox. Соответственно придётся вырезать отверстие под новый разъём. Мне больше понравилось место за наклейкой над разъёмом питания.
 
-<a href="http://mycyberuniverse.com/wp-content/uploads/IMG_1494.jpg" target="_blank"><img class="alignleft wp-image-639 size-medium" src="/images/IMG_1494-300x225.jpg" alt="IMG_1494" width="300" height="225" /></a>  <a href="http://mycyberuniverse.com/wp-content/uploads/IMG_1495.jpg" target="_blank"><img class="alignnone wp-image-636 size-medium" src="/images/IMG_1495-300x225.jpg" alt="IMG_1495" width="300" height="225" /></a>
+<a href="http://mycyberuniverse.com/wp-content/uploads/IMG_1494.jpg" target="_blank"><img class="alignleft" src="/images/IMG_1494-300x225.jpg" /></a>  <a href="http://mycyberuniverse.com/wp-content/uploads/IMG_1495.jpg" target="_blank"><img class="alignnone" src="/images/IMG_1495-300x225.jpg" /></a>
 
 **Примечание:** На этом месте был один из пластиковых замков (защёлка) корпуса который пришлось отрезать. Но после сборки корпуса стыки остались прежними. Корпус плотно закрыт после удаления одного из 7-и замков!
 
@@ -103,7 +103,7 @@ tags:
 
 В итоге XBox360 FAT имеет порт Kinect как и SLIM версия консоли.
 
-<a href="http://mycyberuniverse.com/wp-content/uploads/IMG_1489.jpg" target="_blank"><img class="alignnone wp-image-630 size-medium" src="/images/IMG_1489-225x300.jpg" alt="IMG_1489" width="225" height="300" /></a> <a href="http://mycyberuniverse.com/wp-content/uploads/IMG_1490.jpg" target="_blank"><img class="alignnone wp-image-629 size-medium" src="/images/IMG_1490-300x225.jpg" alt="IMG_1490" width="300" height="225" /></a>
+<a href="http://mycyberuniverse.com/wp-content/uploads/IMG_1489.jpg" target="_blank"><img class="alignnone" src="/images/IMG_1489-225x300.jpg" /></a> <a href="http://mycyberuniverse.com/wp-content/uploads/IMG_1490.jpg" target="_blank"><img class="alignnone" src="/images/IMG_1490-300x225.jpg" /></a>
 
 И на наклейке остался текст с характеристиками блока питания.
 

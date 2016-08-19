@@ -30,7 +30,7 @@ This feature is present in OS X for quite a long time. Using this trick you can 
 
 **3.** Hold down the Option key (`Alt`). Then, "Library" folder will appear in the list:
 
-<img class="aligncenter size-full" src="/images/Library-2.png" alt="Library-2" width="571" height="415" />
+<img class="aligncenter" src="/images/Library-2.png" alt="Library-2" width="571" height="415" />
 
 
 ### Method №2
@@ -41,7 +41,7 @@ This feature is present in OS X for quite a long time. Using this trick you can 
 
 **3.** Click on the tab “View” in the menu bar and select “Show View Options”.
 
-<img class="aligncenter size-full" src="/images/Library-3.png" alt="Library-3" width="650" height="372" />
+<img class="aligncenter" src="/images/Library-3.png" alt="Library-3" width="650" height="372" />
 
 **4.** Select “Show Library Folder”.
 
@@ -54,7 +54,7 @@ Then you will see the "Library" folder in your home folder.
 
 **2.** Click on the tab “Go” in the menu bar and select “Go to Folder…”. Or use the keyboard shortcut `Cmd+Shift+G`.
 
-<img class="aligncenter size-full" src="/images/Library-4.png" alt="Library-2" width="524" height="234" />
+<img class="aligncenter" src="/images/Library-4.png" alt="Library-2" width="524" height="234" />
 
 **3.** Enter the address of the directory:
 

@@ -32,19 +32,19 @@ tags:
 
 
 Пример того как это выглядит:
-<img src="/images/social-media-icons-2.png" alt="social media icons-2" width="600" height="206" class="aligncenter size-full" />
+<img src="/images/social-media-icons-2.png" alt="social media icons-2" width="600" height="206" class="aligncenter" />
 
 Social Media Buttons Toolbar displayed below the content of a post (Twenty Sixteen theme) :
-<img src="/images/screenshot-4-1.png" alt="WP plugin &quot;Social Media Buttons Toolbar&quot; by Arthur Gareginyan" width="1024" height="541" class="size-large wp-image-8794" />
+<img src="/images/screenshot-4-1.png" alt="WP plugin &quot;Social Media Buttons Toolbar&quot; by Arthur Gareginyan" width="1024" height="541" />
 
 Social Media Buttons Toolbar displayed in the sidebar using a shortcode in text widget (Twenty Sixteen theme) :
-<img src="/images/screenshot-5.png" alt="WP plugin &quot;Social Media Buttons Toolbar&quot; by Arthur Gareginyan" width="1024" height="541" class="size-large wp-image-8795" />
+<img src="/images/screenshot-5.png" alt="WP plugin &quot;Social Media Buttons Toolbar&quot; by Arthur Gareginyan" width="1024" height="541" />
 
 Social Media Buttons Toolbar displayed in the footer using a simple call the function directly from theme file (vCard theme) :
-<img src="/images/screenshot-7.png" alt="WP plugin &quot;Social Media Buttons Toolbar&quot; by Arthur Gareginyan" width="1024" height="541" class="size-large wp-image-8797" />
+<img src="/images/screenshot-7.png" alt="WP plugin &quot;Social Media Buttons Toolbar&quot; by Arthur Gareginyan" width="1024" height="541" />
 
 Social Media Buttons Toolbar displayed in the footer using a shortcode in text widget (Anarcho Notepad theme):
-<img src="/images/screenshot-6.png" alt="WP plugin &quot;Social Media Buttons Toolbar&quot; by Arthur Gareginyan" width="379" height="359" class="size-large wp-image-8796" />
+<img src="/images/screenshot-6.png" alt="WP plugin &quot;Social Media Buttons Toolbar&quot; by Arthur Gareginyan" width="379" height="359" />
 
 Кнопки располагаются горизонтально и в центре. Если они не поместятся в одну строку, то будут растянуты на несколько строк.
 

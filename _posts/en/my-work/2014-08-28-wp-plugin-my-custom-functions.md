@@ -27,7 +27,7 @@ EASILY and SAFELY add your own functions, snippets or any custom codes on your W
 
 ### Description
 
-<img src="/images/banner.png" alt="WP Plugin &quot;My Custom Functions&quot;" width="772" height="250" class="size-full wp-image-8804" />
+<img src="/images/banner.png" alt="WP Plugin &quot;My Custom Functions&quot;" />
 An easy to use WordPress plugin that lets you EASILY and SAFELY add your own functions, snippets or any custom codes for execution in WordPress environment directly out of your WordPress Dashbord without any need of an external editor. 
 
 It’s purpose is to provide a familiar experience to WordPress users. No need any more editing the functions.php file of your theme. Just add your code in the field on the page and this plugin will do the rest for you.
@@ -58,7 +58,7 @@ That’s it. You are already getting your functions working.
 * Line numbering  (CodeMirror).
 * Ready for translation (.pot file included).
 * CodeMirror scripts are combined and minified.
-* Published to the repository WordPess.org.
+* Published on [WordPess.org](http://wordpess.org/)
 
 **Coming soon:**
 
@@ -70,11 +70,11 @@ That’s it. You are already getting your functions working.
 ### Screenshot's
 
 1. Plugin's page with custom code added:
-<img src="/images/screenshot-1.png" alt="WP plugin &quot;My Custom Functions&quot; by Arthur Gareginyan" width="1024" height="603" class="size-large wp-image-8805" />
+<img src="/images/screenshot-1.png" alt="WP plugin &quot;My Custom Functions&quot; by Arthur Gareginyan" />
 2. Success message:
-<img src="/images/screenshot-3.png" alt="WP plugin &quot;My Custom Functions&quot; by Arthur Gareginyan" width="417" height="57" class="size-full wp-image-451" />
+<img src="/images/screenshot-3.png" alt="WP plugin &quot;My Custom Functions&quot; by Arthur Gareginyan" />
 3. "Fatal error" message:
-<img src="/images/screenshot-4.png" alt="WP plugin &quot;My Custom Functions&quot; by Arthur Gareginyan" width="418" height="68" class="size-full wp-image-452" />
+<img src="/images/screenshot-4.png" alt="WP plugin &quot;My Custom Functions&quot; by Arthur Gareginyan" />
 
 
 ### Translation
@@ -84,7 +84,7 @@ This plugin is translate ready. But If your language is not available you can ma
 
 ### License
 
-<img src="/images/gplv3-127x51.png" alt="gplv3" width="80" class="alignleft size-full wp-image-444" />This plugin is open-sourced software licensed under the <a href="http://www.gnu.org/licenses/gpl-3.0.html" title="GPLv3" target="_blank">GNU General Public License, version 3 (GPLv3)</a> and is distributed free of charge.
+<img src="/images/gplv3-127x51.png" alt="gplv3" width="80" class="alignleft" />This plugin is open-sourced software licensed under the <a href="http://www.gnu.org/licenses/gpl-3.0.html" title="GPLv3" target="_blank">GNU General Public License, version 3 (GPLv3)</a> and is distributed free of charge.
 
 Commercial licensing (e.g. for projects that can’t use an open-source license) is available upon request.
 
@@ -96,15 +96,12 @@ Commercial licensing (e.g. for projects that can’t use an open-source license)
 {% assign url = "https://github.com/ArthurGareginyan/my-custom-functions" %}{% include button-github.html %}
 
 
-### Support
+<br>
 
-Did you enjoy this plugin? Please donate to support ongoing development:
-{% include button-paypal.html %}
-
-Go to the dedicated plugin page on WordPress.org:
-{% assign url = "http://wordpress.org/plugins/my-custom-functions/" %}{% include button-link.html %}
-
-If you liked the plugin, then I'll be glad if you would appreciate or leave feedback on the site WordPress.org:
-{% assign url = "http://wordpress.org/support/view/plugin-reviews/my-custom-functions" %}{% include button-link.html %}
-
-Do you have any ideas or suggestions to make the plugin better? I can't wait to hear them! Please share!
+>**Contribution**
+>
+>Developing plugins is long and tedious work. If you benefit or enjoy this plugin please take the time to:
+>
+>* [Donate](http://www.arthurgareginyan.com/donate.html) to support ongoing development. Your contribution would be greatly appreciated.
+>* [Rate and Review](https://wordpress.org/support/view/plugin-reviews/my-custom-functions?rate=5#postform) this plugin.
+>* [Share with me](mailto:arthurgareginyan@gmail.com) or view the [GitHub Repo](https://github.com/ArthurGareginyan/my-custom-functions) if you have any ideas or suggestions to make this plugin better.

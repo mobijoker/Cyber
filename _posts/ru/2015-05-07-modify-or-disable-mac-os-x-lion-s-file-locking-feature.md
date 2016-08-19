@@ -26,7 +26,7 @@ tags:
 <pre>The file [File Name] is locked because you haven’t made any changes to it recently.</pre>
 
 
-<img class="aligncenter wp-image-570 size-full" src="/images/File-Locking-Feature-2.png" alt="File Locking Feature-2" width="451" height="168" />
+<img class="aligncenter" src="/images/File-Locking-Feature-2.png" alt="File Locking Feature-2" width="451" height="168" />
 
 Если, в течении 2 недель, файл не изменялся, то он автоматически блокируется операционной системой. Это предотвращает случайную модификацию файлов от авто-сохранения изменений.
 
@@ -38,12 +38,12 @@ tags:
 **Шаг 2**
 Выбирете "Time Machine".
 
-<img class="aligncenter wp-image-572 size-full" src="/images/File-Locking-Feature-4.png" alt="File Locking Feature-4" width="667" height="99" />
+<img class="aligncenter" src="/images/File-Locking-Feature-4.png" alt="File Locking Feature-4" width="667" height="99" />
 
 **Шаг 3**
 Нажмите на кнопку "Опции" (Options).
 
-<img class="aligncenter wp-image-571 size-full" src="/images/File-Locking-Feature-3.png" alt="File Locking Feature-3" width="782" height="559" />
+<img class="aligncenter" src="/images/File-Locking-Feature-3.png" alt="File Locking Feature-3" width="782" height="559" />
 
 **Шаг 4**
 
@@ -51,7 +51,7 @@ tags:
 
 *b)* Для изменения интервала между блокировкой файлов, нажмите на выпадающий список и выберите 1 день, 1 неделя, 2 недели, 1 месяц или 1 год.
 
-<img class="aligncenter wp-image-573 size-full" src="/images/File-Locking-Feature-5.png" alt="File Locking Feature-5" width="782" height="559" />
+<img class="aligncenter" src="/images/File-Locking-Feature-5.png" alt="File Locking Feature-5" width="782" height="559" />
 
 Теперь нажмите кнопку "Сохранить" (Save).
 

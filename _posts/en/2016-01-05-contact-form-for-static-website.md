@@ -208,6 +208,6 @@ Here’s the stylesheet for it:
 ```
  
 And that's how it looks:
-<img src="/images/static-contact-form.png" alt="static contact form" width="1024" height="541" class="size-large wp-image-8830" />
+<img src="/images/static-contact-form.png" alt="static contact form" width="1024" height="541" />
 
 You can check my contact form at <a href="http://www.arthurgareginyan.com/contact.html" target="_blank">http://www.arthurgareginyan.com</a>.

@@ -48,9 +48,9 @@ Now step by step:
 You shouldn’t understate its utility. The 404 page is perhaps the most neglected web design element. When your website visitors land on your 404 error page, it can be everything from a major inconvenience to a pleasant surprise. While this page has the sole function of telling the user where to go next, the creation of your 404 page should be approached from both a creative and functional point of view.
 
 I liked the design of 404 page from <a href="http://www.gog.com/error/404" target="_blank">Gog.com</a>. Here's their 404 page:
-<img src="/images/404-example.png" alt="static contact form" width="1024" height="541" class="size-large wp-image-8834" />
+<img src="/images/404-example.png" alt="static contact form" width="1024" height="541" />
 
 This design is simple and allows for easy navigation through the menu. So I wanted to make a similar page for my website. Here's what I've got:
-<img src="/images/404.png" alt="static contact form" width="1024" height="541" class="size-large wp-image-8835" />
+<img src="/images/404.png" alt="static contact form" width="1024" height="541" />
 
 You can check my 404 page at <a href="http://www.arthurgareginyan.com/error" target="_blank">http://www.arthurgareginyan.com/error</a>

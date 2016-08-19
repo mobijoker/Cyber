@@ -32,19 +32,19 @@ The social media buttons lets you add icons of the popular social networks which
 
 
 Here’s an example of what it looks like:
-<img src="/images/social-media-icons-2.png" alt="social media icons-2" width="600" height="206" class="aligncenter size-full wp-image-7169" />
+<img src="/images/social-media-icons-2.png" alt="social media icons-2" width="600" height="206" class="aligncenter" />
 
 Social Media Buttons Toolbar displayed below the content of a post (Twenty Sixteen theme) :
-<img src="/images/screenshot-4-1.png" alt="WP plugin &quot;Social Media Buttons Toolbar&quot; by Arthur Gareginyan" width="1024" height="541" class="size-large wp-image-8794" />
+<img src="/images/screenshot-4-1.png" alt="WP plugin &quot;Social Media Buttons Toolbar&quot; by Arthur Gareginyan" width="1024" height="541" />
 
 Social Media Buttons Toolbar displayed in the sidebar using a shortcode in text widget (Twenty Sixteen theme) :
-<img src="/images/screenshot-5.png" alt="WP plugin &quot;Social Media Buttons Toolbar&quot; by Arthur Gareginyan" width="1024" height="541" class="size-large wp-image-8795" />
+<img src="/images/screenshot-5.png" alt="WP plugin &quot;Social Media Buttons Toolbar&quot; by Arthur Gareginyan" width="1024" height="541" />
 
 Social Media Buttons Toolbar displayed in the footer using a simple call the function directly from theme file (vCard theme) :
-<img src="/images/screenshot-7.png" alt="WP plugin &quot;Social Media Buttons Toolbar&quot; by Arthur Gareginyan" width="1024" height="541" class="size-large wp-image-8797" />
+<img src="/images/screenshot-7.png" alt="WP plugin &quot;Social Media Buttons Toolbar&quot; by Arthur Gareginyan" width="1024" height="541" />
 
 Social Media Buttons Toolbar displayed in the footer using a shortcode in text widget (Anarcho Notepad theme):
-<img src="/images/screenshot-6.png" alt="WP plugin &quot;Social Media Buttons Toolbar&quot; by Arthur Gareginyan" width="379" height="359" class="size-large wp-image-8796" />
+<img src="/images/screenshot-6.png" alt="WP plugin &quot;Social Media Buttons Toolbar&quot; by Arthur Gareginyan" width="379" height="359" />
 
 Buttons arranged horizontally and centered. If they do not fit to the one line, then they will be placed on multiple lines.
 

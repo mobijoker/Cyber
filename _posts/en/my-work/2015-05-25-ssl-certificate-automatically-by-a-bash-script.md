@@ -174,7 +174,7 @@ Run the script:
 After you create the SSL certificate then you should bind it to the server.
 
 A screenshot of the menu of script:
-<img class="aligncenter wp-image-603 size-large" src="/images/ssl_crt_creater-1024x639.png" alt="SSL Certificate Creater" width="1024" height="639" />
+<img class="aligncenter" src="/images/ssl_crt_creater-1024x639.png" alt="SSL Certificate Creater" />
 
 
 ### Description

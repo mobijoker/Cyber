@@ -65,7 +65,7 @@ tags:
 
 ### Описание
 
-<img src="/images/banner2.png" alt="WP Plugin &quot;All Meta Tags&quot;" width="772" height="250" class="size-full wp-image-8802" />
+<img src="/images/banner2.png" alt="WP Plugin &quot;All Meta Tags&quot;" />
 No need anymore to editing a files of your theme or plugins in order to add meta tags. You can add they on plugins settings page. Just add your ID (the meta key “content” value from your verification code) or/and the URL to the social media profile of the publisher in the field on the plugin page and this plugin will do the rest for you. It adds required meta tags to the head section of your website automatically, without changing any of your themes file and without slowing down your website. It's really useful in case of any theme update, because your meta tags would never be lost! Your meta tags will keep on working, no matter how many times you upgrade or switch your theme and plugins.
 
 Third-party services like Google Webmaster Tools, Alexa, Pinterest and Google+ require you to verify your domain. This makes sure that you are the correct owner of your blog or store before they provide their services to you. You can use this plugin to easily verify your website or domain and get a more effective and efficient sharing results. Example with Pinterest. Once you completed the verification process, people will see a checkmark next to your domain in your Pinterest profile and in pinner search results. That check mark emphasis you have confirmed the ownership of your blog or website on Pinterest. This will help your website to rank better in google and other search engines. You can easily increase your blog traffic using this plugin. “All Meta Tags” is a simple but effective SEO plugin.
@@ -84,48 +84,48 @@ Also you can use this plugin to add required meta tags such as Author, Designer,
 
 **Current features:**
 
-* Google+ publisher link.
-* Facebook publisher meta tag.
-* Twitter publisher meta tag.
-* Pinterest verification meta tag.
-* Alexa verification meta tag.
-* Norton Safe Web verification meta tag.
-* Google Web Master Tools verification meta tag.
-* Bing Web Master Tools verification meta tag.
-* Yandex Web Master Tools verification meta tag.
-* Web of Trust (WOT) verification meta tag.
-* Meta tag with name="author".
-* Meta tag with name="designer".
-* Meta tag with name="contact".
-* Meta tag with name="copyright".
-* Meta tag with name="description" (Global and only for home page).
-* Ready for translation (.pot file included).
-* Added Russian translation.
-* Опубликовано в репозитории WordPess.org.
+* Google+ publisher link
+* Facebook publisher meta tag
+* Twitter publisher meta tag
+* Pinterest verification meta tag
+* Alexa verification meta tag
+* Norton Safe Web verification meta tag
+* Google Web Master Tools verification meta tag
+* Bing Web Master Tools verification meta tag
+* Yandex Web Master Tools verification meta tag
+* Web of Trust (WOT) verification meta tag
+* Meta tag with name="author"
+* Meta tag with name="designer"
+* Meta tag with name="contact"
+* Meta tag with name="copyright"
+* Meta tag with name="description" (Global and only for home page)
+* Ready for translation (.pot file included)
+* Added Russian translation
+* Опубликовано в репозитории [WordPess.org](http://wordpess.org/)
 
 **Скоро:**
 
-* Google Analytics verification meta tag.
-* SpecificFeeds.com verification meta tag.
-* Meta tag with name="creator".
-* Meta tag with name="publisher".
-* Meta tag with name="language".
+* Google Analytics verification meta tag
+* SpecificFeeds.com verification meta tag
+* Meta tag with name="creator"
+* Meta tag with name="publisher"
+* Meta tag with name="language"
 * (Есть идеи? Скажите мне!)
 
 
 ### Скриншоты
 
 1. Страница плагина. Block “Web Master Tools”:
-<img src="/images/screenshot-13.png" alt="WP plugin &quot;All Meta Tags&quot; by Arthur Gareginyan" width="1024" height="541" class="size-large wp-image-8707" />
+<img src="/images/screenshot-13.png" alt="WP plugin &quot;All Meta Tags&quot; by Arthur Gareginyan" />
 <caption>WP plugin "All Meta Tags" by Arthur "Berserkr" Gareginyan</caption>
-2. Plugin’s page. Block “Domain Verification”:
-<img src="/images/screenshot-22.png" alt="WP plugin &quot;All Meta Tags&quot; by Arthur Gareginyan" width="1024" height="541" class="size-large wp-image-8708" />
+2. Страница плагина. Block “Domain Verification”:
+<img src="/images/screenshot-22.png" alt="WP plugin &quot;All Meta Tags&quot; by Arthur Gareginyan" />
 <caption>WP plugin "All Meta Tags" by Arthur "Berserkr" Gareginyan</caption>
-3. Plugin’s page. Block “Meta Tags for Home page only”:
-<img src="/images/screenshot-32.png" alt="WP plugin &quot;All Meta Tags&quot; by Arthur Gareginyan" width="1024" height="541" class="size-large wp-image-8709" />
+3. Страница плагина. Block “Meta Tags for Home page only”:
+<img src="/images/screenshot-32.png" alt="WP plugin &quot;All Meta Tags&quot; by Arthur Gareginyan" />
 <caption>WP plugin "All Meta Tags" by Arthur "Berserkr" Gareginyan</caption>
-4. Plugin’s page. Block “Meta Tags for all website (Global)”:
-<img src="/images/screenshot-41.png" alt="WP plugin &quot;All Meta Tags&quot; by Arthur Gareginyan" width="1024" height="541" class="size-large wp-image-8710" />
+4. Страница плагина. Block “Meta Tags for all website (Global)”:
+<img src="/images/screenshot-41.png" alt="WP plugin &quot;All Meta Tags&quot; by Arthur Gareginyan" />
 <caption>WP plugin "All Meta Tags" by Arthur "Berserkr" Gareginyan</caption>
 
 
@@ -136,7 +136,7 @@ This plugin is translate ready. But If your language is not available you can ma
 
 ### Лицензия
 
-<img src="/images/gplv3-127x51.png" alt="gplv3" width="80" class="alignleft size-full wp-image-444" />This plugin is open-sourced software licensed under the <a href="http://www.gnu.org/licenses/gpl-3.0.html" title="GPLv3" target="_blank">GNU General Public License, version 3 (GPLv3)</a> and is distributed free of charge.
+<img src="/images/gplv3-127x51.png" alt="gplv3" width="80" class="alignleft" />This plugin is open-sourced software licensed under the <a href="http://www.gnu.org/licenses/gpl-3.0.html" title="GPLv3" target="_blank">GNU General Public License, version 3 (GPLv3)</a> and is distributed free of charge.
 
 Commercial licensing (e.g. for projects that can’t use an open-source license) is available upon request.
 
@@ -148,15 +148,12 @@ Commercial licensing (e.g. for projects that can’t use an open-source license)
 {% assign url = "https://github.com/ArthurGareginyan/all-meta-tags" %}{% include button-github.html %}
 
 
-### Поддержка
+<br>
 
-Did you enjoy this plugin? Please donate to support ongoing development:
-{% include button-paypal.html %}
-
-Go to the dedicated plugin page on WordPress.org:
-{% assign url = "http://wordpress.org/plugins/all-meta-tags/" %}{% include button-link.html %}
-
-If you liked the plugin, then I'll be glad if you would appreciate or leave feedback on the site WordPress.org:
-{% assign url = "http://wordpress.org/support/view/plugin-reviews/all-meta-tags" %}{% include button-link.html %}
-
-Do you have any ideas or suggestions to make the plugin better? I can't wait to hear them! Please share!
+>**Contribution**
+>
+>Developing plugins is long and tedious work. If you benefit or enjoy this plugin please take the time to:
+>
+>* [Donate](http://www.arthurgareginyan.com/donate.html) to support ongoing development. Your contribution would be greatly appreciated.
+>* [Rate and Review](https://wordpress.org/support/view/plugin-reviews/all-meta-tags?rate=5#postform) this plugin.
+>* [Share with me](mailto:arthurgareginyan@gmail.com) or view the [GitHub Repo](https://github.com/ArthurGareginyan/all-meta-tags) if you have any ideas or suggestions to make this plugin better.

@@ -26,7 +26,7 @@ The Raspberry Pi is a great single board computer. However I don't always want t
 
 
 The Raspbian is configured by default to receive an IP address from a DHCP server. So you need a DHCP server. This can be done using the sharing option in Mac OS X. Just set it up like that.
-<img class="aligncenter wp-image-509 size-full" src="/images/Screen-Shot-2015-02-03-at-23.27.19.png" alt="Mac OS X Sharing" width="782" height="662" />
+<img class="aligncenter" src="/images/Screen-Shot-2015-02-03-at-23.27.19.png" alt="Mac OS X Sharing" width="782" height="662" />
 
 Once you have enabled this option just connect your Mac and Raspberry Pi using an ethernet cable. Also note that you don't need a special “cross-over” cable.
 
