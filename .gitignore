@@ -1,3 +1,24 @@
+# OS files
 .DS_Store
+Thumbs.db
+
+
+# Folders
+.svn
+
+
+# Extensions
+*.log
+
+
+# Jekyll
 _site
+.jekyll
+.jekyll-metadata
+.bundle
 .sass-cache
+vendor
+Gemfile
+Gemfile.lock
+node_modules
+package.json
