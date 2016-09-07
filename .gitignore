@@ -15,10 +15,10 @@ Thumbs.db
 _site
 .jekyll
 .jekyll-metadata
-.bundle
+#.bundle
 .sass-cache
 vendor
-Gemfile
-Gemfile.lock
+#Gemfile
+#Gemfile.lock
 node_modules
 package.json
