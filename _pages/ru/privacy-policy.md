@@ -1,5 +1,4 @@
 ---
-title: Privacy Policy
 lang: ru
 ref: privacy-policy
 date: 2015-09-17T03:40:43+00:00
@@ -8,6 +7,10 @@ layout: page
 permalink: /ru/privacy-policy.html
 
 ---
+
+# Privacy Policy
+
+&nbsp;
 
 "My Cyber Universe" takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it.
 
