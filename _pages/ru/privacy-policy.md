@@ -1,11 +1,11 @@
 ---
 title: Privacy Policy
-lang: en
+lang: ru
 ref: privacy-policy
 date: 2015-09-17T03:40:43+00:00
 author: Arthur Gareginyan
 layout: page
-permalink: /privacy-policy.html
+permalink: /ru/privacy-policy.html
 
 ---
 

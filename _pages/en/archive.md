@@ -1,9 +1,10 @@
 ---
-layout: page
 title: Archive
 lang: en
 ref: archive
 order: 5
+author: Arthur Gareginyan
+layout: page
 permalink: /archive.html
 
 ---
