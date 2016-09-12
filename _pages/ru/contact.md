@@ -25,17 +25,16 @@ redirect_from: /ru/contacts.html
 <div class="field-right">
 
     <div class="form-title">Subject :</div>
-    <input type="email" name="subject" placeholder="Enter the subject" class="form-field">
+    <input type="text" name="subject" placeholder="Enter the subject" class="form-field">
 
     <div class="form-title">Website <span style="color:#aaaaaa">(If applicable)</span>:</div>
-    <input type="email" name="website" placeholder="Enter the URL" class="form-field">
+    <input type="url" name="website" placeholder="Enter the URL" class="form-field">
 
 </div>
 
     <div class="form-title">Message:</div>
     <textarea name="message" rows="10" placeholder="Enter your message" class="form-field form-message"></textarea>
 
-    <input type="hidden" name="_subject" value="Website contact" />
     <input type="hidden" name="_next" value="//www.mycyberuniverse.com/contact-thanks.html" />
     <input type="text" name="_gotcha" style="display:none">
 
