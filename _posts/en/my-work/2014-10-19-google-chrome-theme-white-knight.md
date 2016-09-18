@@ -36,4 +36,4 @@ It can be installed in Chrome and Chromium. To install this theme, drag and drop
 
 ### Copyrights for Resources used in this theme
 
-The Default Background Image (`images/theme_ntp_background.npg`) is under public domain: `http://www.goodfon.ru/wallpaper/smert-skilet-rycar.html`.
+The Default Background Image (`images/theme_ntp_background.npg`) is from: `http://www.goodfon.ru/wallpaper/smert-skilet-rycar.html`.
