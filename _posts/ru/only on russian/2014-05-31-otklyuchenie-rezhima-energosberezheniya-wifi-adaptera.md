@@ -32,7 +32,7 @@ tags:
 
 ---
 
-![thumb](/images/WiFi.png)
+![thumb](/images/thumbnail/WiFi.png)
 После некоторого времени простоя Raspberry Pi, USB-WiFi адаптер переходит в режим энергосбережения (saving mode) и к RPi больше нельзя подключиться по SSH.
 
 Дано:

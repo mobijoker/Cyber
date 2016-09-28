@@ -20,7 +20,7 @@ tags:
 
 ---
 
-![thumb](/images/copy-files-150x150.png)
+![thumb](/images/thumbnail/copy-files.png)
 How to, from the terminal, securely transfer data between a local host and a remote host or between two remote hosts.
 
 

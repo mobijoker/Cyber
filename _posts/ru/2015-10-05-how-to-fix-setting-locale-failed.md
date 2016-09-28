@@ -20,7 +20,7 @@ tags:
 
 ---
 
-![thumb](/images/error.png)
+![thumb](/images/thumbnail/error.png)
 В различных ситуациях (например, во время установки приложений Perl или при использовании `apt-get install`) я получаю следующее предупреждающее сообщение:
 
 <pre>

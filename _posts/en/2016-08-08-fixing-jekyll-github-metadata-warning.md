@@ -19,7 +19,7 @@ tags:
 
 ---
 
-![thumb](/images/error.png)
+![thumb](/images/fixing-jekyll-github-metadata-warning/error.png)
 When I run the `jekyll serve` command in my local Jekyll environment I got the following warning:
 <pre>
 GitHub Metadata: No GitHub API authentication could be found. Some fields may be missing or have incorrect data.
@@ -32,7 +32,7 @@ Here’s the solution to fix this warning:
 
 **Step 1.** Create the GitHub personal access token with `public_repo` scope. You can find guide [here](https://help.github.com/articles/creating-an-access-token-for-command-line-use/).
 
-![](/images/github-metadata-error.png)
+![](/images/fixing-jekyll-github-metadata-warning/github-metadata-error.png)
 
 Note: Remember to keep the token secret - you don’t want other people to use the API on your behalf!
 

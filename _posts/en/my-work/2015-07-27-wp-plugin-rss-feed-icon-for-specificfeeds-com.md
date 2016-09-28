@@ -21,13 +21,13 @@ tags:
 
 ---
 
-![thumb](/images/icon-256x256-2.png)
+![thumb](/images/rss-feed-icon-for-specificfeeds-com/icon.png)
 An easy to use WordPress plugin that lets you easily add RSS feed icon which connected to SpecificFeeds.com with the shortcode in any place of your website.
 
 
 ### Description
 
-<img src="/images/banner1.png" alt="WP Plugin &quot;RSS Feed Icon for SpecificFeeds.com&quot;" />
+<img src="/images/rss-feed-icon-for-specificfeeds-com/banner.png" alt="WP Plugin &quot;RSS Feed Icon for SpecificFeeds.com&quot;" />
 This plugin allows you to simply add RSS feed icon by SpecificFeeds.com in any place of your web-site.
 
 SpecificFeeds.com allows your visitors to receive messages from your Blog/RSS Feed by email. It's 100% free and also has several other benefits.
@@ -56,7 +56,7 @@ To use, enter your personal link from SpecificFeeds.com, choose icon and click "
 ### Screenshot's
 
 1. Plugin's page:
-<img src="/images/screenshot-11.png" alt="WP plugin &quot;RSS Feed Icon for SpecificFeeds.com&quot; by Arthur Gareginyan" />
+<img src="/images/rss-feed-icon-for-specificfeeds-com/screenshot-1.png" alt="WP plugin &quot;RSS Feed Icon for SpecificFeeds.com&quot; by Arthur Gareginyan" />
 
 
 ### Translation
@@ -66,7 +66,7 @@ This plugin is translate ready. But If your language is not available you can ma
 
 ### License
 
-<img src="/images/gplv3-127x51.png" alt="gplv3" width="80" class="alignleft" />This plugin is open-sourced software licensed under the <a href="http://www.gnu.org/licenses/gpl-3.0.html" title="GPLv3" target="_blank">GNU General Public License, version 3 (GPLv3)</a> and is distributed free of charge.
+<img src="/images/gplv3.png" alt="gplv3" width="80" class="alignleft" />This plugin is open-sourced software licensed under the <a href="http://www.gnu.org/licenses/gpl-3.0.html" title="GPLv3" target="_blank">GNU General Public License, version 3 (GPLv3)</a> and is distributed free of charge.
 
 Commercial licensing (e.g. for projects that can’t use an open-source license) is available upon request.
 

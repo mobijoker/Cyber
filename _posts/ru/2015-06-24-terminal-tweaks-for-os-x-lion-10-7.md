@@ -27,7 +27,7 @@ tags:
 
 ---
 
-![thumb](/images/OS-X-Tweaks-150x150.png)
+![thumb](/images/thumbnail/OS-X-Tweaks.png)
 Со временем, производительность любого компьютера ухудшаеться – даже Mac. В этом посте Я покажу вам твики которые Я использую на своём MacBook White с Mac OS X Lion 10.7.
 
 

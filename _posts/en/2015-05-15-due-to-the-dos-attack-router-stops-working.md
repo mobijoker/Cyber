@@ -28,7 +28,7 @@ tags:
 
 ---
 
-![thumb](/images/DoS-attack-and-wireless-router-300x300.png)
+![thumb](/images/thumbnail/DoS-attack-and-wireless-router.png)
 How to fix the issue if, in the logs of the router, you see the message about a DoS attacks and then your ASUS router is down until you reboot it.
 
 

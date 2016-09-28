@@ -22,7 +22,7 @@ tags:
 
 ---
 
-![thumb](/images/php-logo.png)
+![thumb](/images/thumbnail/php-logo.png)
 По умолчанию размер загружаемого файла для PHP (и, соответственно, для WordPress) установлен в 2 MB, что вызывает проблемы при попытке загрузки файла большего размера. Выполните следующие шаги если вы получили такое сообщение:
 <pre>The uploaded file exceeds the upload_max_filesize directive in php.ini</pre>
 

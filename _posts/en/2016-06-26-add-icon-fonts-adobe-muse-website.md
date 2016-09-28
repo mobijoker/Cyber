@@ -21,7 +21,7 @@ tags:
 
 ---
 
-![thumb](/images/cloud.png)
+![thumb](/images/add-icon-fonts-adobe-muse-website/cloud.png)
 The beauty of icon-fonts is that they are in essence, fonts. Which means they can be used much like any other piece of text. Unlike images they can have their colour changed easily, can be scaled and are lightweight in download terms. And they are fully responsive and retina friendly. The huge choice available at Font Awesome, Bootstrap and Google font icons means that you should find the exact graphic you are looking for and when combined with other muse assets you can quickly and easily build buttons, graphics and widgets. In this article you’ll learn how to use and customize the Font Awesome, Bootstrap and Google font icons in any Muse website.
 
 
@@ -38,7 +38,7 @@ First, you need to add the icon-fonts to your Muse project so that you could use
 
 **c)** Go to the `Meta Data` tab in the panel and paste on of the following line (you can add all three icon-fonts) into the `HTML for <head>` area of the panel. 
 
-![](/images/icon-fonts-1.png)
+![](/images/add-icon-fonts-adobe-muse-website/icon-fonts-1.png)
 
 Font Awesome icon-font:
 
@@ -88,7 +88,7 @@ Google icon:
 
 **c)** Simply right click and paste (or Command-V for Mac, Ctrl-V for Windows) the code anywhere on the page. After a second or two, while Muse makes the connection to the CDN, the icon will appear on the page. You should now have something that looks like this:
 
-![](/images/icon-fonts-2.png)
+![](/images/add-icon-fonts-adobe-muse-website/icon-fonts-2.png)
 
 
 ### Step 3: Stylize an icon
@@ -101,6 +101,6 @@ Now you can make your icon look a bit better using the text controls menu. From 
 
 **c)** Here change what you like.
 
-![](/images/icon-fonts-3.png)
+![](/images/add-icon-fonts-adobe-muse-website/icon-fonts-3.png)
 
 **Note:** There will be a slight pause as Muse renders the font. Notice how the font has resized and has kept its quality as it is a vector font.

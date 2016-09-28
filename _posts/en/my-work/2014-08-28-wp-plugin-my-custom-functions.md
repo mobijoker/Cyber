@@ -21,13 +21,13 @@ tags:
 
 ---
 
-![thumb](/images/icon-256x2561.png)
+![thumb](/images/my-custom-functions/icon.png)
 EASILY and SAFELY add your own functions, snippets or any custom codes on your WordPress website, directly out of your WordPress Dashbord without need of an external editor.
 
 
 ### Description
 
-<img src="/images/banner.png" alt="WP Plugin &quot;My Custom Functions&quot;" />
+<img src="/images/my-custom-functions/banner.png" alt="WP Plugin &quot;My Custom Functions&quot;" />
 An easy to use WordPress plugin that lets you EASILY and SAFELY add your own functions, snippets or any custom codes for execution in WordPress environment directly out of your WordPress Dashbord without any need of an external editor. 
 
 It’s purpose is to provide a familiar experience to WordPress users. No need any more editing the functions.php file of your theme. Just add your code in the field on the page and this plugin will do the rest for you.
@@ -70,11 +70,11 @@ That’s it. You are already getting your functions working.
 ### Screenshot's
 
 1. Plugin's page with custom code added:
-<img src="/images/screenshot-1.png" alt="WP plugin &quot;My Custom Functions&quot; by Arthur Gareginyan" />
+<img src="/images/my-custom-functions/screenshot-1.png" alt="WP plugin &quot;My Custom Functions&quot; by Arthur Gareginyan" />
 2. Success message:
-<img src="/images/screenshot-3.png" alt="WP plugin &quot;My Custom Functions&quot; by Arthur Gareginyan" />
+<img src="/images/my-custom-functions/screenshot-2.png" alt="WP plugin &quot;My Custom Functions&quot; by Arthur Gareginyan" />
 3. "Fatal error" message:
-<img src="/images/screenshot-4.png" alt="WP plugin &quot;My Custom Functions&quot; by Arthur Gareginyan" />
+<img src="/images/my-custom-functions/screenshot-3.png" alt="WP plugin &quot;My Custom Functions&quot; by Arthur Gareginyan" />
 
 
 ### Translation
@@ -84,7 +84,7 @@ This plugin is translate ready. But If your language is not available you can ma
 
 ### License
 
-<img src="/images/gplv3-127x51.png" alt="gplv3" width="80" class="alignleft" />This plugin is open-sourced software licensed under the <a href="http://www.gnu.org/licenses/gpl-3.0.html" title="GPLv3" target="_blank">GNU General Public License, version 3 (GPLv3)</a> and is distributed free of charge.
+<img src="/images/gplv3.png" alt="gplv3" width="80" class="alignleft" />This plugin is open-sourced software licensed under the <a href="http://www.gnu.org/licenses/gpl-3.0.html" title="GPLv3" target="_blank">GNU General Public License, version 3 (GPLv3)</a> and is distributed free of charge.
 
 Commercial licensing (e.g. for projects that can’t use an open-source license) is available upon request.
 

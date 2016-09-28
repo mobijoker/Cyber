@@ -18,7 +18,7 @@ tags:
 
 ---
 
-![thumb](/images/github-godaddy.png)
+![thumb](/images/configuring-a-godaddy-domain-name-with-github-pages/icon.png)
 GitHub Pages is an incredibly simple, user-friendly solution for hosting a simple personal website. By default the address will be `username.github.io`. Below, I'll explain how I set up my github.io user page with my own domain name arthurgareginyan.com that registered trough GoDaddy.com.
 
 
@@ -37,7 +37,7 @@ I'll assume this is done. In my case, I set up a user page at `arthurgareginyan.
 
 **d)** Put the domain name in your file, in my case is - `www.arthurgareginyan.com` (without `http://`, only apex domain `arthurgareginyan.com` or with subdomain like `www.`).
 
-<img src="/images/godaddy-1.png" alt="github & godaddy" />
+<img src="/images/configuring-a-godaddy-domain-name-with-github-pages/screenshot-1.png" alt="github & godaddy" />
 
 **e)** Commit and push your changes.
 
@@ -59,7 +59,7 @@ I'll assume this is done. In my case, I set up a user page at `arthurgareginyan.
 **c)** Choose the domain name that you want to point to your github.io page.
 
 **d)** Click on the "DNS Zone File" tab.
-<img src="/images/godaddy-2.png" alt="github & godaddy" />
+<img src="/images/configuring-a-godaddy-domain-name-with-github-pages/screenshot-2.png" alt="github & godaddy" />
 
 **e)** Under the "A (Host)" section add a two A-records:
 
@@ -67,13 +67,13 @@ I'll assume this is done. In my case, I set up a user page at `arthurgareginyan.
 * Second: "A (Host)" record with `host` = `@` and `Points to` = `192.30.252.154`.
 
 
-<img src="/images/godaddy-4.png" alt="github & godaddy" />
+<img src="/images/configuring-a-godaddy-domain-name-with-github-pages/screenshot-3.png" alt="github & godaddy" />
 
-This is explained at https://help.github.com/articles/tips-for-configuring-an-a-record-with-your-dns-provider/
+This is explained [there](https://help.github.com/articles/tips-for-configuring-an-a-record-with-your-dns-provider/).
 
 **f)** Under the "CName (Alias)" section add a "CNAME (Alias)" record with `host` = `www` and `Points to` = `username.github.io` (in my case is `arthurgareginyan.github.io`).
 
-<img src="/images/godaddy-3.png" alt="github & godaddy" />
+<img src="/images/configuring-a-godaddy-domain-name-with-github-pages/screenshot-4.png" alt="github & godaddy" />
 
 **g)** Save changes.
 

@@ -29,7 +29,7 @@ tags:
 
 ---
 
-![thumb](/images/fcpx-apple.png)
+![thumb](/images/thumbnail/fcpx-apple.png)
 To migrate an Event from the application Final Cut Pro X (hereinafter FCPX), from one Mac to another Mac, not enough simply to move this event at the same place on an another Mac, because so event do not appear in the library of FCPX.
 
 

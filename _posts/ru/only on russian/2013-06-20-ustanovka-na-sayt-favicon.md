@@ -14,7 +14,7 @@ tags:
 
 ---
 
-![thumb](/images/favicon.jpg)
+![thumb](/images/thumbnail/favicon.jpg)
 Из <a href="http://ru.wikipedia.org/wiki/Favicon">Wiki</a>:
 “Favicon (сокр. от англ. FAVorites ICON — «значок для избранного», от названия папки с закладками в <a href="http://ru.wikipedia.org/wiki/Internet_Explorer">MSIE</a>) — значок веб-сайтаили веб-страницы. Отображается браузером в адресной строке перед URL страницы, а также в качестве картинки рядом с закладкой, во вкладках и в других элементах интерфейса.”
 

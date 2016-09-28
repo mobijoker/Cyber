@@ -24,13 +24,13 @@ tags:
 
 ---
 
-![thumb](/images/icon-256x256.png)
+![thumb](/images/my-custom-styles/icon.png)
 An easy to use WordPress plugin that gives you the ability to EASILY and SAFELY add your custom styles (CSS) to WordPress website's header.
 
 
 ### Description
 
-<img src="/images/banner-772x250.png" alt="WP Plugin &quot;My Custom Styles&quot;" />
+<img src="/images/my-custom-styles/banner.png" alt="WP Plugin &quot;My Custom Styles&quot;" />
 No need anymore to editing a files of your theme and/or plugins for to add custom styles (CSS). Just add your CSS code in the field on the plugin page and this plugin will do the rest for you. It's really useful in case of any theme/plugin update, because your custom styles (CSS) would never be overwritten!
 
 On the plugin page you find the CSS editor powered by CodeMirror. It have syntax highlighting and line numbering options. Also this editor support a tab indentation.
@@ -67,11 +67,11 @@ That’s it. You are already getting your custom CSS working.
 ### Screenshot's
 
 1. Plugin's page:
-<img src="/images/screenshot-12.png" alt="WP plugin &quot;My Custom Styles&quot; by Arthur Gareginyan" />
+<img src="/images/my-custom-styles/screenshot-1.png" alt="WP plugin &quot;My Custom Styles&quot; by Arthur Gareginyan" />
 2. Plugin’s page with custom CSS code added:
-<img src="/images/screenshot-21.png" alt="WP plugin &quot;My Custom Styles&quot; by Arthur Gareginyan" />
+<img src="/images/my-custom-styles/screenshot-2.png" alt="WP plugin &quot;My Custom Styles&quot; by Arthur Gareginyan" />
 3. Plugin’s page with success message:
-<img src="/images/screenshot-31.png" alt="WP plugin &quot;My Custom Styles&quot; by Arthur Gareginyan"  />
+<img src="/images/my-custom-styles/screenshot-3.png" alt="WP plugin &quot;My Custom Styles&quot; by Arthur Gareginyan"  />
 
 
 ### Translation
@@ -80,7 +80,7 @@ This plugin is translate ready. But If your language is not available you can ma
 
 
 ### License
-<img src="/images/gplv3-127x51.png" alt="gplv3" width="80" class="alignleft" />This plugin is open-sourced software licensed under the <a href="http://www.gnu.org/licenses/gpl-3.0.html" title="GPLv3" target="_blank">GNU General Public License, version 3 (GPLv3)</a> and is distributed free of charge.
+<img src="/images/gplv3.png" alt="gplv3" width="80" class="alignleft" />This plugin is open-sourced software licensed under the <a href="http://www.gnu.org/licenses/gpl-3.0.html" title="GPLv3" target="_blank">GNU General Public License, version 3 (GPLv3)</a> and is distributed free of charge.
 
 Commercial licensing (e.g. for projects that can’t use an open-source license) is available upon request.
 

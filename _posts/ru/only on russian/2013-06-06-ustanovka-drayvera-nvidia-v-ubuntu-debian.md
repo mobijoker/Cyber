@@ -20,7 +20,7 @@ tags:
 
 ---
 
-![thumb](/images/nvidia.jpg)
+![thumb](/images/ustanovka-drayvera-nvidia-v-ubuntu-debian/nvidia.jpg)
 Есть несколько способов установить проприетарный видео драйвер NVIDIA в Debian и производных от неё (например Ubuntu). В этой статье я опишу один из них. Такой способ установки не очень хорош так как входит в противоречие с пакетной системой Debian, что может привести к тому, что драйвер после обновления системы просто перестанет работать и тогда придётся его переустановить. Но не смотря на это иногда бывает проще установить драйвер именно таким способом.
  
 **1.** Подключаем ветку **non-free**.
@@ -37,7 +37,7 @@ sudo apt-get install linux-headers-`uname -r` binutils pkg-config build-essentia
 
 **4.** Далее необходимо отключить оболочку, чтобы не получить вот такое сообщение:
 
-<a href="http://mycyberuniverse.com/wp-content/uploads/stopx.png"><img src="/images/stopx.png" /></a>
+<img src="/images/ustanovka-drayvera-nvidia-v-ubuntu-debian/stopx.png" />
 
 Комманда остановки зависит от того какая оболочка установленна у вас.
 Если версия Ubuntu 11.10 или выше (Unity):

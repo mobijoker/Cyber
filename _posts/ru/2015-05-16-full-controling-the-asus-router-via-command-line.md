@@ -29,7 +29,7 @@ tags:
 
 ---
 
-![thumb](/images/Wireless-router-300x240.png)
+![thumb](/images/thumbnail/Wireless-router.png)
 Как получить полный контроль, над роутером ASUS с установленной оригинальной (заводской) прошивкой, через командную строку с помощью Telnet протокола доступа.
 
 

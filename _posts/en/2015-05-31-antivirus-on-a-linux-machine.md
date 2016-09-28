@@ -27,7 +27,7 @@ tags:
 
 ---
 
-![thumb](/images/clamav-trademark-300x244.png)
+![thumb](/images/thumbnail/clamav-trademark.png)
 How to, on a Linux machine, using the ClamAV, detect malicious code (trojans, viruses, malware & other malicious threats).
 
 

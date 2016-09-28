@@ -28,7 +28,7 @@ tags:
 
 ---
 
-![thumb](/images/DoS-attack-and-wireless-router-300x300.png)
+![thumb](/images/thumbnail/DoS-attack-and-wireless-router.png)
 Что делать если, в логах ASUS роутера вы видите сообщения о DoS атаках, а затем ваш роутер перестаёт работать до следующей перезагрузки.
 
 

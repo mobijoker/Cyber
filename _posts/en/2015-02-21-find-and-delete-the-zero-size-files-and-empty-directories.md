@@ -21,7 +21,7 @@ tags:
 
 ---
 
-![thumb](/images/find-150x150.png)
+![thumb](/images/thumbnail/find.png)
 How to, in the terminal, using the `find` utility, find and optionally delete all zero bytes/size/length files and empty directories in the specified directory including subdirectories.
 
 

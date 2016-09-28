@@ -28,7 +28,7 @@ tags:
 
 ---
 
-![thumb](/images/jekyll-rouge.png)
+![thumb](/images/thumbnail/jekyll-rouge.png)
 Jekyll has built in support for [Syntax Highlighting](https://en.wikipedia.org/wiki/Syntax_highlighting) of over 100 languages. You can have code snippets highlighted so that they are easier to read on your GitHub Pages website. In this post I will show you how you can integrate Rouge into your Jekyll setup.
 
 <br>

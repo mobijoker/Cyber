@@ -22,7 +22,7 @@ tags:
 
 ---
 
-![thumb](/images/php-logo.png)
+![thumb](/images/thumbnail/php-logo.png)
 The default upload file size for php (and, consequently, for WordPress) is 2 MB, which is a problem if you want to upload a files that’s bigger. Follow these steps if you get this message:
 <pre>
 The uploaded file exceeds the upload_max_filesize directive in php.ini

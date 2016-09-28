@@ -27,24 +27,24 @@ tags:
 
 ---
 
-![thumb](/images/social-media-icons.png)
+![thumb](/images/social-media-buttons-toolbar/icon.png)
 The social media buttons lets you add icons of the popular social networks which are linked to your social media profiles. You will learn how to add a vertical and horizontal line or lines of social media buttons to your website’s post, sidebar or footer, using whatever icons you prefer.
 
 
 Here’s an example of what it looks like:
-<img src="/images/social-media-icons-2.png" alt="social media icons-2" width="600" height="206" class="aligncenter" />
+<img src="/images/social-media-buttons-toolbar/social-media-icons-2.png" alt="social media icons-2" width="600" height="206" class="aligncenter" />
 
 Social Media Buttons Toolbar displayed below the content of a post (Twenty Sixteen theme) :
-<img src="/images/screenshot-4-1.png" alt="WP plugin &quot;Social Media Buttons Toolbar&quot; by Arthur Gareginyan" width="1024" height="541" />
+<img src="/images/social-media-buttons-toolbar/screenshot-4.png" alt="WP plugin &quot;Social Media Buttons Toolbar&quot; by Arthur Gareginyan" width="1024" height="541" />
 
 Social Media Buttons Toolbar displayed in the sidebar using a shortcode in text widget (Twenty Sixteen theme) :
-<img src="/images/screenshot-5.png" alt="WP plugin &quot;Social Media Buttons Toolbar&quot; by Arthur Gareginyan" width="1024" height="541" />
+<img src="/images/social-media-buttons-toolbar/screenshot-5.png" alt="WP plugin &quot;Social Media Buttons Toolbar&quot; by Arthur Gareginyan" width="1024" height="541" />
 
 Social Media Buttons Toolbar displayed in the footer using a simple call the function directly from theme file (vCard theme) :
-<img src="/images/screenshot-7.png" alt="WP plugin &quot;Social Media Buttons Toolbar&quot; by Arthur Gareginyan" width="1024" height="541" />
+<img src="/images/social-media-buttons-toolbar/screenshot-7.png" alt="WP plugin &quot;Social Media Buttons Toolbar&quot; by Arthur Gareginyan" width="1024" height="541" />
 
 Social Media Buttons Toolbar displayed in the footer using a shortcode in text widget (Anarcho Notepad theme):
-<img src="/images/screenshot-6.png" alt="WP plugin &quot;Social Media Buttons Toolbar&quot; by Arthur Gareginyan" width="379" height="359" />
+<img src="/images/social-media-buttons-toolbar/screenshot-6.png" alt="WP plugin &quot;Social Media Buttons Toolbar&quot; by Arthur Gareginyan" width="379" height="359" />
 
 Buttons arranged horizontally and centered. If they do not fit to the one line, then they will be placed on multiple lines.
 
@@ -56,7 +56,7 @@ You can add social media buttons to your website or blog by two ways, but first 
 
 **Step 1.** On the internet find the social media icons you would like to use. Make sure you’re not violating any copyright. Once you’ve found some that you like, download them to your computer.
 
-I using <a href="https://www.iconfinder.com/iconsets/social-buttons-2" target="_blank">“Social Buttons 2”</a> set of icons by Ivlichev Victor Petrovich. This set of icons is free and licensed under Creative Commons (Attribution 3.0 Unported).
+I using <a href="https://www.iconfinder.com/iconsets/social-buttons-2?ref=ArthurGareginyan" target="_blank">“Social Buttons 2”</a> set of icons by Ivlichev Victor Petrovich. This set of icons is free and licensed under Creative Commons (Attribution 3.0 Unported).
 
 **Step 2.** Put all icons in new folder, example `social-media-icons` and upload them to your website’s media library. In the CMS WordPress this is folder with name `uploads` (it located at `/you-website/wp-content/uploads/`). Then address to your icons will be similar to this:
 `http://your-website.com/wp-content/uploads/social-media-icons/facebook.ico`

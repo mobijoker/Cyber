@@ -21,7 +21,7 @@ tags:
 
 ---
 
-![thumb](/images/formspree.png)
+![thumb](/images/thumbnail/formspree.png)
 I have recently put together an Adobe Muse website hosted in GitHub Pages here: <a href="http://www.arthurgareginyan.com" target="_blank">www.arthurgareginyan.com</a>. GitHub Pages accepts static HTML and can’t execute languages like PHP or use a database. I love static websites. They are simple and fast. But they don't have a back-end to create things such as contact form. So firstly I was just giving my email address on the website, which turned out to be bad idea. Then I googled and stumbled upon Formspree, and I fell in love.
 
 

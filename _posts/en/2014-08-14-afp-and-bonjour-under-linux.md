@@ -25,7 +25,7 @@ tags:
 
 ---
 
-![thumb](/images/time-capsule-150x150.png)
+![thumb](/images/thumbnail/time-capsule.png)
 Mac File Server and Time Machine Volume on Linux Machine.
 
 For quite some time I use my Linux machine as a file and backup server for all Mac’s in my network which is accessible from the Finder in Mac OS X.

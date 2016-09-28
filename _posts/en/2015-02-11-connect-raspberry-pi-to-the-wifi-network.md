@@ -21,7 +21,7 @@ tags:
 
 ---
 
-![thumb](/images/WiFi1-300x300.png)
+![thumb](/images/thumbnail/WiFi1.png)
 By default the Raspberry Pi uses DHCP to configure its network interfaces, including, on the model B, the built-in ethernet port. In this post I'll cover how you can set up your Raspberry Pi to automatically connect to your wireless network and obtain a static IP or configure WPA2 using wpa_supplicant. All you need is a WiFi dongle.
 
 

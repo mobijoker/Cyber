@@ -45,13 +45,13 @@ tags:
 
 ---
 
-![thumb](/images/icon-256x256-1.png)
+![thumb](/images/social-media-buttons-toolbar/icon.png)
 An easy to use WordPress plugin that gives you the ability to easily add the smart toolbar with social media buttons to any place (post, page, widget, sidebar, footer) of your WordPress website.
 
 
 ### Description
 
-<img src="/images/banner-772x250-1.png" alt="WP Plugin &quot;Social Media Buttons Toolbar&quot;" />
+<img src="/images/social-media-buttons-toolbar/banner.png" alt="WP Plugin &quot;Social Media Buttons Toolbar&quot;" />
 The social media buttons toolbar - is a toolbar with set of icons of the popular social media which are linked directly to your profile on this social networks. I.e. clicking the Facebook icon will take the user to your Facebook page, clicking the Twitter icon will take them to your Twitter page.
 
 Unlike the other plugins, this plugin create a live toolbar. If the buttons do not fit to the one line, then they will be placed on multiple lines. So they can be arranged horizontally or vertically, in one line or in a few and it always centered.
@@ -72,7 +72,7 @@ If you want more options then tell me and I will be happy to add it.
 
 **Current features:**
 
-* Icon set ["Social Buttons 2"](https://www.iconfinder.com/iconsets/social-buttons-2) by Ivlichev Victor Petrovich
+* Icon set ["Social Buttons 2"](https://www.iconfinder.com/iconsets/social-buttons-2?ref=ArthurGareginyan) by Ivlichev Victor Petrovich
 * Ready for translation (.pot file included).
 * Added Russian translation.
 * Published on [WordPess.org](http://wordpess.org/)
@@ -125,19 +125,19 @@ Simple and easy!
 ### Screenshot's
 
 1. Plugin’s page. Section "User ID's" :
-<img src="/images/screenshot-1-1.png" alt="WP plugin &quot;Social Media Buttons Toolbar&quot; by Arthur Gareginyan" />
+<img src="/images/social-media-buttons-toolbar/screenshot-1.png" alt="WP plugin &quot;Social Media Buttons Toolbar&quot; by Arthur Gareginyan" />
 2.  Plugin’s page. Section "Display Options":
-<img src="/images/screenshot-2-1.png" alt="WP plugin &quot;Social Media Buttons Toolbar&quot; by Arthur Gareginyan" />
+<img src="/images/social-media-buttons-toolbar/screenshot-2.png" alt="WP plugin &quot;Social Media Buttons Toolbar&quot; by Arthur Gareginyan" />
 3.  Plugin’s page. Section "Preview":
-<img src="/images/screenshot-3-1.png" alt="WP plugin &quot;Social Media Buttons Toolbar&quot; by Arthur Gareginyan" />
+<img src="/images/social-media-buttons-toolbar/screenshot-3.png" alt="WP plugin &quot;Social Media Buttons Toolbar&quot; by Arthur Gareginyan" />
 4. Social Media Buttons Toolbar displayed below the content of a post (Twenty Sixteen theme) :
-<img src="/images/screenshot-4-1.png" alt="WP plugin &quot;Social Media Buttons Toolbar&quot; by Arthur Gareginyan" />
+<img src="/images/social-media-buttons-toolbar/screenshot-4.png" alt="WP plugin &quot;Social Media Buttons Toolbar&quot; by Arthur Gareginyan" />
 5. Social Media Buttons Toolbar displayed in the sidebar using a shortcode in text widget (Twenty Sixteen theme) :
-<img src="/images/screenshot-5.png" alt="WP plugin &quot;Social Media Buttons Toolbar&quot; by Arthur Gareginyan" />
+<img src="/images/social-media-buttons-toolbar/screenshot-5.png" alt="WP plugin &quot;Social Media Buttons Toolbar&quot; by Arthur Gareginyan" />
 6.  Social Media Buttons Toolbar displayed in the footer using a shortcode in text widget (Anarcho Notepad theme):
-<img src="/images/screenshot-6.png" alt="WP plugin &quot;Social Media Buttons Toolbar&quot; by Arthur Gareginyan" />
+<img src="/images/social-media-buttons-toolbar/screenshot-6.png" alt="WP plugin &quot;Social Media Buttons Toolbar&quot; by Arthur Gareginyan" />
 7. Social Media Buttons Toolbar displayed in the footer using a simple call the function directly from theme file (vCard theme) :
-<img src="/images/screenshot-7.png" alt="WP plugin &quot;Social Media Buttons Toolbar&quot; by Arthur Gareginyan" />
+<img src="/images/social-media-buttons-toolbar/screenshot-7.png" alt="WP plugin &quot;Social Media Buttons Toolbar&quot; by Arthur Gareginyan" />
 
 
 ### Translation
@@ -147,14 +147,14 @@ This plugin is translate ready. But If your language is not available you can ma
 
 ### License
 
-<img src="/images/gplv3-127x51.png" alt="gplv3" width="80" class="alignleft" />This plugin is open-sourced software licensed under the <a href="http://www.gnu.org/licenses/gpl-3.0.html" title="GPLv3" target="_blank">GNU General Public License, version 3 (GPLv3)</a> and is distributed free of charge.
+<img src="/images/gplv3.png" alt="gplv3" width="80" class="alignleft" />This plugin is open-sourced software licensed under the <a href="http://www.gnu.org/licenses/gpl-3.0.html" title="GPLv3" target="_blank">GNU General Public License, version 3 (GPLv3)</a> and is distributed free of charge.
 
 Commercial licensing (e.g. for projects that can’t use an open-source license) is available upon request.
 
 
-### Other
+### Credits
 
-Icon set [Social Buttons 2](https://www.iconfinder.com/iconsets/social-buttons-2) by Ivlichev Victor Petrovich is licensed under the Creative Commons (Attribution 3.0 Unported).
+Icon set [Social Buttons 2](https://www.iconfinder.com/iconsets/social-buttons-2?ref=ArthurGareginyan) by Ivlichev Victor Petrovich is licensed under the Creative Commons (Attribution 3.0 Unported).
 
 
 ### Download

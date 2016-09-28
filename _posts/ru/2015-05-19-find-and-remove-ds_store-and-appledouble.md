@@ -22,7 +22,7 @@ tags:
 
 ---
 
-![thumb](/images/Apple_drive-e1432019517902-143x150.png)
+![thumb](/images/thumbnail/Apple_drive.png)
 Как найти, удалить и предотвратить создание `.DS_Store` файлов и `.AppleDouble` директорий на сетевых дисках.
  
 

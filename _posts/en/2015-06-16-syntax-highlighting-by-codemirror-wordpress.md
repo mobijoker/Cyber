@@ -23,7 +23,7 @@ tags:
 
 ---
 
-![thumb](/images/CodeMirror.png)
+![thumb](/images/thumbnail/CodeMirror.png)
 About using of JavaScript library CodeMirror together with CMS WordPress and its integration into WordPress projects (themes and plugins).
 
 

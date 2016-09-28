@@ -29,7 +29,7 @@ tags:
 
 ---
 
-![thumb](/images/Wireless-router-300x240.png)
+![thumb](/images/thumbnail/Wireless-router.png)
 How to full controlling the ASUS router with original firmware via a command line by the Telnet access protocol.
 
 

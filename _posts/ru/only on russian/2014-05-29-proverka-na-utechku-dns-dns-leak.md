@@ -139,7 +139,7 @@ wireshark &
 Мышью открываем вкладку **Capture ⇒ Capture Filters**:
 
 Создадим фильтр перехвата DNS.
-<a href="http://mycyberuniverse.com/wp-content/uploads/DNS_leak_03.png"><img src="/images/DNS_leak_03.png" alt="DNS_leak_03" class="alignleft" /></a>
+<img src="/images/proverka-na-utechku-dns-dns-leak/DNS_leak_03.png" alt="DNS_leak_03" class="alignleft" />
 
 В блоке **“Properties”** в строке **“Filter name”** вписываем:
 
@@ -160,14 +160,14 @@ port 53
 Нажимаем **“Ok”**.
 
 Нажимаем **CTRL+I** или мышью открываем вкладку **Capture ⇒ Interfaces**:
-<a href="http://mycyberuniverse.com/wp-content/uploads/DNS_leak_00.png"><img src="/images/DNS_leak_00-1024x554.png" alt="DNS_leak_00" class="alignleft" /></a>
+<img src="/images/proverka-na-utechku-dns-dns-leak/DNS_leak_00.png" alt="DNS_leak_00" class="alignleft" />
 
 Ставим галочку напротив сетевого интерфейса который мы собираемся слушать и нажимаем **“Options”**:
-<a href="http://mycyberuniverse.com/wp-content/uploads/DNS_leak_01.png"><img src="/images/DNS_leak_01.png" alt="DNS_leak_01" class="alignleft" /></a>
+<img src="/images/proverka-na-utechku-dns-dns-leak/DNS_leak_01.png" alt="DNS_leak_01" class="alignleft" />
 
 Нажимаем на кнопку **“Capture Filter”** и в открывшемся окне выбираем фильтр **“TCP or UDP port 53 (DNS)”**, который мы создали.
 
 Нажимаем **“Start”**.
 
 Наконец мы можем увидеть все пакеты прошедшие через 53 порт. 
-<a href="http://mycyberuniverse.com/wp-content/uploads/DNS_leak_02.png"><img src="/images/DNS_leak_02-1024x554.png" alt="DNS_leak_02" class="alignleft" /></a>
+<img src="/images/proverka-na-utechku-dns-dns-leak/DNS_leak_02.png" alt="DNS_leak_02" class="alignleft" />

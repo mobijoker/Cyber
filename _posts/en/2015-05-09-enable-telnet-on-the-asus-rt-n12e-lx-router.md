@@ -31,7 +31,7 @@ tags:
 
 ---
 
-![thumb](/images/ASUS-RT-N12-router-300x300.png)
+![thumb](/images/enable-telnet-on-the-asus-rt-n12e-lx-router/ASUS-RT-N12-router.png)
 How to, in the original firmware, on the router Asus RT-N12E/LX, enable the Telnet access protocol, even if the firmware is not supported this function.
 
 

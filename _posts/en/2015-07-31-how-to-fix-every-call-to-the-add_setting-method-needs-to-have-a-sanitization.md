@@ -27,7 +27,7 @@ tags:
 
 ---
 
-![thumb](/images/error.png)
+![thumb](/images/thumbnail/error.png)
 Some time ago WordPress.org is changed the rules of the publication of a themes to their repository. And then, I have not been able to publish update of my theme, because of the following error:
 
 

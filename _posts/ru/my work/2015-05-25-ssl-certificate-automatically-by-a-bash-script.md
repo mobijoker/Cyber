@@ -174,7 +174,7 @@ chmod +x ssl_crt_creater.sh
 После создания SSL сертификата, следует самостоятельно привязать его к серверу.
 
 Скриншот меню сценария:
-<img class="aligncenter" src="/images/ssl_crt_creater-1024x639.png" alt="SSL Certificate Creater" />
+<img class="aligncenter" src="/images/ssl_crt_creater.png" alt="SSL Certificate Creater" />
 
 
 ### Описание

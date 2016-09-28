@@ -38,7 +38,7 @@ tags:
 
 ---
 
-![WP Theme Anarcho Notepad](/images/big_screenshot-1024x470.png)
+![WP Theme Anarcho Notepad](/images/anarcho-notepad/big_screenshot.png)
 Inspired by the idea of anarchy, I designed this free premium WordPress theme for your personal blogs and diaries. This theme is perfect for writers and artists. "Anarcho Notepad" can be easily customized. It has been translated to different languages. It utilizes latest HTML-5, CSS-3, PHP and WordPress native functions for creating the awesomeness that looks good on every browser. I’m constantly adding new features to this theme to allow you to personalize it to your own needs. I'm glad to present you the most anarchist WP-theme Of All! Enjoy!
 
 
@@ -112,7 +112,7 @@ A list of these images:
 
 ### License
 
-<img src="/images/gplv3-127x51.png" alt="gplv3" width="80" class="alignleft" />This theme is open-sourced software licensed under the <a href="http://www.gnu.org/licenses/gpl-3.0.html" title="GPLv3" target="_blank">GNU General Public License, version 3 (GPLv3)</a> and is distributed free of charge.
+<img src="/images/gplv3.png" alt="gplv3" width="80" class="alignleft" />This theme is open-sourced software licensed under the <a href="http://www.gnu.org/licenses/gpl-3.0.html" title="GPLv3" target="_blank">GNU General Public License, version 3 (GPLv3)</a> and is distributed free of charge.
 
 Commercial licensing (e.g. for projects that can’t use an open-source license) is available upon request.
 

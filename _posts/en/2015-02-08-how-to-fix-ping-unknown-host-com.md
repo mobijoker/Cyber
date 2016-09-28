@@ -21,7 +21,7 @@ tags:
 
 ---
 
-![thumb](/images/error.png)
+![thumb](/images/thumbnail/error.png)
 How to fix the issue if you see the message about the host is unknown when attempting to ping a domain name.
 
 

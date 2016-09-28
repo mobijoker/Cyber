@@ -16,7 +16,7 @@ tags:
 
 ---
 
-![thumb](/images/duplicates.png)
+![thumb](/images/thumbnail/duplicates.png)
 If you have a lot of media files (photo, music etc), then most likely you also have a lot of duplicate files. In this article I'll show you how to find and remove duplicate files, from the terminal, by using `fdupes` utility.
 
 

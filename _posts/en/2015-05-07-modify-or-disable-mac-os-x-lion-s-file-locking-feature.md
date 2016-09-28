@@ -21,13 +21,13 @@ tags:
 
 ---
 
-![thumb](/images/File-Locking-Feature-1-e1431011656354-150x150.png)
+![thumb](/images/modify-or-disable-mac-os-x-lion-s-file-locking-feature/File-Locking-Feature-1.png)
 Whenever you try to modify a file that you have not touched in over two weeks, you’ll receive the following message:
 <pre>
 The file [File Name] is locked because you haven’t made any changes to it recently.
 </pre>
 
-<img class="aligncenter" src="/images/File-Locking-Feature-2.png" alt="File Locking Feature-2" width="451" height="168" />
+<img class="aligncenter" src="/images/modify-or-disable-mac-os-x-lion-s-file-locking-feature/File-Locking-Feature-2.png" alt="File Locking Feature-2" width="451" height="168" />
 
 This happens because the files which have not been changed for 2 weeks (by default) are automatically locked by OS X Lion. This is to prevent accidental auto-save changes from modifying your files.
 
@@ -39,12 +39,12 @@ Open the System Preferences from the Apple menu on the top left.
 **Step 2**
 Select "Time Machine".
 
-<img class="aligncenter" src="/images/File-Locking-Feature-4.png" alt="File Locking Feature-4" width="667" height="99" />
+<img class="aligncenter" src="/images/modify-or-disable-mac-os-x-lion-s-file-locking-feature/File-Locking-Feature-4.png" alt="File Locking Feature-4" width="667" height="99" />
 
 **Step 3**
 Click the "Options" button.
 
-<img class="aligncenter" src="/images/File-Locking-Feature-3.png" alt="File Locking Feature-3" width="782" height="559" />
+<img class="aligncenter" src="/images/modify-or-disable-mac-os-x-lion-s-file-locking-feature/File-Locking-Feature-3.png" alt="File Locking Feature-3" width="782" height="559" />
 
 **Step 4**
 
@@ -52,7 +52,7 @@ Click the "Options" button.
 
 *b)* To change the time interval between file locking, click the drop-down list and choose 1 day, 1 week, 2 weeks, 1 month or 1 year.
 
-<img class="aligncenter" src="/images/File-Locking-Feature-5.png" alt="File Locking Feature-5" width="782" height="559" />
+<img class="aligncenter" src="/images/modify-or-disable-mac-os-x-lion-s-file-locking-feature/File-Locking-Feature-5.png" alt="File Locking Feature-5" width="782" height="559" />
 
 Then click "Save" button.
 

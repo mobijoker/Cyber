@@ -16,7 +16,7 @@ tags:
 
 ---
 
-![thumb](/images/jekyll.png)
+![thumb](/images/thumbnail/jekyll.png)
 Some time ago I was faced with such a problem. I have tried to add a new post to my Jekyll website, but I could not see it on the generated pages when I run jekyll serve. So what are the some common reasons for a Jekyll post to not be generated?
 
 <br>

@@ -25,7 +25,7 @@ tags:
 
 ---
 
-![thumb](/images/envato-market.png)
+![thumb](/images/how-generate-envato-marketplace-api-key/envato-market.png)
 In this tutorial I show you how to generate an Envato Marketplace API key.  This API can be used for various things, like:
 
 * In your applications in order to acces account data.
@@ -55,19 +55,19 @@ To generate an API key, do the following:
 
 &nbsp;&nbsp;  **A)** Hover your username in the top right corner to access the dropdown. Select the `Settings` link.
 
-![](/images/envato-marketplace-api-key-1.png)
+![](/images/how-generate-envato-marketplace-api-key/envato-marketplace-api-key-1.png)
 
 &nbsp;&nbsp;  **B)** Go to your dashboard. Click on `Settings` tab.
 
-![](/images/envato-marketplace-api-key-2.png)
+![](/images/how-generate-envato-marketplace-api-key/envato-marketplace-api-key-2.png)
 
 **Step 3** - Click the `API Keys` tab on the left side.
 
-![](/images/envato-marketplace-api-key-3.png)
+![](/images/how-generate-envato-marketplace-api-key/envato-marketplace-api-key-3.png)
 
 **Step 4** - Enter a name in the `Label` field, and click the `Generate API Key` button. Your new API Key will now appear above.
 
-![](/images/envato-marketplace-api-key-4.png)
+![](/images/how-generate-envato-marketplace-api-key/envato-marketplace-api-key-4.png)
 
 You can always find all your registered applications in this place.
 

@@ -19,7 +19,7 @@ tags:
 
 ---
 
-![thumb](/images/IWeb-300x300.png)
+![thumb](/images/thumbnail/IWeb.png)
 After purchasing a new Mac, we have to think about migrating projects of sites from iWeb from the old Mac to a new one. Everything, as always, simple.
 
 

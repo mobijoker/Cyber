@@ -17,7 +17,7 @@ tags:
 
 ---
 
-![thumb](/images/clock.jpg)
+![thumb](/images/thumbnail/clock.jpg)
 **Network Time Protocol** (NTP) — сетевой протокол для синхронизации внутренних часов компьютера с использованием сетей с переменной латентностью.
 
 

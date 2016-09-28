@@ -59,13 +59,13 @@ tags:
 
 ---
 
-![thumb](/images/icon-256x2563.png)
+![thumb](/images/all-meta-tags/icon.png)
 Простой в использовании WordPress плагин дающий возможность ЛЕГКО добавлять ваши Мета Тэги в head секцию вашего вебсайта. Это необходимый инструмент для авторов и владельцев вебсайтов.
 
 
 ### Описание
 
-<img src="/images/banner2.png" alt="WP Plugin &quot;All Meta Tags&quot;" />
+<img src="/images/all-meta-tags/banner.png" alt="WP Plugin &quot;All Meta Tags&quot;" />
 No need anymore to editing a files of your theme or plugins in order to add meta tags. You can add they on plugins settings page. Just add your ID (the meta key “content” value from your verification code) or/and the URL to the social media profile of the publisher in the field on the plugin page and this plugin will do the rest for you. It adds required meta tags to the head section of your website automatically, without changing any of your themes file and without slowing down your website. It's really useful in case of any theme update, because your meta tags would never be lost! Your meta tags will keep on working, no matter how many times you upgrade or switch your theme and plugins.
 
 Third-party services like Google Webmaster Tools, Alexa, Pinterest and Google+ require you to verify your domain. This makes sure that you are the correct owner of your blog or store before they provide their services to you. You can use this plugin to easily verify your website or domain and get a more effective and efficient sharing results. Example with Pinterest. Once you completed the verification process, people will see a checkmark next to your domain in your Pinterest profile and in pinner search results. That check mark emphasis you have confirmed the ownership of your blog or website on Pinterest. This will help your website to rank better in google and other search engines. You can easily increase your blog traffic using this plugin. “All Meta Tags” is a simple but effective SEO plugin.
@@ -116,16 +116,16 @@ Also you can use this plugin to add required meta tags such as Author, Designer,
 ### Скриншоты
 
 1. Страница плагина. Block “Web Master Tools”:
-<img src="/images/screenshot-13.png" alt="WP plugin &quot;All Meta Tags&quot; by Arthur Gareginyan" />
+<img src="/images/all-meta-tags/screenshot-1.png" alt="WP plugin &quot;All Meta Tags&quot; by Arthur Gareginyan" />
 <caption>WP plugin "All Meta Tags" by Arthur "Berserkr" Gareginyan</caption>
 2. Страница плагина. Block “Domain Verification”:
-<img src="/images/screenshot-22.png" alt="WP plugin &quot;All Meta Tags&quot; by Arthur Gareginyan" />
+<img src="/images/all-meta-tags/screenshot-2.png" alt="WP plugin &quot;All Meta Tags&quot; by Arthur Gareginyan" />
 <caption>WP plugin "All Meta Tags" by Arthur "Berserkr" Gareginyan</caption>
 3. Страница плагина. Block “Meta Tags for Home page only”:
-<img src="/images/screenshot-32.png" alt="WP plugin &quot;All Meta Tags&quot; by Arthur Gareginyan" />
+<img src="/images/all-meta-tags/screenshot-3.png" alt="WP plugin &quot;All Meta Tags&quot; by Arthur Gareginyan" />
 <caption>WP plugin "All Meta Tags" by Arthur "Berserkr" Gareginyan</caption>
 4. Страница плагина. Block “Meta Tags for all website (Global)”:
-<img src="/images/screenshot-41.png" alt="WP plugin &quot;All Meta Tags&quot; by Arthur Gareginyan" />
+<img src="/images/all-meta-tags/screenshot-4.png" alt="WP plugin &quot;All Meta Tags&quot; by Arthur Gareginyan" />
 <caption>WP plugin "All Meta Tags" by Arthur "Berserkr" Gareginyan</caption>
 
 
@@ -136,7 +136,7 @@ This plugin is translate ready. But If your language is not available you can ma
 
 ### Лицензия
 
-<img src="/images/gplv3-127x51.png" alt="gplv3" width="80" class="alignleft" />This plugin is open-sourced software licensed under the <a href="http://www.gnu.org/licenses/gpl-3.0.html" title="GPLv3" target="_blank">GNU General Public License, version 3 (GPLv3)</a> and is distributed free of charge.
+<img src="/images/gplv3.png" alt="gplv3" width="80" class="alignleft" />This plugin is open-sourced software licensed under the <a href="http://www.gnu.org/licenses/gpl-3.0.html" title="GPLv3" target="_blank">GNU General Public License, version 3 (GPLv3)</a> and is distributed free of charge.
 
 Commercial licensing (e.g. for projects that can’t use an open-source license) is available upon request.
 

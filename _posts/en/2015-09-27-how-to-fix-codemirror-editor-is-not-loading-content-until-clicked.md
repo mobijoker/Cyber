@@ -21,7 +21,7 @@ tags:
 
 ---
 
-![thumb](/images/CodeMirror.png)
+![thumb](/images/thumbnail/CodeMirror.png)
 I am used CodeMirror 5 in different projects. Now I using it with WordPress plugin API and it’s working perfectly except that the editor is not loading all content until clicked. Nothing appears below line 26 until you click the mouse below that line. The content is there, but it is not visible. It just comes up as a large blank white space. If you click above it, it doesn't appear, you need to click below it.
 
 

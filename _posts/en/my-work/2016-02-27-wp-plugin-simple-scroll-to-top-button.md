@@ -53,13 +53,13 @@ tags:
 
 ---
 
-![thumb](/images/icon-512x512.png)
+![thumb](/images/simple-scroll-to-top-button/icon.png)
 An easy to use WordPress plugin that gives you the ability to add a "Scroll to Top" button to your website in a simple and elegant way.
 
 
 ### Description
 
-<img src="/images/banner-772x250-4.png" alt="WP Plugin &quot;Simple Scroll to Top Button&quot;" />
+<img src="/images/simple-scroll-to-top-button/banner.png" alt="WP Plugin &quot;Simple Scroll to Top Button&quot;" />
 An easy to use WordPress plugin that gives you the ability to add a "Scroll to Top" button to your website in a simple and elegant way. This button appears at the bottom-right of the website once the visitors scrolls down a page on your website. It appears only when visitors scroll down the webpage. As a result, your website visitors can easily scroll smoothly back to the very top of a page with one click of the button. This can be particularly handy for pages with a lot of text/content, or in cases wherever a browser's scrollbar is just not good enough (or not present at all, like on tablets) to enable one-click, one-screen scrolling. This gives your website better navigation and also adds a more professional look to your website. 
 
 This plugin give you finer control over "Scroll to Top" button, it can be configured on the plugin settings page. You can select where the button will be showed, such as home page or all pages. You can customize the button style using and combining 10 symbols and 4 backgrounds from FontAwesome library, in result you have 40 variations of buttons. You can change the size of button, color (unlimited) of background, color (unlimited) of symbol and etc.
@@ -104,17 +104,17 @@ Also you don't need to edit any file of your theme, this plugin will do everythi
 ### Screenshots
 
 1. Plugin page. Sections "Settings" and "Preview" :
-<img src="/images/screenshot-1-4.png" alt="WP plugin &quot;Simple Scroll to Top Button&quot; by Arthur Gareginyan" />
+<img src="/images/simple-scroll-to-top-button/screenshot-1.png" alt="WP plugin &quot;Simple Scroll to Top Button&quot; by Arthur Gareginyan" />
 2. 'Scroll to Top' button displayed on front end of website (Twenty Fifteen theme) :
-<img src="/images/screenshot-2-3.png" alt="WP plugin &quot;Simple Scroll to Top Button&quot; by Arthur Gareginyan" />
+<img src="/images/simple-scroll-to-top-button/screenshot-2.png" alt="WP plugin &quot;Simple Scroll to Top Button&quot; by Arthur Gareginyan" />
 3. 'Scroll to Top' button (with transparency) displayed on front end of website (Twenty Fifteen theme) :
-<img src="/images/screenshot-3-4.png" alt="WP plugin &quot;Simple Scroll to Top Button&quot; by Arthur Gareginyan" />
+<img src="/images/simple-scroll-to-top-button/screenshot-3.png" alt="WP plugin &quot;Simple Scroll to Top Button&quot; by Arthur Gareginyan" />
 4. 'Scroll to Top' button displayed on front end of website (Twenty Sixteen theme) :
-<img src="/images/screenshot-4-3.png" alt="WP plugin &quot;Simple Scroll to Top Button&quot; by Arthur Gareginyan" />
+<img src="/images/simple-scroll-to-top-button/screenshot-4.png" alt="WP plugin &quot;Simple Scroll to Top Button&quot; by Arthur Gareginyan" />
 5. List of backgrounds for a button that you can use :
-<img src="/images/screenshot-5-1.png" alt="WP plugin &quot;Simple Scroll to Top Button&quot; by Arthur Gareginyan" />
+<img src="/images/simple-scroll-to-top-button/screenshot-5.png" alt="WP plugin &quot;Simple Scroll to Top Button&quot; by Arthur Gareginyan" />
 6. List of symbols for a button that you can use:
-<img src="/images/screenshot-6-1.png" alt="WP plugin &quot;Simple Scroll to Top Button&quot; by Arthur Gareginyan" />
+<img src="/images/simple-scroll-to-top-button/screenshot-6.png" alt="WP plugin &quot;Simple Scroll to Top Button&quot; by Arthur Gareginyan" />
 
 
 ### Translation
@@ -124,7 +124,7 @@ This plugin is translate ready. But If your language is not available you can ma
 
 ### License
 
-<img src="/images/gplv3-127x51.png" alt="gplv3" width="80" class="alignleft" />This plugin is open-sourced software licensed under the <a href="http://www.gnu.org/licenses/gpl-3.0.html" title="GPLv3" target="_blank">GNU General Public License, version 3 (GPLv3)</a> and is distributed free of charge.
+<img src="/images/gplv3.png" alt="gplv3" width="80" class="alignleft" />This plugin is open-sourced software licensed under the <a href="http://www.gnu.org/licenses/gpl-3.0.html" title="GPLv3" target="_blank">GNU General Public License, version 3 (GPLv3)</a> and is distributed free of charge.
 
 Commercial licensing (e.g. for projects that can’t use an open-source license) is available upon request.
 

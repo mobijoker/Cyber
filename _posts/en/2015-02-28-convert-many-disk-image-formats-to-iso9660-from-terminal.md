@@ -27,7 +27,7 @@ tags:
 
 ---
 
-![thumb](/images/disk-150x150.png)
+![thumb](/images/thumbnail/disk.png)
 There are many formats of disk images which is not possible to mount with standard Linux tools. But, with "Iat" tool, we can convert it to ISO format and then mount it with `mount` command.
 
 

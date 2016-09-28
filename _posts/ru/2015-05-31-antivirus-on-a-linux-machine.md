@@ -25,7 +25,7 @@ tags:
 
 ---
 
-![thumb](/images/clamav-trademark-300x244.png)
+![thumb](/images/thumbnail/clamav-trademark.png)
 О том, как на Linux машине, используя программу ClamAV, обнаружить вредоносный код (трaояны, вирусы и вредоносные программы).
  
 

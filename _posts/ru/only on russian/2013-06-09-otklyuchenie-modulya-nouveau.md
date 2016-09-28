@@ -14,7 +14,7 @@ tags:
 
 ---
 
-![thumb](/images/nvidia-linux.png)
+![thumb](/images/thumbnail/nvidia-linux.png)
 Бывает появляется необходимость отключить модуль `nouveau`, например если необходимо использовать универсальный модуль `vesafb` или перед установкой проприетарного видео-драйвера NVIDIA.
 
 

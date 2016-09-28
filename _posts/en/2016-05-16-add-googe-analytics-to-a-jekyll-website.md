@@ -16,7 +16,7 @@ tags:
 
 ---
 
-![thumb](/images/analytics-logo.png)
+![thumb](/images/add-googe-analytics-to-a-jekyll-website/analytics-logo.png)
 Google Analytics allows you to get information about your websites visitors such as the devices or OS they were using and their location. Such information can be very useful for deciding how best to deliver content. Below, I’ll explain how to set up a Google Analytics on Github website that is built using Jekyll.
 
 Now, step by step guide.
@@ -35,7 +35,7 @@ To generate your analytics tracking code you first need to create the account (i
 
 **Note:** You must to create new one accaut for every website you want to tracking.
 
-![](/images/analytics-account.png)
+![](/images/add-googe-analytics-to-a-jekyll-website/analytics-account.png)
 
 
 **Step 3.** Get the tracking code.

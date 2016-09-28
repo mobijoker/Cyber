@@ -27,7 +27,7 @@ tags:
 
 ---
 
-![thumb](/images/OS-X-Tweaks-150x150.png)
+![thumb](/images/thumbnail/OS-X-Tweaks.png)
 Given time, the performance of any computer will tend to degrade – even Macs. In this post I'll show you tweaks that I use on my MacBook White with Mac OS X 10.7 Lion.
 
 

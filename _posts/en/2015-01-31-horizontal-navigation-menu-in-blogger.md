@@ -15,7 +15,7 @@ tags:
 
 ---
 
-![thumb](/images/blogger-logo.png)
+![thumb](/images/thumbnail/blogger-logo.png)
 Navigation menu is an essential part of any blog or website. It helps visitors to easily get the required content the whole blog.
 I'll show how to add the horizontal navigation double menu. In the left part which is Pages and in the right part is Labels (Category).
 

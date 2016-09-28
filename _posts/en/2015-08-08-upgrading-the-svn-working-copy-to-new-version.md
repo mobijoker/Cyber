@@ -22,7 +22,7 @@ tags:
 
 ---
 
-![thumb](/images/SubVersion.png)
+![thumb](/images/thumbnail/SubVersion.png)
 Today I upgraded the Subversion on my computer from 1.6 to 1.7 version. Subversion version 1.7 has a new repository structure and requires to upgrade all existing working copies.
 
 

@@ -22,7 +22,7 @@ tags:
 
 ---
 
-![thumb](/images/attachment-icon-150x150.png)
+![thumb](/images/thumbnail/attachment-icon.png)
 MIME stands for "Multipurpose Internet Mail Extensions. It's a way of identifying files on the Internet according to their nature and format. For example, using the `Content-type` header value defined in a HTTP response, the browser can open the file with the proper extension/plugin. Or, if this is a screenshot of plugin which located on WordPress.org repository, then it must be opened in the tab of web browser rather than downloaded to computer. Next, I'll show you how to set the correct MIME Type of a file using Subversion (SVN) from the command line.
 
 

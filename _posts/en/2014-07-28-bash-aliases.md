@@ -23,7 +23,7 @@ tags:
 
 ---
 
-![thumb](/images/terminal-300x300.png)
+![thumb](/images/thumbnail/terminal.png)
 You can create shortened commands by using aliases. Aliases are very convenient to use for frequently used commands.
 
 For example:

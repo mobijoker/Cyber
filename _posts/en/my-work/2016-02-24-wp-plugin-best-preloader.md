@@ -23,13 +23,13 @@ tags:
 
 ---
 
-![thumb](/images/icon-256x256-4.png)
+![thumb](/images/best-preloader/icon.png)
 An easy to use WordPress plugin that gives you the ability to add the preloader (animated loading screen indicator) to your website in a simple and elegant way.
 
 
 ### Description
 
-<img src="/images/banner-772x250-3.png" alt="WP Plugin &quot;Best Preloader&quot;" />
+<img src="/images/best-preloader/banner.png" alt="WP Plugin &quot;Best Preloader&quot;" />
 This plugin give you finer control over preloader, it can be configured on the plugin settings page. You can select where the preloading page will be showed, such as home page or all pages. You can replace default preloader image with your own image. You can change the size of image, and etc. 
 
 Also you don't need to edit any file of your theme, this plugin will do everything for you. It's just plug and play, no tedious configurations or hacks, just install, enable and start enjoying the preloader. Preloader will be responsive and compatible with all major browsers. It will work with any theme!
@@ -67,13 +67,13 @@ Also you don't need to edit any file of your theme, this plugin will do everythi
 ### Screenshot's
 
 1. Plugin’s page. Section "Settings" :
-<img src="/images/screenshot-1-3.png" alt="WP plugin &quot;Best Preloader&quot; by Arthur Gareginyan" />
+<img src="/images/best-preloader/screenshot-1.png" alt="WP plugin &quot;Best Preloader&quot; by Arthur Gareginyan" />
 2. Plugin’s page. Section "Preview":
-<img src="/images/screenshot-2-2.png" alt="WP plugin &quot;Best Preloader&quot; by Arthur Gareginyan" />
+<img src="/images/best-preloader/screenshot-2.png" alt="WP plugin &quot;Best Preloader&quot; by Arthur Gareginyan" />
 3. Preloader displayed on the website with "Anarcho Notepad" theme. Used default image (spinner with text) and default (white) color of background.:
-<img src="/images/screenshot-3-3.png" alt="WP plugin &quot;Best Preloader&quot; by Arthur Gareginyan" />
+<img src="/images/best-preloader/screenshot-3.png" alt="WP plugin &quot;Best Preloader&quot; by Arthur Gareginyan" />
 4. Preloader displayed on the website with "Anarcho Notepad" theme. Used default image (spinner with text) and custom (black) color of background.:
-<img src="/images/screenshot-4-2.png" alt="WP plugin &quot;Best Preloader&quot; by Arthur Gareginyan" />
+<img src="/images/best-preloader/screenshot-4.png" alt="WP plugin &quot;Best Preloader&quot; by Arthur Gareginyan" />
 
 
 ### Translation
@@ -83,7 +83,7 @@ This plugin is translate ready. But If your language is not available you can ma
 
 ### License
 
-<img src="/images/gplv3-127x51.png" alt="gplv3" width="80" class="alignleft" />This plugin is open-sourced software licensed under the <a href="http://www.gnu.org/licenses/gpl-3.0.html" title="GPLv3" target="_blank">GNU General Public License, version 3 (GPLv3)</a> and is distributed free of charge.
+<img src="/images/gplv3.png" alt="gplv3" width="80" class="alignleft" />This plugin is open-sourced software licensed under the <a href="http://www.gnu.org/licenses/gpl-3.0.html" title="GPLv3" target="_blank">GNU General Public License, version 3 (GPLv3)</a> and is distributed free of charge.
 
 Commercial licensing (e.g. for projects that can’t use an open-source license) is available upon request.
 

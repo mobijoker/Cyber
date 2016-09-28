@@ -13,7 +13,7 @@ categories:
 
 ---
 
-![thumb](/images/Clean-linux.png)
+![thumb](/images/thumbnail/Clean-linux.png)
 Чистим Linux от мусора.
 
 

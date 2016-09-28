@@ -21,7 +21,7 @@ tags:
 
 ---
 
-![thumb](/images/Preview-icon.png)
+![thumb](/images/thumbnail/Preview-icon.png)
 When you have many images that you want to include in a blog post, it is important to place them compactly. This way, the reader won’t have to scroll down forever and ever to see your images. Here’s a simple solution to do that.
 
 

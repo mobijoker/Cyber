@@ -18,13 +18,13 @@ tags:
 
 ---
 
-![thumb](/images/icon-256x256-5.png)
+![thumb](/images/syntax-highlighter-for-wp-editor/icon.png)
 An easy to use WordPress plugin that replaces the default Theme and Plugin Source Code Editor with an enhanced editor by a [CodeMirror library](https://codemirror.net/).
 
 
 ### Description
 
-<img src="/images/banner-772x250-5.png" alt="WP Plugin &quot;Syntax Highlighter for WP Editor&quot;" />
+<img src="/images/syntax-highlighter-for-wp-editor/banner.png" alt="WP Plugin &quot;Syntax Highlighter for WP Editor&quot;" />
 
 The WordPress default Theme Editor (in Appearance => Editor) and Plugin Editor (in Plugins => Editor) is great for doing some custom changes to your Themes or Plugins files, although it is rather limited. This is where the "Syntax Highlighter for WP Editor" can help. With an enhanced source code editor you can see a code with syntax highlighting, and with line numbering, so you can easily read your code and detect any errors.
 
@@ -69,15 +69,15 @@ This plugin is just plug and play, no tedious configurations or hacks, just inst
 ### Screenshots
 
 1. Plugin settings page:
-<img src="/images/screenshot-1-5.png" alt="WP plugin &quot;Syntax Highlighter for WP Editor&quot; by Arthur Gareginyan" />
+<img src="/images/syntax-highlighter-for-wp-editor/screenshot-1.png" alt="WP plugin &quot;Syntax Highlighter for WP Editor&quot; by Arthur Gareginyan" />
 2. Default WP Plugin Editor :
-<img src="/images/screenshot-2-4.png" alt="WP plugin &quot;Syntax Highlighter for WP Editor&quot; by Arthur Gareginyan" />
+<img src="/images/syntax-highlighter-for-wp-editor/screenshot-2.png" alt="WP plugin &quot;Syntax Highlighter for WP Editor&quot; by Arthur Gareginyan" />
 3. Plugin Editor that provided by this plugin (color theme: ambiance) :
-<img src="/images/screenshot-3-5.png" alt="WP plugin &quot;Syntax Highlighter for WP Editor&quot; by Arthur Gareginyan" />
+<img src="/images/syntax-highlighter-for-wp-editor/screenshot-3.png" alt="WP plugin &quot;Syntax Highlighter for WP Editor&quot; by Arthur Gareginyan" />
 4. Plugin Editor that provided by this plugin (color theme: default) :
-<img src="/images/screenshot-4-4.png" alt="WP plugin &quot;Syntax Highlighter for WP Editor&quot; by Arthur Gareginyan" />
+<img src="/images/syntax-highlighter-for-wp-editor/screenshot-4.png" alt="WP plugin &quot;Syntax Highlighter for WP Editor&quot; by Arthur Gareginyan" />
 5. Theme Editor that provided by this plugin (color theme: ambiance):
-<img src="/images/screenshot-5-2.png" alt="WP plugin &quot;Syntax Highlighter for WP Editor&quot; by Arthur Gareginyan" />
+<img src="/images/syntax-highlighter-for-wp-editor/screenshot-5.png" alt="WP plugin &quot;Syntax Highlighter for WP Editor&quot; by Arthur Gareginyan" />
 
 
 ### Translation
@@ -87,7 +87,7 @@ This plugin is translate ready. But If your language is not available you can ma
 
 ### License
 
-<img src="/images/gplv3-127x51.png" alt="gplv3" width="80" class="alignleft" />This plugin is open-sourced software licensed under the <a href="http://www.gnu.org/licenses/gpl-3.0.html" title="GPLv3" target="_blank">GNU General Public License, version 3 (GPLv3)</a> and is distributed free of charge.
+<img src="/images/gplv3.png" alt="gplv3" width="80" class="alignleft" />This plugin is open-sourced software licensed under the <a href="http://www.gnu.org/licenses/gpl-3.0.html" title="GPLv3" target="_blank">GNU General Public License, version 3 (GPLv3)</a> and is distributed free of charge.
 
 Commercial licensing (e.g. for projects that can’t use an open-source license) is available upon request.
 

@@ -27,7 +27,7 @@ tags:
 
 ---
 
-![thumb](/images/ssh-key-300x300.png)
+![thumb](/images/thumbnail/ssh-key.png)
 If you use ssh to connect to the remote host, one way to ensure the security of the connection is the use of public/private SSH key, because password is not passed across the network and the system is resistant to attacks by "brute force".
 
 Create a public/private SSH key in Linux or Mac OS is very simple.

@@ -29,7 +29,7 @@ tags:
 
 ---
 
-![thumb](/images/fcpx-apple.png)
+![thumb](/images/thumbnail/fcpx-apple.png)
 Для того, чтобы перенести событие (Event) из приложения Final Cut Pro X (далее FCPX) с одного Mac на другой Mac, не достаточно просто перенести это событие в то же место на втором Mac, так проекты не появятся в библиотеке FCPX.
 
 

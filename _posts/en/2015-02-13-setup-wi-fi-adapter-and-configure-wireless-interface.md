@@ -23,7 +23,7 @@ tags:
 
 ---
 
-![thumb](/images/Wi-Fi-ASUS-N-10-Nano.png)
+![thumb](/images/thumbnail/Wi-Fi-ASUS-N-10-Nano.png)
 I'll show an example of how to configure a connection to a wireless network from the console of the Debian system by using Wi-Fi Adapter “ASUS USB-N10 Nano” (`ID: 0b05:17ba`, `Driver: rtl8192cu`).
 
 

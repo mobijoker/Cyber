@@ -21,7 +21,7 @@ tags:
 
 ---
 
-![thumb](/images/pop-up.png)
+![thumb](/images/thumbnail/pop-up.png)
 Pop-ups windows are some of the most common UI elements that we can find in websites. Sometimes it's useful to add a pop-up to your pages. You can use it, for example, to create a contact forms (sign-up boxes), photo galleries, or for areas of your website that you might need a link containing "more information".
 
 

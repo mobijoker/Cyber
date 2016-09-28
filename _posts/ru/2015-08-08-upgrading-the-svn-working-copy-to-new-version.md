@@ -22,7 +22,7 @@ tags:
 
 ---
 
-![thumb](/images/SubVersion.png)
+![thumb](/images/thumbnail/SubVersion.png)
 Сегодня, на моём компьютере, Я обновил Subversion с версии 1.6 до версии 1.7. Subversion версии 1.7 имеет структуру репозитория and требует обновления всех существующих рабочих копий.
 
 

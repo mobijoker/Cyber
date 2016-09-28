@@ -26,7 +26,7 @@ tags:
 
 ---
 
-![thumb](/images/mouse-right-click.png)
+![thumb](/images/thumbnail/mouse-right-click.png)
 It makes sense to do everything you can to protect your copyrighted content. While there is no way to completely stop people from stealing your images, you can make it harder. Disabling right-clicking is one method you can use to deter casual theft.
 
 

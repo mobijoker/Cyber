@@ -31,13 +31,11 @@ tags:
 
 ---
 
-![thumb](/images/ASUS-RT-N12-router-300x300.png)
+![thumb](/images/enable-telnet-on-the-asus-rt-n12e-lx-router/ASUS-RT-N12-router.png)
 О том, как в оригинальной прошивке, на роутере Asus RT-N12E/LX, включить Telnet протокол доступа, даже если прошивка не поддерживает такую возможность.
 
 
 ### О роутере ASUS RT-N12
-
-<img class="aligncenter" src="/images/ASUS-RT-N12-router-300x300.png" alt="ASUS RT-N12 router" width="250" height="250" />
 
 Существует два варианта роутра ASUS RT-N12, "LX" и “E”. Эти версии одинаковы, но “LX” версия имеет две антенны, а “E” только одну антенну. У меня роутер Asus RT-N12LX.
 

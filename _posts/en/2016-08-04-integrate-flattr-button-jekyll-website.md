@@ -18,7 +18,7 @@ tags:
 
 ---
 
-![thumb](/images/flattr-logo.png)
+![thumb](/images/thumbnail/flattr-logo.png)
 Flattr is a free and simple way to earn money from blog posts. My Github hosted Jekyll website is being used primarily as a blog as you can see. By placing a small Flattr button at the end of each blog post, just above the comments section, I can ensure that visitors of my blog have an opportunity to thank me for the article. Now, step by step guide on how I did it.
 
 

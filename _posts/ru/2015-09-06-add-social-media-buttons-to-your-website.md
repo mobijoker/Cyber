@@ -27,24 +27,24 @@ tags:
 
 ---
 
-![thumb](/images/social-media-icons.png)
+![thumb](/images/social-media-buttons-toolbar/icon.png)
 Социальные медиа кнопки дают вам возможность использовать иконку популярных социальных сетей в которых содержится ссылки на ваши профили в социальных медиа. Вы узнаете о том как добавить вертикальную и горизонтальную линию или линии социальных медиа кнопок в запись, боковую панель или футер вашего вебсайта, используя иконки какие вам нравятся.
 
 
 Пример того как это выглядит:
-<img src="/images/social-media-icons-2.png" alt="social media icons-2" width="600" height="206" class="aligncenter" />
+<img src="/images/social-media-buttons-toolbar/social-media-icons-2.png" alt="social media icons-2" width="600" height="206" class="aligncenter" />
 
 Social Media Buttons Toolbar displayed below the content of a post (Twenty Sixteen theme) :
-<img src="/images/screenshot-4-1.png" alt="WP plugin &quot;Social Media Buttons Toolbar&quot; by Arthur Gareginyan" width="1024" height="541" />
+<img src="/images/social-media-buttons-toolbar/screenshot-4.png" alt="WP plugin &quot;Social Media Buttons Toolbar&quot; by Arthur Gareginyan" width="1024" height="541" />
 
 Social Media Buttons Toolbar displayed in the sidebar using a shortcode in text widget (Twenty Sixteen theme) :
-<img src="/images/screenshot-5.png" alt="WP plugin &quot;Social Media Buttons Toolbar&quot; by Arthur Gareginyan" width="1024" height="541" />
+<img src="/images/social-media-buttons-toolbar/screenshot-5.png" alt="WP plugin &quot;Social Media Buttons Toolbar&quot; by Arthur Gareginyan" width="1024" height="541" />
 
 Social Media Buttons Toolbar displayed in the footer using a simple call the function directly from theme file (vCard theme) :
-<img src="/images/screenshot-7.png" alt="WP plugin &quot;Social Media Buttons Toolbar&quot; by Arthur Gareginyan" width="1024" height="541" />
+<img src="/images/social-media-buttons-toolbar/screenshot-7.png" alt="WP plugin &quot;Social Media Buttons Toolbar&quot; by Arthur Gareginyan" width="1024" height="541" />
 
 Social Media Buttons Toolbar displayed in the footer using a shortcode in text widget (Anarcho Notepad theme):
-<img src="/images/screenshot-6.png" alt="WP plugin &quot;Social Media Buttons Toolbar&quot; by Arthur Gareginyan" width="379" height="359" />
+<img src="/images/social-media-buttons-toolbar/screenshot-6.png" alt="WP plugin &quot;Social Media Buttons Toolbar&quot; by Arthur Gareginyan" width="379" height="359" />
 
 Кнопки располагаются горизонтально и в центре. Если они не поместятся в одну строку, то будут растянуты на несколько строк.
 
@@ -57,7 +57,7 @@ Social Media Buttons Toolbar displayed in the footer using a shortcode in text w
 
 **Шаг 1.** В интернете найдите социальные медиа иконки которые вы желаете испольщовать. Убедитесь в том, что вы не нарушаете авторских прав. Когда вы найдёте те которые вам нравятся, скачайте их на компьютер.
 
-Я использую <a href="https://www.iconfinder.com/iconsets/social-buttons-2" target="_blank">“Social Buttons 2”</a> набор иконок от Ivlichev Victor Petrovich. Этот набор иконок бесплатный и находится под лицензией Creative Commons (Attribution 3.0 Unported).
+Я использую <a href="https://www.iconfinder.com/iconsets/social-buttons-2?ref=ArthurGareginyan" target="_blank">“Social Buttons 2”</a> набор иконок от Ivlichev Victor Petrovich. Этот набор иконок бесплатный и находится под лицензией Creative Commons (Attribution 3.0 Unported).
 
 **Шаг 2.** Поместите все иконки в новую папку, например `social-media-icons` и загрузите их в медиа библиотеку вашего вебсайта. В CMS WordPress это папка с названием `uploads` (она расположена в `/you-website/wp-content/uploads/`). Теперь адрес ведущий к вашим иконкам будет таким:
 `http://your-website.com/wp-content/uploads/social-media-icons/facebook.ico`.

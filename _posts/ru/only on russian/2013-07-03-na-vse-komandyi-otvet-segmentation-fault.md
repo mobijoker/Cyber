@@ -12,7 +12,7 @@ categories:
 
 ---
 
-![thumb](/images/SegmentationFault.jpg)
+![thumb](/images/thumbnail/SegmentationFault.jpg)
 Вчера, после не удачной попытки компиляции из исходников и установки новой версии `GLibC`, получил ответ на любые команды в виде сообщения: `Segmentation fault`.
 
 

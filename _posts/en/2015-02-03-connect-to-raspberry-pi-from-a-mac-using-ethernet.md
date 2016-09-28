@@ -21,12 +21,12 @@ tags:
 
 ---
 
-![thumb](/images/Raspberry_Pi_Logo-e1422999720343.png)
+![thumb](/images/connect-to-raspberry-pi-from-a-mac-using-ethernet/Raspberry_Pi_Logo.png)
 The Raspberry Pi is a great single board computer. However I don't always want to hook up the Raspberry Pi to some screen and keyboard when working with it. I like to do everything using SSH which is enabled out of the box if you are using the Raspbian distribution. So just hook up it to your router and start hacking. But what if now you don't have router and only have the Mac?
 
 
 The Raspbian is configured by default to receive an IP address from a DHCP server. So you need a DHCP server. This can be done using the sharing option in Mac OS X. Just set it up like that.
-<img class="aligncenter" src="/images/Screen-Shot-2015-02-03-at-23.27.19.png" alt="Mac OS X Sharing" width="782" height="662" />
+<img class="aligncenter" src="/images/connect-to-raspberry-pi-from-a-mac-using-ethernet/Screen-Shot-2015-02-03-at-23.27.19.png" alt="Mac OS X Sharing" width="782" height="662" />
 
 Once you have enabled this option just connect your Mac and Raspberry Pi using an ethernet cable. Also note that you don't need a special “cross-over” cable.
 

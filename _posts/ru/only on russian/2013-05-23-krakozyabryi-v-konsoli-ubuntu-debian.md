@@ -42,7 +42,7 @@ tags:
   
 ---
 
-![thumb](/images/082511_0926_1-kopiya.png)
+![thumb](/images/krakozyabryi-v-konsoli-ubuntu-debian/1.png)
 Если у вас в один прекрасный день в консоли вместо русских букв появились всякие не понятные символы, как например квадратики, не переживайте, так как это легко исправляется. Кстати, такие символы на сленге называются - кракозябры.
 
 
@@ -78,19 +78,19 @@ sudo dpkg-reconfigure console-setup
 
 **1.** Выбираем кодировку - `UTF-8`:
 
-<a href="http://mycyberuniverse.com/wp-content/uploads/UTF-8.png"><img alt="UTF-8" src="/images/UTF-8-1024x549.png" /></a>
+<img alt="UTF-8" src="/images/krakozyabryi-v-konsoli-ubuntu-debian/UTF-8.png" />
 
 **2.** Выбираем таблицу символов - `Кирилица - славянские языки` (5 пункт):
 
-<a href="http://mycyberuniverse.com/wp-content/uploads/kirillitsa.png"><img alt="кириллица" src="/images/kirillitsa-1024x550.png" /></a>
+<img alt="кириллица" src="/images/krakozyabryi-v-konsoli-ubuntu-debian/kirillitsa.png" />
 
 **3.** Выбираем шрифт - `Fixed` или `TerminusBold`:
 
-<a href="http://mycyberuniverse.com/wp-content/uploads/Fixed.png"><img alt="Fixed" src="/images/Fixed-1024x550.png" /></a>
+<img alt="Fixed" src="/images/krakozyabryi-v-konsoli-ubuntu-debian/Fixed.png" />
 
 **4.** Выбираем размер шрифта - `8x16`:
 
-<a href="http://mycyberuniverse.com/wp-content/uploads/8x16.png"><img alt="8x16" src="/images/8x16-1024x539.png" /></a>
+<img alt="8x16" src="/images/krakozyabryi-v-konsoli-ubuntu-debian/8x16.png" />
 
 Для того, чтобы наша настройка не слетела после перезагрузки нужно проделать следующее:
 
