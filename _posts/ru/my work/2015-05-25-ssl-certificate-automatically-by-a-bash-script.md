@@ -24,7 +24,7 @@ tags:
 
 ---
 
-![thumb](/images/bash.png)
+![thumb](/images/thumbnail/bash.png)
 Для быстрого и лёгкого создания самоподписанных SSL сертификатов для вэб-серверов Apache и Nginx Я написал не большой сценарий на «BASH».
 
 
@@ -174,7 +174,7 @@ chmod +x ssl_crt_creater.sh
 После создания SSL сертификата, следует самостоятельно привязать его к серверу.
 
 Скриншот меню сценария:
-<img class="aligncenter" src="/images/ssl_crt_creater.png" alt="SSL Certificate Creater" />
+<img class="aligncenter" src="/images/ssl-certificate-automatically-by-a-bash-script/ssl_crt_creater.png" alt="SSL Certificate Creater" />
 
 
 ### Описание
