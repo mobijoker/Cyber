@@ -25,6 +25,9 @@ tags:
 ![thumb](/images/dobavlyaem-polnotsennyiy-port-kinect-v-xbox360-fat/kinect-top-hard-01-top.jpg)
 Статья о том, как добавить специальный порт для сенсора Kinect в игровой консоли XBox360 FAT.
 
+&nbsp;
+&nbsp;
+&nbsp;
 
 У меня есть игровая консоль XBox360 (FAT) и Kinect сенсор (модель для XBox360 FAT). Так-как в FAT версии нет порта Kinect а в SLIM он есть то для FAT версии продаётся комплект Kinect с внешним блоком питания и переходником на USB.
 
@@ -33,7 +36,7 @@ tags:
 
 Или можно приобрести блок питания с переходником отдельно от Kinect.
 
-<img src="/images/dobavlyaem-polnotsennyiy-port-kinect-v-xbox360-fat/Kinect-power-supply-e1434218521514.jpg" alt="Kinect power supply" />
+<img src="/images/dobavlyaem-polnotsennyiy-port-kinect-v-xbox360-fat/Kinect-power-supply.jpg" alt="Kinect power supply" />
 <caption>Kinect sensor power supply</caption>
 
 Мне постоянно мешал внешний блок питания и переходник от Kinect и тогда Я решил модифицировать XBox360 добавив порт Kinect как в SLIM версии консоли для того, чтобы избавиться от лишних проводов.
