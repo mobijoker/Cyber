@@ -37,7 +37,7 @@ GitHub страницы это невероятно лёгкое и удобно
 
 **d)** Поместить в файл имя домена, в моем случае это - `www.arthurgareginyan.com` (без `http://`, только апекс домен `arthurgareginyan.com` или с субдоменом, например как `www.`).
 
-<img src="/images/configuring-a-godaddy-domain-name-with-github-pages/screenshot-1.png" alt="github & godaddy" width="1024" height="541" />
+<img src="/images/configuring-a-godaddy-domain-name-with-github-pages/screenshot-1.png" alt="github & godaddy" width="1024" />
 
 **e)** Примените изменения.
 
@@ -60,7 +60,7 @@ GitHub страницы это невероятно лёгкое и удобно
 **c)** Выберите доменное имя которое вы хотите привязать к вашей github.io странице.
 
 **d)** Перейдите на вкладку "DNS Zone File".
-<img src="/images/configuring-a-godaddy-domain-name-with-github-pages/screenshot-2.png" alt="github & godaddy" width="1024" height="541" />
+<img src="/images/configuring-a-godaddy-domain-name-with-github-pages/screenshot-2.png" alt="github & godaddy" width="1024" />
 
 **e)** В разделе "A (Host)" добавьте две А-записи:
 
@@ -68,13 +68,13 @@ GitHub страницы это невероятно лёгкое и удобно
 * Вторая: "A (Host)" запись с `host` = `@` и `Points to` = `192.30.252.1534`.
 
 
-<img src="/images/configuring-a-godaddy-domain-name-with-github-pages/screenshot-3.png" alt="github & godaddy" width="1024" height="541" />
+<img src="/images/configuring-a-godaddy-domain-name-with-github-pages/screenshot-3.png" alt="github & godaddy" width="1024" />
 
 Об этом можно прочитать здесь: https://help.github.com/articles/tips-for-configuring-an-a-record-with-your-dns-provider/
 
 **f)** В разделе "CName (Alias)" добавьте "CNAME (Alias)" запись с `host` = `www` и `Points to` = `username.github.io` (в моём случае это - `arthurgareginyan.github.io`).
 
-<img src="/images/configuring-a-godaddy-domain-name-with-github-pages/screenshot-4.png" alt="github & godaddy" width="1024" height="541" />
+<img src="/images/configuring-a-godaddy-domain-name-with-github-pages/screenshot-4.png" alt="github & godaddy" width="1024" />
 
 **g)** Сохраните изменения.
 
