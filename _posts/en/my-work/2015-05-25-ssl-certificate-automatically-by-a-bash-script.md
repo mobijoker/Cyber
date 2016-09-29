@@ -24,7 +24,7 @@ tags:
 
 ---
 
-![thumb](/images/ssl-certificate-automatically-by-a-bash-script/bash-1.png)
+![thumb](/images/thumbnail/bash.png)
 To quickly and easily create a self-signed SSL certificate for Web servers Apache and Nginx I wrote a little script in "BASH".
 
 
