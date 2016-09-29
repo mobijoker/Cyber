@@ -28,7 +28,7 @@ tags:
 
 У меня есть игровая консоль XBox360 (FAT) и Kinect сенсор (модель для XBox360 FAT). Так-как в FAT версии нет порта Kinect а в SLIM он есть то для FAT версии продаётся комплект Kinect с внешним блоком питания и переходником на USB.
 
-<img src="/images/dobavlyaem-polnotsennyiy-port-kinect-v-xbox360-fat/Kinect-for-FAT.jpeg" alt="Kinect for FAT" />
+<img src="/images/dobavlyaem-polnotsennyiy-port-kinect-v-xbox360-fat/Kinect-for-FAT.jpg" alt="Kinect for FAT" />
 <caption>Kinect sensor for XBox360 FAT</caption>
 
 Или можно приобрести блок питания с переходником отдельно от Kinect.
