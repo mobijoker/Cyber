@@ -27,18 +27,19 @@ I am 29 years old. I'm happily married to beautiful Milena. Originally from Kiro
 
 Thank you for visiting MyCyberUniverse.com! I hope that, on this website, you will find the information you need and will become a regular reader.
 
+Please let me know if you like my posts or other and would like to use them in any way. I will be glad if somewhere else are published, but not without reference to my name and/or a link to my blog. Thanks!
+
+
 <br/><br/>
 {% include social-buttons.html %}
 
 ### Work
 
-I'm an independent web designer and software developer (full stack software engineer) who cares deeply about beautiful design and elegant code. I’m fascinated by graphics and design, and for several years I’ve been working on projects for many people. I am the author and owner of web-hosting «Anarcho Hosting», the author of the theme «<a href="http://wordpress.org/themes/anarcho-notepad" target="_blank">Anarcho Notepad</a>», and several plugins for CMS WordPress, and many more.
+I'm an independent web designer and software developer (full stack software engineer) who cares deeply about beautiful design and elegant code. I’m fascinated by graphics and design, and for several years I’ve been working on projects for many people. I am the founder of tech blog "My Cyber Universe", the author of several themes for different platforms, the author of more than a dozen FREE and Premium plugins for CMS WordPress. From May 2013 to May 2016 I was the owner of web-hosting «Anarcho Hosting».
 
 My intention is to create projects that will make this world a better place. I am really passionate about my work, I like what I am doing and hope that you will be enriched by my projects too.
  
-Now I’m in the process of finding an interesting job outside of Russia. I know English and have the experience of living in Switzerland, Norway, Lithuania, Latvia. I’m very sociable 😀.
- 
-I’m always interested in hearing of project ideas and opportunities, so feel free to [contact me](http://www.arthurgareginyan.com/contact.html).
+Now I’m in the process of finding an interesting job outside of Russia. I know English and have the experience of living in Switzerland, Norway, Lithuania, Latvia. I’m very sociable 😀. I’m always interested in hearing of project ideas and opportunities, so feel free to [contact me](http://www.arthurgareginyan.com/contact.html).
 
 
 ### Education
@@ -70,9 +71,3 @@ I’m always interested in hearing of project ideas and opportunities, so feel f
 Теперь у меня позади множество сменённых компьютеров и операционных систем. Для каждодневных задач (в домашних целях) Я использую устройства марки Apple (MacBook Air, iPad4 и iPhone5) с операционными системами “Mac OS X” и “iOS”. Для работы Я использую MacBook и PC+Linux.
 
 В 21-ый век человечество вошло с компьютеризованными заводами, офисами и даже жильём и транспортом. В этом веке компьютеры встречаются нам по всюду, а значит работы у меня предостаточно.
-
-&nbsp;
-
-**P.S.**
-  
-Please let me know if you like my posts or other and would like to use them in any way. I will be glad if somewhere else are published, but not without reference to my name and/or a link to my blog. Thanks!
