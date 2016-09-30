@@ -3,7 +3,7 @@
     <p>Subscribe to the mailing list and get the fresh content!</p>
     <form method="post" target="_blank" action="https://www.specificfeeds.com/follow?pub=2jcpuERsm61dbHbp2czf9A" class="subscribe-form">
         <input type="email" name="email" placeholder="Enter your email..." class="subscribe-input">
-        <input type="submit" value="Subscribe" name="subscribe" class="subscribe-button">
+        <button type="submit" value="Subscribe" name="subscribe" class="subscribe-button">
     </form>
 </div>
 <style>
@@ -37,21 +37,21 @@
     font-size: 14px;
     line-height: normal;
 }
-.subscribe-form i {
+.subscribe-button {
     position: absolute;
+    background: none;
+    border: 0;
     top: 0;
     right: 10px;
+    font-style: normal;
     line-height: 1;
     cursor: pointer;
 }
-.subscribe-form i:before {
+.subscribe-button:before {
     font: normal normal normal 14px/1 FontAwesome;
-    content: "\f0e0"
+     content: "\f0e0";
     font-size: 24px;
-    line-height: 45px;
+    line-height: 38px;
     color: #b2b2b2;
-}
-.subscribe-button {
-    display: none;
 }
 </style>
