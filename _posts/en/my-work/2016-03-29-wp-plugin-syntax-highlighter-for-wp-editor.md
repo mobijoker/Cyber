@@ -21,6 +21,7 @@ tags:
 ![thumb](/images/syntax-highlighter-for-wp-editor/icon.png)
 An easy to use WordPress plugin that replaces the default Theme and Plugin Source Code Editor with an enhanced editor by a [CodeMirror library](https://codemirror.net/).
 
+<br><br>
 
 ### Description
 

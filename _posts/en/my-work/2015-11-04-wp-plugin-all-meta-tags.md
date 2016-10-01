@@ -62,6 +62,7 @@ tags:
 ![thumb](/images/all-meta-tags/icon.png)
 An easy to use WordPress plugin that gives you the ability to EASILY add your Meta Tags to the head section of your website. This is a must have tool for authors and website's owners.
 
+<br><br>
 
 ### Description
 
@@ -113,16 +114,11 @@ Also you can use this plugin to add required meta tags such as Author, Designer,
 * (Got more ideas? Tell me!)
 
 
-### Screenshot's
+### Screenshot
 
-1. Plugin’s page. Block “Web Master Tools”:
+1. Plugin page:
 <img src="/images/all-meta-tags/screenshot-1.png" alt="WP plugin &quot;All Meta Tags&quot; by Arthur Gareginyan" />
-2. Plugin’s page. Block “Domain Verification”:
-<img src="/images/all-meta-tags/screenshot-2.png" alt="WP plugin &quot;All Meta Tags&quot; by Arthur Gareginyan" />
-3. Plugin’s page. Block “Meta Tags for Home page only”:
-<img src="/images/all-meta-tags/screenshot-3.png" alt="WP plugin &quot;All Meta Tags&quot; by Arthur Gareginyan" />
-4. Plugin’s page. Block “Meta Tags for all website (Global)”:
-<img src="/images/all-meta-tags/screenshot-4.png" alt="WP plugin &quot;All Meta Tags&quot; by Arthur Gareginyan" />
+
 
 
 ### Translation

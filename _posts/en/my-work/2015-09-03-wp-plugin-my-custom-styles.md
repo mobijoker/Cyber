@@ -27,6 +27,7 @@ tags:
 ![thumb](/images/my-custom-styles/icon.png)
 An easy to use WordPress plugin that gives you the ability to EASILY and SAFELY add your custom styles (CSS) to WordPress website's header.
 
+<br><br>
 
 ### Description
 
@@ -64,14 +65,12 @@ That’s it. You are already getting your custom CSS working.
 * (Got more ideas? Tell me!)
 
 
-### Screenshot's
+### Screenshots
 
-1. Plugin's page:
+1. Plugin page:
 <img src="/images/my-custom-styles/screenshot-1.png" alt="WP plugin &quot;My Custom Styles&quot; by Arthur Gareginyan" />
-2. Plugin’s page with custom CSS code added:
+2. Plugin page with custom CSS code added:
 <img src="/images/my-custom-styles/screenshot-2.png" alt="WP plugin &quot;My Custom Styles&quot; by Arthur Gareginyan" />
-3. Plugin’s page with success message:
-<img src="/images/my-custom-styles/screenshot-3.png" alt="WP plugin &quot;My Custom Styles&quot; by Arthur Gareginyan"  />
 
 
 ### Translation

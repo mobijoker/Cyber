@@ -16,7 +16,7 @@ tags:
 
 ---
 
-![thumb](/images/thumbnail/mozilla-firefox-12-adds-silent-updates-makes-the-web-more-secure.png)
+![thumb](/images/thumbnail/firefox.png)
 Существуют расширения значительно повышающие безопасность и анонимность при веб-сёрфинге.
  
 

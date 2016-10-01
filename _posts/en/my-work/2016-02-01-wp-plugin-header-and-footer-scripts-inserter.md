@@ -43,6 +43,7 @@ tags:
 ![thumb](/images/header-and-footer-scripts-inserter/icon.png)
 An easy to use and lightweight WordPress plugin that gives you the ability to easily insert custom scripts (HTML, JavaScript, and CSS) in the head and footer sections of your website.
 
+<br><br>
 
 ### Description
 
@@ -84,13 +85,13 @@ Got more ideas? Tell me!
 * CSS (in HTML tag)
 
 
-### Screenshot's
+### Screenshots
 
-1. Plugin’s page. Section "Header Section" :
+1. Plugin page. Section "Header Section" :
 <img src="/images/header-and-footer-scripts-inserter/screenshot-1.png" alt="WP plugin &quot;Head and Footer Scripts Inserter&quot; by Arthur Gareginyan" />
-2. Plugin’s page. Section "Footer Section":
+2. Plugin page. Section "Footer Section":
 <img src="/images/header-and-footer-scripts-inserter/screenshot-2.png" alt="WP plugin &quot;Head and Footer Scripts Inserter&quot; by Arthur Gareginyan" />
-3. Plugin’s page with Google Tag Manager code added and saved:
+3. Plugin page with Google Tag Manager code added and saved:
 <img src="/images/header-and-footer-scripts-inserter/screenshot-3.png" alt="WP plugin &quot;Head and Footer Scripts Inserter&quot; by Arthur Gareginyan" />
 
 

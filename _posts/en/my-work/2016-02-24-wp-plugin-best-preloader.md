@@ -26,6 +26,7 @@ tags:
 ![thumb](/images/best-preloader/icon.png)
 An easy to use WordPress plugin that gives you the ability to add the preloader (animated loading screen indicator) to your website in a simple and elegant way.
 
+<br><br>
 
 ### Description
 
@@ -64,16 +65,14 @@ Also you don't need to edit any file of your theme, this plugin will do everythi
 * (Got more ideas? Tell me!)
 
 
-### Screenshot's
+### Screenshots
 
-1. Plugin’s page. Section "Settings" :
+1. Plugin page:
 <img src="/images/best-preloader/screenshot-1.png" alt="WP plugin &quot;Best Preloader&quot; by Arthur Gareginyan" />
-2. Plugin’s page. Section "Preview":
+2. Preloader displayed on the website with "Anarcho Notepad" theme. Used default image (spinner with text) and default (white) color of background:
 <img src="/images/best-preloader/screenshot-2.png" alt="WP plugin &quot;Best Preloader&quot; by Arthur Gareginyan" />
-3. Preloader displayed on the website with "Anarcho Notepad" theme. Used default image (spinner with text) and default (white) color of background.:
+3. Preloader displayed on the website with "Anarcho Notepad" theme. Used default image (spinner with text) and custom (black) color of background:
 <img src="/images/best-preloader/screenshot-3.png" alt="WP plugin &quot;Best Preloader&quot; by Arthur Gareginyan" />
-4. Preloader displayed on the website with "Anarcho Notepad" theme. Used default image (spinner with text) and custom (black) color of background.:
-<img src="/images/best-preloader/screenshot-4.png" alt="WP plugin &quot;Best Preloader&quot; by Arthur Gareginyan" />
 
 
 ### Translation

@@ -56,6 +56,7 @@ tags:
 ![thumb](/images/simple-scroll-to-top-button/icon.png)
 An easy to use WordPress plugin that gives you the ability to add a "Scroll to Top" button to your website in a simple and elegant way.
 
+<br><br>
 
 ### Description
 
@@ -103,18 +104,14 @@ Also you don't need to edit any file of your theme, this plugin will do everythi
 
 ### Screenshots
 
-1. Plugin page. Sections "Settings" and "Preview" :
+1. Plugin page. Sections "Settings" and "Preview":
 <img src="/images/simple-scroll-to-top-button/screenshot-1.png" alt="WP plugin &quot;Simple Scroll to Top Button&quot; by Arthur Gareginyan" />
-2. 'Scroll to Top' button displayed on front end of website (Twenty Fifteen theme) :
+2. 'Scroll to Top' button displayed on front end of website (Twenty Fifteen theme):
 <img src="/images/simple-scroll-to-top-button/screenshot-2.png" alt="WP plugin &quot;Simple Scroll to Top Button&quot; by Arthur Gareginyan" />
-3. 'Scroll to Top' button (with transparency) displayed on front end of website (Twenty Fifteen theme) :
+3. 'Scroll to Top' button (with transparency) displayed on front end of website (Twenty Fifteen theme):
 <img src="/images/simple-scroll-to-top-button/screenshot-3.png" alt="WP plugin &quot;Simple Scroll to Top Button&quot; by Arthur Gareginyan" />
-4. 'Scroll to Top' button displayed on front end of website (Twenty Sixteen theme) :
+4. 'Scroll to Top' button displayed on front end of website (Twenty Sixteen theme):
 <img src="/images/simple-scroll-to-top-button/screenshot-4.png" alt="WP plugin &quot;Simple Scroll to Top Button&quot; by Arthur Gareginyan" />
-5. List of backgrounds for a button that you can use :
-<img src="/images/simple-scroll-to-top-button/screenshot-5.png" alt="WP plugin &quot;Simple Scroll to Top Button&quot; by Arthur Gareginyan" />
-6. List of symbols for a button that you can use:
-<img src="/images/simple-scroll-to-top-button/screenshot-6.png" alt="WP plugin &quot;Simple Scroll to Top Button&quot; by Arthur Gareginyan" />
 
 
 ### Translation

@@ -24,6 +24,7 @@ tags:
 ![thumb](/images/my-custom-functions/icon.png)
 EASILY and SAFELY add your own functions, snippets or any custom codes on your WordPress website, directly out of your WordPress Dashbord without need of an external editor.
 
+<br><br>
 
 ### Description
 
@@ -49,7 +50,7 @@ This is a perfect tool to use as your site's functionality plugin.
 That’s it. You are already getting your functions working.
 
 
-### Feature's
+### Features
 
 **Current features:**
 
@@ -67,14 +68,16 @@ That’s it. You are already getting your functions working.
 * (Got more ideas? Tell me!)
 
 
-### Screenshot's
+### Screenshots
 
-1. Plugin's page with custom code added:
+1. Plugin page:
 <img src="/images/my-custom-functions/screenshot-1.png" alt="WP plugin &quot;My Custom Functions&quot; by Arthur Gareginyan" />
-2. Success message:
+2. Plugin page with custom code added:
 <img src="/images/my-custom-functions/screenshot-2.png" alt="WP plugin &quot;My Custom Functions&quot; by Arthur Gareginyan" />
-3. "Fatal error" message:
+3. Success message:
 <img src="/images/my-custom-functions/screenshot-3.png" alt="WP plugin &quot;My Custom Functions&quot; by Arthur Gareginyan" />
+4. "Fatal error" message:
+<img src="/images/my-custom-functions/screenshot-4.png" alt="WP plugin &quot;My Custom Functions&quot; by Arthur Gareginyan" />
 
 
 ### Translation

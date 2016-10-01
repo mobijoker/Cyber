@@ -45,6 +45,7 @@ tags:
 ![thumb](/images/my-syntax-highlighter/icon.png)
 Simple post syntax-highlighted code without losing it's formatting or making any manual changes. Supporting multiple languages, shortcodes and themes.
 
+<br><br>
 
 ### Description
 

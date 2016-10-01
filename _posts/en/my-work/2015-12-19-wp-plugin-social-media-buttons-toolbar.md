@@ -48,6 +48,7 @@ tags:
 ![thumb](/images/social-media-buttons-toolbar/icon.png)
 An easy to use WordPress plugin that gives you the ability to easily add the smart toolbar with social media buttons to any place (post, page, widget, sidebar, footer) of your WordPress website.
 
+<br><br>
 
 ### Description
 
@@ -122,22 +123,20 @@ Or add this code for direct call function:
 Simple and easy!
 
 
-### Screenshot's
+### Screenshots
 
-1. Plugin’s page. Section "User ID's" :
+1. Plugin settings page :
 <img src="/images/social-media-buttons-toolbar/screenshot-1.png" alt="WP plugin &quot;Social Media Buttons Toolbar&quot; by Arthur Gareginyan" />
-2.  Plugin’s page. Section "Display Options":
+2.  Social Media Buttons Toolbar displayed below the content of a post (Twenty Sixteen theme) :
 <img src="/images/social-media-buttons-toolbar/screenshot-2.png" alt="WP plugin &quot;Social Media Buttons Toolbar&quot; by Arthur Gareginyan" />
-3.  Plugin’s page. Section "Preview":
+3.  Social Media Buttons Toolbar displayed in the sidebar using a shortcode in text widget (Twenty Sixteen theme) :
 <img src="/images/social-media-buttons-toolbar/screenshot-3.png" alt="WP plugin &quot;Social Media Buttons Toolbar&quot; by Arthur Gareginyan" />
-4. Social Media Buttons Toolbar displayed below the content of a post (Twenty Sixteen theme) :
+4. Social Media Buttons Toolbar displayed in the footer using a shortcode in text widget (Anarcho Notepad theme) :
 <img src="/images/social-media-buttons-toolbar/screenshot-4.png" alt="WP plugin &quot;Social Media Buttons Toolbar&quot; by Arthur Gareginyan" />
-5. Social Media Buttons Toolbar displayed in the sidebar using a shortcode in text widget (Twenty Sixteen theme) :
+5. Social Media Buttons Toolbar displayed in the footer using a simple call the function directly from theme file (vCard theme) :
 <img src="/images/social-media-buttons-toolbar/screenshot-5.png" alt="WP plugin &quot;Social Media Buttons Toolbar&quot; by Arthur Gareginyan" />
-6.  Social Media Buttons Toolbar displayed in the footer using a shortcode in text widget (Anarcho Notepad theme):
+6.  Shortcode placed in the Text Widget :
 <img src="/images/social-media-buttons-toolbar/screenshot-6.png" alt="WP plugin &quot;Social Media Buttons Toolbar&quot; by Arthur Gareginyan" />
-7. Social Media Buttons Toolbar displayed in the footer using a simple call the function directly from theme file (vCard theme) :
-<img src="/images/social-media-buttons-toolbar/screenshot-7.png" alt="WP plugin &quot;Social Media Buttons Toolbar&quot; by Arthur Gareginyan" />
 
 
 ### Translation
