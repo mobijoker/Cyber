@@ -2,15 +2,16 @@
 lang: ru
 ref: podnyatie-setevogo-interfeysa-pri-padenii
 title: Поднятие сетевого интерфейса при падении
-date: 2014-04-06T08:01:32+00:00
+date: 2014-04-06
 author: Arthur Gareginyan
+translator: Arthur Gareginyan
 layout: post
 permalink: /ru/linux/podnyatie-setevogo-interfeysa-pri-padenii.html
 categories:
   - Debian/Ubuntu
   - Linux
   - Raspberry Pi
-  - Мои программы
+  - our-programms
 tags:
   - broker
   - client
@@ -42,17 +43,20 @@ tags:
 
 ```bash
 #!/bin/sh
-#################################################################
-#   Name: 	 	 IfDownTun		   								#
-#   Description: Check and start iinterface tun if it down 		#
-#   Author: 	 Arthur Gareginyan aka Berserkr    				#
-#   Author URI:  http://mycyberuniverse.com/author.html			#
-#   Email: 	 	 arthurgareginyan@gmail.com        				#
-#   License:     GNU General Public License, version 3 (GPLv3)  #
-#   License URI: http://www.gnu.org/licenses/gpl-3.0.html		#
-#   Usage: 		 chmod +x IfDownTun.sh							#
-#   Run:   		 ./IfDownTun.sh									#
-#################################################################
+#=============================================================#
+# Name:         IfDownTun                                     #
+# Description:  Check and start iinterface tun if it down     #
+# Author:       Arthur Gareginyan                             #
+# Author URI:   http://arthurgareginyan.com                   #
+# Email:        arthurgareginyan@gmail.com                    #
+# License:      GNU General Public License, version 3 (GPLv3) #
+# License URI:  http://www.gnu.org/licenses/gpl-3.0.html      #
+#=============================================================#
+
+#                   USAGE:
+#      chmod +x ./IfDownTun.sh
+#      sudo ./IfDownTun.sh
+
 
 # The interface to test
 DEVICE='tun'

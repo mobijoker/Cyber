@@ -3,10 +3,10 @@ id: 273
 lang: ru
 ref: sinhronizatsiya-vremeni-ntp-2
 title: 'Синхронизация времени &#8211; NTP'
-date: 2013-06-23T17:47:58+00:00
+date: 2013-06-23
 author: Arthur Gareginyan
+translator: Arthur Gareginyan
 layout: post
-guid: http://mycyberuniverse.com/?p=273
 permalink: /ru/linux/sinhronizatsiya-vremeni-ntp-2.html
 categories:
   - Debian/Ubuntu

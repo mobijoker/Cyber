@@ -2,8 +2,9 @@
 lang: ru
 ref: dobavlyaem-polnotsennyiy-port-kinect-v-xbox360-fat
 title: Добавляем порт Kinect в XBox360 FAT
-date: 2013-05-11T23:35:47+00:00
+date: 2013-05-11
 author: Arthur Gareginyan
+translator: Arthur Gareginyan
 layout: post
 permalink: /ru/electronics/dobavlyaem-polnotsennyiy-port-kinect-v-xbox360-fat.html
 categories:

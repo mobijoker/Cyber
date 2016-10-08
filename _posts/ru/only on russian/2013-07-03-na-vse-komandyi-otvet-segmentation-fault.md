@@ -2,8 +2,9 @@
 lang: ru
 ref: na-vse-komandyi-otvet-segmentation-fault
 title: 'На все команды ответ &#8211; Segmentation fault'
-date: 2013-07-03T19:17:11+00:00
+date: 2013-07-03
 author: Arthur Gareginyan
+translator: Arthur Gareginyan
 layout: post
 permalink: /ru/linux/na-vse-komandyi-otvet-segmentation-fault.html
 categories:

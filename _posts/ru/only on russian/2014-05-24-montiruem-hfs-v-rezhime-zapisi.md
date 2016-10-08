@@ -2,8 +2,9 @@
 lang: ru
 ref: montiruem-hfs-v-rezhime-zapisi
 title: Монтируем HFS+ в режиме записи
-date: 2014-05-24T10:39:29+00:00
+date: 2014-05-24
 author: Arthur Gareginyan
+translator: Arthur Gareginyan
 layout: post
 permalink: /ru/linux/montiruem-hfs-v-rezhime-zapisi.html
 categories:

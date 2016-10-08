@@ -3,10 +3,10 @@ id: 287
 lang: ru
 ref: apt-fast-uskorenie-apt-get
 title: 'Apt-fast &#8211; ускорение apt-get'
-date: 2013-07-03T23:49:36+00:00
+date: 2013-07-03
 author: Arthur Gareginyan
+translator: Arthur Gareginyan
 layout: post
-guid: http://mycyberuniverse.com/?p=287
 permalink: /ru/linux/apt-fast-uskorenie-apt-get.html
 categories:
   - Debian/Ubuntu

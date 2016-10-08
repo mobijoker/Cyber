@@ -2,13 +2,16 @@
 lang: ru
 ref: wp-plugin-all-meta-tags
 title: 'WP Плагин: "All Meta Tags"'
-date: 2015-11-04T23:48:28+00:00
+date: 2015-11-04
 author: Arthur Gareginyan
+translator: Arthur Gareginyan
 layout: post
-permalink: /ru/my_programs/wp-plugin-all-meta-tags.html
+permalink: /ru/web/wp-plugin-all-meta-tags.html
+redirect_from: /ru/my_programs/wp-plugin-all-meta-tags.html
 categories:
-  - Мои программы
-  - my-work
+  - web
+  - wordpress
+  - our-programms
 tags:
   - admin
   - alexa
@@ -102,7 +105,7 @@ Also you can use this plugin to add required meta tags such as Author, Designer,
 * Meta tag with name="description" (Global and only for home page)
 * Ready for translation (.pot file included)
 * Added Russian translation
-* Опубликовано в репозитории [WordPess.org](http://wordpess.org/)
+* Опубликовано в репозитории [WordPress.org](http://wordpess.org/)
 
 **Скоро:**
 
@@ -118,7 +121,7 @@ Also you can use this plugin to add required meta tags such as Author, Designer,
 
 1. Страница плагина:
 <img src="/images/all-meta-tags/screenshot-1.png" alt="WP plugin &quot;All Meta Tags&quot; by Arthur Gareginyan" />
-<caption>WP plugin "All Meta Tags" by Arthur "Berserkr" Gareginyan</caption>
+<caption>WP plugin "All Meta Tags" by Arthur Gareginyan</caption>
 
 
 ### Перевод

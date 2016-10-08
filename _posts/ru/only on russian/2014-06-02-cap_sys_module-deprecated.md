@@ -2,8 +2,9 @@
 lang: ru
 ref: cap_sys_module-deprecated
 title: CAP_SYS_MODULE (deprecated)
-date: 2014-06-02T19:40:36+00:00
+date: 2014-06-02
 author: Arthur Gareginyan
+translator: Arthur Gareginyan
 layout: post
 permalink: /ru/linux/cap_sys_module-deprecated.html
 categories:

@@ -2,15 +2,16 @@
 lang: ru
 ref: perezapusk-setevogo-interfeysa-pri-nedostupnosti-hosta
 title: Перезапуск сетевого интерфейса при недоступности хоста
-date: 2014-07-19T18:25:21+00:00
+date: 2014-07-19
 author: Arthur Gareginyan
+translator: Arthur Gareginyan
 layout: post
 permalink: /ru/linux/perezapusk-setevogo-interfeysa-pri-nedostupnosti-hosta.html
 categories:
   - Debian/Ubuntu
   - Linux
   - Raspberry Pi
-  - Мои программы
+  - our-programms
 tags:
   - interface
   - pi
@@ -38,8 +39,8 @@ tags:
 #               interface if is need                          #
 # Version:      ver 1.0                                       #
 # Data:         10.7.2014                                     #
-# Author:       Arthur (Berserkr) Gareginyan                  #
-# Author URI:   http://mycyberuniverse.com/author.html        #
+# Author:       Arthur Gareginyan                             #
+# Author URI:   http://arthurgareginyan.com                   #
 # Email:        arthurgareginyan@gmail.com                    #
 # License:      GNU General Public License, version 3 (GPLv3) #
 # License URI:  http://www.gnu.org/licenses/gpl-3.0.html      #

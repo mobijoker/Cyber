@@ -2,16 +2,16 @@
 lang: ru
 ref: ssl-certificate-automatically-by-a-bash-script
 title: 'SSL сертификат автоматически при помощи BASH сценария'
-date: 2015-05-25T23:06:27+00:00
+date: 2015-05-25
 author: Arthur Gareginyan
+translator: Arthur Gareginyan
 layout: post
 permalink: /ru/linux/ssl-certificate-automatically-by-a-bash-script.html
 categories:
   - Debian/Ubuntu
   - Linux
   - Raspberry Pi
-  - Мои программы
-  - my-work
+  - our-programms
 tags:
   - apache
   - certificate
@@ -43,8 +43,8 @@ SSL сертификаты необходимы для обеспечения б
 #               for Apache and Nginx web-servers.             #
 # Version:      1.1                                           #
 # Data:         30.10.2014                                    #
-# Author:       Arthur (Berserkr) Gareginyan                  #
-# Author URI:   http://mycyberuniverse.com/author.html        #
+# Author:       Arthur Gareginyan                             #
+# Author URI:   http://arthurgareginyan.com                   #
 # Email:        arthurgareginyan@gmail.com                    #
 # License:      GNU General Public License, version 3 (GPLv3) #
 # License URI:  http://www.gnu.org/licenses/gpl-3.0.html      #
@@ -82,7 +82,7 @@ checkNeededPackages() {
 }
 
 setServerName() {
-    cmd=(dialog --backtitle "mycyberuniverse.com - Create SSL Certificate for NGinX/Apache" \
+    cmd=(dialog --backtitle "arthurgareginyan.com - Create SSL Certificate for NGinX/Apache" \
 		--inputbox "\n Please enter the URL of your website." 22 76 $__servername)
     choices=$("${cmd[@]}" 2>&1 >/dev/tty)
     if [ "$choices" != "" ]; then
@@ -99,26 +99,26 @@ checkServerName() {
 }
 
 installCertificateNginx() {
-  dialog --backtitle "mycyberuniverse.com - Create SSL Certificate for NGinX/Apache" \
+  dialog --backtitle "arthurgareginyan.com - Create SSL Certificate for NGinX/Apache" \
          --title "Create SSL Certificate for NGinX" \
 	 --msgbox "\n We are now going to create a self-signed certificate. While you could simply press ENTER when you are asked for country name etc. or enter whatever you want, it might be beneficial to have the web servers host name in the common name field of the certificate." 20 60
   mkdir -p /etc/nginx/ssl
   openssl req -new -x509 -days 365 -nodes -out /etc/nginx/ssl/$__servername.crt -keyout /etc/nginx/ssl/$__servername.key
   chmod 600 /etc/nginx/ssl/$__servername.key
-  dialog --backtitle "mycyberuniverse.com - Create SSL Certificate for NGinX/Apache" \
+  dialog --backtitle "arthurgareginyan.com - Create SSL Certificate for NGinX/Apache" \
          --title "Create SSL Certificate for NGinX" \
          --msgbox "\n Done! Your certificates are available at /etc/nginx/ssl/$__servername.crt & /etc/nginx/ssl/$__servername.key" 20 60
 }
 
 installCertificateApache() {
-  dialog --backtitle "mycyberuniverse.com - Create SSL Certificate for NGinX/Apache" \
+  dialog --backtitle "arthurgareginyan.com - Create SSL Certificate for NGinX/Apache" \
          --title "Create SSL Certificate for Apache" \
 	 --msgbox "\n We are now going to create a self-signed certificate. While you could simply press ENTER when you are asked for country name etc. or enter whatever you want, it might be beneficial to have the web servers host name in the common name field of the certificate." 20 60
   clear
   mkdir -p /etc/apache2/ssl
   openssl req -new -x509 -days 365 -nodes -out /etc/apache2/ssl/$__servername.crt -keyout /etc/apache2/ssl/$__servername.key
   chmod 600 /etc/apache2/ssl/$__servername.key
-  dialog --backtitle "mycyberuniverse.com - Create SSL Certificate for NGinX/Apache" \
+  dialog --backtitle "arthurgareginyan.com - Create SSL Certificate for NGinX/Apache" \
          --title "Create SSL Certificate for Apache" \
          --msgbox "\n Done! Your certificates are available at /etc/apache2/ssl/$__servername.crt & /etc/apache2/ssl/$__servername.key" 20 60
 }
@@ -130,7 +130,7 @@ checkRoot
 checkNeededPackages
 
 while true; do
-    cmd=(dialog --backtitle "mycyberuniverse.com - Create SSL Certificate for NGinX/Apache" \
+    cmd=(dialog --backtitle "arthurgareginyan.com - Create SSL Certificate for NGinX/Apache" \
                 --title "Create SSL Certificate for NGinX/Apache" \
                 --menu "You MUST set the server URL (e.g., myaddress.dyndns.org) before starting create certificate. Choose task:" 20 60 15)
     options=(1 "Set server URL ($__servername)"
@@ -195,13 +195,14 @@ openssl req -new -x509 -days 365 -nodes -out /etc/apache2/ssl/$__servername.crt 
 </pre>
 
 Описание аргументов:
-`req` - Запрос на создание нового сертификата.
-`-new` - Создание запроса на сертификат (Certificate Signing Request – далее CSR).
-`-x509` - Вместо создания CSR (см. опцию -new) создать самоподписанный сертификат.
-`-days 365` - Срок действия сертификата 365 дней (1 год).
-`-nodes` - Не шифровать закрытый ключ.
-`-out` - Место сохранения сертификата.
-`-keyout` - Место сохранения закрытого ключа.
+
+* `req` - Запрос на создание нового сертификата.
+* `-new` - Создание запроса на сертификат (Certificate Signing Request – далее CSR).
+* `-x509` - Вместо создания CSR (см. опцию -new) создать самоподписанный сертификат.
+* `-days 365` - Срок действия сертификата 365 дней (1 год).
+* `-nodes` - Не шифровать закрытый ключ.
+* `-out` - Место сохранения сертификата.
+* `-keyout` - Место сохранения закрытого ключа.
 
 После выполнения сценария будет автоматически создан новый сертификат и закрытый RSA ключ длиной 2048 бит. Они будут помещены в рабочую директорию (Apache - `/etc/apache2/ssl/`, NginX - `/etc/nginx/ssl/`) и на них будут установлены права `600` для безопасности.
 

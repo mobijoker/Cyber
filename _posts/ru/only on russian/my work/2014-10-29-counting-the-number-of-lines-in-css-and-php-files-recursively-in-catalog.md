@@ -2,8 +2,9 @@
 lang: ru
 ref: counting-the-number-of-lines-in-css-and-php-files-recursively-in-catalog
 title: Counting the number of lines in CSS and PHP files, recursively in catalog
-date: 2014-10-29T14:19:54+00:00
+date: 2014-10-29
 author: Arthur Gareginyan
+translator: Arthur Gareginyan
 layout: post
 permalink: /ru/linux/counting-the-number-of-lines-in-css-and-php-files-recursively-in-catalog.html
 categories:
@@ -11,7 +12,7 @@ categories:
   - Linux
   - Mac OS
   - Raspberry Pi
-  - Мои программы
+  - our-programms
 tags:
   - counting
   - lines
@@ -46,8 +47,8 @@ tags:
 #               files, recursively in catalog.                #
 # Version:      1.1                                           #
 # Data:         7.2.2014-28.10.2014                           #
-# Author:       Arthur (Berserkr) Gareginyan                  #
-# Author URI:   http://mycyberuniverse.com/author.html        #
+# Author:       Arthur Gareginyan                             #
+# Author URI:   http://arthurgareginyan.com                   #
 # Email:        arthurgareginyan@gmail.com                    #
 # License:      GNU General Public License, version 3 (GPLv3) #
 # License URI:  http://www.gnu.org/licenses/gpl-3.0.html      #

@@ -3,10 +3,10 @@ id: 279
 lang: ru
 ref: avtozagruzka-v-linux
 title: Автозагрузка в Linux
-date: 2013-06-24T18:57:56+00:00
+date: 2013-06-24
 author: Arthur Gareginyan
+translator: Arthur Gareginyan
 layout: post
-guid: http://mycyberuniverse.com/?p=279
 permalink: /ru/linux/avtozagruzka-v-linux.html
 categories:
   - Debian/Ubuntu

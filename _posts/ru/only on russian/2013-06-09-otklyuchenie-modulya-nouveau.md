@@ -2,8 +2,9 @@
 lang: ru
 ref: otklyuchenie-modulya-nouveau
 title: Отключение модуля nouveau
-date: 2013-06-09T00:13:44+00:00
+date: 2013-06-09
 author: Arthur Gareginyan
+translator: Arthur Gareginyan
 layout: post
 permalink: /ru/linux/otklyuchenie-modulya-nouveau.html
 categories:

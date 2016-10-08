@@ -2,8 +2,9 @@
 lang: ru
 ref: bezopasnyiy-i-anonimnyiy-veb-syorfing-s-mozilla-firefox
 title: Безопасный и анонимный веб-сёрфинг с Mozilla Firefox
-date: 2014-06-21T16:52:27+00:00
+date: 2014-06-21
 author: Arthur Gareginyan
+translator: Arthur Gareginyan
 layout: post
 permalink: /ru/web/bezopasnyiy-i-anonimnyiy-veb-syorfing-s-mozilla-firefox.html
 categories:

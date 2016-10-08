@@ -2,8 +2,9 @@
 lang: ru
 ref: chtenie-redaktirovanie-i-udalenie-metadannyih-faylov
 title: Чтение, редактирование и удаление метаданных файлов
-date: 2014-09-19T14:23:24+00:00
+date: 2014-09-19
 author: Arthur Gareginyan
+translator: Arthur Gareginyan
 layout: post
 permalink: /ru/linux/chtenie-redaktirovanie-i-udalenie-metadannyih-faylov.html
 categories:
@@ -25,7 +26,7 @@ tags:
 Многие форматы файлов могут содержать метаданные. Существуют разные типы метаданных. Большинство цифровых фото/видеокамер и мобильных телефонов добавляют EXIF метаданные в фотографии и видеофайлы. Метаданные могут содержать информацию об устройстве, его настройки, местоположение (координаты GPS) и многое другое.
 
 
-Перед публикацией в сеть каких-либо файлов необходимо, при возможности, удалить из них все метаданные, таким образом позаботившись о приватности. Для этого можно воспользоваться консольной программой <a href="http://owl.phy.queensu.ca/~phil/exiftool/" target="_blank">ExifTool</a> от Phil Harvey.
+Перед публикацией в сеть каких-либо файлов необходимо удалить из них все метаданные, таким образом позаботившись о приватности. Для этого можно воспользоваться консольной программой <a href="http://owl.phy.queensu.ca/~phil/exiftool/" target="_blank">ExifTool</a> от Phil Harvey.
 
 
 ### Метаданные поддерживаемые ExifTool

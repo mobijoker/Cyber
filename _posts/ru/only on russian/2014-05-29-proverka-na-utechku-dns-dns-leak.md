@@ -2,8 +2,9 @@
 lang: ru
 ref: proverka-na-utechku-dns-dns-leak
 title: Проверка на утечку DNS (DNS leak)
-date: 2014-05-29T10:20:00+00:00
+date: 2014-05-29
 author: Arthur Gareginyan
+translator: Arthur Gareginyan
 layout: post
 permalink: /ru/linux/proverka-na-utechku-dns-dns-leak.html
 categories:

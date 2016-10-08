@@ -2,8 +2,9 @@
 lang: ru
 ref: ustanovka-na-sayt-favicon
 title: Установка на сайт Favicon
-date: 2013-06-20T07:05:48+00:00
+date: 2013-06-20
 author: Arthur Gareginyan
+translator: Arthur Gareginyan
 layout: post
 permalink: /ru/web/ustanovka-na-sayt-favicon.html
 categories:

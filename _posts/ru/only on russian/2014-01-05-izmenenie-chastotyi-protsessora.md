@@ -2,8 +2,9 @@
 lang: ru
 ref: izmenenie-chastotyi-protsessora
 title: Изменение частоты процессора
-date: 2014-01-05T18:10:14+00:00
+date: 2014-01-05
 author: Arthur Gareginyan
+translator: Arthur Gareginyan
 layout: post
 permalink: /ru/linux/izmenenie-chastotyi-protsessora.html
 categories:

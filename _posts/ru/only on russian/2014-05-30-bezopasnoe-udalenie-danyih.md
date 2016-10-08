@@ -2,8 +2,9 @@
 lang: ru
 ref: bezopasnoe-udalenie-danyih
 title: Безопасное удаление даных
-date: 2014-05-30T13:00:58+00:00
+date: 2014-05-30
 author: Arthur Gareginyan
+translator: Arthur Gareginyan
 layout: post
 permalink: /ru/linux/bezopasnoe-udalenie-danyih.html
 categories:

@@ -2,8 +2,9 @@
 lang: ru
 ref: otklyuchenie-rezhima-energosberezheniya-wifi-adaptera
 title: Отключение режима энергосбережения WiFi адаптера
-date: 2014-05-31T02:10:44+00:00
+date: 2014-05-31
 author: Arthur Gareginyan
+translator: Arthur Gareginyan
 layout: post
 permalink: /ru/linux/otklyuchenie-rezhima-energosberezheniya-wifi-adaptera.html
 categories:
