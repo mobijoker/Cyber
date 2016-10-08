@@ -3,7 +3,7 @@ title: Контакты
 lang: ru
 ref: contact
 order: 2
-date: 2015-09-11T17:44:11+00:00
+date: 2015-09-11
 author: Arthur Gareginyan
 layout: page
 permalink: /ru/contact.html
@@ -15,31 +15,31 @@ redirect_from: /ru/contacts.html
 
 <div class="field-left">
 
-    <div class="form-title">Name:</div>
-    <input type="text" name="name" placeholder="Enter your name" class="form-field">
+    <div class="form-title">Имя:</div>
+    <input type="text" name="name" placeholder="Впишите ваше имя" class="form-field">
 
     <div class="form-title">Email:</div>
-    <input type="email" name="_replyto" placeholder="Enter your email" class="form-field">
+    <input type="email" name="_replyto" placeholder="Впишите ваш email" class="form-field">
 
 </div>
 <div class="field-right">
 
-    <div class="form-title">Subject :</div>
-    <input type="text" name="subject" placeholder="Enter the subject" class="form-field">
+    <div class="form-title">Тема:</div>
+    <input type="text" name="subject" placeholder="Впишите тему сообщения" class="form-field">
 
-    <div class="form-title">Website <span style="color:#aaaaaa">(If applicable)</span>:</div>
-    <input type="url" name="website" placeholder="Enter the URL" class="form-field">
+    <div class="form-title">Вебсайт <span style="color:#aaaaaa">(Если нужно)</span>:</div>
+    <input type="url" name="website" placeholder="Впишите URL" class="form-field">
 
 </div>
 
-    <div class="form-title">Message:</div>
-    <textarea name="message" rows="10" placeholder="Enter your message" class="form-field form-message"></textarea>
+    <div class="form-title">Сообщение:</div>
+    <textarea name="message" rows="10" placeholder="Напишите ваше сообщение" class="form-field form-message"></textarea>
 
     <input type="hidden" name="_next" value="//www.mycyberuniverse.com/contact-thanks.html" />
     <input type="text" name="_gotcha" style="display:none">
 
     <div class="buttons-container">
-       <input type="submit" value="Send" class="buttons">
+       <input type="submit" value="Отправить" class="buttons">
     </div>
 
 </form>
@@ -48,7 +48,7 @@ redirect_from: /ru/contacts.html
 #contact-form {
    font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
    font-size: 16px;
-   width: 100%;
+   max-width: 840px;
 }
 
 .field-left {
@@ -64,7 +64,7 @@ redirect_from: /ru/contacts.html
 
 .form-title {
    margin-bottom:10px;
-   color: #fff;
+   //color: #fff;
    text-shadow: #fdf2e4 0 1px 0;
 }
 

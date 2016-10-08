@@ -3,7 +3,7 @@ title: Contact
 lang: en
 ref: contact
 order: 2
-date: 2015-09-11T17:44:11+00:00
+date: 2015-09-11
 author: Arthur Gareginyan
 layout: page
 permalink: /contact.html
@@ -24,7 +24,7 @@ redirect_from: /contacts.html
 </div>
 <div class="field-right">
 
-    <div class="form-title">Subject :</div>
+    <div class="form-title">Subject:</div>
     <input type="text" name="subject" placeholder="Enter the subject" class="form-field">
 
     <div class="form-title">Website <span style="color:#aaaaaa">(If applicable)</span>:</div>
@@ -48,7 +48,7 @@ redirect_from: /contacts.html
 #contact-form {
    font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
    font-size: 16px;
-   width: 100%;
+   max-width: 840px;
 }
 
 .field-left {
@@ -64,7 +64,7 @@ redirect_from: /contacts.html
 
 .form-title {
    margin-bottom:10px;
-   color: #fff;
+   //color: #fff;
    text-shadow: #fdf2e4 0 1px 0;
 }
 
