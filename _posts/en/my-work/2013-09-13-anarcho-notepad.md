@@ -106,7 +106,7 @@ A list of these images:
 
 ### License
 
-<img src="/images/gplv3.png" alt="gplv3" width="80" class="alignleft" />This theme is open-sourced software licensed under the <a href="http://www.gnu.org/licenses/gpl-3.0.html" title="GPLv3" target="_blank">GNU General Public License, version 3 (GPLv3)</a> and is distributed free of charge.
+<img src="/images/gplv3.png" alt="gplv3" width="80" class="alignleft" style="border:none;" />This theme is open-sourced software licensed under the <a href="http://www.gnu.org/licenses/gpl-3.0.html" title="GPLv3" target="_blank">GNU General Public License, version 3 (GPLv3)</a> and is distributed free of charge.
 
 Commercial licensing (e.g. for projects that can’t use an open-source license) is available upon request.
 
