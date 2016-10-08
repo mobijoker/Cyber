@@ -25,7 +25,7 @@ tags:
 
 ---
 
-![thumb]()
+![thumb](/images/thumbnail/question.png)
 The source code was something like this:
 
 ```sh

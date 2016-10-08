@@ -26,7 +26,7 @@ tags:
 
 ---
 
-![thumb]()
+![thumb](/images/thumbnail/question.png)
 Пример исходного кода:
 
 ```sh
