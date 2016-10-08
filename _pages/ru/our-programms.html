@@ -21,7 +21,7 @@ redirect_from: /ru/my-work.html
             <h2>
                 <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
             </h2>
-            <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span></br>
+            <span class="post-meta">{{ post.date | date: "%B %-d, %Y" }} {% if post.author %} | By: {{ post.author }} {% endif %} {% if post.translator %} | Translator: {{ post.translator }} {% endif %}</span></br>
             {{ post.excerpt }}
             <a href="{{ post.url }}">Читать далее →</a>
         </li>
