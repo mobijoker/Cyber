@@ -2,7 +2,7 @@
 lang: en
 ref: bash-aliases
 title: BASH aliases
-date: 2014-07-28T15:56:39+00:00
+date: 2014-07-28
 author: Arthur Gareginyan
 layout: post
 permalink: /linux/bash-aliases.html

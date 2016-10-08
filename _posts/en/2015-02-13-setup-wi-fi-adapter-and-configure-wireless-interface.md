@@ -2,7 +2,7 @@
 lang: en
 ref: setup-wi-fi-adapter-and-configure-wireless-interface
 title: Setup Wi-Fi Adapter and Configure Wireless Interface
-date: 2015-02-13T10:57:11+00:00
+date: 2015-02-13
 author: Arthur Gareginyan
 layout: post
 permalink: /linux/setup-wi-fi-adapter-and-configure-wireless-interface.html

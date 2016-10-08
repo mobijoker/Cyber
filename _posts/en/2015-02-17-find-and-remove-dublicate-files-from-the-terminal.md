@@ -2,7 +2,7 @@
 lang: en
 ref: find-and-remove-dublicate-files-from-the-terminal
 title: Find and remove duplicate files from the terminal
-date: 2015-02-17T23:28:39+00:00
+date: 2015-02-17
 author: Arthur Gareginyan
 layout: post
 permalink: /linux/find-and-remove-dublicate-files-from-the-terminal.html

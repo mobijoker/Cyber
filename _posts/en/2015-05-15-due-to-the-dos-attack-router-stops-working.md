@@ -2,7 +2,7 @@
 lang: en
 ref: due-to-the-dos-attack-router-stops-working
 title: Due to the DoS attack router stops working
-date: 2015-05-15T09:48:14+00:00
+date: 2015-05-15
 author: Arthur Gareginyan
 layout: post
 permalink: /linux/due-to-the-dos-attack-router-stops-working.html
@@ -44,7 +44,7 @@ Do not need to worry about these attacks, if the router has protection from them
 
 The problem was in another. As attacks have been constant (every second), then the router not coping with the logging of information about them in the system logs. Therefore, if it is not possible to eliminate the cause of the attacks, then you can disable the logging of information about attacks.
 
-I have the router Asus RT-N12LX. The web interface of the router doesn’t have a trigger to control or disable loging. So needed to get access to command line of the router. The most secure way is using the SSH protocol, but we can use insecure Telnet as that's all ASUS ship with it by default. If the web-interface of your router don’t have the trigger to enable Telnet, then you need to read this article: <a href="http://mycyberuniverse.com/linux/enable-telnet-on-the-asus-rt-n12e-lx-router.html" target="_blank">«How to enable the Telnet server on the ASUS router»</a>.
+I have the router Asus RT-N12LX. The web interface of the router doesn’t have a trigger to control or disable loging. So needed to get access to command line of the router. The most secure way is using the SSH protocol, but we can use insecure Telnet as that's all ASUS ship with it by default. If the web-interface of your router don’t have the trigger to enable Telnet, then read this article: <a href="http://mycyberuniverse.com/linux/enable-telnet-on-the-asus-rt-n12e-lx-router.html" target="_blank">«How to enable the Telnet server on the ASUS router»</a>.
 
 First of all, we will find all variables with word "LOG" in the NVRAM (Non Volatile Random Access Memory):
 

@@ -2,7 +2,7 @@
 lang: en
 ref: add-social-media-buttons-to-your-website
 title: Add social media buttons to your website
-date: 2015-09-06T15:23:50+00:00
+date: 2015-09-06
 author: Arthur Gareginyan
 layout: post
 permalink: /web/add-social-media-buttons-to-your-website.html
@@ -27,28 +27,33 @@ tags:
 
 ---
 
-![thumb](/images/social-media-buttons-toolbar/icon.png)
+![thumb](/images/add-social-media-buttons-to-your-website/social-media-icons.png)
 The social media buttons lets you add icons of the popular social networks which are linked to your social media profiles. You will learn how to add a vertical and horizontal line or lines of social media buttons to your website’s post, sidebar or footer, using whatever icons you prefer.
 
+<br><br>
 
 Here’s an example of what it looks like:
-<img src="/images/social-media-buttons-toolbar/social-media-icons-2.png" alt="social media icons-2" width="600" height="206" class="aligncenter" />
+![](/images/add-social-media-buttons-to-your-website/screenshot-1.png)
 
-Social Media Buttons Toolbar displayed below the content of a post (Twenty Sixteen theme) :
-<img src="/images/social-media-buttons-toolbar/screenshot-4.png" alt="WP plugin &quot;Social Media Buttons Toolbar&quot; by Arthur Gareginyan" width="1024" height="541" />
+Social Media Buttons Toolbar displayed below the content of a post (Twenty Sixteen theme):
+![](/images/add-social-media-buttons-to-your-website/screenshot-2.png)
 
-Social Media Buttons Toolbar displayed in the sidebar using a shortcode in text widget (Twenty Sixteen theme) :
-<img src="/images/social-media-buttons-toolbar/screenshot-5.png" alt="WP plugin &quot;Social Media Buttons Toolbar&quot; by Arthur Gareginyan" width="1024" height="541" />
-
-Social Media Buttons Toolbar displayed in the footer using a simple call the function directly from theme file (vCard theme) :
-<img src="/images/social-media-buttons-toolbar/screenshot-7.png" alt="WP plugin &quot;Social Media Buttons Toolbar&quot; by Arthur Gareginyan" width="1024" height="541" />
+Social Media Buttons Toolbar displayed in the sidebar using a shortcode in text widget (Twenty Sixteen theme):
+![](/images/add-social-media-buttons-to-your-website/screenshot-3.png)
 
 Social Media Buttons Toolbar displayed in the footer using a shortcode in text widget (Anarcho Notepad theme):
-<img src="/images/social-media-buttons-toolbar/screenshot-6.png" alt="WP plugin &quot;Social Media Buttons Toolbar&quot; by Arthur Gareginyan" width="379" height="359" />
+![](/images/add-social-media-buttons-to-your-website/screenshot-4.png)
+
+Social Media Buttons Toolbar displayed in the footer using a simple call the function directly from theme file (vCard theme):
+![](/images/add-social-media-buttons-to-your-website/screenshot-5.png)
+
+Shortcode placed in the Text Widget:
+![](/images/add-social-media-buttons-to-your-website/screenshot-6.png)
 
 Buttons arranged horizontally and centered. If they do not fit to the one line, then they will be placed on multiple lines.
 
 You can add social media buttons to your website or blog by two ways, but first you need an icons.
+
 
 ### Preparing
 
@@ -59,7 +64,7 @@ You can add social media buttons to your website or blog by two ways, but first 
 I using <a href="https://www.iconfinder.com/iconsets/social-buttons-2?ref=ArthurGareginyan" target="_blank">“Social Buttons 2”</a> set of icons by Ivlichev Victor Petrovich. This set of icons is free and licensed under Creative Commons (Attribution 3.0 Unported).
 
 **Step 2.** Put all icons in new folder, example `social-media-icons` and upload them to your website’s media library. In the CMS WordPress this is folder with name `uploads` (it located at `/you-website/wp-content/uploads/`). Then address to your icons will be similar to this:
-`http://your-website.com/wp-content/uploads/social-media-icons/facebook.ico`
+`http://your-website.com/wp-content/uploads/social-media-icons/facebook.png`
 
 
 ### The first way to add social media buttons
@@ -160,7 +165,7 @@ How you see the code above is composed of two parts. The first is a list with li
 </ul>
 ```
 
-Replace all my links with your links that you want the button to point to. Make sure each link begins with `http://` or `https://`.
+Replace all my links with your links that you want the button to point to. Make sure each link begins with `http://` or `https://` or more universal `//`.
 
 The second is a styles for your buttons:
 

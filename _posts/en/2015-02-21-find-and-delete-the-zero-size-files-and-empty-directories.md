@@ -2,7 +2,7 @@
 lang: en
 ref: find-and-delete-the-zero-size-files-and-empty-directories
 title: Find and delete the zero size files and empty directories
-date: 2015-02-21T17:06:34+00:00
+date: 2015-02-21
 author: Arthur Gareginyan
 layout: post
 permalink: /linux/find-and-delete-the-zero-size-files-and-empty-directories.html

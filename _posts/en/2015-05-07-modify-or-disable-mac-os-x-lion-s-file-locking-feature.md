@@ -2,7 +2,7 @@
 lang: en
 ref: modify-or-disable-mac-os-x-lion-s-file-locking-feature
 title: Modify or disable Mac OS X Lion’s file locking feature
-date: 2015-05-07T15:30:40+00:00
+date: 2015-05-07
 author: Arthur Gareginyan
 layout: post
 permalink: /mac-os/modify-or-disable-mac-os-x-lion-s-file-locking-feature.html

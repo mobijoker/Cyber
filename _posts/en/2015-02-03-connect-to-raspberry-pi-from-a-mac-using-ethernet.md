@@ -2,7 +2,7 @@
 lang: en
 ref: connect-to-raspberry-pi-from-a-mac-using-ethernet
 title: Connect to Raspberry Pi from a Mac using Ethernet
-date: 2015-02-03T21:44:05+00:00
+date: 2015-02-03
 author: Arthur Gareginyan
 layout: post
 permalink: /mac-os/connect-to-raspberry-pi-from-a-mac-using-ethernet.html

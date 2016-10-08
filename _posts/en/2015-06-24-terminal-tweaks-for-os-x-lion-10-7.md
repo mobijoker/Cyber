@@ -2,7 +2,7 @@
 lang: en
 ref: terminal-tweaks-for-os-x-lion-10-7
 title: Terminal Tweaks for OS X Lion 10.7
-date: 2015-06-24T17:20:52+00:00
+date: 2015-06-24
 author: Arthur Gareginyan
 layout: post
 permalink: /mac-os/terminal-tweaks-for-os-x-lion-10-7.html

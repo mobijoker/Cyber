@@ -2,7 +2,7 @@
 lang: en
 ref: syntax-highlighting-by-codemirror-wordpress
 title: 'Syntax highlighting by CodeMirror &#038; WordPress'
-date: 2015-06-16T22:41:35+00:00
+date: 2015-06-16
 author: Arthur Gareginyan
 layout: post
 permalink: /web/syntax-highlighting-by-codemirror-wordpress.html

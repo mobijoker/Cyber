@@ -2,7 +2,7 @@
 lang: en
 ref: chistka-linux
 title: Clean Linux
-date: 2013-07-04T20:14:08+00:00
+date: 2013-07-04
 author: Arthur Gareginyan
 layout: post
 permalink: /linux/chistka-linux.html

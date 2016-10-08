@@ -2,7 +2,7 @@
 lang: en
 ref: secure-copying-files-via-ssh
 title: Secure copying files via SSH
-date: 2015-03-05T11:25:10+00:00
+date: 2015-03-05
 author: Arthur Gareginyan
 layout: post
 permalink: /linux/secure-copying-files-via-ssh.html

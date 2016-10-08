@@ -2,7 +2,7 @@
 lang: en
 ref: how-to-fix-host-key-verification-failed
 title: 'How to fix: “Host key verification failed”'
-date: 2015-02-05T10:49:51+00:00
+date: 2015-02-05
 author: Arthur Gareginyan
 layout: post
 permalink: /linux/how-to-fix-host-key-verification-failed.html

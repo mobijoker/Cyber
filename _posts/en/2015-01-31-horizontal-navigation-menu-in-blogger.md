@@ -2,7 +2,7 @@
 lang: en
 ref: horizontal-navigation-menu-in-blogger
 title: Horizontal Navigation Menu in Blogger
-date: 2015-01-31T00:09:08+00:00
+date: 2015-01-31
 author: Arthur Gareginyan
 layout: post
 permalink: /web/horizontal-navigation-menu-in-blogger.html

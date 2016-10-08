@@ -2,7 +2,7 @@
 lang: en
 ref: perenos-proektov-iweb
 title: Migrate iWeb projects
-date: 2014-07-04T17:03:15+00:00
+date: 2014-07-04
 author: Arthur Gareginyan
 layout: post
 permalink: /mac-os/perenos-proektov-iweb.html

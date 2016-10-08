@@ -2,7 +2,7 @@
 lang: en
 ref: find-and-remove-ds_store-and-appledouble
 title: Find and remove .DS_Store and .AppleDouble
-date: 2015-05-19T08:41:32+00:00
+date: 2015-05-19
 author: Arthur Gareginyan
 layout: post
 permalink: /mac-os/find-and-remove-ds_store-and-appledouble.html

@@ -2,7 +2,7 @@
 lang: en
 ref: javascript-with-the-attribute-cf-hash-mysteriously-added-to-a-source-code
 title: JavaScript with the attribute “CF-Hash” mysteriously added to a source code
-date: 2015-08-11T05:06:54+00:00
+date: 2015-08-11
 author: Arthur Gareginyan
 layout: post
 permalink: /web/javascript-with-the-attribute-cf-hash-mysteriously-added-to-a-source-code.html
@@ -54,7 +54,7 @@ Service "CloudFlare" wrongly perceived the string `user@remote.host:` as email a
 
 In order to fix the situation, this kind of string must be escaped or the obfuscation of email addresses must be completely disabled.
 
-**1)** To prevent CloudFlare from obfuscating “emails”, just wrap them in HTML comment tags like this:
+**1)** To prevent CloudFlare from obfuscating emails, just wrap them in HTML comment tags like this:
 
 ```html
 <!—email_off-->EMAIL ADDRESS<!—/email_off-->
@@ -66,10 +66,10 @@ Any code (like email addresses) between the opening and closing comment tags wil
 
    1. Go to `www.cloudflare.com` and log in.
 
-   2. Go to the “Dashboard”.
+   2. Go to the `Dashboard`.
 
    3. Choose your website.
 
-   4. Go to the “Scrape Shield” tab.
+   4. Go to the `Scrape Shield` tab.
 
-   5. Set “Email Address Obfuscation” to “off”.
+   5. Set `Email Address Obfuscation` to `off`.

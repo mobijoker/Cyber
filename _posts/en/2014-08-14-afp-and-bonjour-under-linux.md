@@ -2,7 +2,7 @@
 lang: en
 ref: afp-and-bonjour-under-linux
 title: AFP and Bonjour under Linux
-date: 2014-08-14T15:58:05+00:00
+date: 2014-08-14
 author: Arthur Gareginyan
 layout: post
 permalink: /linux/afp-and-bonjour-under-linux.html

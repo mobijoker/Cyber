@@ -2,7 +2,7 @@
 lang: en
 ref: how-to-fix-ping-unknown-host-com
 title: 'How to fix: “ping: unknown host ***.com”'
-date: 2015-02-08T03:25:06+00:00
+date: 2015-02-08
 author: Arthur Gareginyan
 layout: post
 permalink: /linux/how-to-fix-ping-unknown-host-com.html

@@ -2,7 +2,7 @@
 lang: en
 ref: access-to-the-library-folder-library-in-the-finder
 title: Access to the Library folder (~/Library) in the Finder
-date: 2015-08-04T18:55:10+00:00
+date: 2015-08-04
 author: Arthur Gareginyan
 layout: post
 permalink: /mac-os/access-to-the-library-folder-library-in-the-finder.html

@@ -2,7 +2,7 @@
 lang: en
 ref: how-to-fix-briefly-unavailable-for-scheduled-maintenance
 title: 'How to fix: “Briefly unavailable for scheduled maintenance”'
-date: 2015-02-15T13:36:33+00:00
+date: 2015-02-15
 author: Arthur Gareginyan
 layout: post
 permalink: /web/how-to-fix-briefly-unavailable-for-scheduled-maintenance.html
