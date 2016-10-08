@@ -2,13 +2,15 @@
 lang: en
 ref: wp-plugin-my-custom-styles
 title: 'WP Plugin: “My Custom Styles”'
-date: 2015-09-03T20:08:01+00:00
+date: 2015-09-03
 author: Arthur Gareginyan
 layout: post
-permalink: /my_programs/wp-plugin-my-custom-styles.html
+permalink: /web/wp-plugin-my-custom-styles.html
+redirect_from: /my_programs/wp-plugin-my-custom-styles.html
 categories:
-  - Мои программы
-  - my-work
+  - web
+  - wordpress
+  - our-programms
 tags:
   - CSS
   - custom
@@ -56,7 +58,7 @@ That’s it. You are already getting your custom CSS working.
 * Syntax highlighting (by CodeMirror).
 * Line numbering (by CodeMirror).
 * Ready for translation (.pot file included).
-* Published on [WordPess.org](http://wordpess.org/)
+* Published on [WordPress.org](http://wordpess.org/)
 
 **Coming soon:**
 

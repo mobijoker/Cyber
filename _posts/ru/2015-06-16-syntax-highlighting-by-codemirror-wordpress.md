@@ -2,8 +2,9 @@
 lang: ru
 ref: syntax-highlighting-by-codemirror-wordpress
 title: 'Подсветка синтаксиса с CodeMirror и WordPress'
-date: 2015-06-16T22:41:35+00:00
+date: 2015-06-16
 author: Arthur Gareginyan
+translator: Arthur Gareginyan
 layout: post
 permalink: /ru/web/syntax-highlighting-by-codemirror-wordpress.html
 switch_like_status:

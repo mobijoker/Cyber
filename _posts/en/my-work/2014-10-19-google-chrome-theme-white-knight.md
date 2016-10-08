@@ -2,14 +2,14 @@
 lang: en
 ref: google-chrome-theme-white-knight
 title: Google Chrome Theme “White Knight”
-date: 2014-10-19T09:31:31+00:00
+date: 2014-10-19
 author: Arthur Gareginyan
 layout: post
 permalink: /web/google-chrome-theme-white-knight.html
 categories:
-  - Web
-  - Мои программы
-  - my-work
+  - web
+  - wordpress
+  - our-programms
 tags:
   - browser
   - chrome

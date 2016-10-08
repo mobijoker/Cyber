@@ -2,15 +2,16 @@
 lang: ru
 ref: anarcho-notepad
 title: 'WP Тема: “Anarcho Notepad”'
-date: 2013-09-13T17:35:48+00:00
+date: 2013-09-13
 author: Arthur Gareginyan
+translator: Arthur Gareginyan
 layout: post
 permalink: /ru/web/anarcho-notepad.html
 redirect_from: /ru/anarcho-notepad.html
 categories:
-  - Web
-  - Мои программы
-  - my-work
+  - web
+  - wordpress
+  - our-programms
 tags:
   - anarch-notepad
   - Anarchist
@@ -65,14 +66,7 @@ tags:
    * Произвольный фон
    * Произвольное меню
    * Готово к переводу (переведено на 12 языков)
-   * Опубликовано в репозитории [WordPess.org](http://wordpess.org/)
-
-**Coming soon:**
-
-   * Responsive designe
-   * Sticky Posts
-
-Извините за то, что Я удаляю некоторые возможности из `Customizer`. Я вынужден это делать из-за меняющихся правил wordpress.org.
+   * Опубликовано в репозитории [WordPress.org](http://wordpess.org/)
 
 
 ### Перевод

@@ -28,7 +28,7 @@ Here is an examples:
 
 <table style="width:100%">
   <tr>
-    <th><a href="skype:echo123?call"><img src="/images/call.png"></a></th>
+    <th><a href="skype:echo123?call"><img src="/images/call.png" style="border:none;"></a></th>
     <th><a href="skype:echo123?call">Call Me</a></th> 
     <th><a href="skype:echo123?chat">Chat with Me</a></th>
   </tr>
@@ -130,5 +130,5 @@ skype:username1;username2?chat
 ## Tips & Warnings
 
 * Users must have Skype already installed on their devices in order to the link worked.
-* When testing your own link, it will probably say, `You cannot call yourself!` Don't worry, it will work for everyone else.
+* When testing your own link, it will probably say, `You cannot call yourself!`. Don't worry, it will work for everyone else.
 * You can get officially generated Skype button [here](https://www.skype.com/en/developer/create-contactme-buttons/). Skype offers a button that shows your current status.

@@ -2,13 +2,15 @@
 lang: en
 ref: wp-plugin-simple-scroll-to-top-button
 title: 'WP Plugin: "Simple Scroll to Top Button"'
-date: 2016-02-27T02:12:06+00:00
+date: 2016-02-27
 author: Arthur Gareginyan
 layout: post
-permalink: /my_programs/wp-plugin-simple-scroll-to-top-button.html
+permalink: /web/wp-plugin-simple-scroll-to-top-button.html
+redirect_from: /my_programs/wp-plugin-simple-scroll-to-top-button.html
 categories:
-  - Мои программы
-  - my-work
+  - web
+  - wordpress
+  - our-programms
 tags:
   - arrow
   - back
@@ -94,7 +96,7 @@ Also you don't need to edit any file of your theme, this plugin will do everythi
 * Live preview
 * Ready for translation (.pot file included)
 * Added Russian translation
-* Published on [WordPess.org](http://wordpess.org/)
+* Published on [WordPress.org](http://wordpess.org/)
 
 
 **Coming soon:**

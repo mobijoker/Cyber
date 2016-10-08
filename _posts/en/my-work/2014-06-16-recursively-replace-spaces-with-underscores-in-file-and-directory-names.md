@@ -2,7 +2,7 @@
 lang: en
 ref: recursively-replace-spaces-with-underscores-in-file-and-directory-names
 title: Recursively replace spaces with underscores in file and directory names
-date: 2014-06-16T05:22:13+00:00
+date: 2014-06-16
 author: Arthur Gareginyan
 layout: post
 permalink: /linux/recursively-replace-spaces-with-underscores-in-file-and-directory-names.html
@@ -10,8 +10,7 @@ categories:
   - Debian/Ubuntu
   - Linux
   - Raspberry Pi
-  - Мои программы
-  - my-work
+  - our-programms
 tags:
   - rename
   - replace
@@ -59,13 +58,13 @@ tree
 ```bash
 #!/bin/bash
 #=============================================================#
-# Name:         Space to Underscore	                      #
+# Name:         Space to Underscore                           #
 # Description:  Recursively replace spaces with underscores   #
 #               in file and directory names.                  #
 # Version:      ver 1.2                                       #
 # Data:         16.6.2014                                     #
-# Author:       Arthur (Berserkr) Gareginyan                  #
-# Author URI:   http://mycyberuniverse.com/author.html        #
+# Author:       Arthur Gareginyan                             #
+# Author URI:   http://arthurgareginyan.com                   #
 # Email:        arthurgareginyan@gmail.com                    #
 # License:      GNU General Public License, version 3 (GPLv3) #
 # License URI:  http://www.gnu.org/licenses/gpl-3.0.html      #

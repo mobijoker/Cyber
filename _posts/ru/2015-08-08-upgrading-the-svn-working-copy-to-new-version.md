@@ -2,8 +2,9 @@
 lang: ru
 ref: upgrading-the-svn-working-copy-to-new-version
 title: 'Обновление рабочей копии SVN до новой версии'
-date: 2015-08-08T23:33:39+00:00
+date: 2015-08-08
 author: Arthur Gareginyan
+translator: Arthur Gareginyan
 layout: post
 permalink: /ru/linux/upgrading-the-svn-working-copy-to-new-version.html
 categories:

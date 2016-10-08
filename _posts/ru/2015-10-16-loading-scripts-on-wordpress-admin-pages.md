@@ -2,8 +2,9 @@
 lang: ru
 ref: loading-scripts-on-wordpress-admin-pages
 title: 'Загрузка скриптов на админ страницах WordPress'
-date: 2015-10-16T09:28:48+00:00
+date: 2015-10-16
 author: Arthur Gareginyan
+translator: Arthur Gareginyan
 layout: post
 permalink: /ru/web/loading-scripts-on-wordpress-admin-pages.html
 categories:

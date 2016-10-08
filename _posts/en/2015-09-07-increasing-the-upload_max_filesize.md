@@ -2,7 +2,7 @@
 lang: en
 ref: increasing-the-upload_max_filesize
 title: Increasing the upload_max_filesize
-date: 2015-09-07T14:38:21+00:00
+date: 2015-09-07
 author: Arthur Gareginyan
 layout: post
 permalink: /linux/increasing-the-upload_max_filesize.html

@@ -2,7 +2,7 @@
 lang: en
 ref: migrate-events-of-final-cut-pro-x
 title: Migrate events of Final Cut Pro X
-date: 2015-10-06T21:39:08+00:00
+date: 2015-10-06
 author: Arthur Gareginyan
 layout: post
 permalink: /mac-os/migrate-events-of-final-cut-pro-x.html

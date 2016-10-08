@@ -2,13 +2,15 @@
 lang: en
 ref: wp-plugin-syntax-highlighter-for-wp-editor
 title: 'WP Plugin: "Syntax Highlighter for WP Editor"'
-date: 2016-03-29T04:25:00+00:00
+date: 2016-03-29
 author: Arthur Gareginyan
 layout: post
-permalink: /my_programs/wp-plugin-syntax-highlighter-for-wp-editor.html
+permalink: /web/wp-plugin-syntax-highlighter-for-wp-editor.html
+redirect_from: /my_programs/wp-plugin-syntax-highlighter-for-wp-editor.html
 categories:
-  - Мои программы
-  - my-work
+  - web
+  - wordpress
+  - our-programms
 tags:
   - highlighter
   - plugin
@@ -53,7 +55,7 @@ This plugin is just plug and play, no tedious configurations or hacks, just inst
 * Live preview on Settings Page
 * Ready for translation (.pot file included)
 * Russian translation
-* Published on [WordPess.org](http://wordpess.org/)
+* Published on [WordPress.org](http://wordpess.org/)
 
 (Got more ideas? Tell me!)
 

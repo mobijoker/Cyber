@@ -4,10 +4,12 @@ ref: wp-plugin-my-syntax-highlighter
 title: 'WP Plugin: "My Syntax Highlighter"'
 author: Arthur Gareginyan
 layout: post
-permalink: /my_programs/wp-plugin-my-syntax-highlighter.html
+permalink: /web/wp-plugin-my-syntax-highlighter.html
+redirect_from: /my_programs/wp-plugin-my-syntax-highlighter.html
 categories:
-  - Мои программы
-  - my-work
+  - web
+  - wordpress
+  - our-programms
 tags:
   - plugin
   - wordpress
@@ -71,7 +73,7 @@ This plugin is just plug and play, no tedious configurations or hacks, just inst
 * 14 Languages
 * 16 Shortcodes
 * Ready for translation (POT file included)
-* Published on [WordPess.org](http://wordpess.org/)
+* Published on [WordPress.org](http://wordpess.org/)
 
 **A list of supported languages:**
 

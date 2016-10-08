@@ -2,7 +2,7 @@
 lang: en
 ref: change-the-mime-type-of-file-by-using-subversion
 title: Change the MIME type of file by using Subversion
-date: 2015-12-04T17:39:27+00:00
+date: 2015-12-04
 author: Arthur Gareginyan
 layout: post
 permalink: /developing/change-the-mime-type-of-file-by-using-subversion.html

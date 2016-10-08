@@ -2,8 +2,9 @@
 lang: ru
 ref: due-to-the-dos-attack-router-stops-working
 title: Из-за DoS атак роутер перестаёт работать
-date: 2015-05-15T09:48:14+00:00
+date: 2015-05-15
 author: Arthur Gareginyan
+translator: Arthur Gareginyan
 layout: post
 permalink: /ru/linux/due-to-the-dos-attack-router-stops-working.html
 switch_like_status:

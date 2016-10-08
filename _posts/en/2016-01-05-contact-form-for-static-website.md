@@ -2,7 +2,7 @@
 lang: en
 ref: contact-form-for-static-website
 title: Contact form for static website
-date: 2016-01-05T20:53:44+00:00
+date: 2016-01-05
 author: Arthur Gareginyan
 layout: post
 permalink: /web/contact-form-for-static-website.html

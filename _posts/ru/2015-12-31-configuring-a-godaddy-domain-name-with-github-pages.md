@@ -2,8 +2,9 @@
 lang: ru
 ref: configuring-a-godaddy-domain-name-with-github-pages
 title: 'Привязка GoDaddy доменного имени к GitHub страницам'
-date: 2015-12-31T14:26:30+00:00
+date: 2015-12-31
 author: Arthur Gareginyan
+translator: Arthur Gareginyan
 layout: post
 permalink: /ru/web/configuring-a-godaddy-domain-name-with-github-pages.html
 categories:

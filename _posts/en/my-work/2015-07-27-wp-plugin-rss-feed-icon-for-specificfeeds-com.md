@@ -2,13 +2,15 @@
 lang: en
 ref: wp-plugin-rss-feed-icon-for-specificfeeds-com
 title: 'WP Plugin: “RSS Feed Icon for SpecificFeeds.com"'
-date: 2015-07-27T20:39:52+00:00
+date: 2015-07-27
 author: Arthur Gareginyan
 layout: post
-permalink: /my_programs/wp-plugin-rss-feed-icon-for-specificfeeds-com.html
+permalink: /web/wp-plugin-rss-feed-icon-for-specificfeeds-com.html
+redirect_from: /my_programs/wp-plugin-rss-feed-icon-for-specificfeeds-com.html
 categories:
-  - Мои программы
-  - my-work
+  - web
+  - wordpress
+  - our-programms
 tags:
   - feed
   - icon
@@ -48,7 +50,7 @@ To use, enter your personal link from SpecificFeeds.com, choose icon and click "
 **Current features:**
 * SpecificFeeds.com icons.
 * Ready for translation.
-* Published on [WordPess.org](http://wordpess.org/)
+* Published on [WordPress.org](http://wordpess.org/)
 
 **Coming soon:**
 * (Got more ideas? Tell me!)

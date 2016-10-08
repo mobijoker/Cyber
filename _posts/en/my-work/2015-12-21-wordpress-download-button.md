@@ -2,13 +2,13 @@
 lang: en
 ref: wordpress-download-button
 title: WordPress Download Button
-date: 2015-12-21T08:44:50+00:00
+date: 2015-12-21
 author: Arthur Gareginyan
 layout: post
 permalink: /web/wordpress-download-button.html
 categories:
-  - Web
-  - my-work
+  - web
+  - our-programms
 tags:
   - button
   - css button

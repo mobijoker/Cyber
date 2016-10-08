@@ -2,8 +2,9 @@
 lang: ru
 ref: modify-or-disable-mac-os-x-lion-s-file-locking-feature
 title: 'Изменение или отключение функции блокировки файлов в Mac OS X Lion'
-date: 2015-05-07T15:30:40+00:00
+date: 2015-05-07
 author: Arthur Gareginyan
+translator: Arthur Gareginyan
 layout: post
 permalink: /ru/mac-os/modify-or-disable-mac-os-x-lion-s-file-locking-feature.html
 categories:

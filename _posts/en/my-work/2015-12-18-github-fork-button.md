@@ -2,13 +2,13 @@
 lang: en
 ref: github-fork-button
 title: GitHub Fork Button
-date: 2015-12-18T08:12:50+00:00
+date: 2015-12-18
 author: Arthur Gareginyan
 layout: post
 permalink: /web/github-fork-button.html
 categories:
-  - Web
-  - my-work
+  - web
+  - our-programms
 tags:
   - button
   - css button

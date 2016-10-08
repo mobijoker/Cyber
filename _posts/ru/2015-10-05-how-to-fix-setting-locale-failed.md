@@ -2,8 +2,9 @@
 lang: ru
 ref: how-to-fix-setting-locale-failed
 title: 'Как исправить: "Setting locale failed."'
-date: 2015-10-05T16:34:10+00:00
+date: 2015-10-05
 author: Arthur Gareginyan
+translator: Arthur Gareginyan
 layout: post
 permalink: /ru/error/how-to-fix-setting-locale-failed.html
 categories:

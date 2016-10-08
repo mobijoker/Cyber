@@ -2,13 +2,15 @@
 lang: en
 ref: wp-plugin-best-preloader
 title: 'WP Plugin: "Best Preloader"'
-date: 2016-02-24T03:19:22+00:00
+date: 2016-02-24
 author: Arthur Gareginyan
 layout: post
-permalink: /my_programs/wp-plugin-best-preloader.html
+permalink: /web/wp-plugin-best-preloader.html
+redirect_from: /my_programs/wp-plugin-best-preloader.html
 categories:
-  - Мои программы
-  - my-work
+  - web
+  - wordpress
+  - our-programms
 tags:
   - best preloader
   - cms wordpress
@@ -57,7 +59,7 @@ Also you don't need to edit any file of your theme, this plugin will do everythi
 * Option to display preloader in full website or in Home page only
 * Ready for translation (.pot file included)
 * Added Russian translation
-* Published on [WordPess.org](http://wordpess.org/)
+* Published on [WordPress.org](http://wordpess.org/)
 
 
 **Coming soon:**

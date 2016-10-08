@@ -2,8 +2,9 @@
 lang: ru
 ref: chistka-linux
 title: Чистка Linux
-date: 2013-07-04T20:14:08+00:00
+date: 2013-07-04
 author: Arthur Gareginyan
+translator: Arthur Gareginyan
 layout: post
 permalink: /ru/linux/chistka-linux.html
 categories:

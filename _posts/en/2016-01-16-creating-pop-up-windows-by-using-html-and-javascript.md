@@ -2,7 +2,7 @@
 lang: en
 ref: creating-pop-up-windows-by-using-html-and-javascript
 title: Creating pop-up windows by using HTML and JavaScript
-date: 2016-01-16T02:49:51+00:00
+date: 2016-01-16
 author: Arthur Gareginyan
 layout: post
 permalink: /developing/creating-pop-up-windows-by-using-html-and-javascript.html
@@ -36,7 +36,8 @@ You can use a `TARGET="_blank"` in the `<\a>` tag, but this simply opens a new b
 <script language="JavaScript">
   /**
    * Open centered pop-up window
-   * by Arthur Gareginyan http://mycyberuniverse.com
+   * By Arthur Gareginyan (arthurgareginyan@gmail.com)
+   * For full source code, visit http://www.mycyberuniverse.com
    *
    * @param URL - specifies the URL of the page to open. If no URL is specified, a new window with about:blank will be opened
    * @param windowName - specifies the target attribute or the name of the window (_blank, _parent, _self, _top, name)
@@ -132,7 +133,8 @@ If you want to see a working example of this code then click the following:
 <script language="JavaScript">
   /**
    * Open centered pop-up window
-   * by Arthur Gareginyan http://mycyberuniverse.com
+   * By Arthur Gareginyan (arthurgareginyan@gmail.com)
+   * For full source code, visit http://www.mycyberuniverse.com
    *
    * @param URL - specifies the URL of the page to open. If no URL is specified, a new window with about:blank will be opened
    * @param windowName - specifies the target attribute or the name of the window (_blank, _parent, _self, _top, name)

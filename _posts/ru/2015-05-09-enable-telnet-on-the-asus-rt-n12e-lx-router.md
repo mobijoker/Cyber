@@ -2,8 +2,9 @@
 lang: ru
 ref: enable-telnet-on-the-asus-rt-n12e-lx-router
 title: 'Включение Telnet на роутере ASUS RT-N12E/LX'
-date: 2015-05-09T16:31:55+00:00
+date: 2015-05-09
 author: Arthur Gareginyan
+translator: Arthur Gareginyan
 layout: post
 permalink: /ru/linux/enable-telnet-on-the-asus-rt-n12e-lx-router.html
 categories:

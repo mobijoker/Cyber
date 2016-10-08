@@ -2,7 +2,7 @@
 lang: en
 ref: disabling-right-clicking-by-using-javascript
 title: Disabling right-clicking by using JavaScript
-date: 2016-01-23T07:53:21+00:00
+date: 2016-01-23
 author: Arthur Gareginyan
 layout: post
 permalink: /developing/disabling-right-clicking-by-using-javascript.html

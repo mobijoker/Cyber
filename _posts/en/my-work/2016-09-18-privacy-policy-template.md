@@ -6,8 +6,8 @@ author: Arthur Gareginyan
 layout: post
 permalink: /privacy-policy-template.html
 categories:
-  - Web
-  - my-work
+  - web
+  - our-programms
 tags:
   - Privacy Policy Template
   - Privacy Policy

@@ -2,13 +2,15 @@
 lang: en
 ref: wp-plugin-my-custom-functions
 title: 'WP Plugin: “My Custom Functions”'
-date: 2014-08-28T00:58:54+00:00
+date: 2014-08-28
 author: Arthur Gareginyan
 layout: post
-permalink: /my_programs/wp-plugin-my-custom-functions.html
+permalink: /web/wp-plugin-my-custom-functions.html
+redirect_from: /my_programs/wp-plugin-my-custom-functions.html
 categories:
-  - Мои программы
-  - my-work
+  - web
+  - wordpress
+  - our-programms
 tags:
   - code
   - execute
@@ -59,7 +61,7 @@ That’s it. You are already getting your functions working.
 * Line numbering  (CodeMirror).
 * Ready for translation (.pot file included).
 * CodeMirror scripts are combined and minified.
-* Published on [WordPess.org](http://wordpess.org/)
+* Published on [WordPress.org](http://wordpess.org/)
 
 **Coming soon:**
 

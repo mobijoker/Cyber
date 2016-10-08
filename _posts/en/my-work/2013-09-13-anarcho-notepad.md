@@ -2,15 +2,15 @@
 lang: en
 ref: anarcho-notepad
 title: 'WP Theme: “Anarcho Notepad”'
-date: 2013-09-13T17:35:48+00:00
+date: 2013-09-13
 author: Arthur Gareginyan
 layout: post
 permalink: /web/anarcho-notepad.html
 redirect_from: /anarcho-notepad.html
 categories:
-  - Web
-  - Мои программы
-  - my-work
+  - web
+  - wordpress
+  - our-programms
 tags:
   - anarch-notepad
   - Anarchist
@@ -66,14 +66,7 @@ Inspired by the idea of anarchy, I designed this free premium WordPress theme fo
    * Custom background
    * Custom menu
    * Ready for translation (Translated to 12 languages)
-   * Published on [WordPess.org](http://wordpess.org/)
-
-**Coming soon:**
-
-   * Responsive designe
-   * Sticky Posts
-
-Sorry for what I delete some functions from Customizer. I have to do it due to the rules of wordpress.org.
+   * Published on [WordPress.org](http://wordpess.org/)
 
 
 ### Translation

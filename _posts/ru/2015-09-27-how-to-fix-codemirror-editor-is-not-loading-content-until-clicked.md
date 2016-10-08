@@ -2,8 +2,9 @@
 lang: ru
 ref: how-to-fix-codemirror-editor-is-not-loading-content-until-clicked
 title: 'How to fix: CodeMirror редактор не загружает контент до клика'
-date: 2015-09-27T21:53:32+00:00
+date: 2015-09-27
 author: Arthur Gareginyan
+translator: Arthur Gareginyan
 layout: post
 permalink: /ru/web/how-to-fix-codemirror-editor-is-not-loading-content-until-clicked.html
 categories:

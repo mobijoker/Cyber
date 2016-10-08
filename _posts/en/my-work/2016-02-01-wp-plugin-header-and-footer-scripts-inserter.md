@@ -2,13 +2,15 @@
 lang: en
 ref: wp-plugin-header-and-footer-scripts-inserter
 title: 'WP Plugin: "Head and Footer Scripts Inserter"'
-date: 2016-02-01T19:58:40+00:00
+date: 2016-02-01
 author: Arthur Gareginyan
 layout: post
-permalink: /my_programs/wp-plugin-header-and-footer-scripts-inserter.html
+permalink: /web/wp-plugin-header-and-footer-scripts-inserter.html
+redirect_from: /my_programs/wp-plugin-header-and-footer-scripts-inserter.html
 categories:
-  - Мои программы
-  - my-work
+  - web
+  - wordpress
+  - our-programms
 tags:
   - code
   - CSS
@@ -68,7 +70,7 @@ Third-party services like Google Webmaster Tools, Alexa, Pinterest and Google+ r
 * Inserts scripts in beginning or/and end of <head> tag
 * Inserts scripts in beginning or/and end of footer
 * Ready for translation (.pot file included)
-* Published on [WordPess.org](http://wordpess.org/)
+* Published on [WordPress.org](http://wordpess.org/)
 
 Got more ideas? Tell me!
 

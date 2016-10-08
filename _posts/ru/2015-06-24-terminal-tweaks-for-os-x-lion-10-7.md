@@ -2,8 +2,9 @@
 lang: ru
 ref: terminal-tweaks-for-os-x-lion-10-7
 title: Терминальные Твики OS X Lion 10.7
-date: 2015-06-24T17:20:52+00:00
+date: 2015-06-24
 author: Arthur Gareginyan
+translator: Arthur Gareginyan
 layout: post
 permalink: /ru/mac-os/terminal-tweaks-for-os-x-lion-10-7.html
 switch_like_status:

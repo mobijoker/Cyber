@@ -2,7 +2,7 @@
 lang: en
 ref: configuring-a-godaddy-domain-name-with-github-pages
 title: Configuring a GoDaddy domain name with GitHub pages
-date: 2015-12-31T14:26:30+00:00
+date: 2015-12-31
 author: Arthur Gareginyan
 layout: post
 permalink: /web/configuring-a-godaddy-domain-name-with-github-pages.html

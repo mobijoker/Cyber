@@ -2,13 +2,15 @@
 lang: en
 ref: wp-plugin-social-media-buttons-toolbar
 title: 'WP Plugin: "Social Media Buttons Toolbar"'
-date: 2015-12-19T02:50:44+00:00
+date: 2015-12-19
 author: Arthur Gareginyan
 layout: post
-permalink: /my_programs/wp-plugin-social-media-buttons-toolbar.html
+permalink: /web/wp-plugin-social-media-buttons-toolbar.html
+redirect_from: /my_programs/wp-plugin-social-media-buttons-toolbar.html
 categories:
-  - Мои программы
-  - my-work
+  - web
+  - wordpress
+  - our-programms
 tags:
   - blogger
   - button
@@ -76,7 +78,7 @@ If you want more options then tell me and I will be happy to add it.
 * Icon set ["Social Buttons 2"](https://www.iconfinder.com/iconsets/social-buttons-2?ref=ArthurGareginyan) by Ivlichev Victor Petrovich
 * Ready for translation (.pot file included).
 * Added Russian translation.
-* Published on [WordPess.org](http://wordpess.org/)
+* Published on [WordPress.org](http://wordpess.org/)
 
 **Supported social media:**
 

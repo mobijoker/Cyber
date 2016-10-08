@@ -2,7 +2,7 @@
 lang: en
 ref: loading-scripts-on-wordpress-admin-pages
 title: Loading scripts on WordPress admin pages
-date: 2015-10-16T09:28:48+00:00
+date: 2015-10-16
 author: Arthur Gareginyan
 layout: post
 permalink: /web/loading-scripts-on-wordpress-admin-pages.html
