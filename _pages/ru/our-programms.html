@@ -1,10 +1,12 @@
 ---
 layout: default
-title: My Work
+title: Наши Программы
 lang: ru
-ref: my-work
+ref: our-programms
 order: 4
-permalink: /ru/my-work.html
+permalink: /ru/our-programms.html
+redirect_from: /ru/my-work.html
+
 
 ---
 
@@ -13,7 +15,7 @@ permalink: /ru/my-work.html
     <h1 class="page-heading"></h1>
 
     <ul class="post-list">
-        {% assign posts=site.categories.my-work | where:"lang", page.lang %}
+        {% assign posts=site.categories.our-programms | where:"lang", page.lang %}
         {% for post in posts %}
         <li>
             <h2>
@@ -25,7 +27,5 @@ permalink: /ru/my-work.html
         </li>
         {% endfor %}
     </ul>
-
-    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
 </div>

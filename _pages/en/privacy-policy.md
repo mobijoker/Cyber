@@ -1,7 +1,7 @@
 ---
 lang: en
 ref: privacy-policy
-date: 2015-09-17T03:40:43+00:00
+date: 2015-09-17
 author: Arthur Gareginyan
 layout: page
 permalink: /privacy-policy.html
@@ -12,7 +12,7 @@ permalink: /privacy-policy.html
 
 &nbsp;
 
-I takes your privacy seriously. To better protect your privacy I provide this privacy policy notice explaining the way your personal information is collected and used.
+We takes your privacy seriously. To better protect your privacy we provide this privacy policy notice explaining the way your personal information is collected and used.
 
 
 ## Collection of Routine Information
@@ -32,19 +32,19 @@ Advertising partners and other third parties may use cookies, scripts and/or web
 
 ## Links to Third Party Websites
 
-I have included links on this website for your use and reference. I are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these websites may differ from my own.
+We have included links on this website for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these websites may differ from our own.
 
 
 ## Security
 
-The security of your personal information is important to me, but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While I strive to use commercially acceptable means to protect your personal information, I cannot guarantee its absolute security.
+The security of your personal information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
 
 ## Changes To This Privacy PolicyThis Privacy Policy is effective as of 17.09.2016 and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
-I reserve the right to update or change my Privacy Policy at any time and you should check this Privacy Policy periodically. If I make any material changes to this Privacy Policy, I will notify you either through the email address you have provided me, or by placing a prominent notice on my website.
+We reserve the right to update or change our Privacy Policy at any time and you should check this Privacy Policy periodically. If we make any material changes to this Privacy Policy, we will notify you either through the email address you have provided us, or by placing a prominent notice on our website.
 
 
 ## Contact Information
 
-For any questions or concerns regarding the privacy policy, please send me an email to arthurgareginyan@gmail.com.
+For any questions or concerns regarding the privacy policy, please send us an email to arthurgareginyan@gmail.com.
 

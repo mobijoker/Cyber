@@ -1,7 +1,7 @@
 ---
 lang: en
 ref: contact-thanks
-date: 2016-02-25T10:47:36+00:00
+date: 2016-02-25
 author: Arthur Gareginyan
 layout: page
 permalink: /contact-thanks.html
@@ -10,6 +10,6 @@ permalink: /contact-thanks.html
 
 Your message has been successfully sent.
 
-I will contact you as soon as possible. But please do not think badly of me if I don't answer you. I receive a lot of emails and sometimes I do not have time to read and answer to all.
+We will contact you as soon as possible. But please do not think badly of us if we don't answer you. We receive a lot of emails and sometimes we do not have time to read and answer to all.
 
 Thank you!

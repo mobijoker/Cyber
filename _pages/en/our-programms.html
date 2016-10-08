@@ -1,10 +1,11 @@
 ---
 layout: default
-title: My Work
+title: Our Programms
 lang: en
-ref: my-work
+ref: our-programms
 order: 4
-permalink: /my-work.html
+permalink: /our-programms.html
+redirect_from: /my-work.html
 
 ---
 
@@ -13,7 +14,7 @@ permalink: /my-work.html
     <h1 class="page-heading"></h1>
 
     <ul class="post-list">
-        {% assign posts=site.categories.my-work | where:"lang", page.lang %}
+        {% assign posts=site.categories.our-programms | where:"lang", page.lang %}
         {% for post in posts %}
         <li>
             <h2>
@@ -21,11 +22,9 @@ permalink: /my-work.html
             </h2>
             <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span></br>
             {{ post.excerpt }}
-            <a href="{{ post.url }}">Read more →</a>
+            <a href="{{ post.url }}">Read More →</a>
         </li>
         {% endfor %}
     </ul>
-
-    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
 </div>

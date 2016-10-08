@@ -3,12 +3,14 @@ title: Donate
 lang: en
 ref: donate
 order: 3
-date: 2015-09-15T04:06:49+00:00
+date: 2015-09-15
 author: Arthur Gareginyan
 layout: page
 permalink: /donate.html
 
 ---
+
+Hello, I'm Arthur, founder of the MyCyberUniverse.com.
 
 If you appreciate something I made, you can buy me a coffee!
 
