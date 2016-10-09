@@ -6,9 +6,10 @@ layout: default
   <header class="post-header">
     <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
     <p class="post-meta">
-        <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%B %-d, %Y" }}</time>
-        {% if page.author %} | By: <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}
-        {% if page.translator %} | Translator: {{ page.translator }} {% endif %}
+        <i class="fa fa-clock-o"></i> <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%B %-d, %Y" }}</time>
+        {% if page.author %} &nbsp; <i class="fa fa-user"></i> <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}
+        &nbsp; <i class="fa fa-comment"></i> <a href="{{ page.url | prepend: site.baseurl }}#disqus_thread">Comments</a>
+        {% if page.translator %} &nbsp; <b>Translator:</b> {{ page.translator }} {% endif %}
     </p>
   </header>
 

@@ -15,9 +15,10 @@ permalink: /ru/index.html
             <h2>
                 <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
             </h2>
-            <span class="post-meta">{{ post.date | date: "%B %-d, %Y" }} {% if post.author %} | By: {{ post.author }} {% endif %} {% if post.translator %} | Translator: {{ post.translator }} {% endif %}</span></br>
+            {% include post-meta.html %}
+            </br>
             {{ post.excerpt }}
-            <a href="{{ post.url }}">Читать далее →</a>
+            <a href="{{ post.url }}" class="read-more">Читать далее...</a>
         </li>
         {% endfor %}
     </ul>

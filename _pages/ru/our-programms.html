@@ -7,7 +7,6 @@ order: 4
 permalink: /ru/our-programms.html
 redirect_from: /ru/my-work.html
 
-
 ---
 
 <div class="home">
@@ -21,9 +20,9 @@ redirect_from: /ru/my-work.html
             <h2>
                 <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
             </h2>
-            <span class="post-meta">{{ post.date | date: "%B %-d, %Y" }} {% if post.author %} | By: {{ post.author }} {% endif %} {% if post.translator %} | Translator: {{ post.translator }} {% endif %}</span></br>
+            {% include post-meta.html %}
             {{ post.excerpt }}
-            <a href="{{ post.url }}">Читать далее →</a>
+            <a href="{{ post.url }}" class="read-more">Читать далее...</a>
         </li>
         {% endfor %}
     </ul>

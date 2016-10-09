@@ -167,6 +167,22 @@ table {
 }
 
 /**
+* Read More button
+*/
+.read-more {
+    background-color: #fff;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    padding-left: 11px;
+    padding-right: 11px;
+    border-radius: 5px;
+    -webkit-box-shadow: 0 3px 10px #838383;
+    -moz-box-shadow: 0 3px 10px #838383;
+    box-shadow: 0 3px 10px #838383;
+    font-size: 21px;
+}
+
+/**
 * Comments section
 */
 #sidebar {
