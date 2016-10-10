@@ -24,6 +24,7 @@ tags:
 ![thumb](/images/add-icon-fonts-adobe-muse-website/cloud.png)
 The beauty of icon-fonts is that they are in essence, fonts. Which means they can be used much like any other piece of text. Unlike images they can have their colour changed easily, can be scaled and are lightweight in download terms. And they are fully responsive and retina friendly. The huge choice available at Font Awesome, Bootstrap and Google font icons means that you should find the exact graphic you are looking for and when combined with other muse assets you can quickly and easily build buttons, graphics and widgets. In this article you’ll learn how to use and customize the Font Awesome, Bootstrap and Google font icons in any Muse website.
 
+<br><br>
 
 Open Adobe Muse as you normally would and do the following.
 

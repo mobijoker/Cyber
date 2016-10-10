@@ -24,6 +24,8 @@ tags:
 ![thumb](/images/add-googe-adsense-to-a-jekyll-website/gadsense-logo.png)
 Google AdSense is a free, simple way to earn money by placing third-party advertisements on a website. My Github hosted Jekyll website is being used primarily as a blog as you can see, so I wanted to host an advertisement at the end of each blog post, just above the comments section.
 
+<br><br>
+
 Now, step by step guide.
 
 **Step 1.** Sign up.

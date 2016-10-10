@@ -25,7 +25,7 @@ When I run the `jekyll serve` command in my local Jekyll environment I got the f
 GitHub Metadata: No GitHub API authentication could be found. Some fields may be missing or have incorrect data.
 </pre>
 
-<br>
+<br><br>
 
 Here’s the solution to fix this warning:
 

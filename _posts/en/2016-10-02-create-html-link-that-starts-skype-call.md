@@ -22,7 +22,7 @@ tags:
 ![thumb](/images/thumbnail/skype-call.png)
 Nowadays most of the people use Skype, but not everyone knows that we can use an HTML link to launch Skype calls from your web browser or emails. Today I'll show how to add a Skype "Call Me" button to your website or blog and let people get in touch with just the click of a button. Whether they're on a computer or mobile, they will get through with a voice call or an instant message.
 
-<br>
+<br><br>
 
 Here is an examples:
 

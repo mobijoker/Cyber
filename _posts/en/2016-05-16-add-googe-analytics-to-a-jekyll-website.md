@@ -19,8 +19,9 @@ tags:
 ![thumb](/images/add-googe-analytics-to-a-jekyll-website/analytics-logo.png)
 Google Analytics allows you to get information about your websites visitors such as the devices or OS they were using and their location. Such information can be very useful for deciding how best to deliver content. Below, I’ll explain how to set up a Google Analytics on Github website that is built using Jekyll.
 
-Now, step by step guide.
+<br><br>
 
+Now, step by step guide.
 
 **Step 1.** Sign up.
 

@@ -29,6 +29,7 @@ tags:
 ![thumb](/images/thumbnail/mouse-right-click.png)
 It makes sense to do everything you can to protect your copyrighted content. While there is no way to completely stop people from stealing your images, you can make it harder. Disabling right-clicking is one method you can use to deter casual theft.
 
+<br><br>
 
 On one of my websites, I have a pop-up page where I placed gallery with my copyrighted images. I don't want the user to see the menu thats get displayed with the mouse right click. So I created the HTML/JavaScript code that will prevent the default right menu from popping up when the right mouse is clicked on this pop-up page. Now I use it to stop surfers from easily stealing my copyrighted images from my website.
 

@@ -27,8 +27,7 @@ tags:
 ![thumb](/images/thumbnail/prismjs.png)
 By default Jekyll 3, ships with [Rouge](http://rouge.jneen.net/) syntax highlighter. But for some reasons you may want to replace it with [Prism.js](http://prismjs.com) syntax highlighter. Prism.js is a very lightweight JavaScript library to provide code highlighting on websites. In this article I will show you how to set up it on Jekyll-based website.
 
-<br>
-<br>
+<br><br>
 
 **Step 1.** First, we need to disable the Rouge syntax highlighter that is Jekyll's default (bult-in in version 3) syntax highlighter. To do this, read another my post [here](http://mycyberuniverse.com/web/disable-rouge-syntax-highlighter.html).
 

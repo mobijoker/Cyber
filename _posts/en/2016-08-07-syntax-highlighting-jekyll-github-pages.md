@@ -31,8 +31,7 @@ tags:
 ![thumb](/images/thumbnail/jekyll-rouge.png)
 Jekyll has built in support for [Syntax Highlighting](https://en.wikipedia.org/wiki/Syntax_highlighting) of over 100 languages. You can have code snippets highlighted so that they are easier to read on your GitHub Pages website. In this post I will show you how you can integrate Rouge into your Jekyll setup.
 
-<br>
-<br>
+<br><br>
 
 [Rouge](http://rouge.jneen.net/) is a pure-ruby syntax highlighter. It can highlight 100 different languages, and output HTML or ANSI 256-color text. Its HTML output is compatible with stylesheets designed for Pygments. Rouge is the default highlighter in Jekyll 3 and above.
 

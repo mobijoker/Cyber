@@ -26,8 +26,7 @@ tags:
 ![thumb](/images/thumbnail/jekyll-rouge.png)
 By default Jekyll version 3, ships with Rouge syntax highlighter. For some reason, you may want to disable it. For example, if you replace the built-in Rouge to another syntax highlighter such as Prism.js or your own custom highlighter.
 
-<br>
-<br>
+<br><br>
 
 To get Rouge disabled in Jekyll 3, just do the following. 
 
