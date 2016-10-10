@@ -36,7 +36,7 @@ We also offer WordPress plugins and themes such as the "My Custom Functions" and
 * A steady rise in traffic, reaching the **8,000** unique visitors/month mark (Google Analytics).
 * Alexa Rank: **578,661**.
 * Around **130** published posts.
-* **100+** comments (thanks!)
+* **300+** comments (thanks!)
 
 **P.S.**
 Please let us know if you like our posts or other stuff and would like to use them in any way. We will be glad if somewhere else are published, but not without reference to name of author and/or a link to our website. Thanks!
