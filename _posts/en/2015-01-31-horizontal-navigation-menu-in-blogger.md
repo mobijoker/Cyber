@@ -92,6 +92,6 @@ So let’s get started add navigation menu in blogger.
 }
 ```
 
-**Step 9.** Now add labels to all post's in the `Posts` tab -> `Edit` -> `Post Settings` -> `Labels` and you done.
+**Step 9.** Now add labels to all post's in the `Posts` tab → `Edit` → `Post Settings` → `Labels` and you done.
 
 **NOTE:** This solution for the "Simple" template.

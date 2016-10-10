@@ -74,7 +74,7 @@ Also you don't need to edit any file of your theme, this plugin will do everythi
 
 1. Upload "Simple Scroll to Top Button" to the `/wp-content/plugins/` directory.
 2. Activate the plugin through the "Plugins" menu in WordPress.
-3. Go to "Settings" -> "Scroll to Top".
+3. Go to "Settings" → "Scroll to Top".
 
 
 ### Features

@@ -59,7 +59,7 @@ Third-party services like Google Webmaster Tools, Alexa, Pinterest and Google+ r
 
 1. Upload "Head and Footer Scripts Inserter" to the `/wp-content/plugins/` directory.
 2. Activate the plugin through the "Plugins" menu in WordPress.
-3. Go to "Settings" -> "Head and Footer Scripts Inserter".
+3. Go to "Settings" → "Head and Footer Scripts Inserter".
 
 
 ### Features

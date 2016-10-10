@@ -40,7 +40,7 @@ This plugin is just plug and play, no tedious configurations or hacks, just inst
 
 1. Upload "Syntax Highlighter for WP Editor" to the `/wp-content/plugins/` directory.
 2. Activate the plugin through the "Plugins" menu in WordPress.
-3. Go to "Settings" -> "Syntax Highlighter for WP Editor".
+3. Go to "Settings" → "Syntax Highlighter for WP Editor".
 
 
 ### Features

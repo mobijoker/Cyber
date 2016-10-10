@@ -68,7 +68,7 @@ If you want more options then tell me and I will be happy to add it.
 
 1. Upload "Social Media Buttons Toolbar" to the `/wp-content/plugins/` directory.
 2. Activate the plugin through the "Plugins" menu in WordPress.
-3. Go to "Settings" -> "Social Buttons".
+3. Go to "Settings" → "Social Buttons".
 
 
 ### Features

@@ -81,7 +81,7 @@ Also you can use this plugin to add required meta tags such as Author, Designer,
 
 1. Upload "All Meta Tags" to the `/wp-content/plugins/` directory.
 2. Activate the plugin through the `Plugins` menu in WordPress.
-3. Go to `Settings` -> `All Meta Tags`.
+3. Go to `Settings` → `All Meta Tags`.
 
 
 ### Возможности

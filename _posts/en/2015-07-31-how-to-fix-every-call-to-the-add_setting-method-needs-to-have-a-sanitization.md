@@ -35,11 +35,11 @@ Some time ago WordPress.org is changed the rules of the publication of a themes 
 REQUIRED: Found a Customizer setting that did not have a sanitization callback function. Every call to the add_setting() method needs to have a sanitization callback function passed.
 </pre>
 
-To localize the problem I used the <a href="https://wordpress.org/plugins/theme-check/" target="_blank">plugin "Theme Check"</a>. After installation plugins page will be located at `"WordPress Dashbord" -> "Appearance" -> "Theme Check"`. That plugin doesn't show more information than at wordpress.org when you publish an update of theme. But we can modify it, so let's start.
+To localize the problem I used the <a href="https://wordpress.org/plugins/theme-check/" target="_blank">plugin "Theme Check"</a>. After installation plugins page will be located at `WordPress Dashbord` → `Appearance` → `Theme Check`. That plugin doesn't show more information than at wordpress.org when you publish an update of theme. But we can modify it, so let's start.
 
 If the <a href="https://wordpress.org/plugins/theme-check/" target="_blank">"Theme Check" plugin</a> is not yet installed then do this.
 
-Then modify `customizer.php` file which is located at `plugins/theme-check/checks/`. You can modify it directly out of your WordPress Dashbord. For this go to `"WordPress Dashbord" -> "Plugins" -> "Editor"` and select `"Theme Check"` plugin.
+Then modify `customizer.php` file which is located at `plugins/theme-check/checks/`. You can modify it directly out of your WordPress Dashbord. For this go to `WordPress Dashbord` → `Plugins` → `Editor` and select `Theme Check` plugin.
 
 Now, in the file `customizer.php`, add this:
 

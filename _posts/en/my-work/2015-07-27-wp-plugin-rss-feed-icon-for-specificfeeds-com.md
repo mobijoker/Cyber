@@ -42,7 +42,7 @@ To use, enter your personal link from SpecificFeeds.com, choose icon and click "
 
 1. Upload "RSS Feed Icon for SpecificFeeds.com" to the `/wp-content/plugins/` directory.
 2. Activate the plugin through the "Plugins" menu in WordPress.
-3. Go to "Settings" -> "SpecificFeeds".
+3. Go to "Settings" → "SpecificFeeds".
 
 
 ### Features

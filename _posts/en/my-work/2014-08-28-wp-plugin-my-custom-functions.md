@@ -46,7 +46,7 @@ This is a perfect tool to use as your site's functionality plugin.
 
 1. Upload `my-custom-functions` to the `/wp-content/plugins/` directory.
 2. Activate the plugin through the `Plugins` menu in WordPress.
-3. Goto `Appearance` -> `Custom Functions`.
+3. Goto `Appearance` → `Custom Functions`.
 4. Add your code in the field, then click `Update Custom Functions`.
 
 That’s it. You are already getting your functions working.

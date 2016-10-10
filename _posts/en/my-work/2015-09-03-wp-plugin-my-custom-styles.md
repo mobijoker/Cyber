@@ -45,7 +45,7 @@ Your custom styles will keep on working, no matter how many times you upgrade or
 
 1. Upload `my-custom-styles` to the `/wp-content/plugins/` directory.
 2. Activate the plugin through the `Plugins` menu in WordPress.
-3. Goto `Appearance` --> `Custom Styles`.
+3. Goto `Appearance` → `Custom Styles`.
 4. Add your code in the field, then click `Update Custom Styles`.
 
 That’s it. You are already getting your custom CSS working.

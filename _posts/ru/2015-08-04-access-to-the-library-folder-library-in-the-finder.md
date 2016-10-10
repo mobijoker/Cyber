@@ -70,7 +70,7 @@ tags:
 
 Этот способ использовался в OS X Lion и Mountain Lion, но так же работает в OS X Mavericks и Yosemite.
 
-**1.** Запустите “Terminal” через “Spotlight” или “Launchpad” -> “Utilities”
+**1.** Запустите “Terminal” через “Spotlight” или “Launchpad” → “Utilities”
 
 **2.** Введите следующую команду, чтобы показать спрятанную папку:
 

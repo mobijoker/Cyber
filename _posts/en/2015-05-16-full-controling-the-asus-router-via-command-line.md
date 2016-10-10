@@ -349,12 +349,12 @@ If, in the list, you see something like `[…] -> busybox`, then this program is
 
 If you don't see the program that you need then you can download it from internet (or create it by cross compiling) and put in the temp directory (`/tmp/`). Also you can download full BusyBox from official website (<a href="http://www.busybox.net" target="_blank">http://www.busybox.net</a>) and put it in the temp directory (`/tmp/`). But, how I write above, after the reboot everything will be like before and new files will be deleted.
 
-For example, in my router built-in BusyBox (v1.13.4) doesn't contain editor "vi" or "nano".
+For example, in my router built-in BusyBox (v1.13.4) doesn't contain editor `vi` or `nano`.
 
 
 ### NVRAM
 
-And now about the its features of which I wrote above. All the settings of the router (settings editable through a web interface, user settings, startup scripts) are stored in nonvolatile memory - NVRAM (Non Volatile Random Access Memory). There is a special command to work with this memory - "flash". The `flash` is already installed in original firmware.
+And now about the its features of which I wrote above. All the settings of the router (settings editable through a web interface, user settings, startup scripts) are stored in nonvolatile memory - NVRAM (Non Volatile Random Access Memory). There is a special command to work with this memory - `flash`. The `flash` is already installed in original firmware.
 
 Run it without any arguments to see all options:
 
@@ -480,6 +480,8 @@ If you need to return the original settings (reset to original configuraton):
 ```sh
 flash default
 ```
+
+<br>
 
 **P.S.**
 If you don't find in this article the desired information then you may find it in the comments bellow.

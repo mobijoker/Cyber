@@ -35,11 +35,11 @@ tags:
 REQUIRED: Found a Customizer setting that did not have a sanitization callback function. Every call to the add_setting() method needs to have a sanitization callback function passed.
 </pre>
 
-Для локализации проблему я использовал <a href="https://wordpress.org/plugins/theme-check/" target="_blank">плагин "Theme Check"</a>. После установки страница плагина будет доступна в `"WordPress Dashbord" -> "Appearance" -> "Theme Check"`. Этот плагин не показывает больше информации чем wordpress.org при публикации обновления темы. Но мы можем модифицировать его, значит начнём.
+Для локализации проблему я использовал <a href="https://wordpress.org/plugins/theme-check/" target="_blank">плагин "Theme Check"</a>. После установки страница плагина будет доступна в `WordPress Dashbord` → `Appearance` → `Theme Check`. Этот плагин не показывает больше информации чем wordpress.org при публикации обновления темы. Но мы можем модифицировать его, значит начнём.
 
 Если <a href="https://wordpress.org/plugins/theme-check/" target="_blank">плагин "Theme Check"</a> ещё не установлен, то нужно сделать это.
 
-А за тем модифицировать файл `customizer.php` находящийся в `plugins/theme-check/checks/`. Его можно модифицировать непосредственно из WordPress Dashbord. Для этого перейдите в `"WordPress Dashbord" -> "Plugins" -> "Editor"` и выбирете `"Theme Check"` плагин.
+А за тем модифицировать файл `customizer.php` находящийся в `plugins/theme-check/checks/`. Его можно модифицировать непосредственно из WordPress Dashbord. Для этого перейдите в `WordPress Dashbord` → `Plugins` → `Editor` и выбирете `Theme Check` плагин.
 
 Теперь, в файл `customizer.php`, добавим такую строку:
 

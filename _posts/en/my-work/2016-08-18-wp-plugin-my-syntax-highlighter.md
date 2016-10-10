@@ -170,7 +170,7 @@ Click to view language examples. Highlighted with Default theme.
 
 1. Upload "My Syntax Highlighter" to the `/wp-content/plugins/` directory.
 2. Activate the plugin through the "Plugins" menu in WordPress.
-3. Go to "Settings" -> "My Syntax Highlighter".
+3. Go to "Settings" → "My Syntax Highlighter".
 
 
 ### Usage
