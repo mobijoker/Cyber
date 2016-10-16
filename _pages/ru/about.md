@@ -35,8 +35,8 @@ img.website-logo {
 
 **My Cyber Universe** is three year old. Here are some of our achievements during the past years:
 
-* A steady rise in traffic, reaching the **8,000** unique visitors/month mark (Google Analytics).
-* Alexa Rank: **578,661**
+* A steady rise in traffic, reaching the **8,000+** unique visitors/month mark (Google Analytics).
+* Alexa Rank: **546,661**
 * Около **130** опубликованных постов.
 * **300+** комментариев (спасибо!)
 
