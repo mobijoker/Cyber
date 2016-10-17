@@ -29,7 +29,7 @@ The beauty of icon-fonts is that they are in essence, fonts. Which means they ca
 Open Adobe Muse as you normally would and do the following.
 
 
-### Step 1: Adding the icon-fonts to Adobe Muse project
+## **Step 1.** Adding the icon-fonts to Adobe Muse project
 
 First, you need to add the icon-fonts to your Muse project so that you could use the icons. This can be done simple by adding one line of code into your website’s Master Page Properties `metadata` section. This line is a HTML link to CSS stylesheet hosted on a CDN (Content Distribution Network). It's great as it means you do not need to upload any files to a server as the icon-fonts are being pulled directly from internet. The downside is that you do need to be working online if you want to preview the icons whilst working with them. Also note that Muse may slow down while working with icon-fonts due to re-rendering each time you adjust the fonts.
 
@@ -63,7 +63,7 @@ Google icon-font:
 Close the panel and thats it. You can now start adding icons to the page.
 
 
-### Step 2: Adding an icon to a page
+## **Step 2.** Adding an icon to a page
 
 **a)** Navigate to Font Awesome, Bootstrap or Google icons page and choose the one you like. Copy the code for this icon. For example, for the cloud icon the code will be as follows:
 
@@ -92,7 +92,7 @@ Google icon:
 ![](/images/add-icon-fonts-adobe-muse-website/icon-fonts-2.png)
 
 
-### Step 3: Stylize an icon
+## **Step 3.** Stylize an icon
 
 Now you can make your icon look a bit better using the text controls menu. From this menu you can change the size and color of icon, also icon can be centered and much more.
 
