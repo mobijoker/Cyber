@@ -11,12 +11,13 @@ tags:
   - feedburner
   - subscription form
   - subscription
+  - subscribe
   - email subscription
 
 ---
 
 ![thumb](/images/adding-email-subscription-form-blog-using-feedburner/feedburner.png)
-A great way to keep up to date with a blog that you love to follow is to subscribe to an email subscription of their posts. That way, when a new post is made, it lands right in your email inbox. If you want to offer this to people who visit your blog, it is easy to do.
+A great way to keep up to date with a blog that you love to follow is to subscribe to an email subscription of their posts. That way, when a new post is made, it lands right in your email inbox. If you want to offer this to people who visit your blog, it is easy to do. In this article I show you how to add the email subscription form that connected to Feedburner.
 
 <br><br>
 
@@ -27,21 +28,21 @@ Sample Feedburner form: <a href="https://feedburner.google.com/fb/a/mailverify?u
 Now, step by step guide.
 
 
-## **Step 1.** Sign up for Feedburner
+## **Step 1.** Find the RSS feed
 
-First of all, you’ll need a Feedburner account. Feedburner is one of the tools that google offers, so if you have a primary Google account that you use for other services like Gmail, Google Drive, Google+, or YouTube, then you should set up your Feedburner using that Google account. Or you will need to create a new one.
-
-Sign up for Feedburner using the following link: [Feedburner](http://feedburner.com/)
-
-
-## **Step 2.** Find the RSS feed
-
-Find the RSS feed URL of your blog. It should look something like one of these:
+First of all, you'll need to find the RSS feed URL of your blog. It should look something like one of these:
 
 ```
 http://your-blog.com/rss
 http://your-blog.com/feed.xml
 ```
+
+
+## **Step 2.** Sign up for Feedburner
+
+You'll need a Feedburner account. Feedburner is one of the tools that google offers, so if you have a primary Google account that you use for other services like Gmail, Google Drive, Google+, or YouTube, then you should set up your Feedburner using that Google account. Or you will need to create a new one.
+
+Sign up for Feedburner using the following link: [Feedburner](http://feedburner.com/)
 
 
 ## **Step 2.** Setup Feedburner
