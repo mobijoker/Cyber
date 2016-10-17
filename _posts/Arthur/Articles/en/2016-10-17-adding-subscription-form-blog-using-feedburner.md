@@ -16,14 +16,12 @@ tags:
 
 ---
 
-![thumb](/images/adding-email-subscription-form-blog-using-feedburner/feedburner.png)
+![thumb](/images/adding-email-subscription-form-blog-using-feedburner/sign-up.png)
 A great way to keep up to date with a blog that you love to follow is to subscribe to an email subscription of their posts. That way, when a new post is made, it lands right in your email inbox. If you want to offer this to people who visit your blog, it is easy to do. In this article I show you how to add the email subscription form that connected to Feedburner.
 
-<br><br>
+<br>
 
 Feedburner is a feed management webapp. Currently owned by Google but not supported by Google anymore. If you setup your website feed in Feedburner, it will modify the feed according to your requirement. It also provides traffic stats and other useful statistics. The majority of blogging community is using Feedburner for its subscribe option.
-
-Sample Feedburner form: <a href="https://feedburner.google.com/fb/a/mailverify?uri=MyCyberUniverse&amp;loc=en_US">Subscribe to MyCyberUniverse.com</a>
 
 Now, step by step guide.
 
@@ -170,3 +168,6 @@ For display an email subscription form on my Jekyll blog I chooses a footer sect
 ```
 
 You can use this on your own blog, but do not forget to change the `MyCyberUniverse` to name of your Feedburner feed address.
+
+<br>
+I hope that helped to setup Feedburner for your blog. Now that you know how it works, subscribe to my blog. Thanks for reading!
