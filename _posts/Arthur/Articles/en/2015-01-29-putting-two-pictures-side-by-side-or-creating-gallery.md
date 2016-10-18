@@ -25,8 +25,12 @@ tags:
 When you have many images that you want to include in a blog post, it is important to place them compactly. This way, the reader won’t have to scroll down forever and ever to see your images. Here’s a simple solution to do that.
 
 
+<br><br>
+
 All you need is a table. In a table you can place multiple images on the grid. You can use two, three or more columns.
 
+
+<br>
 **Step 1:** Insert the table code to place where you need to put two pictures on the same line.
 
 ```
@@ -57,6 +61,8 @@ Or if you have more then two images then, repeat part of the table code like fol
 </tbody></table>
 ```
 
+
+<br>
 **Step 2:** Insert your images into boxes instead of text “Photo 1” and “Photo 2” etc.
 
 Example:
@@ -77,5 +83,6 @@ Example:
 </tbody>
 </table>
 
+<br>
 **P.S.**
 This solution is works in Blogger, WordPress and other CMS.
