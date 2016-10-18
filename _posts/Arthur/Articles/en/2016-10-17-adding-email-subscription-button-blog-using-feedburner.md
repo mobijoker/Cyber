@@ -17,7 +17,7 @@ tags:
 ---
 
 ![thumb](/images/adding-email-subscription-button-blog-using-feedburner/rss-feed.png)
-A great way to keep up to date with a blog that you love to follow is to subscribe to an email subscription of their posts. That way, when a new post is made, it lands right in your email inbox. If you want to offer this to people who visit your blog, it is easy to do. In this article I show you how to add the email subscription button that connected to Feedburner.
+A great way to keep up to date with a blog that you love to follow is to subscribe to an email subscription of their posts. That way, when a new post is made, it lands right in your email inbox. If you want to offer this to people who visit your blog, it is easy to do. In this article I show you how to add to your blog an email subscription button that connected to Feedburner.
 
 <br>
 
