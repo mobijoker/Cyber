@@ -31,57 +31,64 @@ All you need is a table. In a table you can place multiple images on the grid. Y
 
 
 <br>
-**Step 1:** Insert the table code to place where you need to put two pictures on the same line.
+**Step 1.** Insert the table code to place where you need to put two pictures on the same line.
 
 ```
-<table><tbody>
-<tr>
-<td>Photo 1</td>
-<td>Photo 2</td>
-</tr>
-</tbody></table>
+<table>
+<tbody>
+	<tr>
+		<td>Photo 1</td>
+		<td>Photo 2</td>
+	</tr>
+</tbody>
+</table>
 ```
+
+Note: Replace `Photo 1` and `Photo 2` with links to your images.
 
 Or if you have more then two images then, repeat part of the table code like following:
 
 ```
-<table><tbody>
-<tr>
-<td>Photo 1.1</td>
-<td>Photo 1.2</td>
-</tr>
-<tr>
-<td>Photo 2.1</td>
-<td>Photo 2.2</td>
-</tr>
-<tr>
-<td>Photo 3.1</td>
-<td>Photo 3.2</td>
-</tr>
-</tbody></table>
+<table>
+<tbody>
+	<tr>
+		<td>Photo 1.1</td>
+		<td>Photo 1.2</td>
+	</tr>
+	<tr>
+		<td>Photo 2.1</td>
+		<td>Photo 2.2</td>
+	</tr>
+	<tr>
+		<td>Photo 3.1</td>
+		<td>Photo 3.2</td>
+	</tr>
+</tbody>
+</table>
 ```
 
 
 <br>
-**Step 2:** Insert your images into boxes instead of text “Photo 1” and “Photo 2” etc.
+**Step 2.** Insert your images into boxes instead of text “Photo 1” and “Photo 2” etc.
 
 Example:
 <table>
 <tbody>
-<tr>
-<td>Photo 1.1</td>
-<td>Photo 1.2</td>
-</tr>
-<tr>
-<td>Photo 2.1</td>
-<td>Photo 2.2</td>
-</tr>
-<tr>
-<td>Photo 3.1</td>
-<td>Photo 3.2</td>
-</tr>
+	<tr>
+		<td>Photo 1.1</td>
+		<td>Photo 1.2</td>
+	</tr>
+	<tr>
+		<td>Photo 2.1</td>
+		<td>Photo 2.2</td>
+	</tr>
+	<tr>
+		<td>Photo 3.1</td>
+		<td>Photo 3.2</td>
+	</tr>
 </tbody>
 </table>
+
 
 <br>
 **P.S.**
