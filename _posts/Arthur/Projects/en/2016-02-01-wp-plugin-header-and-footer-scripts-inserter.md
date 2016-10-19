@@ -12,8 +12,13 @@ categories:
   - wordpress
   - our-programms
 tags:
+  - wordpress
+  - wordpress plugin
+  - wp
+  - wp plugin
+  - plugin
   - code
-  - CSS
+  - css
   - custom code
   - custom scripts
   - footer
@@ -39,6 +44,13 @@ tags:
   - meta tags
   - script
   - scripts
+  - codemirror
+  - syntax highlighting
+  - syntaxhighlighting
+  - syntax highlighter
+  - syntaxhighlighter
+  - syntax
+  - highlighter
 
 ---
 

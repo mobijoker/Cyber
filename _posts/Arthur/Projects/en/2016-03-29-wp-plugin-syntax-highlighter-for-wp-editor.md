@@ -12,11 +12,18 @@ categories:
   - wordpress
   - our-programms
 tags:
-  - highlighter
-  - plugin
-  - syntax
   - wordpress
+  - wordpress plugin
   - wp
+  - wp plugin
+  - plugin
+  - codemirror
+  - syntax highlighting
+  - syntaxhighlighting
+  - syntax highlighter
+  - syntaxhighlighter
+  - syntax
+  - highlighter
 
 ---
 

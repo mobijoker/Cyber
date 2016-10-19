@@ -12,16 +12,18 @@ categories:
   - wordpress
   - our-programms
 tags:
+  - wordpress
+  - wordpress plugin
+  - wp
+  - wp plugin
+  - plugin
   - best preloader
   - cms wordpress
   - load
   - loading indicator
   - loading screen indicator
-  - plugin
   - preloader
   - screen indicator
-  - wordpress
-  - wordpress plugin
 
 ---
 

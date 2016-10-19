@@ -12,6 +12,11 @@ categories:
   - wordpress
   - our-programms
 tags:
+  - wordpress
+  - wordpress plugin
+  - wp
+  - wp plugin
+  - plugin
   - arrow
   - back
   - back button
@@ -27,7 +32,6 @@ tags:
   - navigation
   - one click scroll to top
   - page scroll up
-  - plugin
   - scroll
   - scroll back to top
   - scroll me up
@@ -50,8 +54,6 @@ tags:
   - up
   - up button
   - vertical scroller
-  - wordpress
-  - wp
 
 ---
 

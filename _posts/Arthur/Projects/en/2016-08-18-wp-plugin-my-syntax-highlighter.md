@@ -11,9 +11,11 @@ categories:
   - wordpress
   - our-programms
 tags:
-  - plugin
   - wordpress
+  - wordpress plugin
   - wp
+  - wp plugin
+  - plugin
   - code
   - php
   - html
@@ -32,12 +34,12 @@ tags:
   - bash
   - snippet
   - codemirror
-  - hightlight
   - syntax highlighting
   - syntaxhighlighting
   - syntax highlighter
   - syntaxhighlighter
   - syntax
+  - highlighter
   - raw code
   - source code
   - shortcode

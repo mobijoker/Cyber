@@ -13,6 +13,11 @@ categories:
   - wordpress
   - our-programms
 tags:
+  - wordpress
+  - wordpress plugin
+  - wp
+  - wp plugin
+  - plugin
   - admin
   - alexa
   - alexa rank
@@ -39,12 +44,10 @@ tags:
   - pinterest verification
   - pinterest verify
   - pinterest website verification
-  - plugin
   - publisher
   - publisher profile
   - search engine optimization
   - seo
-  - simple
   - social
   - tag
   - tags

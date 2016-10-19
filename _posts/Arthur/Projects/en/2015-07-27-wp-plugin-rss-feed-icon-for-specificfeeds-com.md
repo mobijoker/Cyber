@@ -12,14 +12,16 @@ categories:
   - wordpress
   - our-programms
 tags:
+  - wordpress
+  - wordpress plugin
+  - wp
+  - wp plugin
+  - plugin
   - feed
   - icon
-  - plugin
   - rss
   - SpecificFeeds
   - SpecificFeeds.com
-  - wordpress
-  - wp
 
 ---
 

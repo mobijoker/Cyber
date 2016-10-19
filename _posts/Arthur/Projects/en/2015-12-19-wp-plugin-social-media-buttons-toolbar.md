@@ -12,6 +12,11 @@ categories:
   - wordpress
   - our-programms
 tags:
+  - wordpress
+  - wordpress plugin
+  - wp
+  - wp plugin
+  - plugin
   - blogger
   - button
   - codepen
@@ -31,18 +36,15 @@ tags:
   - instagram
   - linkedin
   - mail
-  - plugin
   - rss
   - rss feed
   - rss_feed
   - rssfeed
-  - simple
   - social
   - social button
   - social button 2
   - social-buttons-2
   - twitter
-  - wordpress
   - youtube
 
 ---

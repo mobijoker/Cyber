@@ -12,14 +12,30 @@ categories:
   - wordpress
   - our-programms
 tags:
-  - code
-  - execute
-  - function
-  - php
-  - php-exec
-  - plugin
-  - snippet
   - wordpress
+  - wordpress plugin
+  - wp
+  - wp plugin
+  - plugin
+  - php-exec
+  - php snippet
+  - wordpress
+  - code
+  - php
+  - function
+  - custom code
+  - execute php
+  - code edit
+  - code editing
+  - code editor
+  - functionality plugin
+  - codemirror
+  - syntax highlighting
+  - syntaxhighlighting
+  - syntax highlighter
+  - syntaxhighlighter
+  - syntax
+  - highlighter
 
 ---
 

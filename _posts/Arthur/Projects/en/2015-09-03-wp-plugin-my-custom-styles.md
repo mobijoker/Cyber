@@ -12,17 +12,32 @@ categories:
   - wordpress
   - our-programms
 tags:
-  - CSS
-  - custom
-  - editor
-  - free
+  - wordpress
+  - wordpress plugin
+  - wp
+  - wp plugin
   - plugin
-  - simple
+  - code
+  - css snippet
+  - custom css
+  - css
+  - css2
+  - css3
+  - css edit
+  - css editing
+  - css editor
   - style
   - styles
+  - styling
   - stylesheet
-  - wordpress
-  - wp
+  - style sheet
+  - codemirror
+  - syntax highlighting
+  - syntaxhighlighting
+  - syntax highlighter
+  - syntaxhighlighter
+  - syntax
+  - highlighter
 
 ---
 
