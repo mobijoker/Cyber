@@ -68,6 +68,8 @@ tags:
    * Готово к переводу (переведено на 12 языков)
    * Опубликовано в репозитории [WordPress.org](http://wordpess.org/)
 
+Got more ideas? Tell me!
+
 
 ### Перевод
 

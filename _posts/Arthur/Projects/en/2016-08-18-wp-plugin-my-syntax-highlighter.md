@@ -77,6 +77,8 @@ This plugin is just plug and play, no tedious configurations or hacks, just inst
 * Ready for translation (POT file included)
 * Published on [WordPress.org](http://wordpess.org/)
 
+Got more ideas? Tell me!
+
 **A list of supported languages:**
 
 Click to view language examples. Highlighted with Default theme.

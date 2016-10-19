@@ -86,11 +86,6 @@ Third-party services like Google Webmaster Tools, Alexa, Pinterest and Google+ r
 
 Got more ideas? Tell me!
 
-### Translation
-
-* English
-* Russian
-* Polish
 
 ### Supported
 
@@ -112,6 +107,10 @@ Got more ideas? Tell me!
 ### Translation
 
 This plugin is translate ready. But If your language is not available you can make one. The .pot file is included and placed in "languages" folder. Many of plugin users would be delighted if you shared your translation with the community. Just send the translation files (*.po, *.mo) to me at the arthurgareginyan@gmail.com and I will include the translation within the next plugin update.
+
+* English
+* Russian
+* Polish
 
 
 ### License

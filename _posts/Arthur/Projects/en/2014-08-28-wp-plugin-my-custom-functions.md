@@ -83,7 +83,7 @@ That’s it. You are already getting your functions working.
 
 * Trigger to temporary disable the custom code.
 * Backuping the custom code to a file.
-* (Got more ideas? Tell me!)
+* Got more ideas? Tell me!
 
 
 ### Screenshots

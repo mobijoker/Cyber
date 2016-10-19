@@ -118,7 +118,7 @@ Also you can use this plugin to add required meta tags such as Author, Designer,
 * Meta tag with name="creator".
 * Meta tag with name="publisher".
 * Meta tag with name="language".
-* (Got more ideas? Tell me!)
+* Got more ideas? Tell me!
 
 
 ### Screenshot

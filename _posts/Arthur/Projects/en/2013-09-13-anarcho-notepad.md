@@ -68,6 +68,8 @@ Inspired by the idea of anarchy, I designed this free premium WordPress theme fo
    * Ready for translation (Translated to 12 languages)
    * Published on [WordPress.org](http://wordpess.org/)
 
+Got more ideas? Tell me!
+
 
 ### Translation
 

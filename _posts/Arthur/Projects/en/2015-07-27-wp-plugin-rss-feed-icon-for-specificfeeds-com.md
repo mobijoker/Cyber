@@ -55,7 +55,7 @@ To use, enter your personal link from SpecificFeeds.com, choose icon and click "
 * Published on [WordPress.org](http://wordpess.org/)
 
 **Coming soon:**
-* (Got more ideas? Tell me!)
+* Got more ideas? Tell me!
 
 
 ### Screenshots

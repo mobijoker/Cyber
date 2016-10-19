@@ -79,7 +79,7 @@ That’s it. You are already getting your custom CSS working.
 
 * CSS minifier.
 * Trigger to temporary disable the custom CSS code.
-* (Got more ideas? Tell me!)
+* Got more ideas? Tell me!
 
 
 ### Screenshots

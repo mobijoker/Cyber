@@ -66,7 +66,7 @@ Also you don't need to edit any file of your theme, this plugin will do everythi
 
 **Coming soon:**
 
-* (Got more ideas? Tell me!)
+* Got more ideas? Tell me!
 
 
 ### Screenshots

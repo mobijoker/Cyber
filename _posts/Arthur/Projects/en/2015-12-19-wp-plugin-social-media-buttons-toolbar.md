@@ -91,24 +91,32 @@ If you want more options then tell me and I will be happy to add it.
 * YouTube
 * Blogger
 * LinkedIn
+* LiveJournal
+* Reddit
+* Pinterest
+* Tumblr
+* Snapchat
+* SoundCloud
+* Spotify
+* MeetVibe
+* VKontakte (vk.com)
+* Odnoklassniki (ok.ru)
+* Telegram
 * GitHub
 * WordPress
 * Codepen
+* Skype
+* Personal website
 * Email
 * RSS Feed
 
 **Coming soon:**
 
-* Pinterest
-* VKontakte
-* Odnoklassniki
-* Personal web-site
 * Ebay
 * Flickr
 * Specific Feeds
-* Tumblr
 * Vimeo
-* (Got more ideas? Tell me!)
+* Got more ideas? Tell me!
 
 
 ### Using
@@ -146,6 +154,10 @@ Simple and easy!
 ### Translation
 
 This plugin is translate ready. But If your language is not available you can make one. The .pot file is included and placed in "languages" folder. Many of plugin users would be delighted if you shared your translation with the community. Just send the translation files (*.po, *.mo) to me at the arthurgareginyan@gmail.com and I will include the translation within the next plugin update.
+
+* English (default)
+* Russian
+* Spanish (translation by [Ramiro Garcés](http://www.ramirogarces.com.ve/))
 
 
 ### License
