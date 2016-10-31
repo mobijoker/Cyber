@@ -43,7 +43,7 @@ You'll need a Feedburner account. Feedburner is one of the tools that google off
 Sign up for Feedburner using the following link: [Feedburner](http://feedburner.com/)
 
 
-## **Step 2.** Setup Feedburner
+## **Step 3.** Setup Feedburner
 
 Once logged in Feedburner, it will prompt you to enter your blog's RSS feed URL that you finded before.
 
@@ -66,7 +66,7 @@ Feedburner will provide a two kinds of subscribe options. One is a form and the 
 ![center](/images/adding-email-subscription-button-blog-using-feedburner/5.png)
 
 
-## **Step 3.** Add an email subscription button to your theme
+## **Step 4.** Add an email subscription button to your theme
 
 You can place the snippet of button code anywhere you'd like the email subscription button to display on your theme. 
 
@@ -77,7 +77,7 @@ If you’re not using CMS WordPress, you’ll need to find the file of your them
 **Note:** Your theme may have separate file for display the sidebar or footer. In this case, you'll need a file that may have the name such as `sidebar.html` and `footer.html`, or `sidebar.php` and `footer.php`.
 
 
-## **Step 4.** Customizing an email subscription button
+## **Step 5.** Customizing an email subscription button
 
 If you put the original snippet of button code on your blog, it will look like this: <a href="https://feedburner.google.com/fb/a/mailverify?uri=MyCyberUniverse&amp;loc=en_US">Subscribe to My Cyber Universe by Email</a> which opens in a new tab. But you can modify all aspects of the button, and you can style the output the same way you would style any other part of your blog's theme. I show you how to open the link in a pop-up and replace the text with image.
 

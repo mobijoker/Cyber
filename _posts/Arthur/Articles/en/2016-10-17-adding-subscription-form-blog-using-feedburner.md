@@ -43,7 +43,7 @@ You'll need a Feedburner account. Feedburner is one of the tools that google off
 Sign up for Feedburner using the following link: [Feedburner](http://feedburner.com/)
 
 
-## **Step 2.** Setup Feedburner
+## **Step 3.** Setup Feedburner
 
 Once logged in Feedburner, it will prompt you to enter your blog's RSS feed URL that you finded before.
 
@@ -66,7 +66,7 @@ Feedburner will provide a two kinds of subscribe options. One is a form and the 
 ![center](/images/adding-email-subscription-form-blog-using-feedburner/5.png)
 
 
-## **Step 3.** Add an email subscription form to your theme
+## **Step 4.** Add an email subscription form to your theme
 
 You can place the snippet of form code anywhere you'd like the email subscription form to display on your theme. 
 
