@@ -73,7 +73,7 @@ Create a file called `flattr-button.html` in the `_includes` catalog of your Jek
 {% endraw %}
 ```
 
-**Note:** The `style="display:none;"` option needed to avoid that the embedded button definition is shown while the page is loading
+**Note:** The `style="display:none;"` option needed to avoid that the embedded button definition is shown while the page is loading.
 
 **Note:** Replace the `YOUR-USER-NAME` with your own user name from your Fllatr account.
 
@@ -118,7 +118,7 @@ Go into the `_layouts` catalog and find the `post.html` file (or any layout file
 {% raw %}{% include flattr-button.html %}{% endraw %}
 ```
 
-I place this right after the `{% raw %}{{ content }}{% endraw %}`, but the placements is totally up to you. In my case a Flattr buuton will be displayed at the end of each blog post, just above the comments section.
+I place this right after the `{% raw %}{{ content }}{% endraw %}`, but the placements is totally up to you. In my case a Flattr button will be displayed at the end of each blog post, just above the comments section.
 
 When everything went well, the flattr button should show up with the next page generation on activated posts. Now you’ve got Flattr buttons automatically add to all your post with the page excerpt on the Flattr page of your "thing".
 
