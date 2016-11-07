@@ -73,11 +73,16 @@ tags:
 ### Описание
 
 <img src="/images/all-meta-tags/banner.png" alt="WP Plugin &quot;All Meta Tags&quot;" />
-No need anymore to editing a files of your theme or plugins in order to add meta tags. You can add they on plugins settings page. Just add your ID (the meta key “content” value from your verification code) or/and the URL to the social media profile of the publisher in the field on the plugin page and this plugin will do the rest for you. It adds required meta tags to the head section of your website automatically, without changing any of your themes file and without slowing down your website. It's really useful in case of any theme update, because your meta tags would never be lost! Your meta tags will keep on working, no matter how many times you upgrade or switch your theme and plugins.
 
-Third-party services like Google Webmaster Tools, Alexa, Pinterest and Google+ require you to verify your domain. This makes sure that you are the correct owner of your blog or store before they provide their services to you. You can use this plugin to easily verify your website or domain and get a more effective and efficient sharing results. Example with Pinterest. Once you completed the verification process, people will see a checkmark next to your domain in your Pinterest profile and in pinner search results. That check mark emphasis you have confirmed the ownership of your blog or website on Pinterest. This will help your website to rank better in google and other search engines. You can easily increase your blog traffic using this plugin. “All Meta Tags” is a simple but effective SEO plugin.
+An easy to use and lightweight WordPress plugin that gives you the ability to easily add your Meta Tags to the head section of your website.
 
-Also you can use this plugin to add required meta tags such as Author, Designer, Contact, Copyright and Keywords in everywhere on your website (It adds the required meta tags to the header of all pages on your website) or the meta Description and Keywords only for Home Page.
+No need anymore to editing a files of your theme or plugins in order to add meta tags. You can add they on plugins settings page. Just add your ID (the meta key "content" value from your verification code) or/and the URL to the social media profile of the publisher in the field on the plugin page and this plugin will do the rest for you. It adds required meta tags to the head section of your website automatically, without changing any of your themes file and without slowing down your website. It's really useful in case of any theme update, because your meta tags would never be lost! Your meta tags will keep on working, no matter how many times you upgrade or switch your theme and plugins.
+
+Third-party services like Google Webmaster Tools, Alexa, Pinterest and Google+ require you to verify your domain. This makes sure that you are the correct owner of your blog or store before they provide their services to you. You can use this plugin to easily verify your website or domain and get a more effective and efficient sharing results. Example with Pinterest. Once you completed the verification process, people will see a checkmark next to your domain in your Pinterest profile and in pinner search results. That check mark emphasis you have confirmed the ownership of your blog or website on Pinterest. This will help your website to rank better in google and other search engines. You can easily increase your blog traffic using this plugin. "All Meta Tags" is a simple but effective SEO plugin.
+
+Also you can use this plugin to add required meta tags such as Author, Designer, Contact, Copyright and Keywords in everywhere on your website (It adds the required meta tags to the header of all pages on your website) or the meta Description and Keywords only for Static Home Page or the meta Description and Keywords only for Blog Page.
+
+If you want more options then tell me and I will be happy to add it.
 
 
 ### Quick-Start Guide
@@ -101,13 +106,15 @@ Also you can use this plugin to add required meta tags such as Author, Designer,
 * Bing Web Master Tools verification meta tag
 * Yandex Web Master Tools verification meta tag
 * Web of Trust (WOT) verification meta tag
+* Custom meta tags
+* Google Shopping (Merchant Center) structured data on WooCommerce product pages
 * Meta tag with name="author"
 * Meta tag with name="designer"
 * Meta tag with name="contact"
 * Meta tag with name="copyright"
-* Meta tag with name="description" (Global and only for home page)
-* Ready for translation (.pot file included)
-* Added Russian translation
+* Meta tag with name="description" (Global, only for Static Home Page and only for Blog Page)
+* Meta tag with name="keywords" (Global, only for Static Home Page and only for Blog Page)
+* Ready for translation (POT file included)
 * Опубликовано в репозитории [WordPress.org](http://wordpess.org/)
 
 **Скоро:**

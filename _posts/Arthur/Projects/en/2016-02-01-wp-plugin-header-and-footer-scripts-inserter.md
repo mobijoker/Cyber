@@ -55,16 +55,19 @@ tags:
 ---
 
 ![thumb](/images/header-and-footer-scripts-inserter/icon.png)
-An easy to use and lightweight WordPress plugin that gives you the ability to easily insert custom scripts (HTML, JavaScript, and CSS) in the head and footer sections of your website.
+An easy to use and lightweight WordPress plugin that gives you the ability to easily insert custom scripts (HTML, JavaScript, and CSS) in the head or/and footer section of your website.
 
 <br><br>
 
 ### Description
 
 <img src="/images/header-and-footer-scripts-inserter/banner.png" alt="WP Plugin &quot;Head and Footer Scripts Inserter&quot;" />
+
 No need anymore to editing a files of your theme or plugins in order to add custom scripts (HTML with JavaScript, CSS and else). You can add they on plugin's page. Just add your scripts in the field on the plugin's page and this plugin will do the rest for you. It adds required scripts to the head section of your website automatically, without changing any of your themes file and without slowing down your website. It's really useful in case of any theme update, because your scripts would never be lost! Your scripts will keep on working, no matter how many times you upgrade or switch your theme and plugins.
 
 Third-party services like Google Webmaster Tools, Alexa, Pinterest and Google+ require you to verify your domain. This makes sure that you are the correct owner of your blog or store before they provide their services to you. You can use this plugin to easily verify your website or domain and get a more effective and efficient sharing results. Example with Pinterest. Once you completed the verification process, people will see a checkmark next to your domain in your Pinterest profile and in pinner search results. That check mark emphasis you have confirmed the ownership of your blog or website on Pinterest. This will help your website to rank better in google and other search engines. You can easily increase your blog traffic using this plugin. "Head and Footer Scripts Inserter" is a simple but effective SEO plugin.
+
+If you want more options then tell me and I will be happy to add it.
 
 
 ### Quick-Start Guide
@@ -81,10 +84,8 @@ Third-party services like Google Webmaster Tools, Alexa, Pinterest and Google+ r
 * No configuration required
 * Inserts scripts in beginning or/and end of <head> tag
 * Inserts scripts in beginning or/and end of footer
-* Ready for translation (.pot file included)
+* Ready for translation (POT file included)
 * Published on [WordPress.org](http://wordpess.org/)
-
-Got more ideas? Tell me!
 
 
 ### Supported

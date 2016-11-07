@@ -58,16 +58,15 @@ tags:
 ---
 
 ![thumb](/images/simple-scroll-to-top-button/icon.png)
-An easy to use WordPress plugin that gives you the ability to add a "Scroll to Top" button to your website in a simple and elegant way.
+An easy to use WordPress plugin that gives you the ability to add a "Scroll to Top" button to your website in a simple and elegant way. This button appears at the bottom-right of the website once the visitors scrolls down a page on your website. It appears only when visitors scroll down the webpage. As a result, your website visitors can easily scroll smoothly back to the very top of a page with one click of the button. This can be particularly handy for pages with a lot of text/content, or in cases wherever a browser's scrollbar is just not good enough (or not present at all, like on tablets) to enable one-click, one-screen scrolling. This gives your website better navigation and also adds a more professional look to your website.
 
 <br><br>
 
 ### Description
 
 <img src="/images/simple-scroll-to-top-button/banner.png" alt="WP Plugin &quot;Simple Scroll to Top Button&quot;" />
-An easy to use WordPress plugin that gives you the ability to add a "Scroll to Top" button to your website in a simple and elegant way. This button appears at the bottom-right of the website once the visitors scrolls down a page on your website. It appears only when visitors scroll down the webpage. As a result, your website visitors can easily scroll smoothly back to the very top of a page with one click of the button. This can be particularly handy for pages with a lot of text/content, or in cases wherever a browser's scrollbar is just not good enough (or not present at all, like on tablets) to enable one-click, one-screen scrolling. This gives your website better navigation and also adds a more professional look to your website. 
 
-This plugin give you finer control over "Scroll to Top" button, it can be configured on the plugin settings page. You can select where the button will be showed, such as home page or all pages. You can customize the button style using and combining 10 symbols and 4 backgrounds from FontAwesome library, in result you have 40 variations of buttons. You can change the size of button, color (unlimited) of background, color (unlimited) of symbol and etc.
+This plugin give you finer control over "Scroll to Top" button, it can be configured on the plugin settings page. You can select where the button will be showed, such as home page or all pages. You can customize the button style using and combining 10 symbols and 4 backgrounds from FontAwesome library, in result you have 40 variations of buttons. You can change the size of button, color (unlimited) of background, color (unlimited) of symbol and etc. If you want more options then tell me and I will be happy to add it.
 
 Also you don't need to edit any file of your theme, this plugin will do everything for you. It's just plug and play, no tedious configurations or hacks, just install, enable and start enjoying the Scroll To Up button. "Scroll to Top" button will be responsive and compatible with all major browsers. It will work with any theme! No knowledge of any coding (HTML, CSS, JavaScript, PHP) is required at all.
 
@@ -80,8 +79,6 @@ Also you don't need to edit any file of your theme, this plugin will do everythi
 
 
 ### Features
-
-**Current features:**
 
 * Responsive
 * Retina display support
@@ -96,14 +93,8 @@ Also you don't need to edit any file of your theme, this plugin will do everythi
 * Option to display button in full website or in Home page only
 * Auto hide button on top of webpage
 * Live preview
-* Ready for translation (.pot file included)
-* Added Russian translation
+* Ready for translation (POT file included)
 * Published on [WordPress.org](http://wordpess.org/)
-
-
-**Coming soon:**
-
-* Got more ideas? Tell me!
 
 
 ### Screenshots

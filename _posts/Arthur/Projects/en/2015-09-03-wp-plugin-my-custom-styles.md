@@ -42,18 +42,19 @@ tags:
 ---
 
 ![thumb](/images/my-custom-styles/icon.png)
-An easy to use WordPress plugin that gives you the ability to EASILY and SAFELY add your custom styles (CSS) to WordPress website's header.
+An easy to use WordPress plugin that gives you the ability to easily and safely add your custom styles (CSS code) to WordPress website's <head> section, directly out of your WordPress Dashboard, without any need of an external editor.
 
 <br><br>
 
 ### Description
 
 <img src="/images/my-custom-styles/banner.png" alt="WP Plugin &quot;My Custom Styles&quot;" />
-No need anymore to editing a files of your theme and/or plugins for to add custom styles (CSS). Just add your CSS code in the field on the plugin page and this plugin will do the rest for you. It's really useful in case of any theme/plugin update, because your custom styles (CSS) would never be overwritten!
 
-On the plugin page you find the CSS editor powered by CodeMirror. It have syntax highlighting and line numbering options. Also this editor support a tab indentation.
+It's purpose is to provide a familiar experience to WordPress users. No need anymore to editing a files of your theme and/or plugins for to add custom CSS code. Just add your CSS code in the field on the plugin page and this plugin will do the rest for you.
 
-Your custom styles will keep on working, no matter how many times you upgrade or switch your theme and plugins.
+It's really useful in case of any theme/plugin update, because your custom CSS code would never be overwritten. Your custom CSS code will keep on working, no matter how many times you upgrade or switch your theme.
+
+On the plugin page you find the CSS editor powered by CodeMirror. It have syntax highlighting and line numbering options. Also this editor support a tab indentation. If you want more options then tell me and I will be happy to add it.
 
 
 ### Quick-Start Guide
@@ -70,15 +71,18 @@ That’s it. You are already getting your custom CSS working.
 
 **Current features:**
 
-* Syntax highlighting (by CodeMirror).
-* Line numbering (by CodeMirror).
-* Ready for translation (.pot file included).
-* Published on [WordPress.org](http://wordpess.org/)
+* Responsive & Mobile optimized settings page
+* Trigger for temporary disable the custom CSS code
+* Syntax highlighting (by CodeMirror)
+* Line numbering
+* Active line highlighting
+* Editor allow for tab indentation
+* Ready for translation (POT file included)
 
 **Coming soon:**
 
-* CSS minifier.
-* Trigger to temporary disable the custom CSS code.
+* Reload the settings page at same position after pushing the save button
+* Multisite network support
 * Got more ideas? Tell me!
 
 

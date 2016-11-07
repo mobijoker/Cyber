@@ -40,22 +40,16 @@ tags:
 ---
 
 ![thumb](/images/my-custom-functions/icon.png)
-EASILY and SAFELY add your own functions, snippets or any custom codes on your WordPress website, directly out of your WordPress Dashbord without need of an external editor.
+An easy to use WordPress plugin that gives you the ability to easily and safely add your custome functions (PHP code) for execution in WordPress environment directly out of your WordPress Dashboard and without any need of an external editor. 
 
 <br><br>
 
 ### Description
 
 <img src="/images/my-custom-functions/banner.png" alt="WP Plugin &quot;My Custom Functions&quot;" />
-An easy to use WordPress plugin that lets you EASILY and SAFELY add your own functions, snippets or any custom codes for execution in WordPress environment directly out of your WordPress Dashbord without any need of an external editor. 
 
-It’s purpose is to provide a familiar experience to WordPress users. No need any more editing the functions.php file of your theme. Just add your code in the field on the page and this plugin will do the rest for you.
-
-No any more “Fatal error”. These codes will run safely and will not generate fatal errors, so your website won't break if you make a typo in your code.
-
-And your website will keep on working, no matter how many times you upgrade or switch your theme.
-
-This is a perfect tool to use as your site's functionality plugin.
+It's purpose is to provide a familiar experience to WordPress users. No need anymore editing the functions.php file of your theme. Just add your PHP code in the field on the plugin page and this plugin will do the rest for you.This is a simple and perfect tool to use as your site's functionality plugin.
+It's really useful in case of any theme update, because your custom PHP code would never be overwritten. Your custom PHP code will keep on working, no matter how many times you upgrade or switch your theme.On the plugin page you find the PHP editor powered by CodeMirror. It have syntax highlighting and line numbering options. Also this editor support a tab indentation. If you want more options then tell me and I will be happy to add it.
 
 
 ### Quick-Start Guide
@@ -72,17 +66,20 @@ That’s it. You are already getting your functions working.
 
 **Current features:**
 
-* Safety execution code (Checks the entered code for fatal errors).
-* Syntax highlighting  (CodeMirror).
-* Line numbering  (CodeMirror).
-* Ready for translation (.pot file included).
-* CodeMirror scripts are combined and minified.
+* Responsive & Mobile optimized settings page
+* Checks the entered code for fatal errors (simple checks)
+* Trigger for temporary disable the custom functions
+* Easy disable option for WSOD
+* Syntax highlighting (by CodeMirror)
+* Line numbering
+* Active line highlighting
+* Editor allow for tab indentation
+* Ready for translation (POT file included)
 * Published on [WordPress.org](http://wordpess.org/)
 
-**Coming soon:**
-
-* Trigger to temporary disable the custom code.
-* Backuping the custom code to a file.
+**Coming soon:**
+* Reload the settings page at same position after pushing the save button
+* Multisite network support
 * Got more ideas? Tell me!
 
 

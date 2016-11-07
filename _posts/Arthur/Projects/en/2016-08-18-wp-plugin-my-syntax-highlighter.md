@@ -47,15 +47,13 @@ tags:
 ---
 
 ![thumb](/images/my-syntax-highlighter/icon.png)
-Simple post syntax-highlighted code without losing it's formatting or making any manual changes. Supporting multiple languages, shortcodes and themes.
+An easy to use WordPress plugin that provides a simple way for embedding syntax-highlighted source code within pages or posts on your website, without losing it's formatting or making any manual changes. Supporting 14 languages, 16 shortcodes and 36 themes. The syntax highlighting feature implemented via a [CodeMirror](https://codemirror.net/) library. If you want more options then tell me and I will be happy to add it.
 
 <br><br>
 
 ### Description
 
 <img src="/images/my-syntax-highlighter/banner.png" alt="WP Plugin &quot;My Syntax Highlighter&quot;" />
-
-An easy to use WordPress plugin that provides a simple way for embedding syntax-highlighted source code within pages or posts on your website, without losing it's formatting or making any manual changes. Supporting 14 languages, 16 shortcodes and 36 themes. The syntax highlighting feature implemented via a [CodeMirror](https://codemirror.net/) library.
 
 Syntax highlighting is a feature that displays source code, in different colors and fonts according to the category of terms. Syntax highlighting is one strategy to improve the readability and context of the text; especially for code that spans several pages. The reader can easily ignore large sections of comments or code, depending on what they are looking for. 
 
@@ -74,10 +72,10 @@ This plugin is just plug and play, no tedious configurations or hacks, just inst
 * 36 Themes
 * 14 Languages
 * 16 Shortcodes
+* Allow shortcodes in the text widget
 * Ready for translation (POT file included)
 * Published on [WordPress.org](http://wordpess.org/)
 
-Got more ideas? Tell me!
 
 **A list of supported languages:**
 

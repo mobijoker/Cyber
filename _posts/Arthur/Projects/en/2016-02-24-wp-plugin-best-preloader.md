@@ -35,7 +35,8 @@ An easy to use WordPress plugin that gives you the ability to add the preloader 
 ### Description
 
 <img src="/images/best-preloader/banner.png" alt="WP Plugin &quot;Best Preloader&quot;" />
-This plugin give you finer control over preloader, it can be configured on the plugin settings page. You can select where the preloading page will be showed, such as home page or all pages. You can replace default preloader image with your own image. You can change the size of image, and etc. 
+
+This plugin give you finer control over preloader, it can be configured on the plugin settings page. You can select where the preloading page will be showed, such as home page or all pages. You can replace default preloader image with your own image. You can change the size of image, and etc. If you want more options then tell me and I will be happy to add it.
 
 Also you don't need to edit any file of your theme, this plugin will do everything for you. It's just plug and play, no tedious configurations or hacks, just install, enable and start enjoying the preloader. Preloader will be responsive and compatible with all major browsers. It will work with any theme!
 
@@ -49,8 +50,6 @@ Also you don't need to edit any file of your theme, this plugin will do everythi
 
 ### Features
 
-**Current features:**
-
 * Responsive
 * Retina support
 * Cross Browser Compatible (work smooth in any modern browser)
@@ -59,14 +58,9 @@ Also you don't need to edit any file of your theme, this plugin will do everythi
 * Have default animated GIF preloader image
 * Option to enable/disable preloader
 * Option to display preloader in full website or in Home page only
-* Ready for translation (.pot file included)
-* Added Russian translation
+* Option to set the delay before the preloader appears
+* Ready for translation (POT file included)
 * Published on [WordPress.org](http://wordpess.org/)
-
-
-**Coming soon:**
-
-* Got more ideas? Tell me!
 
 
 ### Screenshots

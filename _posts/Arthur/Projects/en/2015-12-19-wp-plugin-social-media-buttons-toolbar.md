@@ -58,13 +58,12 @@ An easy to use WordPress plugin that gives you the ability to easily add the sma
 ### Description
 
 <img src="/images/social-media-buttons-toolbar/banner.png" alt="WP Plugin &quot;Social Media Buttons Toolbar&quot;" />
+
 The social media buttons toolbar - is a toolbar with set of icons of the popular social media which are linked directly to your profile on this social networks. I.e. clicking the Facebook icon will take the user to your Facebook page, clicking the Twitter icon will take them to your Twitter page.
 
 Unlike the other plugins, this plugin creates a live toolbar. The toolbar automatically adapt to the width of the block where it placed. If the buttons do not fit to the one line, then they will be placed on multiple lines. So they can be arranged horizontally or vertically, in one line or in a few, and all of this is done automatically. Also it can be aligned to left, center or right.
 
-It give you finer control over buttons. You can configure they on plugins settings page. You can choose the size of icons, choose open link in current tab or in new, and etc. Also you can have the social media buttons automatically added to the bottom of all post or/and pages, and can position the link buttons using either a widget, a shortcode or a template action hook.
-
-If you want more options then tell me and I will be happy to add it.
+It give you finer control over buttons. You can configure they on plugins settings page. You can choose the size of icons, choose open link in current tab or in new, and etc. Also you can have the social media buttons automatically added to the bottom of all post or/and pages, and can position the link buttons using either a widget, a shortcode or a template action hook. If you want more options then tell me and I will be happy to add it.
 
 
 ### Quick-Start Guide
@@ -85,6 +84,7 @@ If you want more options then tell me and I will be happy to add it.
 * Shortcode for add social media buttons from Post/Page Editor
 * PHP/HTML code for add social media buttons directly in your theme files
 * Ready for translation (POT file included)
+* Published on [WordPress.org](http://wordpess.org/)
 
 **Supported social media:**
 

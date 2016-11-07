@@ -28,7 +28,7 @@ tags:
 ---
 
 ![thumb](/images/syntax-highlighter-for-wp-editor/icon.png)
-An easy to use WordPress plugin that replaces the default Theme and Plugin Source Code Editor with an enhanced editor by a [CodeMirror library](https://codemirror.net/).
+An easy to use WordPress plugin that replaces the default Theme and Plugin Source Code Editor with an enhanced editor by a [CodeMirror library](https://codemirror.net/). The WordPress default Theme Editor (in Appearance => Editor) and Plugin Editor (in Plugins => Editor) is great for doing some custom changes to your Themes or Plugins files, although it is rather limited. This is where the "Syntax Highlighter for WP Editor" can help. With an enhanced source code editor you can see a code with syntax highlighting, and with line numbering, so you can easily read your code and detect any errors.
 
 <br><br>
 
@@ -36,9 +36,7 @@ An easy to use WordPress plugin that replaces the default Theme and Plugin Sourc
 
 <img src="/images/syntax-highlighter-for-wp-editor/banner.png" alt="WP Plugin &quot;Syntax Highlighter for WP Editor&quot;" />
 
-The WordPress default Theme Editor (in Appearance => Editor) and Plugin Editor (in Plugins => Editor) is great for doing some custom changes to your Themes or Plugins files, although it is rather limited. This is where the "Syntax Highlighter for WP Editor" can help. With an enhanced source code editor you can see a code with syntax highlighting, and with line numbering, so you can easily read your code and detect any errors.
-
-This plugin give you finer control over editor, it can be configured on the plugin settings page. You can chose from 36 different color themes for your editor.
+This plugin give you finer control over editor, it can be configured on the plugin settings page. You can chose from 36 different color themes for your editor. If you want more options then tell me and I will be happy to add it.
 
 This plugin is just plug and play, no tedious configurations or hacks, just install, enable and start using your new enhanced Theme and Plugin Editor.
 
@@ -54,17 +52,14 @@ This plugin is just plug and play, no tedious configurations or hacks, just inst
 
 **Current features:**
 
-* Syntax highlighting by CodeMirror library
-* Changeable Color Theme (36)
+* Syntax highlighting (by CodeMirror)
+* Changeable color theme (36 variants)
 * Line numbering
-* Input areas allow for tab indentation
+* Editor allow for tab indentation
 * Easy to use Settings Page
 * Live preview on Settings Page
-* Ready for translation (.pot file included)
-* Russian translation
+* Ready for translation (POT file included)
 * Published on [WordPress.org](http://wordpess.org/)
-
-Got more ideas? Tell me!
 
 **Supported languages:**
 
