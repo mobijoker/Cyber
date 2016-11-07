@@ -46,6 +46,7 @@ tags:
   - social-buttons-2
   - twitter
   - youtube
+  - vimeo
 
 ---
 
@@ -59,7 +60,7 @@ An easy to use WordPress plugin that gives you the ability to easily add the sma
 <img src="/images/social-media-buttons-toolbar/banner.png" alt="WP Plugin &quot;Social Media Buttons Toolbar&quot;" />
 The social media buttons toolbar - is a toolbar with set of icons of the popular social media which are linked directly to your profile on this social networks. I.e. clicking the Facebook icon will take the user to your Facebook page, clicking the Twitter icon will take them to your Twitter page.
 
-Unlike the other plugins, this plugin create a live toolbar. If the buttons do not fit to the one line, then they will be placed on multiple lines. So they can be arranged horizontally or vertically, in one line or in a few and it always centered.
+Unlike the other plugins, this plugin creates a live toolbar. The toolbar automatically adapt to the width of the block where it placed. If the buttons do not fit to the one line, then they will be placed on multiple lines. So they can be arranged horizontally or vertically, in one line or in a few, and all of this is done automatically. Also it can be aligned to left, center or right.
 
 It give you finer control over buttons. You can configure they on plugins settings page. You can choose the size of icons, choose open link in current tab or in new, and etc. Also you can have the social media buttons automatically added to the bottom of all post or/and pages, and can position the link buttons using either a widget, a shortcode or a template action hook.
 
@@ -78,9 +79,12 @@ If you want more options then tell me and I will be happy to add it.
 **Current features:**
 
 * Icon set ["Social Buttons 2"](https://www.iconfinder.com/iconsets/social-buttons-2?ref=ArthurGareginyan) by Ivlichev Victor Petrovich
-* Ready for translation (.pot file included).
-* Added Russian translation.
-* Published on [WordPress.org](http://wordpess.org/)
+* [Some icons](https://www.iconfinder.com/iconsets/meetvibe?ref=ArthurGareginyan) by [Arthur Gareginyan](http://www.arthurgareginyan.com)
+* Plugin settings page with many settings
+* Preview on plugin settings page
+* Shortcode for add social media buttons from Post/Page Editor
+* PHP/HTML code for add social media buttons directly in your theme files
+* Ready for translation (POT file included)
 
 **Supported social media:**
 
@@ -89,6 +93,7 @@ If you want more options then tell me and I will be happy to add it.
 * Instagram
 * Google+
 * YouTube
+* Vimeo
 * Blogger
 * LinkedIn
 * LiveJournal
@@ -96,6 +101,7 @@ If you want more options then tell me and I will be happy to add it.
 * Pinterest
 * Tumblr
 * Snapchat
+* IMDb
 * SoundCloud
 * Spotify
 * MeetVibe
@@ -115,7 +121,6 @@ If you want more options then tell me and I will be happy to add it.
 * Ebay
 * Flickr
 * Specific Feeds
-* Vimeo
 * Got more ideas? Tell me!
 
 
@@ -169,7 +174,14 @@ Commercial licensing (e.g. for projects that can’t use an open-source license)
 
 ### Credits
 
-Icon set [Social Buttons 2](https://www.iconfinder.com/iconsets/social-buttons-2?ref=ArthurGareginyan) by Ivlichev Victor Petrovich is licensed under the Creative Commons (Attribution 3.0 Unported).
+Icon set [Social Buttons 2](https://www.iconfinder.com/iconsets/social-buttons-2?ref=ArthurGareginyan) by Ivlichev Victor Petrovich and licensed under the [Creative Commons (Attribution 3.0 Unported)](http://creativecommons.org/licenses/by/3.0/).
+
+Icons [meetvibe.png](https://www.iconfinder.com/iconsets/meetvibe?ref=ArthurGareginyan), [imdb.png and snapchat.png](https://www.iconfinder.com/iconsets/square-logo-buttons) by [Arthur Gareginyan](http://www.arthurgareginyan.com) and licensed under the [Creative Commons (Attribution 3.0 Unported)](http://creativecommons.org/licenses/by/3.0/).
+
+[Bootstrap](http://getbootstrap.com) released under the [MIT license](https://github.com/twbs/bootstrap/blob/master/LICENSE).
+
+[Bootstrap-checkbox](https://github.com/vsn4ik/bootstrap-checkbox) is a project of [Vasily A.](https://github.com/vsn4ik), shared under the [MIT license](https://github.com/vsn4ik/bootstrap-checkbox/blob/master/LICENSE).
+
 
 
 ### Download
