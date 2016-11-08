@@ -1,8 +1,7 @@
-
 ---
 title: 'Создание сайта на движке Wordpress при помощи iPad'
-ref: создание-сайта-на-движке-Wordpress-при-помощи-iPad
-permalink: /ru/web/создание-сайта-на-движке-wordpress-при-помощи-ipad.html
+ref: creating-wordpress-website-using-ipad
+permalink: /ru/web/creating-wordpress-website-using-ipad.html
 author: Milena Kiseleva
 lang: ru
 layout: post
@@ -14,6 +13,10 @@ tags:
   - создание сайта
   - движок wordpress
   - веб сайт с нуля
+  - веб сайт
+  - веб-сайт
+  - вебсайт
+  - сайт
 
 ---
 
