@@ -406,9 +406,23 @@ article a:visited {
 }
 @include media-query($on-laptop) {
     .wrapper .post,
-    .wrapper .home {
+    .wrapper .home,
+    .post-comments {
         width: -webkit-calc(100% - 80px ) !important;
         width:         calc(100% - 80px ) !important;
+    }
+    .wrapper {
+        padding: 0;
+    }
+    .site-footer {
+        padding: 20px !important;
+        margin-top: 10px;
+    }
+    .author-info {
+        padding-left: 0 !important;
+    }
+    .flattr-button {
+        margin-top: 108px !important;
     }
 }
 
