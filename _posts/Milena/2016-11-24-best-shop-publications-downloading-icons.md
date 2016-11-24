@@ -39,24 +39,32 @@ tags:
 <figure>
 	<img src="/images/milena/weather-colored-liner-1.jpg">
 	<figcaption>
-		<a href="https://www.iconfinder.com/iconsets/weather-colored-liner?ref=MilenaKiseleva" target="_blank">Icon Set - "Weather Colored Liner"</a>
+		<a href="https://www.iconfinder.com/iconsets/weather-colored-liner?ref=MilenaKiseleva" target="_blank">Icon Set - "Weather colored liner"</a>
 	</figcaption>
 </figure>
+
 <figure>
 	<img src="/images/milena/snowflakes-liner-2.jpg">
 	<figcaption>
-		<a href="https://www.iconfinder.com/iconsets/weather-colored-liner?ref=MilenaKiseleva" target="_blank">Icon Set - "Snowflakes-liner"</a>
+		<a href="https://www.iconfinder.com/iconsets/weather-colored-liner?ref=MilenaKiseleva" target="_blank">Icon Set - "Snowflakes liner"</a>
 	</figcaption>
 </figure>
+
 <figure>
 	<img src="/images/milena/christmas-tree-ball-with-snowflakes-3.jpg">
 	<figcaption>
-		<a href="https://www.iconfinder.com/iconsets/weather-colored-liner?ref=MilenaKiseleva" target="_blank">Icon Set - "Christmas-tree-ball-with-snowflakes"</a>
+		<a href="https://www.iconfinder.com/iconsets/weather-colored-liner?ref=MilenaKiseleva" target="_blank">Icon Set - "Christmas tree ball with snowflakes"</a>
+	</figcaption>
+</figure>
+
+<figure>
+	<img src="/images/milena/ice-cream-4.jpg">
+	<figcaption>
+		<a href="https://www.iconfinder.com/iconsets/ice-cream-3?ref=MilenaKiseleva" target="_blank">Icon Set - "Ice Cream"</a>
 	</figcaption>
 </figure>
 
 <br>
-
 <style>
 figure {
 	float: left;
