@@ -28,17 +28,50 @@ tags:
 
 Я делюсь с вами своим промо-кодом на 50% скидку за оплату первого месяца, вы можете воспользоваться им перейдя по этой ссылке: [www.IconFinder.com](https://www.iconfinder.com/?ref=MilenaKiseleva)
 
-Также в независимости от того захотите вы приобрести Pro аккаунт или нет, зайдите посмотрететь на иконки которые нарисовала Я :)
-Вот несколько примеров, нажми на ссылку и увидишь полный сет:
+<a href="https://www.iconfinder.com/?ref=MilenaKiseleva" target="_blank">
+	<img src="/images/milena/iconfinder-banner.jpg">
+</a>
 
-[Weather-colored-liner](https://www.iconfinder.com/iconsets/weather-colored-liner?ref=MilenaKiseleva)
+Также в независимости от того захотите вы приобрести Pro аккаунт или нет, зайдите посмотрететь на иконки которые нарисовала Я :) Вот несколько примеров, нажми на ссылку и увидишь полный сет:
 
-![](/images/milena/weather-colored-liner-1.jpg)
 
-[Snowflakes-liner](https://www.iconfinder.com/iconsets/snowflakes-liner?ref=MilenaKiseleva)
 
-![](/images/milena/snowflakes-liner-2.jpg)
+<figure>
+	<img src="/images/milena/weather-colored-liner-1.jpg">
+	<figcaption>
+		<a href="https://www.iconfinder.com/iconsets/weather-colored-liner?ref=MilenaKiseleva" target="_blank">Icon Set - "Weather Colored Liner"</a>
+	</figcaption>
+</figure>
+<figure>
+	<img src="/images/milena/snowflakes-liner-2.jpg">
+	<figcaption>
+		<a href="https://www.iconfinder.com/iconsets/weather-colored-liner?ref=MilenaKiseleva" target="_blank">Icon Set - "Snowflakes-liner"</a>
+	</figcaption>
+</figure>
+<figure>
+	<img src="/images/milena/christmas-tree-ball-with-snowflakes-3.jpg">
+	<figcaption>
+		<a href="https://www.iconfinder.com/iconsets/weather-colored-liner?ref=MilenaKiseleva" target="_blank">Icon Set - "Christmas-tree-ball-with-snowflakes"</a>
+	</figcaption>
+</figure>
 
-[Christmas-tree-ball-with-snowflakes](https://www.iconfinder.com/iconsets/christmas-tree-ball-with-snowflakes?ref=MilenaKiseleva)
+<br>
 
-![](/images/milena/christmas-tree-ball-with-snowflakes-3.jpg)
+<style>
+figure {
+	float: left;
+	width: 45%;
+	text-align: center;
+	font-size: smaller;
+	text-indent: 0;
+	border: thin silver solid;
+	margin: 0.5em;
+	padding: 0.5em;
+}
+figure img {
+	width: 350px;
+}
+figure a {
+	font-size: medium;
+}
+</style>
