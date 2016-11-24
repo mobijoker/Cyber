@@ -46,14 +46,14 @@ tags:
 <figure>
 	<img src="/images/milena/snowflakes-liner-2.jpg">
 	<figcaption>
-		<a href="https://www.iconfinder.com/iconsets/weather-colored-liner?ref=MilenaKiseleva" target="_blank">Icon Set - "Snowflakes liner"</a>
+		<a href="https://www.iconfinder.com/iconsets/snowflakes-liner?ref=MilenaKiseleva" target="_blank">Icon Set - "Snowflakes liner"</a>
 	</figcaption>
 </figure>
 
 <figure>
 	<img src="/images/milena/christmas-tree-ball-with-snowflakes-3.jpg">
 	<figcaption>
-		<a href="https://www.iconfinder.com/iconsets/weather-colored-liner?ref=MilenaKiseleva" target="_blank">Icon Set - "Christmas tree ball with snowflakes"</a>
+		<a href="https://www.iconfinder.com/iconsets/christmas-tree-ball-with-snowflakes?ref=MilenaKiseleva" target="_blank">Icon Set - "Christmas tree ball with snowflakes"</a>
 	</figcaption>
 </figure>
 
