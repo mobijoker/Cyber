@@ -10,7 +10,10 @@ categories:
 tags:
   - iconfinder
   - iconfinder.com
+  - iconfinder pro
+  - iconfinder pro membership
   - иконки
+  - иконка
   - icons
   - сет иконок
   - icon set
