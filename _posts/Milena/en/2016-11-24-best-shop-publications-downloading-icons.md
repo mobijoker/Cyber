@@ -18,7 +18,7 @@ tags:
 
 ---
 
-![thumb](/images/milena/iconfinder-banner.jpg)
+![thumb](/images/milena/iconfinder-robot.jpg)
 Hello everyone! For any blog owner or web designer it's important to know where to download quality resources: fonts, images, icons and more. Since I am not just a web designer, but also an illustrator, so for my projects I draw icons by myself. But sometimes, due to lack of time, I prefer to download already made icons. Today I'll tell you about my favorite website where you can find free or premium icons for any taste and color. I'll tell you about IconFinder.com, which has the largest collection of premium icons in the world.
 
 Powerful search engine of IconFinder.com ensures that you will always find a perfect icon or icon set! You could buy the icon(s) individually or get their "IconFinder Pro" membership. Pro membership gives you access to all their icons, full commercial license, icons in AI and CSH formats, and 70% of what you pay goes directly back to the designers!
