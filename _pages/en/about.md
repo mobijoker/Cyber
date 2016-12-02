@@ -35,10 +35,12 @@ We also offer WordPress plugins and themes such as the "My Custom Functions" and
 
 **My Cyber Universe** is three year old. Here are some of our achievements during the past years:
 
-* A steady rise in traffic, reaching the **9,000+** unique visitors/month mark (Google Analytics).
-* Alexa Rank: **546,661**.
-* Around **130** published posts.
-* **300+** comments (thanks!)
+* A steady rise in traffic, reaching the **10,000+** unique visitors/month mark (Google Analytics)
+* Alexa rank: **565,379** Globally & **335,339** in Russia
+* Published posts: **130+**
+* Comments: **300+** Thanks!
+
+We update these stats every month.
 
 <br>
 
