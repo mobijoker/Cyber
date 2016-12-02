@@ -13,6 +13,9 @@ tags:
   - subscription
   - subscribe
   - email subscription
+  - rss feed
+  - rss
+  - feed
 
 ---
 

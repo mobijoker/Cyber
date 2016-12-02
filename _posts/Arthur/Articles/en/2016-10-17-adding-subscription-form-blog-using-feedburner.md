@@ -13,6 +13,9 @@ tags:
   - subscription
   - subscribe
   - email subscription
+  - rss feed
+  - rss
+  - feed
 
 ---
 
@@ -49,7 +52,7 @@ Once logged in Feedburner, it will prompt you to enter your blog's RSS feed URL 
 
 ![center](/images/adding-email-subscription-form-blog-using-feedburner/1.png)
 
-The next screen will prompt you to enter a title for your feed as well as allow you to customise the feedburner link.
+The next screen will prompt you to enter a title for your feed as well as allow you to customise the Feedburner link.
 
 ![center](/images/adding-email-subscription-form-blog-using-feedburner/2.png)
 
