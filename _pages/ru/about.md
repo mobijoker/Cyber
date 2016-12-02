@@ -33,14 +33,16 @@ img.website-logo {
 
 Мы также предлагаем WordPress плагины и темы такие как "My Custom Functions" и "Anarcho Notepad" для тех из вас кто ищет возможности улучшить их вебсайт.
 
-**My Cyber Universe** is three year old. Here are some of our achievements during the past years:
+**My Cyber Universe** уже три года и он имеет устойчивый рост трафика. Вот некоторые из наших достижений за последние годы:
 
-* A steady rise in traffic, reaching the **9,000+** unique visitors/month mark (Google Analytics).
-* Alexa rank: **565,379** Globally & **335,339** in Russia
+* Уникальных посетителей в месяц: **10,000+**
+* Просмотров страниц в месяц: **40,000+**
+* Alexa рейтинг: **565,379** Globally & **335,339** in Russia
 * Опубликованных постов: **130+**
 * Комментариев: **300+** Спасибо!
 
-Мы обновляем эти данные о статистике каждый месяц.
+Это данные статистики из отчёта за Ноябрь 2016 (получены с Google Analytics). 
+
 
 <br>
 

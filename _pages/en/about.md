@@ -33,14 +33,15 @@ At **My Cyber Universe** we specialize in web design, software and web developme
 
 We also offer WordPress plugins and themes such as the "My Custom Functions" and "Anarcho Notepad" for those of you who are looking to improve their website.
 
-**My Cyber Universe** is three year old. Here are some of our achievements during the past years:
+**My Cyber Universe** is three year old and it have steady rise in traffic. Here are some of our achievements during the past years:
 
-* A steady rise in traffic, reaching the **10,000+** unique visitors/month mark (Google Analytics)
+* Monthly unique visitors: **10,000+**
+* Monthly page views: **40,000+**
 * Alexa rank: **565,379** Globally & **335,339** in Russia
 * Published posts: **130+**
 * Comments: **300+** Thanks!
 
-We update these stats every month.
+This is latest stats from the November 2016 report (received from Google Analytics). 
 
 <br>
 
