@@ -26,7 +26,7 @@ tags:
 ---
 
 ![thumb](/images/thumbnail/woocommerce.png)
-Some of my WooCommerce clients didn’t want to show the “Additional Information” tab on the single product pages on their websites. There are 2 simple solutions: CSS one to hide this tab and PHP one to delete it completely. In this article I show you both solutions.
+Some of my WooCommerce clients didn’t want to show the “Additional Information” tab on the single product pages on their website. There are 2 simple solutions: CSS one to hide this tab and PHP one to delete it completely. In this article I show you both solutions.
 
 
 <br>
@@ -41,7 +41,7 @@ After:
 
 ## CSS solution
 
-Add the following CSS snippet to `styles.css` file of your child theme or use the [My Custom Styles](https://wordpress.org/plugins/my-custom-styles/) plugin for better and easy management of all your CSS snippets.
+Add the following CSS snippet to `style.css` file of your child theme or use the [My Custom Styles](https://wordpress.org/plugins/my-custom-styles/) plugin for better and easy management of all your CSS snippets.
 
 ```css
 // Hide the additional information tab
