@@ -41,7 +41,6 @@ After:
 
 ## CSS solution
 
-Input this code in your Custom CSS box or chiled stylesheet.
 Add the following CSS snippet to `styles.css` file of your child theme or use the [My Custom Styles](https://wordpress.org/plugins/my-custom-styles/) plugin for better and easy management of all your CSS snippets.
 
 ```css
