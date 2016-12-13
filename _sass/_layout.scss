@@ -173,16 +173,23 @@ table {
 * Read More button
 */
 .read-more {
-    background-color: #fff;
-    padding-top: 4px;
-    padding-bottom: 4px;
-    padding-left: 11px;
-    padding-right: 11px;
-    border-radius: 5px;
+    position: absolute;
+    background-color: lightblue;
+    color: black;
+    margin-top: 13px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 30px;
     -webkit-box-shadow: 0 3px 10px #838383;
     -moz-box-shadow: 0 3px 10px #838383;
     box-shadow: 0 3px 10px #838383;
     font-size: 21px;
+}
+.read-more:hover,
+.read-more:visited {
+    color: black;
 }
 
 /**
