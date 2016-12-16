@@ -1,4 +1,5 @@
 ---
+title: Terms and Conditions
 lang: ru
 ref: terms-and-conditions
 date: 2016-10-04
@@ -8,5 +9,4 @@ permalink: /ru/terms-and-conditions.html
 
 ---
 
-# Terms and Conditions
 
