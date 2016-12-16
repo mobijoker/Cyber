@@ -156,10 +156,10 @@ This plugin is translate ready. But If your language is not available you can ma
 
 <br>
 
->**Contribution**
+>**Поддержка**
 >
->Developing plugins is long and tedious work. If you benefit or enjoy this plugin please take the time to:
+>Разработка плагинов это сложная и tedious работа. Если вы получаете выгоду или просто наслаждаетесь этим плагином то, пожалуйста, выделите время на:
 >
->* [Donate](http://www.arthurgareginyan.com/donate.html) to support ongoing development. Your contribution would be greatly appreciated.
->* [Rate and Review](https://wordpress.org/support/view/plugin-reviews/all-meta-tags?rate=5#postform) this plugin.
->* [Share with me](mailto:arthurgareginyan@gmail.com) or view the [GitHub Repo](https://github.com/ArthurGareginyan/all-meta-tags) if you have any ideas or suggestions to make this plugin better.
+>* [Пожертвование](http://www.arthurgareginyan.com/donate.html) для поддержки продолжающейся разработки. Я буду благодарен вам за ваш вклад.
+>* [Поставьте оценку и оставьте отзыв](https://wordpress.org/support/view/plugin-reviews/all-meta-tags?rate=5#postform) об этом плагине.
+>* [Поделитесь со мной](mailto:arthurgareginyan@gmail.com) или посмотрите [GitHub Репозиторий](https://github.com/ArthurGareginyan/all-meta-tags) если у вас есть идеи или предложения для того, что бы сделать этот плагин лучше.
