@@ -1,4 +1,5 @@
 ---
+title: Privacy Policy
 lang: en
 ref: privacy-policy
 date: 2015-09-17
@@ -7,10 +8,6 @@ layout: page
 permalink: /privacy-policy.html
 
 ---
-
-# Privacy Policy
-
-&nbsp;
 
 We takes your privacy seriously. To better protect your privacy we provide this privacy policy notice explaining the way your personal information is collected and used.
 
