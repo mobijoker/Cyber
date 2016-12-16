@@ -108,12 +108,12 @@ Got more ideas? Tell me!
 
 ### Лицензия
 
-<img src="/images/gplv3.png" alt="gplv3" width="80" class="alignleft" style="border:none;" />This theme is open-sourced software licensed under the <a href="http://www.gnu.org/licenses/gpl-3.0.html" title="GPLv3" target="_blank">GNU General Public License, version 3 (GPLv3)</a> and is distributed free of charge.
+<img src="/images/gplv3.png" alt="gplv3" width="80" class="alignleft" style="border:none;" />Эта тема является программным обеспечением с открытым исходным кодом, лицензириованная с помощью <a href="http://www.gnu.org/licenses/gpl-3.0.html" title="GPLv3" target="_blank">GNU General Public License, версии 3 (GPLv3)</a> и распространяется бесплатно.
 
-Commercial licensing (e.g. for projects that can’t use an open-source license) is available upon request.
+Коммерческое лицензирование (например, для проектов которые не могут использовать лицензии с открытым исходным кодом) предоставляется по запросу.
 
 
-### Download
+### Скачать
 
 {% assign url = "http://wordpress.org/themes/download/anarcho-notepad.zip" %}{% include button-wordpress.html %}
 
@@ -128,7 +128,7 @@ Download "Anarcho Notepad Child Theme":
 {% assign url = "http://wordpress.org/themes/anarcho-notepad" %}{% include button-link.html %}
 
 
-#### About Child Theme
+#### О Child Theme
 
 A child theme is a theme that inherits the functionality of another theme, called the parent theme. Child themes allow you to modify, or add to the functionality of that parent theme. A child theme is the best, safest, and easiest way to modify an existing theme, whether you want to make a few tiny changes or extensive changes. Instead of modifying the theme files directly, you can create a child theme and override within.
 

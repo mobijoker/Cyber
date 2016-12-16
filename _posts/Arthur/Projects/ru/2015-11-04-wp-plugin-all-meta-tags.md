@@ -68,7 +68,8 @@ tags:
 ![thumb](/images/all-meta-tags/icon.png)
 Простой в использовании WordPress плагин дающий возможность ЛЕГКО добавлять ваши Мета Тэги в head секцию вашего вебсайта. Это необходимый инструмент для авторов и владельцев вебсайтов.
 
-<br><br>
+
+<br><br><br>
 
 ### Описание
 
@@ -85,7 +86,7 @@ Also you can use this plugin to add required meta tags such as Author, Designer,
 If you want more options then tell me and I will be happy to add it.
 
 
-### Quick-Start Guide
+### Краткая инструкция
 
 1. Upload "All Meta Tags" to the `/wp-content/plugins/` directory.
 2. Activate the plugin through the `Plugins` menu in WordPress.
@@ -94,7 +95,7 @@ If you want more options then tell me and I will be happy to add it.
 
 ### Возможности
 
-**Current features:**
+**Текущие:**
 
 * Google+ publisher link
 * Facebook publisher meta tag
@@ -141,12 +142,12 @@ This plugin is translate ready. But If your language is not available you can ma
 
 ### Лицензия
 
-<img src="/images/gplv3.png" alt="gplv3" width="80" class="alignleft" style="border:none;" />This plugin is open-sourced software licensed under the <a href="http://www.gnu.org/licenses/gpl-3.0.html" title="GPLv3" target="_blank">GNU General Public License, version 3 (GPLv3)</a> and is distributed free of charge.
+<img src="/images/gplv3.png" alt="gplv3" width="80" class="alignleft" style="border:none;" />Этот плагин является программным обеспечением с открытым исходным кодом, лицензириованный с помощью <a href="http://www.gnu.org/licenses/gpl-3.0.html" title="GPLv3" target="_blank">GNU General Public License, версии 3 (GPLv3)</a> и распространяется бесплатно.
 
-Commercial licensing (e.g. for projects that can’t use an open-source license) is available upon request.
+Коммерческое лицензирование (например, для проектов которые не могут использовать лицензии с открытым исходным кодом) предоставляется по запросу.
 
 
-### Download
+### Скачать
 
 {% assign url = "https://downloads.wordpress.org/plugin/all-meta-tags.zip" %}{% include button-wordpress.html %}
 
