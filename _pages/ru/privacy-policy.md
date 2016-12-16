@@ -1,5 +1,5 @@
 ---
-title: Privacy Policy
+title: Политика конфиденциальности
 lang: ru
 ref: privacy-policy
 order: 6
