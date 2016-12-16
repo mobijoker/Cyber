@@ -673,6 +673,9 @@ article {
         margin-bottom: $spacing-unit;
     }
 }
+.post-list li p {
+    min-height: 130px;
+}
 
 .post-meta {
     font-size: $small-font-size;
