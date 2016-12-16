@@ -4,11 +4,11 @@
         <p class="sidebar-item-title">Menu</p>
         <ul>
             {% assign pages=site.pages | where:"lang", page.lang | sort:"order" %}
-            {% for my_page in pages %}
-                {% unless my_page.exclude %}
-                    {% if my_page.title %}
+            {% for page in pages %}
+                {% unless page.exclude %}
+                    {% if page.title %}
                         <li>
-                            <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
+                            <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
                         </li>
                     {% endif %}
                 {% endunless %}

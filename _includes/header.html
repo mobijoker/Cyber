@@ -2,10 +2,12 @@
 
   <div class="wrapper">
 
+    <!-- Title and Description -->
     <a class="site-title" href="{{ site.baseurl }}/index.html">{{ site.title[page.lang] }}
         <span class="description">{{ site.description[page.lang] }}</span>
     </a>
 
+    <!-- Language Trigger -->
     <div class="lang-tirgger">
         Lang:
         {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
@@ -19,6 +21,7 @@
         {% endfor %}
     </div>
 
+    <!-- Mobile Navigation Menu -->
     <nav class="site-nav">
       <a href="#" class="menu-icon">
         <svg viewBox="0 0 18 15">
@@ -28,12 +31,13 @@
         </svg>
       </a>
 
+    <!-- Desktop Navigation Menu -->
       <div class="trigger">
         {% assign pages=site.pages | where:"lang", page.lang | sort:"order" %}
-        {% for my_page in pages %}
-            {% unless my_page.exclude_top %}
-                {% if my_page.title %}
-                    <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
+        {% for page in pages %}
+            {% unless page.exclude_top %}
+                {% if page.title %}
+                    <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
                 {% endif %}
             {% endunless %}
         {% endfor %}
