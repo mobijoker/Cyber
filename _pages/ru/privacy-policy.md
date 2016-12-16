@@ -2,6 +2,8 @@
 title: Privacy Policy
 lang: ru
 ref: privacy-policy
+order: 6
+exclude_top: true
 date: 2015-09-17
 author: Arthur Gareginyan
 layout: page
