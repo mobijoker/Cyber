@@ -34,7 +34,7 @@ An easy to use and lightweight WordPress plugin that lets you easily add RSS fee
 
 <img src="/images/rss-feed-icon-for-specificfeeds-com/banner.png" alt="WP Plugin &quot;RSS Feed Icon for SpecificFeeds.com&quot;" />
 
-[SpecificFeeds.com](http://www.specificfeeds.com) allows your visitors to receive messages from your Blog/RSS Feed by email. It's 100% free and also has several other benefits.
+The plugin is based on the service [SpecificFeeds.com](http://www.specificfeeds.com). SpecificFeeds allows your visitors to receive messages from your Blog/RSS Feed by email. You can access all information (such as emails and statistics) about your subscribers if you connect your feed to a SpecificFeeds account. It's 100% free and also has several other benefits.
 
 To use, enter your personal link from SpecificFeeds.com, choose icon and click "Save Changes". Then you can put shortcode [specificfeeds-icon] in needed place. It's that simple! If you want more options then tell me and I will be happy to add it.
 
@@ -48,10 +48,18 @@ To use, enter your personal link from SpecificFeeds.com, choose icon and click "
 
 ### Features
 
-* Shortcode for displaying the RSS feed link
+* Responsive
+* Retina support
+* Cross Browser Compatible (work smooth in any modern browser)
+* Simple shortcode for displaying the SpecificFeeds icon
 * 13 official icons from SpecificFeeds.com
+* Ability to set the size of icon
 * Ready for translation (POT file included)
 * Published on [WordPress.org](http://wordpess.org/)
+
+**Coming soon:**
+
+* Universal SpecificFeeds link (click-to-follow.me)
 
 
 ### Screenshots
