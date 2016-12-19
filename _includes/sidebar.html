@@ -8,7 +8,7 @@
                 {% unless page.exclude %}
                     {% if page.title %}
                         <li>
-                            <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+                            <a class="page-link {% if page.url == link.url %} current {% endif %}" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
                         </li>
                     {% endif %}
                 {% endunless %}
