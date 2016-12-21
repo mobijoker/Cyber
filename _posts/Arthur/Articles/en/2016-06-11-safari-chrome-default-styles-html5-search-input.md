@@ -21,7 +21,7 @@ tags:
 ---
 
 ![thumb](/images/thumbnail/search.png)
-The new HTML5 form input types save me tons of work on form validation, and they’ll assist your users in filling them (by providing more in-browser features, alternate keyboard layouts and more). It works great, but unfortunately, the Safari and Chrome browsers uses their own default stylsheet for this inputs, and so you can't style (add a CSS properties) the search input yourself. I didn’t need this in-browser style for my search input, because I want to add my own CSS properties to searc input, so after some searching, I discovered the below solution.
+The new HTML5 form input types save me tons of work on form validation, and they’ll assist your users in filling them (by providing more in-browser features, alternate keyboard layouts and more). It works great, but unfortunately, the Safari and Chrome browsers uses their own default stylsheet for this inputs, and so you can't style (add a CSS properties) the search input yourself. I didn’t need this in-browser style for my search input, because I want to add my own CSS properties to search input, so after some searching, I discovered the below solution.
 
 <br><br>
 
