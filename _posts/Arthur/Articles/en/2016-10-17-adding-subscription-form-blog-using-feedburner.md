@@ -48,7 +48,7 @@ Sign up for Feedburner using the following link: [Feedburner](http://feedburner.
 
 ## **Step 3.** Setup Feedburner
 
-Once logged in Feedburner, it will prompt you to enter your blog's RSS feed URL that you finded before.
+Once logged in Feedburner, it will prompt you to enter your blog's RSS feed URL that you found before.
 
 ![center](/images/adding-email-subscription-form-blog-using-feedburner/1.png)
 

@@ -59,7 +59,7 @@ Also you can use the another method that is more universal:
 
 Firstly you need to know your Skype username. You can find it by [this](https://support.skype.com/en/faq/FA10858/what-s-my-skype-name) Skype tutorial.
 
-Then, to create an HTML link that starts a Skype call to Skype user use the following example where you need to replace the `username` with your Skype username that you finded before.
+Then, to create an HTML link that starts a Skype call to Skype user use the following example where you need to replace the `username` with your Skype username that you found before.
 
 ```
 <a href="skype:username?call">Call Me</a>
