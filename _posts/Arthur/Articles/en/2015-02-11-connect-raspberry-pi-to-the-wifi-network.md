@@ -73,7 +73,7 @@ Now do a WiFi scan to see working it or no:
 iwlist wlan0 scan
 ```
 
-**Note:** Your Wi-Fi dongle may have a name `wlan1` instead of `wlan0`.
+> **Note:** Your Wi-Fi dongle may have a name `wlan1` instead of `wlan0`.
 
 
 ### SETUP THE WIFI NETWORK

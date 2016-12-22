@@ -25,8 +25,7 @@ We define the amount of used and free space on the disk:
 df -h
 ```
 
-**Note:**
-The parameter "h" is needed to display the data in familiar megabytes.
+> **Note:** The parameter "h" is needed to display the data in familiar megabytes.
 
 In the command output will be information about what amount of disk space on all mounted file systems, how busy and how much more freely.
 
@@ -36,8 +35,7 @@ We define the amount of used and free space on the disc:
 df -h /dev/sda1
 ```
 
-**Note:**
-The program "df" only displays information about the mounted devices and partitions.
+> **Note:** The program "df" only displays information about the mounted devices and partitions.
 
 
 ### Determination of the number and volume of the specified files and directories.
@@ -76,8 +74,7 @@ We find all the debris in the system:
 locate Trash
 ```
 
-**Note:**
-It is "Trash" and not "trash"
+> **Note:** It is "Trash" and not "trash"
 
 Empty Trash in full:
 

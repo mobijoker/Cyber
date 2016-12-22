@@ -40,6 +40,6 @@ If everything worked normally, then this notice will be displayed for only a few
 
 Fortunately the fix is fairly simple, you need to attach to your site using ftp, ssh or with the file manager in your hosting account and in the root directory (directory that contains the `wp-admin`) you will see a file called `.maintenance`, simply delete this file and your site will come back to life.
 
-**NOTE:** This file are marked as hidden, so you may need to enable show hidden files on your FTP client before you can see it. For example, on Filezilla, you can force it to show hidden files by clicking on `Server` -&gt; `Force showing hidden files` from the menu bar.
+> **Note:** This file are marked as hidden, so you may need to enable show hidden files on your FTP client before you can see it. For example, on Filezilla, you can force it to show hidden files by clicking on `Server` -&gt; `Force showing hidden files` from the menu bar.
 
 An unfinished or interrupted update may cause issues when your site comes out of maintenance mode. So, once you have deleted the `.maintenance` file, it is a good idea to re-apply the updates you were doing to make sure they have been completed correctly.

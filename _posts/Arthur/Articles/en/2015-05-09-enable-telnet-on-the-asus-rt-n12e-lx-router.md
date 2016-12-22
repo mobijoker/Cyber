@@ -60,7 +60,7 @@ http://192.168.1.1/telnetd.cgi?enable=1
 
 Now the Telnet server is enabled!
 
-**Note:** The difference between Telnet and SSH is that telnet sends data in plain text, i.e. it is not encrypted, thus it is unsafe to use Telnet via Internet: packets can be seen by anyone.
+> **Note:** The difference between Telnet and SSH is that telnet sends data in plain text, i.e. it is not encrypted, thus it is unsafe to use Telnet via Internet: packets can be seen by anyone.
 
 
 ### Telnet'ing to the router
@@ -95,7 +95,7 @@ Escape character is '^]'.
 
 Congratulations, now you in the command line of the Linux router ASUS RT-N12E/LX!
 
-**Note:** Username and password is disabled!
+> **Note:** Username and password is disabled!
 
 
 ### Disable the Telnet server on the ASUS router
@@ -110,4 +110,4 @@ After you configured your router you need to disable the Telnet protocol for saf
 http://192.168.1.1/telnetd.cgi?enable=0
 </pre>
 
-**Note:** The Telnet function is auto-disable during reboot.
+> **Note:** The Telnet function is auto-disable during reboot.

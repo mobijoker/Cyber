@@ -411,9 +411,9 @@ DEF_DEVICE_NAME="RTL8196c"
 
 And many more variables.
 
-**Note:** All variables which started with `DEF_` prefix is have a default value (original configuration). It’s enabled via pushing Reset button on the router or from the web interface of the router or via command `flash` in the terminal.
+> **Note:** All variables which started with `DEF_` prefix is have a default value (original configuration). It’s enabled via pushing Reset button on the router or from the web interface of the router or via command `flash` in the terminal.
 
-**Note:** Not everyone of the listed variables are working. Variables like a `SAMBA_ENABLED=0` is not working, because of the Samba is not installed.
+> **Note:** Not everyone of the listed variables are working. Variables like a `SAMBA_ENABLED=0` is not working, because of the Samba is not installed.
 
 To find variables with word `NAME`, use command `flash` together with the `grep`:
 
@@ -449,7 +449,7 @@ PPTPD_USERNAME=""
 Aborted
 </pre>
 
-**Note:** The names of all variables are written in top register.
+> **Note:** The names of all variables are written in top register.
 
 To show the value of a specific variable (for example, name of administrator):
 

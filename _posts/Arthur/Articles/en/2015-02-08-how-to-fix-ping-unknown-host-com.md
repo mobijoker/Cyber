@@ -62,4 +62,4 @@ And add this line instead of what ever you have:
 nameserver 8.8.8.8
 </pre>
 
-**Note:** `8.8.8.8` - is a Google DNS servers.
+> **Note:** `8.8.8.8` - is a Google DNS servers.
