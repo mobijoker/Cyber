@@ -1,7 +1,7 @@
 ---
-title: "How to fix: MailChimp Subscriber Pop-Up don't working in WordPress"
-ref: mailchimp-subscriber-popup-dont-working-in-wordpress
-permalink: /mailchimp-subscriber-popup-dont-working-in-wordpress.html
+title: "How to fix: MailChimp Subscriber Pop-Up not working in WordPress"
+ref: mailchimp-subscriber-popup-not-working-in-wordpress
+permalink: /mailchimp-subscriber-popup-not-working-in-wordpress.html
 author: Arthur Gareginyan
 lang: en
 layout: post
@@ -26,7 +26,7 @@ tags:
 
 ---
 
-![thumb](/images/articles/mailchimp-subscriber-popup-dont-working-in-wordpress/mailchimp.png)
+![thumb](/images/articles/mailchimp-subscriber-popup-not-working-in-wordpress/mailchimp.png)
 MailChimp is a great solution to add the subscription form to our websites. The only problem is that the MailChimp Subscriber Pop-Up doesn’t work on WordPress websites. I added the MailChimp Subscriber Pop-Up embed code to one of my WordPress websites, but nothing happened when I loaded any website page where the pop-up should have appeared. I searched Google and noticed that many others have the same issue in WordPress.
 
 Example of the MailChimp Subscriber Pop-Up embed code:
@@ -48,15 +48,15 @@ In order to get it work we need to add the `jquery.js` file to the root director
 
 **Step 1.** [Design your MailChimp Subscriber Pop-up](http://kb.mailchimp.com/lists/signup-forms/add-a-pop-up-signup-form-to-your-website) and copy the MailChimp Subscriber Pop-up embed code that will be offered to you.
 
-![](/images/articles/mailchimp-subscriber-popup-dont-working-in-wordpress/1.png)
+![](/images/articles/mailchimp-subscriber-popup-not-working-in-wordpress/1.png)
 
 **Step 2.** In WordPress Admin Panel install and activate the [Head and Footer Scripts Inserter](https://wordpress.org/plugins/header-and-footer-scripts-inserter/) plugin.
 
-![](/images/articles/mailchimp-subscriber-popup-dont-working-in-wordpress/2.png)
+![](/images/articles/mailchimp-subscriber-popup-not-working-in-wordpress/2.png)
 
 **Step 3.** In WordPress Admin Panel go to plugin settings page (`Settings -> Head and Footer Scripts Inserter`). Paste the code (that you got on step 2) to the bottom field of this page, and click on the `Save Changes` button.
  
-![](/images/articles/mailchimp-subscriber-popup-dont-working-in-wordpress/3.png)
+![](/images/articles/mailchimp-subscriber-popup-not-working-in-wordpress/3.png)
 
 **Step 4.** Create an empty text file with the name `jquery.js`. Open it in the text editor and paste the following code into it:
 
