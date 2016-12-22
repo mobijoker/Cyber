@@ -80,9 +80,9 @@ cd Photos
 find ./ -depth -name ".AppleDouble" -exec rm -Rf {} \;
 ```
 
-**Note:** You can perform these steps on any UNIX systems (Mac, Linux etc.). 
+> **Note:** You can perform these steps on any UNIX systems (Mac, Linux etc.). 
 
-**Note:** These steps do not prevent the Finder from creating .DS_Store files on the networked drives.
+> **Note:** These steps do not prevent the Finder from creating .DS_Store files on the networked drives.
 
 
 ### Preventing creation of .DS_Store and .AppleDouble
@@ -101,8 +101,8 @@ defaults write com.apple.desktopservices DSDontWriteNetworkStores true
 
 If you want to prevent `.DS_Store` file creation for other users, then you need to perform the steps above on each user account on each Mac.
 
-**Note:** This will affect the user’s interactions with SMB/CIFS, AFP, NFS and WebDAV servers.
+> **Note:** This will affect the user’s interactions with SMB/CIFS, AFP, NFS and WebDAV servers.
 
-**Note:** These steps do not prevent the Finder from creating `.DS_Store files` on the local volume and do not prevent previously existing `.DS_Store` files from being copied to the remote file server.
+> **Note:** These steps do not prevent the Finder from creating `.DS_Store files` on the local volume and do not prevent previously existing `.DS_Store` files from being copied to the remote file server.
 
 To stop the creation of `.AppleDouble` directories you need to edit your AFP service configuration (on a networked drive). There is usually a "No AppleDouble" or "Enable AppleDouble" configuration setting that needs to be set true (for the NO option) or set to false (for the Enable option).

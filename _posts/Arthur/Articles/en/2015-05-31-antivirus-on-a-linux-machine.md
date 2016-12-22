@@ -70,9 +70,9 @@ clamscan -r -i /home
 * **-i** - Show only infected files.
 * **/home** - Directory of scanning.
 
-**Note:** To scan the entire system (`/`) you must to run a program as root (using sudo).
+> **Note:** To scan the entire system (`/`) you must to run a program as root (using sudo).
 
-**Note:** This command will only show the infected files, but will not clean them (remove virus from file), send to quarantine or delete.
+> **Note:** This command will only show the infected files, but will not clean them (remove virus from file), send to quarantine or delete.
 
 The utility clamscan have many additional options for scanning. Example:
 
@@ -113,7 +113,7 @@ sudo nano /etc/crontab
 
 Now scanning will occur automatically every day at 3:0. A twenty minute period required to complete the freshclam (update the database).
 
-**Note:** Set any time you like and replace the string `/usr/bin/clamscan -r /` to necessary.
+> **Note:** Set any time you like and replace the string `/usr/bin/clamscan -r /` to necessary.
 
 
 ### Possible finds

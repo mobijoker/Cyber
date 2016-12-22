@@ -32,7 +32,7 @@ Then place the following code before the closing `</body>` tag in this file:
 <script id="dsq-count-scr" src="//EXAMPLE.disqus.com/count.js" async></script>
 ```
 
-**Note:** Change the `EXAMPLE` to ShortName of your Disqus forum. Your ShortName can be found on your forum's `Admin` → `Setup` → [Identity](http://disqus.com/admin/settings/) page.
+> **Note:** Change the `EXAMPLE` to ShortName of your Disqus forum. Your ShortName can be found on your forum's `Admin` → `Setup` → [Identity](http://disqus.com/admin/settings/) page.
 
 
 ## **Step 2.** Add the comment count link.
@@ -43,7 +43,7 @@ Find the place where you want to display the comment count. I chooses a section 
 <a href="URL#disqus_thread">Comments</a>
 ```
 
-**Note:** Change the `URL` to URL of your post. This will tell Disqus which links to look up so it can return the correct comment count.
+> **Note:** Change the `URL` to URL of your post. This will tell Disqus which links to look up so it can return the correct comment count.
 
 <br>
 And you're done! Now your posts will have comments counts that will update automatically, and you can style the output the same way you would style any other part of your blog's theme.

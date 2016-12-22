@@ -53,7 +53,7 @@ To create a simple contact form you just need to copy the following code and pas
 </form>
 ```
 
-**Note:** Replace `your@email.com` with your email address.
+> **Note:** Replace `your@email.com` with your email address.
 
 Go to your website and submit the form once. This will send you an email asking to confirm your email address, so that no one can start sending you spam from random websites.
 

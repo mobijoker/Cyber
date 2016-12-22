@@ -27,8 +27,7 @@ categories:
 
 Нам нужен именно терминал, по этому иксы запускать нет необходимости.
 
-**Примечание:**
-Образ DebianLiveCD мы возьмём для `i386` <a href="http://cdimage.debian.org/debian-cd/current-live/i386/iso-hybrid/" target="_blank">отсюда</a> или для `amd64` <a href="http://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/" target="_blank">отсюда</a>.
+> **Примечание:** Образ DebianLiveCD мы возьмём для `i386` <a href="http://cdimage.debian.org/debian-cd/current-live/i386/iso-hybrid/" target="_blank">отсюда</a> или для `amd64` <a href="http://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/" target="_blank">отсюда</a>.
 
 Далее все команды мы будем выполнять в консоли.
 

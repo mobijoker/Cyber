@@ -71,7 +71,7 @@ To generate an API key, do the following:
 
 You can always find all your registered applications in this place.
 
-**Note:** Multiple API keys can be generated so it is recommended to use one per application.
+> **Note:** Multiple API keys can be generated so it is recommended to use one per application.
 
-**Note:** Remember to keep the key secret - you don't want other people to use the API on your behalf!
+> **Note:** Remember to keep the key secret - you don't want other people to use the API on your behalf!
  

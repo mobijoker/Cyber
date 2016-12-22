@@ -52,8 +52,8 @@ Upgraded 'A/B/E'
 
 Now my working copy is upgraded!
 
-**Note:** The `svn upgrade` command need to do for every SVN working copy.
+> **Note:** The `svn upgrade` command need to do for every SVN working copy.
 
-**Note:** After upgrading to Subversion 1.7, you cannot go back to Subversion 1.6. And upgraded working copies will be unusable by older versions of Subversion.
+> **Note:** After upgrading to Subversion 1.7, you cannot go back to Subversion 1.6. And upgraded working copies will be unusable by older versions of Subversion.
 
-**Note:** The `svn upgrade` command may take a while, and for some users, it may be more practical to simply checkout a new working copy.
+> **Note:** The `svn upgrade` command may take a while, and for some users, it may be more practical to simply checkout a new working copy.

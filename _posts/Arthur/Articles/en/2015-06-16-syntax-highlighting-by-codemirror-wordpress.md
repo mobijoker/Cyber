@@ -156,7 +156,7 @@ And for themes with the `get_template_directory_uri()`:
 wp_enqueue_script( 'my_custom_script', get_template_directory_uri( __FILE__ ) . 'myscript.js' );
 ```
 
-**Note:** `myscript.is` - is the name of the needed file.
+> **Note:** `myscript.is` - is the name of the needed file.
 
 Depending on the purpose, you can load scripts on all pages of the website, on all pages of the Admin Panel or on a certain page.
 
@@ -199,7 +199,7 @@ function enqueue_codemirror_scripts($hook) {
 add_action( 'admin_enqueue_scripts', 'enqueue_codemirror_scripts' );
 ```
 
-**Note:** The page title can be seen in the address bar.
+> **Note:** The page title can be seen in the address bar.
 
 But if you need a page of theme then it will be a little harder.
 
@@ -235,7 +235,7 @@ All configuration of CodeMirror is made from the config file `config.js`. You mu
   });
 ```
 
-**Note:** Use the syntax JavaScript.
+> **Note:** Use the syntax JavaScript.
 
 The settings are specified as options of variable `myCodeMirror`.
 
@@ -251,7 +251,7 @@ indentUnit: 4 					// Tab size.
 The remaining options can be found on the page of the Manual:
 <a href="https://codemirror.net/doc/manual.html#config" target="_blank">https://codemirror.net/doc/manual.html#config</a>
 
-**Note:** Line with the options, except the last must end with a comma.
+> **Note:** Line with the options, except the last must end with a comma.
 
 
 ### Styles
@@ -267,7 +267,7 @@ An example of the contents of a file `customestyle.css`:
   }
 ```
 
-**Note:** Use the syntax CSS.
+> **Note:** Use the syntax CSS.
 
 
 ### Processed field

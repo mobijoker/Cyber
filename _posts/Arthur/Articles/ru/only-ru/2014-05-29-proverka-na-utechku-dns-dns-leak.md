@@ -118,8 +118,7 @@ sudo groupadd wireshark
 sudo usermod -G wireshark -a user
 ```
 
-**Примечание:**
-Впишем в место `user` своё имя юзера.
+> **Примечание:** Впишем в место `user` своё имя юзера.
 
 ```sh
 sudo chgrp wireshark /usr/bin/dumpcap

@@ -47,7 +47,7 @@ FATAL: Error inserting acpi_cpufreq ([...]/acpi-cpufreq.ko): No such device
 
 В этой ситуации, замените модуль ядра `acpi_cpufreq` на `speedstep-centrino`, `p4-clockmod` или `speedstep-ich`.
 
-**Примечание:** Учтите, что модуль `speedstep-centrino` устарел, а модуль `p4-clockmod` поддерживает только `performance` и `powersave` регуляторы.
+> **Примечание:** Учтите, что модуль `speedstep-centrino` устарел, а модуль `p4-clockmod` поддерживает только `performance` и `powersave` регуляторы.
 
 
 #### AMD

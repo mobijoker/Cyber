@@ -41,13 +41,13 @@ I'll assume this is done. In my case, I set up a user page at `arthurgareginyan.
 
 **e)** Commit and push your changes.
 
-**Note:** You can use a subdomain `www.` together with an apex domain. This is configured using the CNAME file. For example:
+> **Note:** You can use a subdomain `www.` together with an apex domain. This is configured using the CNAME file. For example:
 
 * If your CNAME file contains `example.com`, then `www.example.com` will redirect to `example.com`.
 * If your CNAME file contains `www.example.com`, then `example.com` will redirect to `www.example.com`.
 
 
-**Note:** By similar way you can add the file `robots.txt` to your GitHub page. 
+> **Note:** By similar way you can add the file `robots.txt` to your GitHub page. 
 
 
 ### Step 3. Configure the DNS in GoDaddy

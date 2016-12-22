@@ -58,7 +58,7 @@ Google icon-font:
 <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 ```
 
-**Note:** This will add the code to all subsequent pages you build in Muse using that `Master`. But you may want to add the icon-fonts only to a specific page, for this you need to open `Page Properties` of a specific page.
+> **Note:** This will add the code to all subsequent pages you build in Muse using that `Master`. But you may want to add the icon-fonts only to a specific page, for this you need to open `Page Properties` of a specific page.
 
 Close the panel and thats it. You can now start adding icons to the page.
 
@@ -104,4 +104,4 @@ Now you can make your icon look a bit better using the text controls menu. From 
 
 ![](/images/add-icon-fonts-adobe-muse-website/icon-fonts-3.png)
 
-**Note:** There will be a slight pause as Muse renders the font. Notice how the font has resized and has kept its quality as it is a vector font.
+> **Note:** There will be a slight pause as Muse renders the font. Notice how the font has resized and has kept its quality as it is a vector font.

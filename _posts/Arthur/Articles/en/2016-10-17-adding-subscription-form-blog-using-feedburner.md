@@ -77,9 +77,9 @@ If your blog based on CMS WordPress, you can use a "Text" widget in the sidebar 
 
 If you’re not using CMS WordPress, you’ll need to find the file of your theme that is responsible for display the default layout of your blog page. Depending on your website platform (WordPress, Joomla, Jekyll, and etc) this file may have the name such as `default.html`, `index.html`, or another name.
 
-**Note:** Your theme may have separate file for display the sidebar or footer. In this case, you'll need a file that may have the name such as `sidebar.html` and `footer.html`, or `sidebar.php` and `footer.php`.
+> **Note:** Your theme may have separate file for display the sidebar or footer. In this case, you'll need a file that may have the name such as `sidebar.html` and `footer.html`, or `sidebar.php` and `footer.php`.
 
-**Note:** You can modify all aspects of the form, and you can style the output the same way you would style any other part of your blog's theme.
+> **Note:** You can modify all aspects of the form, and you can style the output the same way you would style any other part of your blog's theme.
 
 
 <br>

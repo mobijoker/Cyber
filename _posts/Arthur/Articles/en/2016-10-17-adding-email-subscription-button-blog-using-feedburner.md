@@ -77,7 +77,7 @@ If your blog based on CMS WordPress, you can use a "Text" widget in the sidebar 
 
 If you’re not using CMS WordPress, you’ll need to find the file of your theme that is responsible for display the default layout of your blog page. Depending on your website platform (WordPress, Joomla, Jekyll, and etc) this file may have the name such as `default.html`, `index.html`, or another name.
 
-**Note:** Your theme may have separate file for display the sidebar or footer. In this case, you'll need a file that may have the name such as `sidebar.html` and `footer.html`, or `sidebar.php` and `footer.php`.
+> **Note:** Your theme may have separate file for display the sidebar or footer. In this case, you'll need a file that may have the name such as `sidebar.html` and `footer.html`, or `sidebar.php` and `footer.php`.
 
 
 ## **Step 5.** Customizing an email subscription button
@@ -97,11 +97,11 @@ If you put the original snippet of button code on your blog, it will look like t
 </style>
 ```
 
-**Note:** Change the `MyCyberUniverse` to name of your Feedburner feed address.
+> **Note:** Change the `MyCyberUniverse` to name of your Feedburner feed address.
 
-**Note:** Change the `src` attribute of `img` tag to address of you image.
+> **Note:** Change the `src` attribute of `img` tag to address of you image.
 
-**Note:** If the images are not showing up on your button, then you may be using relative URL for your images. Use complete URL `http://mycyberuniverse.com/images/rss-feed.png` of the image instead of a relative URL `/images/rss-feed.png`. In Jekyll this can be achieved by using `site.url` or `site.baseurl` variable.
+> **Note:** If the images are not showing up on your button, then you may be using relative URL for your images. Use complete URL `http://mycyberuniverse.com/images/rss-feed.png` of the image instead of a relative URL `/images/rss-feed.png`. In Jekyll this can be achieved by using `site.url` or `site.baseurl` variable.
 
 This is how it looks like: <a href="https://feedburner.google.com/fb/a/mailverify?uri=MyCyberUniverse&amp;loc=en_US" onclick="window.open(this.href, 'popupwindow', 'left=20,top=20,width=540,height=540,scrollbars=yes,toolbar=1,resizable=0'); return false;" class="rss-feed-button">
     <img src="/images/adding-email-subscription-button-blog-using-feedburner/rss-feed.png" />

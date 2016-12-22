@@ -63,7 +63,7 @@ Your ad code will be similar to the following one:
 </script>
 ```
 
-**Note:** This is sample code only, please don't use it on your own website.
+> **Note:** This is sample code only, please don't use it on your own website.
 
 
 ## **Step 4.** Create the template with your ad code
@@ -85,4 +85,4 @@ You just need to wait a few days and then you should recieve an ads on all pages
 
 Each month, you can have the money deposited directly into your bank account or mailed to you as a check. By the way, Google only mails you a check after you accumulate $100 worth of revenue.
 
-**Note:** To see the ads by Google AdSense running on your website, remember to temporary disable your adblocker.
+> **Note:** To see the ads by Google AdSense running on your website, remember to temporary disable your adblocker.

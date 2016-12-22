@@ -35,7 +35,7 @@ Sign up for Google Analytics using the following link: [Google Analytics](https:
 
 To generate your analytics tracking code you first need to create the account (inside your Google Analytics account) for website. You can do this on the `Admin` tab in your Analytics account.
 
-**Note:** You must to create new one accaut for every website you want to tracking.
+> **Note:** You must to create new one accaut for every website you want to tracking.
 
 ![](/images/add-googe-analytics-to-a-jekyll-website/analytics-account.png)
 
@@ -59,7 +59,7 @@ Once you are finished to create an account for website, you will click the "Get 
 </script>
 ```
 
-**Note:** This is sample code only, please don't use it on your own website.
+> **Note:** This is sample code only, please don't use it on your own website.
 
 
 ## **Step 4.** Create the template with your tracking code
@@ -77,7 +77,7 @@ Go into the `_layouts` catalog, find the `default.html` file and insert the foll
 
 This will ensure that the code snippet will be added to every page so you can keep track of your whole website.
 
-**Note:** Some themes have a separeted file with head section (`<head></head>` tags). This file can be named `head.html` and be placed in the `_includes` catalog.
+> **Note:** Some themes have a separeted file with head section (`<head></head>` tags). This file can be named `head.html` and be placed in the `_includes` catalog.
 
 
 That’s it! Once tracking is set up, Google Analytics will start collecting data immediately. After a few days, you can start reviewing the reports.

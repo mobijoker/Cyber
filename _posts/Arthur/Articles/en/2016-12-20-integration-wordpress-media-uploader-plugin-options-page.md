@@ -31,7 +31,7 @@ Sometimes I want to create a simple and intuitive graphic interface for my clien
 
 <br><br>
 
-**Note:** This tutorial is focused on uploading images to a plugin options page, so if you are not quite sure about how to create one, I recommend you first of all, have a look at the WordPress Settings API tutorials.
+> **Note:** This tutorial is focused on uploading images to a plugin options page, so if you are not quite sure about how to create one, I recommend you first of all, have a look at the WordPress Settings API tutorials.
 
 
 ## What we will do and what we will get?
@@ -54,7 +54,7 @@ As an example I use the options page of one of my plugins. Here is how the butto
 
 ![](/images/integration-wordpress-media-uploader-plugin-options-page/2.png)
 
-**Note:** You can stylize it as you want by using CSS.
+> **Note:** You can stylize it as you want by using CSS.
 
 If you click on the "Upload" button, the WordPress media uploader popup window will appear.
 
@@ -116,9 +116,9 @@ function arthur_image_uploader( $name, $width, $height ) {
 }
 ```
 
-**Note:** You can change the URL of an image that will be displayed by default (the 10th line, `$default_image` variable).
+> **Note:** You can change the URL of an image that will be displayed by default (the 10th line, `$default_image` variable).
 
-**Note:** Change the name of setting to your own (the 9th and 30th line, `RssFeedIcon_settings `). In this example I use setting in wich I save the array instead of just one value.
+> **Note:** Change the name of setting to your own (the 9th and 30th line, `RssFeedIcon_settings `). In this example I use setting in wich I save the array instead of just one value.
 
 Place this function in the main PHP file of your plugin. Then only remains to use it on the plugin options page. Just call this function with some values from inside the form:
 
@@ -126,7 +126,7 @@ Place this function in the main PHP file of your plugin. Then only remains to us
 arthur_image_uploader( 'custom_image', $width = 115, $height = 115 );
 ```
 
-**Note:** `custom_icon` - Is a name of your option that will be saved in the MySQL database.
+> **Note:** `custom_icon` - Is a name of your option that will be saved in the MySQL database.
 
 
 
@@ -160,7 +160,7 @@ $('.remove_image_button').click(function() {
 });
 ```
 
-**Note:** If your plugin do not have the JavaScript file, create an empty `admin.js` file in your plugin folder and enqueue it into your plugin options page by using `wp_enqueue_script()` from the main PHP file of your plugin. Then place the above jQuery code in this JavaScript file.
+> **Note:** If your plugin do not have the JavaScript file, create an empty `admin.js` file in your plugin folder and enqueue it into your plugin options page by using `wp_enqueue_script()` from the main PHP file of your plugin. Then place the above jQuery code in this JavaScript file.
 
 
 That’s it. Now we can use the WordPress Media Uploader in our plugin options page.

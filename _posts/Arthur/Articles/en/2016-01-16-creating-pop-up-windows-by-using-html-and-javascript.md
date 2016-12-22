@@ -122,9 +122,9 @@ For else cases you can use one of the following hyperlinks (both are the same):
 <a href="javascript:popUpWindow('http://www.your-site.com','Example','700','600')">CLICK TO OPEN POP-UP</a>
 ```
 
-**Note:** Replace the `http://www.your-site.com` with your link to page. Replace the `Example` with name of the window (`_blank`, `_parent`, `_self`, `_top`, name). Replace the '700' and '600' with needed size of the pop-up window. 
+> **Note:** Replace the `http://www.your-site.com` with your link to page. Replace the `Example` with name of the window (`_blank`, `_parent`, `_self`, `_top`, name). Replace the '700' and '600' with needed size of the pop-up window. 
 
-**Note:** This function doesn't work on a dual monitor setup.
+> **Note:** This function doesn't work on a dual monitor setup.
 
 
 ### Demo

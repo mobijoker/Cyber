@@ -40,7 +40,7 @@ Now step by step:
 
 **5.** Commit your changes and, if you're working on a local clone of your repository, push them up to GitHub.
 
-**Note:** If you want your Project Pages website to have a custom 404 page, you must use a custom domain.
+> **Note:** If you want your Project Pages website to have a custom 404 page, you must use a custom domain.
 
 
 ### Content of the 404 page
