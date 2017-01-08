@@ -43,7 +43,7 @@ Inspired by the idea of anarchy, I designed this free premium WordPress theme fo
 
 >This theme is used simultaneously by more than 3.000 people worldwide!
 
-<br><br>
+<br>
 
 
 ### Features
@@ -131,12 +131,12 @@ Or you can go to the dedicated theme page "Anarcho Notepad" at WordPress.org:
 {% assign url = "http://wordpress.org/themes/anarcho-notepad" %}{% include button-link.html %}
 
 
+
+### Child Theme
+
 A child theme is a theme that inherits the functionality of another theme, called the parent theme. Child themes allow you to modify, or add to the functionality of that parent theme. A child theme is the best, safest, and easiest way to modify an existing theme, whether you want to make a few tiny changes or extensive changes. Instead of modifying the theme files directly, you can create a child theme and override within.
 
-
-### Why use a Child Theme?
-
-Here are a few reasons:
+Why use a Child Theme? Here are a few reasons:
 
 * If you modify an existing theme and it is updated, your changes will be lost. With a child theme, you can update the parent theme (which might be important for security or functionality) and still keep your changes.
 * It can speed up development time.
@@ -150,10 +150,14 @@ You can read more about child theme on <a href="http://codex.wordpress.org/Child
 Did you enjoy this theme? Please donate to support ongoing development:
 {% include button-paypal.html %}
 
-If you have any questions or suggestions for improving and adding new features, feel free to contact me at support at:
-{% assign url = "http://wordpress.org/support/theme/anarcho-notepad" %}{% include button-link.html %}
 
-If you liked the theme "Anarcho Notepad, then I'll be glad if you would appreciate "Anarcho Notepad" or leave feedback on the site WordPress.org:
-{% assign url = "http://wordpress.org/support/view/theme-reviews/anarcho-notepad" %}{% include button-link.html %}
+### PREMIUM VERSION
 
-If you notice any problems by using this theme, please notify me and I will investigate and fix the issues. Ideally your request should contain: URL of the website (if your website is public), PHP version, WordPress version and all the steps in order to replicate the issue (if you are able to reproduce it somehow).
+I am pleased to inform you that now available two premium versions of this theme, the "Authors Notepad" and "Simple Notepad". Both are optimized for mobile devices (**responsive / mobile friendly**).
+
+The "<a href="https://gum.co/SDkDb" target="_blank">Authors Notepad</a>" theme has the same design, but much improved. Also it have a new cool features, such as an options in customizer for change the labels (text and font): "Search", "Pages", "What is this place", "Friends & Links" and "Recent Posts”. 
+
+The "<a href="https://gum.co/simple-notepad" target="_blank">Simple Notepad</a>" theme has the same design, but on one column (without sidebar).
+
+You can find them at <a href="https://www.arthurgareginyan.com/store.html" target="_blank">www.arthurgareginyan.com/store.html</a>.
+
