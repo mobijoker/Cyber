@@ -98,16 +98,7 @@ The theme is in the process of translation into other languages of the world. Al
 
 ### Credits
 
-In the theme "Anarcho Notepad" is used several images from theme “<a href="http://www.notepadchaos.com/" target="_blank" rel="nofollow">Notepad Chaos  v2.0</a>” by <a href="http://www.evaneckard.com/" target="_blank" rel="nofollow">Evan Eckard</a>.
-
-A list of these images:
-
-1. notepad-middle.png
-2. yellow-sticker-middle
-3. yellow-sticker-bottom
-4. white-sticker-top
-5. white-sticker-middle
-6. white-sticker-bottom
+In the theme "Anarcho Notepad" is used several images from theme “<a href="http://www.notepadchaos.com/" target="_blank" rel="nofollow">Notepad Chaos  v2.0</a>” by <a href="http://www.evaneckard.com/" target="_blank" rel="nofollow">Evan Eckard</a>. A list of these images: notepad-middle.png, yellow-sticker-middle, yellow-sticker-bottom, white-sticker-top, white-sticker-middle, white-sticker-bottom.
 
 
 ### License
