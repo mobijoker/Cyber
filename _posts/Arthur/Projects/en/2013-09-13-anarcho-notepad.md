@@ -39,9 +39,12 @@ tags:
 ---
 
 ![WP Theme Anarcho Notepad](/images/anarcho-notepad/big_screenshot.png)
-Inspired by the idea of anarchy, I designed this free premium WordPress theme for your personal blogs and diaries. This theme is perfect for writers and artists. "Anarcho Notepad" can be easily customized. It has been translated to different languages. It utilizes latest HTML-5, CSS-3, PHP and WordPress native functions for creating the awesomeness that looks good on every browser. I’m constantly adding new features to this theme to allow you to personalize it to your own needs. I'm glad to present you the most anarchist WP-theme Of All! Enjoy!
+Inspired by the idea of anarchy, I designed this free premium WordPress theme for your personal blogs and diaries. This theme is perfect for writers and artists. "Anarcho Notepad" can be easily customised and already translated to different languages. It utilises latest HTML-5, CSS-3, PHP and WordPress native functions for creating the awesomeness that looks good on every browser. I’m constantly adding new features to this theme to allow you to personalise it to your own needs. If you want a new feature or just want to be able to change something just ask me and I would be happy to add it. I'm glad to present you the most anarchist WP-theme Of All! Enjoy!
+
+>This theme is used simultaneously by more than 3.000 people worldwide!
 
 <br><br>
+
 
 ### Features
 
@@ -62,7 +65,6 @@ Inspired by the idea of anarchy, I designed this free premium WordPress theme fo
    * Custom text of copyright below posts
    * Custom text of copyright in footer
    * Custom header image
-   * Custom logo together or instead of the title of website
    * Custom background
    * Custom menu
    * Ready for translation (Translated to 12 languages)
@@ -91,7 +93,7 @@ The theme is in the process of translation into other languages of the world. Al
 * **Danish** (translated by **Chano Klinck Andersen**)
 * **French** (translated by **Rolland Dudemaine**)
 
-Thanks to all who helped me translate "Anarcho Notepad" into other languages! Thank you very much for your contribution!
+>Thanks to all who helped me translate "Anarcho Notepad" into other languages! Thank you very much for your contribution!
 
 
 ### Credits
@@ -100,12 +102,12 @@ In the theme "Anarcho Notepad" is used several images from theme “<a href="htt
 
 A list of these images:
 
-1. notepad-back.gif,
-2. pages-back.gif,
-3. pages-bottom.gif,
-4. postit-back.gif,
-5. postit-upper.gif,
-6. recent-posts-bottom.gif
+1. notepad-middle.png
+2. yellow-sticker-middle
+3. yellow-sticker-bottom
+4. white-sticker-top
+5. white-sticker-middle
+6. white-sticker-bottom
 
 
 ### License
