@@ -64,7 +64,6 @@ tags:
    * Произвольный текст копирайта в конце постов
    * Произвольный текст копирайта в футере
    * Произвольная картинка хидера
-   * Произвольный логотип совместно/вместо заголовка сайта
    * Произвольный фон
    * Произвольное меню
    * Готово к переводу (переведено на 12 языков)
@@ -79,19 +78,19 @@ tags:
 
 Тема находится в процессе перевода на разные языки мира. Уже поддерживается 12 языков! Если у вас есть желание то вы можете помочь мне в переводе на ваш родной язык. Просто отправьте файлы перевода (*.po, *.mo) мне на адрес arthurgareginyan@gmail.com. Я интегрирую перевод в одно из следующих обновлений. Многие пользователи темы были бы рады если бы вы поделились переводом с сообществом.
 
-Тема "Anarcho Notepad" изначально написана на **English** и уже переведена на:
+"Anarcho Notepad" написан на **English** и уже переведён на:
 
-* **Русский** (translated by **Arthur Gareginyan**)
-* **Українська** (translated by **Svetlana Drotyanko**)
-* **Slovenčina** (translated by **Martin Petrus**)
-* **Afrikaans** (translated by **MadriVictor**)
-* **Español** (translated by **Ivan Ratinoff Fortea**)
-* **Polski** (translated by **Krzysztof Goral**)
-* **German** (translated by **Alexander v. Falkenhausen**)
-* **Estonian** (translated by **Taavi Tiitsmaa**)
-* **Catalan** (translated by **Néstor Malet**)
-* **Danish** (translated by **Chano Klinck Andersen**)
-* **French** (translated by **Rolland Dudemaine**)
+* **Русский** (перевод **Arthur Gareginyan**)
+* **Українська** (перевод **Svetlana Drotyanko**)
+* **Slovenčina** (перевод **Martin Petrus**)
+* **Afrikaans** (перевод **MadriVictor**)
+* **Español** (перевод **Ivan Ratinoff Fortea**)
+* **Polski** (перевод **Krzysztof Goral**)
+* **German** (перевод **Alexander v. Falkenhausen**)
+* **Estonian** (перевод **Taavi Tiitsmaa**)
+* **Catalan** (перевод **Néstor Malet**)
+* **Danish** (перевод **Chano Klinck Andersen**)
+* **French** (перевод **Rolland Dudemaine**)
 
 >Спасибо всем тем кто помогал мне перевести тему "Anarcho Notepad" на другие языки! Спасибо за ваш вклад!
 

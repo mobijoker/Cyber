@@ -38,14 +38,12 @@ tags:
 ![WP Theme Authors Notepad](/images/projects/authors-notepad/preview.png)
 Inspired by the idea of anarchy, I designed this premium WordPress theme for your personal blogs and diaries. This theme is perfect for writers and artists. "Authors Notepad" can be easily customized and already translated to different languages. It utilizes latest HTML-5, CSS-3, PHP and WordPress native functions for creating the awesomeness that looks good on every browser. I’m constantly adding new features to this theme to allow you to personalize it to your own needs. If you want a new feature or just want to be able to change something just ask me and I would be happy to add it. I'm glad to present you this premium theme. Enjoy!
 
->This free version of this theme is used simultaneously by more than 3.000 people worldwide!
+>The free version of this theme is used simultaneously by more than 3.000 people worldwide!
 
 <br>
 
 
 ### Features
-
-**Current features:**
 
 * Responsive & Mobile optimized design
 * Cross browser compatible (work smooth in any modern browser)
@@ -96,7 +94,7 @@ The theme is in the process of translation into other languages of the world. Al
 
 ### Credits
 
-The theme “Authors Notepad” is based on another my template which named “Anarcho Notepad”.
+The “Authors Notepad” theme is based on another my template which named “Anarcho Notepad”.
 
 
 ### License
