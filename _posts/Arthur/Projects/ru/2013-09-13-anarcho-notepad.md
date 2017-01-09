@@ -110,6 +110,8 @@ tags:
 
 ### Скачать
 
+Скачать "Anarcho Notepad":
+
 {% assign url = "http://wordpress.org/themes/download/anarcho-notepad.zip" %}{% include button-wordpress.html %}
 
 {% assign url = "https://github.com/ArthurGareginyan/anarcho-notepad" %}{% include button-github.html %}

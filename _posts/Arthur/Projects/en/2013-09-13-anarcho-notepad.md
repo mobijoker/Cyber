@@ -109,6 +109,8 @@ Commercial licensing (e.g. for projects that can’t use an open-source license)
 
 ### Download
 
+Download "Anarcho Notepad":
+
 {% assign url = "http://wordpress.org/themes/download/anarcho-notepad.zip" %}{% include button-wordpress.html %}
 
 {% assign url = "https://github.com/ArthurGareginyan/anarcho-notepad" %}{% include button-github.html %}
