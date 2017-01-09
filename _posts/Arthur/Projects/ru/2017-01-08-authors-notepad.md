@@ -36,7 +36,7 @@ tags:
 ---
 
 ![WP Theme Authors Notepad](/images/projects/authors-notepad/preview.png)
-Inspired by the idea of anarchy, I designed this premium WordPress theme for your personal blogs and diaries. This theme is perfect for writers and artists. "Authors Notepad" can be easily customized and already translated to different languages. It utilizes latest HTML-5, CSS-3, PHP and WordPress native functions for creating the awesomeness that looks good on every browser. I’m constantly adding new features to this theme to allow you to personalize it to your own needs. If you want a new feature or just want to be able to change something just ask me and I would be happy to add it. I'm glad to present you this premium theme. Enjoy!
+Вдохновлённый идеей анархии, я разработал эту премиум WordPress тему для ваших личных блогов и дневников. Она идеально подойдёт писателям и художникам. "Authors Notepad" можно легко настроить и уже переведена на разные языки. Она использует последние HTML-5, CSS-3, PHP и встроенные функции WordPress для создания удивительного сайта, который выглядит хорошо в любом браузере. Я постоянно добавляю новые возможности к этой теме, что-бы вы могли настроить её под себя. If you want a new feature or just want to be able to change something just ask me and I would be happy to add it. Я рад представить вам эту премиум тему. Наслаждайтесь!
 
 >Бесплатная версия этой темы используется одновременно более чем 3.000 людей по всему миру!
 
@@ -47,14 +47,14 @@ Inspired by the idea of anarchy, I designed this premium WordPress theme for you
 
 * Responsive & Mobile optimized дизайн
 * Cross browser compatible (work smooth in any modern browser)
-* RTL compatible (right to left)
+* RTL compatible (справа налево)
 * Готово к переводу (переведено на 12 языков)
 * Hand-coded, no WYSIWYG stuff
 * HTML5 Inside
 * CSS3 Inside
 * Легко настроить - Theme Customizer
 * Customize using "Google Web Fonts"
-* Built-in iconic font "Font Awesome"
+* Встроенный iconic font "Font Awesome"
 * Widget ready (in sidebar and footer)
 * Встроенная Пагинация
 * Встроенная Навигационная цепочка
@@ -66,7 +66,7 @@ Inspired by the idea of anarchy, I designed this premium WordPress theme for you
 * Произвольная картинка хидера
 * Произвольный фон
 * Произвольное меню
-* And many more...
+* И многое другое...
  
 Наслаждайтесь!
 
@@ -94,14 +94,14 @@ Inspired by the idea of anarchy, I designed this premium WordPress theme for you
 
 ### Credits
 
-The theme “Authors Notepad” is based on another my template which named “Anarcho Notepad”.
+Тема “Authors Notepad” основана на другой моей теме которая называется “Anarcho Notepad”.
 
 
 ### Лицензия
 
-<img src="/images/gplv3.png" alt="gplv3" width="80" class="alignleft" style="border:none;" />All PHP code, and PDF/POT/PO/MO files is released under the [GNU General Public License version 3 (GPLv3)](http://www.gnu.org/licenses/gpl-3.0.html).
+<img src="/images/gplv3.png" alt="gplv3" width="80" class="alignleft" style="border:none;" />Весь PHP код и PDF/POT/PO/MO файлы выпущены под лицензией [GNU General Public License version 3 (GPLv3)](http://www.gnu.org/licenses/gpl-3.0.html).
 
-All HTML/CSS/JAVASCRIPT code, and PNG files is released under the restrictive proprietary license.
+Весь HTML/CSS/JAVASCRIPT код и PNG файлы выпущены под the restrictive proprietary лицензией.
 
 
 ### Скачать
