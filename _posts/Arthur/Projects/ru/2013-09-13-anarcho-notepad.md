@@ -38,8 +38,10 @@ tags:
   - шаблон
 
 ---
-![WP Theme Anarcho Notepad](/images/anarcho-notepad/big_screenshot.png)
+![WP Theme Anarcho Notepad](/images/projects/anarcho-notepad/preview.png)
 Вдохновлённый идеей анархии, я разработал эту бесплатную премиум WordPress тему для ваших личных блогов и дневников. Она идеально подойдёт писателям и художникам. "Anarcho Notepad" (Анархо Блокнот) можно легко настроить. Она использует последние HTML-5, CSS-3, PHP и встроенные функции WordPress для создания удивительного сайта, который выглядит хорошо в любом браузере. Я постоянно добавляю новые возможности к этой теме, что-бы вы могли настроить её под себя. Я рад представить вам самую анархистскую WP-тему из Всех! Наслаждайтесь!
+
+>Эта тема используется одновременно более чем 3.000 людей по всему миру!
 
 <br>
 
@@ -91,21 +93,12 @@ tags:
 * **Danish** (translated by **Chano Klinck Andersen**)
 * **French** (translated by **Rolland Dudemaine**)
 
-Спасибо всем тем кто помогал мне перевести тему "Anarcho Notepad" на другие языки! Спасибо за ваш вклад!
+>Спасибо всем тем кто помогал мне перевести тему "Anarcho Notepad" на другие языки! Спасибо за ваш вклад!
 
 
 ### Credits
 
-В теме "Anarcho Notepad" использованы несколько изображений из темы “<a href="http://www.notepadchaos.com/" target="_blank" rel="nofollow">Notepad Chaos  v2.0</a>” от <a href="http://www.evaneckard.com/" target="_blank" rel="nofollow">Evan Eckard</a>.
-
-Список этих изображений:
-
-1. notepad-back.gif,
-2. pages-back.gif,
-3. pages-bottom.gif,
-4. postit-back.gif,
-5. postit-upper.gif,
-6. recent-posts-bottom.gif
+В теме "Anarcho Notepad" использованы несколько изображений из темы “<a href="http://www.notepadchaos.com/" target="_blank" rel="nofollow">Notepad Chaos  v2.0</a>” от <a href="http://www.evaneckard.com/" target="_blank" rel="nofollow">Evan Eckard</a>. Список этих изображений: notepad-middle.png, yellow-sticker-middle, yellow-sticker-bottom, white-sticker-top, white-sticker-middle, white-sticker-bottom.
 
 
 ### Лицензия
@@ -122,40 +115,40 @@ tags:
 {% assign url = "https://github.com/ArthurGareginyan/anarcho-notepad" %}{% include button-github.html %}
 
 Скачать "Anarcho Notepad Child Theme":
+
 {% assign url = "http://goo.gl/6EdlVj" %}{% include button-download.html %}
 
 Перейти на страницу темы "Anarcho Notepad" на сайте WordPress.org:
-
-
 {% assign url = "http://wordpress.org/themes/anarcho-notepad" %}{% include button-link.html %}
 
 
-#### О Child Theme
+
+### О Child теме
 
 A child theme is a theme that inherits the functionality of another theme, called the parent theme. Child themes allow you to modify, or add to the functionality of that parent theme. A child theme is the best, safest, and easiest way to modify an existing theme, whether you want to make a few tiny changes or extensive changes. Instead of modifying the theme files directly, you can create a child theme and override within.
 
-
-#### Почему нужно исплдьзовать Child Theme?
-
-Вот несколько причин:
+Почему нужно исплдьзовать Child тему? Вот несколько причин:
 
 * If you modify an existing theme and it is updated, your changes will be lost. With a child theme, you can update the parent theme (which might be important for security or functionality) and still keep your changes.
 * It can speed up development time.
 * It’s a great way to get started if you are just learning WordPress theme development.
 
-Вы можете прочитать больше о child theme в <a href="http://codex.wordpress.org/Child_Themes" target="_blank" rel="nofollow">Codex</a>
+Вы можете прочитать больше о child теме в <a href="http://codex.wordpress.org/Child_Themes" target="_blank" rel="nofollow">Codex</a>
 
 
 ### Поддержка
 
 Вам понравилась эта тема? Пожалуйста, сделайте пожертвоание для поддержки дальнейшей разработки:
-
 {% include button-paypal.html %}
 
-Если у вас есть идеи или предложения для того, что бы сделать эту тему лучше и добавить новые возможности, то свяжитесь со мной на странице поддержки:
-{% assign url = "http://wordpress.org/support/theme/anarcho-notepad" %}{% include button-link.html %}
 
-Если вам нравится тема "Anarcho Notepad, то Я буду рад если вы оставите отзыв о "Anarcho Notepad" на веб-сайте wordpress.org:
-{% assign url = "http://wordpress.org/support/view/theme-reviews/anarcho-notepad" %}{% include button-link.html %}
+### ПРЕМИУМ ВЕРСИИ
 
-Если вы при использовании этой темы обнаружили какую-либо проблему,  то пожалуйста сообщите об этом мне и Я это расследую и устраню проблему. В идеале ваш запрос должен содержать: URL вашего веб-сайта (если ваш веб-сайт публично доступен), PHP версию, WordPress версию и все необходимые шаги для того, чтобы повторить ошибку (если вы можете её как-либо повторить).
+Я рад сообщить вам о том, что теперь доступны для скачивания две премиум версии этой темы, "Authors Notepad" и "Simple Notepad". Обе темы оптимизированы под мобильные устройства (**responsive / mobile friendly**).
+
+Тема "<a href="https://gum.co/SDkDb" target="_blank">Authors Notepad</a>" имеет схожий дизайн, но на много улучшенный. Ещё она имеет новые возможности такие, как опции в настройщике для изменения заголовков (текст и шрифт): "Search", "Pages", "What is this place", "Friends & Links" и "Recent Posts”. 
+
+Тема "<a href="https://gum.co/simple-notepad" target="_blank">Simple Notepad</a>" имеет схожий дизайн, но на одной колонке (без боковой панели).
+
+Вы можете найти их на <a href="https://www.arthurgareginyan.com/store.html" target="_blank">www.arthurgareginyan.com/store.html</a>.
+
