@@ -36,7 +36,7 @@ tags:
 ---
 
 ![WP Theme Authors Notepad](/images/projects/authors-notepad/preview.png)
-Inspired by the idea of anarchy, I designed this premium WordPress theme for your personal blogs and diaries. This theme is perfect for writers and artists. "Authors Notepad" can be easily customized and already translated to different languages. It utilizes latest HTML-5, CSS-3, PHP and WordPress native functions for creating the awesomeness that looks good on every browser. I’m constantly adding new features to this theme to allow you to personalize it to your own needs. If you want a new feature or just want to be able to change something just ask me and I would be happy to add it. I'm glad to present you this premium theme. Enjoy!
+Inspired by the idea of anarchy, I designed this premium WordPress theme for your personal blogs and diaries. This theme is perfect for writers and artists. "Author's Notepad" can be easily customized and already translated to different languages. It utilizes latest HTML-5, CSS-3, PHP and WordPress native functions for creating the awesomeness that looks good on every browser. I’m constantly adding new features to this theme to allow you to personalize it to your own needs. If you want a new feature or just want to be able to change something just ask me and I would be happy to add it. I'm glad to present you this premium theme. Enjoy!
 
 >The free version of this theme is used simultaneously by more than 3.000 people worldwide!
 
@@ -75,7 +75,7 @@ Enjoy!
 
 The theme is in the process of translation into other languages of the world. Already supports 12 languages! If you have the desire then you can help me in translation to your native language. Just send the translation files (*.po, *.mo) to me at the arthurgareginyan@gmail.com and I will include the translation within the one of the next theme update. Many of theme users would be delighted if you shared your translation with the community.
 
-"Authors Notepad" written on **English** and translated into:
+"Author's Notepad" written on **English** and translated into:
 
 * **Русский** (translated by **Arthur Gareginyan**)
 * **Українська** (translated by **Svetlana Drotyanko**)
@@ -89,12 +89,12 @@ The theme is in the process of translation into other languages of the world. Al
 * **Danish** (translated by **Chano Klinck Andersen**)
 * **French** (translated by **Rolland Dudemaine**)
 
->Thanks to all who helped me translate "Authors Notepad" into other languages! Thank you very much for your contribution!
+>Thanks to all who helped me translate "Author's Notepad" into other languages! Thank you very much for your contribution!
 
 
 ### Credits
 
-The “Authors Notepad” theme is based on another my template which named “Anarcho Notepad”.
+The “Author's Notepad” theme is based on another my template which named “Anarcho Notepad”.
 
 
 ### License
