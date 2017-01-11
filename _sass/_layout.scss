@@ -192,16 +192,25 @@ table {
     margin-right: 10px;
 
 
-    .site-nav li {
-        line-height: 1.2em;
-    }
-    .site-nav a,
-    .site-nav a:visited {
-        padding-left: 0;
-        color: #494949;
-    }
-    .site-nav a:hover {
-        color: #979797;
+    .site-nav {
+
+        ul {
+            margin-bottom: 10px;
+        }
+        li {
+            line-height: 1.2em;
+        }
+        li:not(:last-child) {
+            padding-bottom: 3px;
+        }
+        a,
+          a:visited {
+            padding-left: 0;
+            color: #494949;
+        }
+        a:hover {
+            color: #979797;
+        }
     }
 }
 @include media-query($on-laptop) {
