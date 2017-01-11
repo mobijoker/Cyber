@@ -76,35 +76,6 @@ img[alt=thumb] {
     float: left;
 }
 
-/**
- * Language trigger
- */
-.en:lang(en),
-.ru:lang(ru) {
-    font-weight: bold;
-}
-
-.lang-tirgger {
-    color: orange;
-    background-color: #424242;
-    margin-top: -5px;
-    float: right;
-    border: 1px solid orange;
-    border-top: 0;
-    display: inline-block;
-    padding: 0px 5px 0px 5px;
-    border-radius: 0px 0px 5px 5px;
-
-    a+a::before {
-        content: ", ";
-    }
-}
-
-.site-title {
-    font-family: Adobe Gothic Std;
-    line-height: 45px !important;
-}
-
 .footer-nav-list {
     line-height: 20px;
 
@@ -119,17 +90,6 @@ img[alt=thumb] {
 span.post-meta {
     margin-top: -10px;
     position: absolute;
-}
-
-/**
- * Website Title and Description
- */
-.description {
-    display: block;
-    font-size: 20px;
-    text-align: right;
-    margin-top: -10px;
-    margin-right: -50px;
 }
 
 li>h2 {
@@ -460,22 +420,86 @@ article {
     position: relative;
 
     .wrapper {
+        height: 80px;
         padding-top: 0;
+        padding-bottom: 30px;
     }
 }
 
 .site-title {
+    position: absolute;
+    z-index: 1;
+    margin-left: 45px;
     font-family: 'Trajan Pro', 'Cinzel';
     font-size: 36px;
-    font-weight: 300;
-    line-height: 56px;
+    line-height: 40px;
     letter-spacing: -1px;
-    margin-bottom: 0;
-    float: left;
     -webkit-transition: all 0.25s;
     -moz-transition: all 0.25s;
     -o-transition: all 0.25s;
     transition: all 0.25s;
+}
+
+.site-description {
+    display: block;
+    font-size: 20px;
+    text-align: right;
+    margin-top: -10px;
+    margin-right: -50px;
+}
+
+.site-logo {
+    position: absolute;
+    z-index: 1;
+    margin-top: 30px;
+    height: 70px;
+
+    @include media-query($on-laptop) {
+        display: none;
+    }
+
+}
+
+/**
+* Language trigger
+*/
+.lang-tirgger {
+    position: absolute;
+    right: 10px;
+    color: orange;
+    background-color: #424242;
+    margin-top: -5px;
+    float: right;
+    border: 1px solid orange;
+    border-top: 0;
+    display: inline-block;
+    padding: 0px 5px 0px 5px;
+    border-radius: 0px 0px 5px 5px;
+
+    a+a::before {
+        content: ", ";
+    }
+
+    .en:lang(en),
+    .ru:lang(ru) {
+        font-weight: bold;
+    }
+
+}
+
+.site-header {
+
+    .site-nav {
+        position: absolute;
+        z-index: 1;
+        right: 10px;
+        top: 55px;
+
+        .page-link {
+            border-bottom: 1px solid orange;
+        }
+    }
+
 }
 
 .site-nav {
@@ -517,6 +541,12 @@ article {
         &:not(:last-child) {
             margin-right: 20px;
         }
+
+        @include media-query($on-palm) {
+            border: none;
+            border-bottom: 0;
+        }
+
     }
 
     @include media-query($on-palm) {

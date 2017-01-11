@@ -2,9 +2,19 @@
 
   <div class="wrapper">
 
+    <!-- Logo -->
+    <img
+        class="site-logo"
+        src="{{ site.baseurl }}/images/website-design/earth.png"
+        height=""
+        width=""
+        alt="{{ site.title[page.lang] }}"
+    />
+
     <!-- Title and Description -->
-    <a class="site-title" href="{{ site.baseurl }}/index.html">{{ site.title[page.lang] }}
-        <span class="description">{{ site.description[page.lang] }}</span>
+    <a class="site-title" href="{{ site.baseurl }}/index.html">
+        {{ site.title[page.lang] }}
+        <span class="site-description">{{ site.description[page.lang] }}</span>
     </a>
 
     <!-- Language Trigger -->
