@@ -200,7 +200,7 @@ table {
 }
 .sidebar-item-title {
     font-family: 'Trajan Pro', 'Cinzel';
-    border-bottom: 1px solid lightgrey;
+    border-bottom: 1px solid #e9e8e4;
     padding-bottom: 5px;
     margin-top: -5px;
     color: #fc0;
@@ -413,6 +413,7 @@ article {
  */
 .site-header {
     border-top: 5px solid $grey-color-dark;
+    border-bottom: 2px solid #424242;
     min-height: 56px;
     background-color: #212121;
 
@@ -429,6 +430,7 @@ article {
 .site-title {
     position: absolute;
     z-index: 1;
+    margin-top: 15px;
     margin-left: 45px;
     font-family: 'Trajan Pro', 'Cinzel';
     font-size: 36px;
@@ -480,6 +482,11 @@ article {
         content: ", ";
     }
 
+    .en,
+    .ru {
+        text-transform: uppercase;
+    }
+
     .en:lang(en),
     .ru:lang(ru) {
         font-weight: bold;
@@ -496,7 +503,7 @@ article {
         top: 55px;
 
         .page-link {
-            border-bottom: 1px solid orange;
+            border-bottom: 1px solid rgb(40, 142, 255);
         }
     }
 
