@@ -22,7 +22,7 @@ h3 {
  * Add line mreak before H2 and H3 tags
  */
 article .post {
-    
+
     > h3, h4 {
         white-space: pre;
 
@@ -215,6 +215,7 @@ table {
     padding: 20px;
     margin-bottom: 20px;
     background-color: #fff;
+    border: 1px solid #e7e7e6;
     -webkit-box-shadow: 0 3px 10px rgb(131, 131, 131);
     -moz-box-shadow: 0 3px 10px rgb(131, 131, 131);
     box-shadow: 0 3px 10px rgb(131, 131, 131);
@@ -429,6 +430,7 @@ article a:visited {
 */
 article {
     background-color: #fff;
+    border: 1px solid #e7e7e6;
     margin: 0 10px;
     -webkit-box-shadow: 0 3px 10px rgb(131, 131, 131);
     -moz-box-shadow: 0 3px 10px rgb(131, 131, 131);
@@ -661,6 +663,7 @@ article {
     list-style: none;
 
     > li {
+        border: 1px solid #e7e7e6;
         margin-bottom: $spacing-unit;
     }
 }
