@@ -32,7 +32,9 @@
         </ul>
     </div>
 
-    {% include custom-advertisement.html %}
-    {% include adsense-sidebar.html %}
+    {% unless page.remove_ad %}
+        {% include custom-advertisement.html %}
+        {% include adsense-sidebar.html %}
+    {% endunless %}
 
 </aside>

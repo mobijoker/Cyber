@@ -8,6 +8,7 @@ date: 2015-09-17
 author: Arthur Gareginyan
 layout: page
 permalink: /privacy-policy.html
+remove_ad: true
 
 ---
 

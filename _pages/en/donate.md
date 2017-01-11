@@ -7,6 +7,7 @@ date: 2015-09-15
 author: Arthur Gareginyan
 layout: page
 permalink: /donate.html
+remove_ad: true
 
 ---
 

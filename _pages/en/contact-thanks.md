@@ -5,6 +5,7 @@ date: 2016-02-25
 author: Arthur Gareginyan
 layout: page
 permalink: /contact-thanks.html
+remove_ad: true
 
 ---
 

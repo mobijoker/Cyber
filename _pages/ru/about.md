@@ -8,6 +8,7 @@ author: Arthur Gareginyan
 layout: page
 permalink: /ru/about.html
 redirect_from: /ru/author.html
+remove_ad: true
 
 ---
 

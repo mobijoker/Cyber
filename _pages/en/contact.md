@@ -8,6 +8,7 @@ author: Arthur Gareginyan
 layout: page
 permalink: /contact.html
 redirect_from: /contacts.html
+remove_ad: true
 
 ---
 
