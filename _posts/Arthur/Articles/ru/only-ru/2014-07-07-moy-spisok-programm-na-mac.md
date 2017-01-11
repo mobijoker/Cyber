@@ -28,7 +28,8 @@ tags:
 ОБНОВЛЕНО: 11.01.2017
 <br>
 
-#### Бесплатные:
+
+## Бесплатные:
 
 * **DiffMerge** ([www.sourcegear.com/diffmerge/](http://www.sourcegear.com/diffmerge/)) - Сравнение файлов и директорий.
 * **Wunderlist** (App Store) - Планировщик задач.
@@ -52,7 +53,7 @@ tags:
 * **SketchUp** ([www.sketchup.com](http://www.sketchup.com)) - 3D редактор.
 
 
-### Платные:
+## Платные:
 
 * **Final Cut Pro** (App Store) - Видео-редактор.
 * **Compressor** (App Store) - Инструмент для сжатия видео.
