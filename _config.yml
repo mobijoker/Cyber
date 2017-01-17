@@ -61,6 +61,8 @@ social:
         - https://profiles.wordpress.org/arthur-gareginyan/
         - https://www.behance.net/ArthurGareginyan
 
+
+
 email: arthurgareginyan@gmail.com
 
 
@@ -68,6 +70,9 @@ email: arthurgareginyan@gmail.com
 include: ['_pages']
 exclude: [vendor]
 
+
+
+##### Enabled plugins
 gems:
     - jemoji
     - jekyll-redirect-from
