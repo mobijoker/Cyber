@@ -1,26 +1,27 @@
-# Site settings
+##### WEBSITE SETTINGS #####
 
+
+##### Website Title, Tagline and Description
 title: My Cyber Universe
 tagline: Back to the future!
 description: At My Cyber Universe we specialize in web design, software and web development, but you’ll also see us contributing tutorials, news and opinion pieces from time to time. Main goal is to be the source for anyone who wants to learn the web design, software and web development.
 
-# the base hostname & protocol for your website
+
+
+##### The base hostname & protocol for the website
 url: "http://mycyberuniverse.com"
 
-# the subpath of your site, e.g. /blog
+##### The subpath of the website, e.g. /blog
 baseurl: ""
 
 
-#markdown: kramdown
-#kramdown:
-#    input: GFM
-#    syntax_highlighter: rouge
-#    syntax_highlighter_opts:
-#        disable: true
+
+##### Syntax Highlighter
 highlighter: rouge
 
 
-# Pages (in EN and RU languages)
+
+##### Pages (in EN and RU languages)
 index:
     en: index.html
     ru: _pages/ru/index.html
@@ -43,11 +44,12 @@ feed:
     en: feed.xml
     ru: feed.xml
 
-# For the jekyll-seo-tag
+
+
+##### Data for the jekyll-seo-tag plugin
 logo: /images/MCU-logo.png
 twitter:
     username: AGareginyan
-
 social:
     name: Arthur Gareginyan
     links:
@@ -60,6 +62,7 @@ social:
         - https://www.behance.net/ArthurGareginyan
 
 email: arthurgareginyan@gmail.com
+
 
 
 include: ['_pages']
