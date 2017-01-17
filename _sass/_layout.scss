@@ -726,7 +726,7 @@ article {
     display: block;
     font-family: "Droid Serif", serif;
     font-weight: 500;
-    font-size: 100%;
+    font-size: 40px;
     color: #333 !important;
 }
 
@@ -750,9 +750,10 @@ a:hover {
 }
 
 .post-title {
-    font-size: 32px;
-    letter-spacing: -1px;
-    line-height: 1;
+    font-family: "Droid Serif", serif;
+    font-weight: 500;
+    font-size: 40px;
+    color: #333 !important;
 
     @include media-query($on-laptop) {
         font-size: 36px;
