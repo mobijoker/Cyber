@@ -28,9 +28,9 @@ index:
 archive:
     en: _pages/en/archive.html
     ru: _pages/ru/archive.html
-author:
-    en: _pages/en/author.html
-    ru: _pages/ru/author.html
+about:
+    en: _pages/en/about.html
+    ru: _pages/ru/about.html
 contact:
     en: _pages/en/contact.html
     ru: _pages/ru/contact.html
