@@ -15,13 +15,8 @@ layout: default
 
   <div class="post-content" itemprop="articleBody">
     {{ content }}
-    
-    {% if page.author == "Arthur Gareginyan" %}
-        {% include about-arthur.html %}
-    {% endif %}
-    {% if page.author == "Milena Kiseleva" %}
-        {% include about-milena.html %}
-    {% endif %}
+
+    {% include about-author.html %}
   </div>
 
 </article>

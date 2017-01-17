@@ -1,12 +1,20 @@
 <br>
+
+{% assign author = site.authors[page.author] %}
+
 <div id="author-area">
-    <a href="//milenakiseleva.github.io" class="author-link">
-        <img src="/images/avatar/milena.jpg" alt="Milena Kiseleva" class="author-avatar">
+    <a href="{{ author.web }}" class="author-link">
+        <img src="{{ author.photo }}" alt="{{ author.full_name }}" class="author-avatar">
     </a>
+    <div class="flattr-button">
+        {% if page.author == "Arthur Gareginyan" %}
+            {% include flattr-button.html %}
+        {% endif %}
+    </div>
     <div class="author-info">
-        <h3 class="author-title">Milena Kiseleva</h3>
-        <p class="author-bio">Milena is a web designer and illustrator. She spends her time translating our articles and wrote her own articles. Her personal website can be found at <a href="//milenakiseleva.github.io">milenakiseleva.github.io</a>.</p>
-        <span class="author-follow">Follow Milena: {% include social-media-buttons-milena.html %}</span>
+        <h3 class="author-title">{{ author.full_name }}</h3>
+        <p class="author-bio">{{ author.bio }}</p>
+        <span class="author-follow">Follow {{ author.name }}: {% include social-media-buttons-{{ author.name }}.html %}</span>
     </div>
 </div>
 
@@ -27,6 +35,10 @@
         border: 1px solid #ddd;
         width: 100px;
         height: 100px;
+    }
+    #author-area .flattr-button {
+        position: absolute;
+        margin-top: 125px;
     }
     .author-info {
         padding-left: 120px;
