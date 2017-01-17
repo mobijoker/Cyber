@@ -4,7 +4,7 @@ title: My Cyber Universe
 tagline: Back to the future!
 description: At My Cyber Universe we specialize in web design, software and web development, but you’ll also see us contributing tutorials, news and opinion pieces from time to time. Main goal is to be the source for anyone who wants to learn the web design, software and web development.
 
-# the base hostname & protocol for your site
+# the base hostname & protocol for your website
 url: "http://mycyberuniverse.com"
 
 # the subpath of your site, e.g. /blog
@@ -20,6 +20,7 @@ baseurl: ""
 highlighter: rouge
 
 
+# Pages (in EN and RU languages)
 index:
     en: index.html
     ru: _pages/ru/index.html
@@ -42,9 +43,24 @@ feed:
     en: feed.xml
     ru: feed.xml
 
+# For the jekyll-seo-tag
+logo: /images/MCU-logo.png
+twitter:
+    username: AGareginyan
+
+social:
+    name: Arthur Gareginyan
+    links:
+        - https://www.facebook.com/arthur.gareginyan
+        - https://twitter.com/AGareginyan
+        - https://www.instagram.com/arthur_gareginyan/
+        - https://www.linkedin.com/in/arthurgareginyan
+        - https://github.com/ArthurGareginyan
+        - https://profiles.wordpress.org/arthur-gareginyan/
+        - https://www.behance.net/ArthurGareginyan
+
 email: arthurgareginyan@gmail.com
-twitter_username: AGareginyan
-github_username:  ArthurGareginyan
+
 
 include: ['_pages']
 exclude: [vendor]
