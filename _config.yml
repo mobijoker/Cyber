@@ -7,8 +7,11 @@ description:
   en: Back to the future!
   ru: Вернуться в будущее!
 
-url: "http://mycyberuniverse.com" # the base hostname & protocol for your site
-baseurl: "" # the subpath of your site, e.g. /blog
+# the base hostname & protocol for your site
+url: "http://mycyberuniverse.com"
+
+# the subpath of your site, e.g. /blog
+baseurl: ""
 
 
 #markdown: kramdown
@@ -54,3 +57,4 @@ gems:
     - jekyll-redirect-from
     - jekyll-sitemap
     - jekyll-feed
+    - jekyll-seo-tag
