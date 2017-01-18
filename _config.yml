@@ -50,6 +50,10 @@ feed:
 logo: /images/MCU-logo.png
 twitter:
     username: AGareginyan
+facebook:
+    app_id:
+    publisher: 
+    admins:
 social:
     name: Arthur Gareginyan
     links:
