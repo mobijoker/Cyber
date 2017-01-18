@@ -22,7 +22,7 @@ Most blog owners that uses the Disqus comments system want to display the commen
 <br>
 ![center](/images/adding-comment-count-to-blog-with-disqus/disqus-comment-count.png)
 
-## **Step 1.** Add the Disqus comment count script
+## Step 1. Add the Disqus comment count script
 
 Find the file of your theme that is responsible for display the Home page of your blog. Depending on your website platform (WordPress, Joomla, Jekyll, and etc) this file may have the name such as `home.php`, `index.html`, `default.html`, or another name.
 
@@ -35,7 +35,7 @@ Then place the following code before the closing `</body>` tag in this file:
 > **Note:** Change the `EXAMPLE` to ShortName of your Disqus forum. Your ShortName can be found on your forum's `Admin` → `Setup` → [Identity](http://disqus.com/admin/settings/) page.
 
 
-## **Step 2.** Add the comment count link
+## Step 2. Add the comment count link
 
 Find the place where you want to display the comment count. I chooses a section of post meta-information (section with the date and name of the author). Then place the following code to this place:
 
