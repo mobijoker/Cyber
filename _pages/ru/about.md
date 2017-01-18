@@ -12,7 +12,7 @@ remove_ad: true
 
 ---
 
-<img src="/images/MCU-logo.png" alt="My Cyber Universe" width="200" class="website-logo" />
+<img src="/images/WEBSITE/website-logo.png" alt="My Cyber Universe" width="200" class="website-logo" />
 <style>
 img.website-logo {
 	float: left;
