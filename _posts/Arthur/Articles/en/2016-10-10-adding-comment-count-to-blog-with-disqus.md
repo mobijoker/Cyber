@@ -35,7 +35,7 @@ Then place the following code before the closing `</body>` tag in this file:
 > **Note:** Change the `EXAMPLE` to ShortName of your Disqus forum. Your ShortName can be found on your forum's `Admin` → `Setup` → [Identity](http://disqus.com/admin/settings/) page.
 
 
-## **Step 2.** Add the comment count link.
+## **Step 2.** Add the comment count link
 
 Find the place where you want to display the comment count. I chooses a section of post meta-information (section with the date and name of the author). Then place the following code to this place:
 
