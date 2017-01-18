@@ -7,14 +7,14 @@
         <img src="{{ author.photo }}" alt="{{ author.full_name }}" class="author-avatar">
     </a>
     <div class="flattr-button">
-        {% if page.author == "Arthur Gareginyan" %}
+        {% if author.name == "Arthur" %}
             {% include flattr-button.html %}
         {% endif %}
     </div>
     <div class="author-info">
         <h3 class="author-title">{{ author.full_name }}</h3>
         <p class="author-bio">{{ author.bio }}</p>
-        <span class="author-follow">Follow {{ author.name }}: {% include social-media-buttons-{{ author.slug }}.html %}</span>
+        <span class="author-follow">Follow {{ author.name }}: {% include social-media-buttons-authors.html %}</span>
     </div>
 </div>
 
