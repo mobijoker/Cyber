@@ -119,7 +119,7 @@ In the social media share bar I have used an icons of social media and email fro
 
 If your theme doesn't have a Font-Awesome library icluded then add the following code to the head section (right before the `</head>` tag) of your theme (it maybe a `head.html` file in the `_includes` catalog), or add it to the begining of the `share-bar.html` file that you maked in the first step of this tutorial:
 
-```
+```html
 <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
 ```
 
