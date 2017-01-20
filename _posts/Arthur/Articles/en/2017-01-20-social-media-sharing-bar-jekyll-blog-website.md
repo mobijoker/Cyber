@@ -256,7 +256,7 @@ In my website theme I added this short code right after the `{% raw %}{{ content
 
 ## **Step 5.** Add the Open Graph, Twitter Card Tags and Schema.org microdata
 
-Finally, you may want to add some Open Graph, Twitter Card Tags and Schema.org microdata to your blog pages, this will create that pretty share dialog and turn on the share tracking/analytics. You can read about the Open Graph [here](http://ogp.me/), about the Twitter Card Tags [here](https://dev.twitter.com/cards/markup) and about the Schema.org microdata [here](https://developers.google.com/+/web/snippet/).
+Finally, you may want to add some Open Graph, Twitter Card Tags and Schema.org microdata to your blog pages, this will create that pretty share dialog and turn on the share tracking/analytics. You can test/validate this microdata [heare](https://developers.facebook.com/tools/debug/sharing) and [heare](https://cards-dev.twitter.com/validator). Read about the Open Graph you can [here](http://ogp.me/), about the Twitter Card Tags [here](https://dev.twitter.com/cards/markup) and about the Schema.org microdata [here](https://developers.google.com/+/web/snippet/).
 
 And you’re done! 
 
