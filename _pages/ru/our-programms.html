@@ -11,8 +11,6 @@ redirect_from: /ru/my-work.html
 
 <div class="home">
 
-    <h1 class="page-heading"></h1>
-
     <ul class="post-list">
         {% assign posts=site.categories.our-programms | where:"lang", page.lang %}
         {% for post in posts %}
@@ -28,3 +26,18 @@ redirect_from: /ru/my-work.html
     </ul>
 
 </div>
+
+
+<style>
+    /**
+     * Additional styles for the Home page
+     */
+    .wrapper .home {
+        background-color: transparent !important;
+        border: none !important;
+        -webkit-box-shadow: none !important;
+        -moz-box-shadow: none !important;
+        box-shadow: none !important;
+        padding-top: 0 !important;
+    }
+</style>
