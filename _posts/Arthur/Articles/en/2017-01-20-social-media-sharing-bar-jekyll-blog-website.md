@@ -54,7 +54,7 @@ First of all, you’ll need to create a new HTML file inside the `_includes` cat
 <br>
 <div id="share-bar">
 
-   <h4>Share this:</h4>
+	<h4>Share this:</h4>
 
 	<div class="share-buttons">
 	    <a  href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ site.baseurl }}{{ page.url }}"
