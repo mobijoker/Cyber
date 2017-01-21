@@ -18,7 +18,7 @@ h3 {
     text-align: center;
 }
 
-/**
+/*
  * Add line mreak before H2 and H3 tags
  */
 article .post {
@@ -33,7 +33,20 @@ article .post {
     }
 }
 
-/**
+/*
+ * Tags
+ */
+.post-tags {
+    font-size: 14px;
+    color: #ffffff;
+
+    span+span::before {
+        content: ", ";
+    }
+
+}
+
+/*
  * Images
  */
 img {
@@ -56,7 +69,7 @@ article img {
     background-color: gray;
 }
 
-/**
+/*
  * Reset the width and height of images (temporary)
  */
 .size-large {
@@ -84,7 +97,7 @@ img[alt=thumb] {
     }
 }
 
-/**
+/*
  * Changing the position of date
  */
 p.post-meta {
@@ -101,7 +114,7 @@ h3 {
     padding-top: 25px;
 }
 
-/**
+/*
  * HTML Tabple
  */
 table {
@@ -120,9 +133,9 @@ table {
     }
 }
 
-/**
-* Read More button
-*/
+/*
+ * Read More button
+ */
 .read-more {
     position: absolute;
     background-color: #eaebe3;
@@ -143,9 +156,9 @@ table {
     color: black;
 }
 
-/**
-* Comments section
-*/
+/*
+ * Comments section
+ */
 #sidebar {
     float: right;
     width: 230px;
@@ -237,7 +250,7 @@ table {
     }
 }
 
-/**
+/*
  * Comments section
  */
 .post-comments {
@@ -252,7 +265,7 @@ table {
     padding: 30px 30px 30px 30px;
     font-size: 21px;
 }
-/**
+/*
  * Figure, Code and Pre HTML tags
  */
 code.highlighter-rouge {
@@ -327,7 +340,7 @@ code {
     
 }
 
-/**
+/*
  * Links
  */
 a,
@@ -345,9 +358,9 @@ article a:visited {
     color: #ff850b;
 }
 
-/**
-* Wrapper
-*/
+/*
+ * Wrapper
+ */
 .wrapper {
     max-width: 1170px;
     margin-right: auto;
@@ -394,9 +407,9 @@ article a:visited {
     }
 }
 
-/**
-* Content Area
-*/
+/*
+ * Content Area
+ */
 article {
     background-color: #fff;
     border: 1px solid #e7e7e6;
@@ -408,7 +421,7 @@ article {
     font-size: 21px;
 }
 
-/**
+/*
  * Site header
  */
 .site-header {
@@ -462,9 +475,9 @@ article {
 
 }
 
-/**
-* Language trigger
-*/
+/*
+ * Language trigger
+ */
 .lang-tirgger {
     position: absolute;
     right: 10px;
@@ -611,7 +624,7 @@ article {
 
 
 
-/**
+/*
  * Site footer
  */
 .site-footer {
@@ -701,7 +714,7 @@ article {
 
 
 
-/**
+/*
  * Page content
  */
 .page-heading {
@@ -736,7 +749,7 @@ article {
 
 
 
-/**
+/*
  * Posts
  */
 a {
@@ -801,7 +814,9 @@ ul.post-list li {
     font-size: 21px;
 }
 
-/* Button */
+/*
+ * Button
+ */
 .sc-btn {
     display: inline-block;
     position: relative;
