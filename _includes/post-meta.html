@@ -1,7 +1,32 @@
-<span class="post-meta">
-    <i class="fa fa-clock-o"></i> {{ post.date | date: "%B %-d, %Y" }}
-    {% if post.author %} &nbsp; <i class="fa fa-user"></i> {{ post.author }} {% endif %}
-    &nbsp; <i class="fa fa-comment"></i> <a href="{{ post.url | prepend: site.baseurl }}#disqus_thread">Comments</a>
-    {% if post.translator %} &nbsp; <b>Translator:</b> {{ post.translator }} {% endif %}
-</span>
-</br>
+<p class="post-meta">
+
+    <i class="fa fa-clock-o"></i>
+    <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%B %-d, %Y" }}</time>
+
+    {% if page.author %}
+        {% assign author = site.data.authors[page.author] %}
+        &nbsp;
+        <i class="fa fa-user"></i>
+        <span itemscope itemtype="http://schema.org/Person">
+            <span itemprop="author">
+                <a href="//{{ author.web }}" target="_blank">{{ author.full_name }}</a>
+            </span>
+        </span>
+    {% endif %}
+
+    {% if page.translator %}
+        {% assign translator = site.data.authors[page.translator] %}
+        &nbsp;
+        <b>Translator:</b>
+        <span itemscope itemtype="http://schema.org/Person">
+            <span itemprop="translator">
+                <a href="//{{ translator.web }}" target="_blank">{{ translator.full_name }}</a>
+            </span>
+        </span>
+    {% endif %}
+
+    &nbsp;
+    <i class="fa fa-comment"></i>
+    <a href="{{ page.url | prepend: site.baseurl }}#disqus_thread">Comments</a>
+
+</p>

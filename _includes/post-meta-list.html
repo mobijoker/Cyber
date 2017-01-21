@@ -1,0 +1,19 @@
+<span class="post-meta">
+
+    <i class="fa fa-clock-o"></i> {{ post.date | date: "%B %-d, %Y" }}
+
+    {% if post.author %}
+        &nbsp;
+        <i class="fa fa-user"></i> {{ post.author }}
+    {% endif %}
+
+    {% if post.translator %}
+        &nbsp; <b>Translator:</b> {{ post.translator }}
+    {% endif %}
+        
+    &nbsp;
+    <i class="fa fa-comment"></i>
+    <a href="{{ post.url | prepend: site.baseurl }}#disqus_thread">Comments</a>
+
+</span>
+</br>
