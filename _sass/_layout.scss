@@ -491,7 +491,6 @@ article {
     .ru:lang(ru) {
         font-weight: bold;
     }
-
 }
 
 .site-header {
@@ -554,6 +553,10 @@ article {
             border-bottom: 0;
         }
 
+    }
+
+    .page-link.active {
+        background-color: rgba(192, 239, 255, 0.2);
     }
 
     @include media-query($on-palm) {
