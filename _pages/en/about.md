@@ -39,7 +39,7 @@ We also offer WordPress plugins and themes such as the [My Custom Functions PRO]
 * Monthly unique visitors: **10,000+**
 * Monthly page views: **40,000+**
 * Alexa rank: **565,379** Globally & **335,339** in Russia
-* Published posts: **130+**
+* Published posts: **160+**
 * Comments: **300+** Thanks!
 
 This is latest stats from the November 2016 report (received from Google Analytics). 
