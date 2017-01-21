@@ -26,6 +26,10 @@
     {% endif %}
 
     &nbsp;
+    <i class="fa fa-folder-open"></i>
+    {{ page.categories[0] }}
+
+    &nbsp;
     <i class="fa fa-comment"></i>
     <a href="{{ page.url | prepend: site.baseurl }}#disqus_thread">Comments</a>
 

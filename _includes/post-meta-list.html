@@ -15,7 +15,11 @@
         <b>Translator:</b>
             <a href="//{{ translator.web }}" target="_blank">{{ post.translator }}</a>
     {% endif %}
-        
+
+    &nbsp;
+    <i class="fa fa-folder-open"></i>
+    {{ post.categories[0] }}
+
     &nbsp;
     <i class="fa fa-comment"></i>
     <a href="{{ post.url | prepend: site.baseurl }}#disqus_thread">Comments</a>
