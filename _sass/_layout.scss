@@ -87,9 +87,9 @@ img[alt=thumb] {
 /**
  * Changing the position of date
  */
-span.post-meta {
+p.post-meta {
     margin-top: -10px;
-    position: absolute;
+    min-height: 0 !important;
 }
 
 li>h2 {

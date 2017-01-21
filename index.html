@@ -14,8 +14,9 @@ ref: index
             <h2>
                 <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
             </h2>
+
             {% include post-meta-list.html %}
-            </br>
+
             {{ post.excerpt }}
             <a href="{{ post.url }}" class="read-more">Read more...</a>
         </li>

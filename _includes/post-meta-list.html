@@ -1,19 +1,23 @@
-<span class="post-meta">
+<p class="post-meta">
 
     <i class="fa fa-clock-o"></i> {{ post.date | date: "%B %-d, %Y" }}
 
     {% if post.author %}
+        {% assign author = site.data.authors[post.author] %}
         &nbsp;
-        <i class="fa fa-user"></i> {{ post.author }}
+        <i class="fa fa-user"></i>
+        <a href="//{{ author.web }}" target="_blank">{{ post.author }}</a>
     {% endif %}
 
     {% if post.translator %}
-        &nbsp; <b>Translator:</b> {{ post.translator }}
+        {% assign translator = site.data.authors[post.translator] %}
+        &nbsp;
+        <b>Translator:</b>
+            <a href="//{{ translator.web }}" target="_blank">{{ post.translator }}</a>
     {% endif %}
         
     &nbsp;
     <i class="fa fa-comment"></i>
     <a href="{{ post.url | prepend: site.baseurl }}#disqus_thread">Comments</a>
 
-</span>
-</br>
+</p>
