@@ -21,14 +21,18 @@ permalink: /ru/archive.html
 
 <section class="archive-post-list">
 	{% for post in posts %}
-		{% assign currentDate = post.date | date: "%Y" %}
-		{% if currentDate != myDate %}
+		{% assign currentYear = post.date | date: "%Y" %}
+		{% if currentYear != newYear %}
 			{% unless forloop.first %}</ul>{% endunless %}
-			<h1>{{ currentDate }}</h1>
+			<h1>{{ currentYear }}</h1>
 			<ul>
-				{% assign myDate = currentDate %}
+			{% assign newYear = currentYear %}
 		{% endif %}
-       <li><time>{{ post.date | date:"%d %b" }}</time> - <a href="{{ post.url }}">{{ post.title }}</a></li>
+       <li>
+       	<time>{{ post.date | date:"%d %b" }}</time>
+       	&middot;
+       	<a href="{{ post.url }}">{{ post.title }}</a>
+       </li>
        {% if forloop.last %}</ul>{% endif %}
 	{% endfor %}
 </section>
