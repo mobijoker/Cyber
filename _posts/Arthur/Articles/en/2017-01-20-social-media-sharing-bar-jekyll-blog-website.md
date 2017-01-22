@@ -236,7 +236,7 @@ You can style your share bar the same way you would style any other part of your
 Now you have to hook up the share bar widget anywhere in your theme where you’d like to display the share bar. To display it at the end of each post just copy the following short code to your post layout file which will be inside the `_layouts` catalog and are named `post.html`.
 
 ```
-{% raw %}{% include  share-bar.html %}{% endraw %}
+{% raw %}{% include share-bar.html %}{% endraw %}
 ```
 
 > **Note:** This short code is just includes the contents of the `share-bar.html` file into this place.
@@ -248,7 +248,7 @@ In my website theme I added this short code right after the `{% raw %}{{ content
 ```html
 {% raw %}<div class="post-content" itemprop="articleBody">
 	{{ content }}
-	{% include  share-bar.html %}
+	{% include share-bar.html %}
 </div>{% endraw %}
 ```
 
