@@ -28,7 +28,11 @@ Total number of articles: {{ counter }}
 			<ul>
 				{% assign myDate = currentDate %}
 		{% endif %}
-       <li><time>{{ post.date | date:"%d %b" }}</time> - <a href="{{ post.url }}">{{ post.title }}</a></li>
+       <li>
+       	<time>{{ post.date | date:"%d %b" }}</time>
+       	&middot;
+       	<a href="{{ post.url }}">{{ post.title }}</a>
+       </li>
        {% if forloop.last %}</ul>{% endif %}
 	{% endfor %}
 </section>

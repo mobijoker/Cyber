@@ -51,6 +51,15 @@ article .post {
  */
 .archive-post-list li {
     list-style: none;
+    line-height: 30px;
+}
+.archive-post-list li time {
+    display: inline-block;
+    width: 80px;
+}
+.archive-post-list li a {
+    display: inline-block;
+    padding-left: 15px;
 }
 
 /*
