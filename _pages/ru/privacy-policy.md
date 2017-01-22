@@ -47,3 +47,4 @@ The security of your personal information is important to us, but remember that 
 ### Contact Information
 
 For any questions or concerns regarding the privacy policy, please send us an email to arthurgareginyan@gmail.com.
+
