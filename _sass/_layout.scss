@@ -384,21 +384,22 @@ article a:visited {
     padding: 30px;
     @extend %clearfix;
 
-    .home,
     .post {
-        float: left;
         width: -webkit-calc(100% - 330px );
         width:         calc(100% - 330px );
     }
 
     .home {
-        background-color: #fff;
         margin: 0 10px;
-        -webkit-box-shadow: 0 3px 10px rgb(131, 131, 131);
-        -moz-box-shadow: 0 3px 10px rgb(131, 131, 131);
-        box-shadow: 0 3px 10px rgb(131, 131, 131);
-        padding: 30px 30px 30px 30px;
-        font-size: 21px;
+        padding: 0;
+        width: -webkit-calc(100% - 270px );
+        width:         calc(100% - 270px );
+        max-width: 900px;
+        background-color: transparent;
+        border: none;
+        -webkit-box-shadow: none;
+        -moz-box-shadow: none;
+        box-shadow: none;
     }
 }
 @include media-query($on-laptop) {
@@ -433,7 +434,7 @@ article {
     -webkit-box-shadow: 0 3px 10px rgb(131, 131, 131);
     -moz-box-shadow: 0 3px 10px rgb(131, 131, 131);
     box-shadow: 0 3px 10px rgb(131, 131, 131);
-    padding: 30px 30px 30px 30px;
+    padding: 30px;
     font-size: 21px;
 }
 
@@ -827,7 +828,7 @@ a:hover {
 
 ul.post-list li {
     background-color: #fff;
-    padding: 40px;
+    padding: 30px;
     -webkit-box-shadow: 0 3px 10px rgb(131, 131, 131);
     -moz-box-shadow: 0 3px 10px rgb(131, 131, 131);
     box-shadow: 0 3px 10px rgb(131, 131, 131);
