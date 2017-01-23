@@ -21,6 +21,7 @@
     </a>
 
     <!-- Language Trigger -->
+    <div class="lang-trigger">
         {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
         {% for post in posts %}
             <a href="{{ post.url }}" class="{{ post.lang }}">{{ post.lang }}</a>
