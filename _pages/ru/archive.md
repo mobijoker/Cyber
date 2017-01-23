@@ -24,7 +24,9 @@ permalink: /ru/archive.html
 		{% assign currentYear = post.date | date: "%Y" %}
 		{% if currentYear != newYear %}
 			{% unless forloop.first %}</ul>{% endunless %}
-			<h1>{{ currentYear }}</h1>
+			<a name="{{ currentYear }}" class="year">
+				<h1>{{ currentYear }}</h1>
+			</a>
 			<ul>
 			{% assign newYear = currentYear %}
 		{% endif %}

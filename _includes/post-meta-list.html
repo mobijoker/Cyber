@@ -1,6 +1,7 @@
 <p class="post-meta">
 
-    <i class="fa fa-clock-o"></i> {{ post.date | date: "%B %-d, %Y" }}
+    <i class="fa fa-clock-o"></i>
+    <a href="/archive.html#{{ post.date | date: "%Y" }}">{{ post.date | date: "%B %-d, %Y" }}</a>
 
     {% if post.author %}
         {% assign author = site.data.authors[post.author] %}

@@ -1,7 +1,9 @@
 <p class="post-meta">
 
     <i class="fa fa-clock-o"></i>
-    <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%B %-d, %Y" }}</time>
+    <a href="/archive.html#{{ page.date | date: "%Y" }}">
+        <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%B %-d, %Y" }}</time>
+    </a>
 
     {% if page.author %}
         {% assign author = site.data.authors[page.author] %}
