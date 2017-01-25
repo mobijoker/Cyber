@@ -51,7 +51,6 @@ First of all, you’ll need to create a new HTML file inside the `_includes` cat
 
 ```html
 {% raw %}
-<br>
 <div id="share-bar">
 
 	<h4>Share this:</h4>
