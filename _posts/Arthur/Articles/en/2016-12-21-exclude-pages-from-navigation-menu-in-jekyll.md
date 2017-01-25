@@ -49,7 +49,7 @@ exclude: true
 
 Find your main navigation menu template (by default, this is in `_includes/header.html` file). You need the loop code that locks like this (this is boilerplate Jekyll):
 
-```
+```html
 {% raw %}{% for page in site.pages %}
 	<a class="page-link" href="{{ page.url | prepend: site.baseurl }}">
 		{{ page.title }}
@@ -60,7 +60,7 @@ Find your main navigation menu template (by default, this is in `_includes/heade
 Now just add an unless clause around the `a` tag in order to get this:
 
 
-```
+```html
 {% raw %}{% for page in site.pages %}
 	{% unless page.exclude %}
 		<a class="page-link" href="{{ page.url | prepend: site.baseurl }}">

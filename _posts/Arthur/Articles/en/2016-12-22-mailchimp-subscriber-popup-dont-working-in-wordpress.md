@@ -31,7 +31,7 @@ MailChimp is a great solution to add the subscription form to our websites. The 
 
 Example of the MailChimp Subscriber Pop-Up embed code:
 
-```
+```html
 <script type="text/javascript" src="//s3.amazonaws.com/downloads.mailchimp.com/js/signup-forms/popup/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script>
 <script type="text/javascript">require(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us14.list-manage.com","uuid":"xxxxxxxxxxxxxxxxxxxxxxxxxx","lid":"xxxxxxxxxxx"}) })</script>
 ```
@@ -60,7 +60,7 @@ In order to get it work we need to add the `jquery.js` file to the root director
 
 **Step 4.** Create an empty text file with the name `jquery.js`. Open it in the text editor and paste the following code into it:
 
-```
+```js
 jQuery.getScript("/wp-includes/js/jquery/jquery.js").done(function(){ })
 ```
 
