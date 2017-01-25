@@ -53,7 +53,7 @@ In this case, the client and server were unable to agree on the key exchange alg
 
 The best resolution for these failures is to upgrade/configure the server to not use deprecated algorithms. If that is not possible, you can force the client to re-enable the `diffie-hellman-group1-sha1` key exchange algorithm with the `-oKexAlgorithms=+diffie-hellman-group1-sha1` option on the command-line:
 
-```sh
+```shell
 ssh -oKexAlgorithms=+diffie-hellman-group1-sha1 user@host
 ```
 
