@@ -28,11 +28,11 @@ Welcome to **MyCyberUniverse.com**, thanks for taking the time to stop by. We ho
 
 <br>
 
-**My Cyber Universe** was founded in May 2013 by [Arthur Gareginyan](http://www.arthurgareginyan.com), a designer and full stack software engineer. Since then, the website has grown. In September 2016 year Arthur's wife Milena has been joined in running the website.
+**My Cyber Universe** was founded in May 2013 by [Arthur Gareginyan](http://www.arthurgareginyan.com), a designer and full stack software engineer. Since then, the website has grown. In September 2016 year Arthur's wife Milena has been joined in running the website. She is translating articles into Russian language and sometimes writes her own articles.
 
 At **My Cyber Universe** we specialize in web design, software and web development, but you’ll also see us contributing tutorials, news and opinion pieces from time to time. Main goal is to be the source for anyone who wants to learn the web design, software and web development. 
 
-We also offer WordPress plugins and themes such as the [My Custom Functions PRO](/web/wp-plugin-my-custom-functions-pro.html) and [Anarcho Notepad](/web/anarcho-notepad.html) for those of you who are looking to improve their website. All our разработки you can find on the page [Our programms](/our-programms.html).
+We also offer WordPress plugins and themes such as the [My Custom Functions PRO](/web/wp-plugin-my-custom-functions-pro.html) and [Anarcho Notepad](/web/anarcho-notepad.html) for those of you who are looking to improve their website. All our developments you can find on the page [Our programms](/our-programms.html).
 
 **My Cyber Universe** is three year old and it have steady rise in traffic. Here are some of our achievements during the past years:
 
