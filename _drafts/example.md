@@ -8,9 +8,11 @@ layout: post
 categories:
   - web
 tags:
-  - monetize
   - 
 
 ---
 
 ![thumb](/images/xxx.png)
+
+
+![center](/images/articles/xxx/xxx.png)
