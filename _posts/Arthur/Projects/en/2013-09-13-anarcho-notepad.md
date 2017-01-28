@@ -38,6 +38,7 @@ tags:
 
 ---
 ![WP Theme Anarcho Notepad](/images/projects/anarcho-notepad/preview.png)
+
 Inspired by the idea of anarchy, I designed this free premium WordPress theme for your personal blogs and diaries. This theme is perfect for writers and artists. "Anarcho Notepad" can be easily customised and already translated to different languages. It utilises latest HTML-5, CSS-3, PHP and WordPress native functions for creating the awesomeness that looks good on every browser. I’m constantly adding new features to this theme to allow you to personalise it to your own needs. If you want a new feature or just want to be able to change something just ask me and I would be happy to add it. I'm glad to present you the most anarchist WP-theme Of All! Enjoy!
 
 >This theme is used simultaneously by more than 3.000 people worldwide!
@@ -145,4 +146,8 @@ Did you enjoy this theme? Please donate to support ongoing development:
 
 ### PREMIUM VERSION
 
-I'm pleased to inform you that now available two premium versions of this theme, they are called the "Authors Notepad" and "Simple Notepad". Both are optimized for mobile devices (they has a responsive and mobile friendly layout). The <a href="https://www.arthurgareginyan.com/theme-authors-notepad.html" target="_blank">Author's Notepad</a> theme has the same design, but much improved. Also it has a new cool features, such as an options in customizer for change the text of following labels: *“Search”*, *“Pages”*, *“What is this place”*, *“Friends & Links”* and *“Recent Posts”*. You can learn more about it <a href="https://www.arthurgareginyan.com/theme-authors-notepad.html" target="_blank">here</a>. The <a href="https://www.arthurgareginyan.com/theme-simple-notepad.html" target="_blank">Simple Notepad</a> theme has the same design, but on one column (without the sidebar). You can learn more about it <a href="https://www.arthurgareginyan.com/theme-simple-notepad.html" target="_blank">here</a>.
+I'm pleased to inform you that now available two premium versions of this theme, they are called the "Authors Notepad" and "Simple Notepad". Both are optimized for mobile devices (they has a responsive and mobile friendly layout).
+
+The <a href="https://www.arthurgareginyan.com/theme-authors-notepad.html" target="_blank">Author's Notepad</a> theme has the same design, but much improved. Also it has a new cool features, such as an options in customizer for change the text of following labels: *“Search”*, *“Pages”*, *“What is this place”*, *“Friends & Links”* and *“Recent Posts”*. You can learn more about it <a href="https://www.arthurgareginyan.com/theme-authors-notepad.html" target="_blank">here</a>.
+
+The <a href="https://www.arthurgareginyan.com/theme-simple-notepad.html" target="_blank">Simple Notepad</a> theme has the same design, but on one column (without the sidebar). You can learn more about it <a href="https://www.arthurgareginyan.com/theme-simple-notepad.html" target="_blank">here</a>.

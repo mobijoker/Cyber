@@ -39,6 +39,7 @@ tags:
 
 ---
 ![WP Theme Anarcho Notepad](/images/projects/anarcho-notepad/preview.png)
+
 Вдохновлённый идеей анархии, я разработал эту бесплатную премиум WordPress тему для ваших личных блогов и дневников. Она идеально подойдёт писателям и художникам. "Anarcho Notepad" (Анархо Блокнот) можно легко настроить. Она использует последние HTML-5, CSS-3, PHP и встроенные функции WordPress для создания удивительного сайта, который выглядит хорошо в любом браузере. Я постоянно добавляю новые возможности к этой теме, что-бы вы могли настроить её под себя. Я рад представить вам самую анархистскую WP-тему из Всех! Наслаждайтесь!
 
 >Эта тема используется одновременно более чем 3.000 людей по всему миру!
@@ -145,4 +146,8 @@ A child theme is a theme that inherits the functionality of another theme, calle
 
 ### ПРЕМИУМ ВЕРСИИ
 
-Я рад сообщить вам о том, что теперь доступны две премиум версии этой темы, они называются "Authors Notepad" и "Simple Notepad". Обе темы оптимизированы под мобильные устройства (они имеют responsive и mobile friendly макет). Тема <a href="https://www.arthurgareginyan.com/theme-authors-notepad.html" target="_blank">Author's Notepad</a> имеет схожий дизайн, но на много улучшенный. Ещё она имеет новые возможности такие, как опции в настройщике для изменения текста следующих заголовков: *“Search”*, *“Pages”*, *“What is this place”*, *“Friends & Links”* и *“Recent Posts”*. Вы можете узнать больше о ней <a href="https://www.arthurgareginyan.com/theme-authors-notepad.html" target="_blank">здесь</a>. Тема <a href="https://www.arthurgareginyan.com/theme-simple-notepad.html" target="_blank">Simple Notepad</a> имеет схожий дизайн, но на одной колонке (без боковой панели). Вы можете узнать больше о ней <a href="https://www.arthurgareginyan.com/theme-simple-notepad.html" target="_blank">здесь</a>.
+Я рад сообщить вам о том, что теперь доступны две премиум версии этой темы, они называются "Authors Notepad" и "Simple Notepad". Обе темы оптимизированы под мобильные устройства (они имеют responsive и mobile friendly макет).
+
+Тема <a href="https://www.arthurgareginyan.com/theme-authors-notepad.html" target="_blank">Author's Notepad</a> имеет схожий дизайн, но на много улучшенный. Ещё она имеет новые возможности такие, как опции в настройщике для изменения текста следующих заголовков: *“Search”*, *“Pages”*, *“What is this place”*, *“Friends & Links”* и *“Recent Posts”*. Вы можете узнать больше о ней <a href="https://www.arthurgareginyan.com/theme-authors-notepad.html" target="_blank">здесь</a>.
+
+Тема <a href="https://www.arthurgareginyan.com/theme-simple-notepad.html" target="_blank">Simple Notepad</a> имеет схожий дизайн, но на одной колонке (без боковой панели). Вы можете узнать больше о ней <a href="https://www.arthurgareginyan.com/theme-simple-notepad.html" target="_blank">здесь</a>.
