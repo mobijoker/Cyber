@@ -145,11 +145,4 @@ A child theme is a theme that inherits the functionality of another theme, calle
 
 ### ПРЕМИУМ ВЕРСИИ
 
-Я рад сообщить вам о том, что теперь доступны для скачивания две премиум версии этой темы, "Authors Notepad" и "Simple Notepad". Обе темы оптимизированы под мобильные устройства (**responsive / mobile friendly**).
-
-Тема "<a href="https://gum.co/SDkDb" target="_blank">Authors Notepad</a>" имеет схожий дизайн, но на много улучшенный. Ещё она имеет новые возможности такие, как опции в настройщике для изменения заголовков (текст и шрифт): "Search", "Pages", "What is this place", "Friends & Links" и "Recent Posts”. 
-
-Тема "<a href="https://gum.co/simple-notepad" target="_blank">Simple Notepad</a>" имеет схожий дизайн, но на одной колонке (без боковой панели).
-
-Вы можете найти их на <a href="https://www.arthurgareginyan.com/store.html" target="_blank">www.arthurgareginyan.com/store.html</a>.
-
+Я рад сообщить вам о том, что теперь доступны две премиум версии этой темы, они называются "Authors Notepad" и "Simple Notepad". Обе темы оптимизированы под мобильные устройства (они имеют responsive и mobile friendly макет). Тема <a href="https://www.arthurgareginyan.com/theme-authors-notepad.html" target="_blank">Author's Notepad</a> имеет схожий дизайн, но на много улучшенный. Ещё она имеет новые возможности такие, как опции в настройщике для изменения текста следующих заголовков: *“Search”*, *“Pages”*, *“What is this place”*, *“Friends & Links”* и *“Recent Posts”*. Вы можете узнать больше о ней <a href="https://www.arthurgareginyan.com/theme-authors-notepad.html" target="_blank">здесь</a>. Тема <a href="https://www.arthurgareginyan.com/theme-simple-notepad.html" target="_blank">Simple Notepad</a> имеет схожий дизайн, но на одной колонке (без боковой панели). Вы можете узнать больше о ней <a href="https://www.arthurgareginyan.com/theme-simple-notepad.html" target="_blank">здесь</a>.

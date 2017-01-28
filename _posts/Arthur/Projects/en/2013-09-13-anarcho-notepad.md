@@ -145,11 +145,4 @@ Did you enjoy this theme? Please donate to support ongoing development:
 
 ### PREMIUM VERSION
 
-I am pleased to inform you that now available two premium versions of this theme, the "Authors Notepad" and "Simple Notepad". Both are optimized for mobile devices (**responsive / mobile friendly**).
-
-The "<a href="https://gum.co/SDkDb" target="_blank">Authors Notepad</a>" theme has the same design, but much improved. Also it have a new cool features, such as an options in customizer for change the labels (text and font): "Search", "Pages", "What is this place", "Friends & Links" and "Recent Posts”. 
-
-The "<a href="https://gum.co/simple-notepad" target="_blank">Simple Notepad</a>" theme has the same design, but on one column (without sidebar).
-
-You can find them at <a href="https://www.arthurgareginyan.com/store.html" target="_blank">www.arthurgareginyan.com/store.html</a>.
-
+I'm pleased to inform you that now available two premium versions of this theme, they are called the "Authors Notepad" and "Simple Notepad". Both are optimized for mobile devices (they has a responsive and mobile friendly layout). The <a href="https://www.arthurgareginyan.com/theme-authors-notepad.html" target="_blank">Author's Notepad</a> theme has the same design, but much improved. Also it has a new cool features, such as an options in customizer for change the text of following labels: *“Search”*, *“Pages”*, *“What is this place”*, *“Friends & Links”* and *“Recent Posts”*. You can learn more about it <a href="https://www.arthurgareginyan.com/theme-authors-notepad.html" target="_blank">here</a>. The <a href="https://www.arthurgareginyan.com/theme-simple-notepad.html" target="_blank">Simple Notepad</a> theme has the same design, but on one column (without the sidebar). You can learn more about it <a href="https://www.arthurgareginyan.com/theme-simple-notepad.html" target="_blank">here</a>.
