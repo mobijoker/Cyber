@@ -117,23 +117,23 @@ tags:
 {% include button-download-label.html %}
 
 
-### Quick-Start Guide
+### Краткое руководство
 
-This theme is easy to install. Actually you can install it just as you would install any other WordPress theme. The following are the two ways: automatic and manual.
+Эта тема проста в установке. На самом деле вы можете установить её так же, как вы бы установили любую другую WordPress тему. Ниже приведены два способа: автоматический и ручной.
 
 
-**Automatically via WordPress Admin area:**
+**Автоматически из WordPress Admin зоны:**
 
-* Log into Admin area of your WordPress website.
-* Go to *"Appearance"* ⇨ *"Themes"* ⇨ *"Add New"* ⇨ *"Upload Theme"*.
-* Upload the ZIP file of this theme and click *"Install Now"*.
-* Activate this theme through the *"Appearance"* -> *"Themes"* tab.
-* After installation, go to *"Appearance"* ⇨ *"Customize"* in order to view the theme customization page. There you can customize it to your liking.
+* Войдите в Admin зону вашего WordPress веб-сайта.
+* Перейдите в *"Appearance"* ⇨ *"Themes"* ⇨ *"Add New"* ⇨ *"Upload Theme"*.
+* Загрузите ZIP-файл этой темы и нажмите *"Install Now"*.
+* Активируйте эту тему из вкладки *"Appearance"* -> *"Themes"*.
+* После установки, перейдите в *"Appearance"* ⇨ *"Customize"* для того, чтобы попасть на страницу настройки темы. Там вы можете настроить тему по своему вкусу.
 
-**Manually via FTP access:**
+**Вручную с помощью FTP-доступа:**
 
-* Unzip the ZIP file of this theme.
-* Upload the unzipped catalog to your website's theme directory (*/wp-content/themes/*).
-* Log into Admin area of your WordPress website.
-* Activate this theme through the *"Appearance"* ⇨ *"Themes"* tab.
-* After installation, go to *"Appearance"* ⇨ *"Customize"* in order to view the theme customization page. There you can customize it to your liking.
+* Разархивируйте ZIP-файл этой темы.
+* Загрузите распакованные каталог в директорию с темами вашего веб-сайта (*/wp-content/themes/*).
+* Войдите в Admin зону вашего WordPress веб-сайта.
+* Активируйте эту тему из вкладки *"Appearance"* -> *"Themes"*.
+* После установки, перейдите в *"Appearance"* ⇨ *"Customize"* для того, чтобы попасть на страницу настройки темы. Там вы можете настроить тему по своему вкусу.
