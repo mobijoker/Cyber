@@ -67,6 +67,7 @@ tags:
 * Произвольная картинка хидера
 * Произвольный фон
 * Произвольное меню
+* Бесплатная версия опубликована на [WordPress.org](http://wordpress.org/)
 * И многое другое...
  
 Наслаждайтесь!
@@ -114,3 +115,25 @@ tags:
 {% assign label = "Simple Notepad Child" %}
 {% assign url = "https://dl.dropboxusercontent.com/u/42808809/simple-notepad-child.zip" %}
 {% include button-download-label.html %}
+
+
+### Quick-Start Guide
+
+This theme is easy to install. Actually you can install it just as you would install any other WordPress theme. The following are the two ways: automatic and manual.
+
+
+**Automatically via WordPress Admin area:**
+
+* Log into Admin area of your WordPress website.
+* Go to *"Appearance"* ⇨ *"Themes"* ⇨ *"Add New"* ⇨ *"Upload Theme"*.
+* Upload the ZIP file of this theme and click *"Install Now"*.
+* Activate this theme through the *"Appearance"* -> *"Themes"* tab.
+* After installation, go to *"Appearance"* ⇨ *"Customize"* in order to view the theme customization page. There you can customize it to your liking.
+
+**Manually via FTP access:**
+
+* Unzip the ZIP file of this theme.
+* Upload the unzipped catalog to your website's theme directory (*/wp-content/themes/*).
+* Log into Admin area of your WordPress website.
+* Activate this theme through the *"Appearance"* ⇨ *"Themes"* tab.
+* After installation, go to *"Appearance"* ⇨ *"Customize"* in order to view the theme customization page. There you can customize it to your liking.

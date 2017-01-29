@@ -79,6 +79,7 @@ That’s it. You are already getting your custom CSS working.
 * Sidebar items can be collapsed or expanded
 * Ready for translation (POT file included)
 * Well documented
+* Free version published on [WordPress.org](http://wordpress.org/)
 
 **Coming soon:**
 
