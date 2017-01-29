@@ -78,6 +78,11 @@ include: ['_pages']
 exclude: [vendor]
 
 
+##### JavaScript files
+jsarray:
+    - TEST.js
+
+
 
 ##### Enabled plugins
 gems:
