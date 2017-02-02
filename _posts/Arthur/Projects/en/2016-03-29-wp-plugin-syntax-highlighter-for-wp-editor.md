@@ -17,6 +17,9 @@ tags:
   - wp
   - wp plugin
   - plugin
+  - premium plugin
+  - premium wordpress plugin
+  - premium wp plugin
   - codemirror
   - syntax highlighting
   - syntaxhighlighting
@@ -60,6 +63,8 @@ This plugin is just plug and play, no tedious configurations or hacks, just inst
 * Live preview on Settings Page
 * Ready for translation (POT file included)
 * Published on [WordPress.org](http://wordpess.org/)
+
+Got more ideas? Tell me!
 
 **Supported languages:**
 
