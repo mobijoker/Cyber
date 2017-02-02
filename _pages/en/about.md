@@ -26,8 +26,6 @@ img.website-logo {
 
 Welcome to **MyCyberUniverse.com**, thanks for taking the time to stop by. We hope that, on this website, you will find the information you need and will become a regular reader.
 
-<br>
-
 **My Cyber Universe** was founded in May 2013 by [Arthur Gareginyan](http://www.arthurgareginyan.com), a designer and full stack software engineer. Since then, the website has grown. In September 2016 year Arthur's wife Milena has been joined in running the website. She is translating articles into Russian language and sometimes writes her own articles.
 
 At **My Cyber Universe** we specialize in web design, software and web development, but you’ll also see us contributing tutorials, news and opinion pieces from time to time. Main goal is to be the source for anyone who wants to learn the web design, software and web development. 
