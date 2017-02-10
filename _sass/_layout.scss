@@ -206,9 +206,8 @@ table {
             color: #979797;
         }
     }
-}
-@include media-query($on-laptop) {
-    #sidebar {
+
+    @include media-query( $on-laptop ) {
         display: none !important;
     }
 }
@@ -407,7 +406,7 @@ article a:visited {
         box-shadow: none;
     }
 }
-@include media-query($on-laptop) {
+@include media-query( $on-laptop ) {
     .wrapper .post,
     .wrapper .home,
     .post-comments {
@@ -416,10 +415,6 @@ article a:visited {
     }
     .wrapper {
         padding: 0;
-    }
-    .site-footer {
-        padding: 20px !important;
-        margin-top: 10px;
     }
     .author-info {
         padding-left: 0 !important;
@@ -491,7 +486,7 @@ article {
     margin-top: 40px;
     height: 70px;
 
-    @include media-query($on-laptop) {
+    @include media-query( $on-laptop ) {
         display: none;
     }
 
@@ -586,7 +581,7 @@ article {
             margin-right: 20px;
         }
 
-        @include media-query($on-palm) {
+        @include media-query( $on-palm ) {
             border: none;
             border-bottom: 0;
         }
@@ -598,7 +593,7 @@ article {
         border-radius: 5px 5px 5px 5px;
     }
 
-    @include media-query($on-palm) {
+    @include media-query( $on-palm ) {
         position: absolute;
         top: 9px;
         right: $spacing-unit / 2;
@@ -675,6 +670,11 @@ article {
     .wrapper {
         padding-bottom: 0;
     }
+
+    @include media-query( $on-laptop ) {
+        padding: 20px !important;
+        margin-top: 10px;
+    }
 }
 
 .footer-col-wrapper {
@@ -684,33 +684,48 @@ article {
     margin-top: 10px;
     margin-left: -$spacing-unit / 2;
     @extend %clearfix;
+
+    @include media-query( 1020px ) {
+        height: 400px !important;
+    }
+
+    @include media-query( $on-laptop ) {
+        height: 300px !important;
+
+        .footer-col-2 {
+            display: none;
+        }
+    }
 }
 
 .footer-col {
     position: relative;
     height: 100%;
+    width: -webkit-calc(49% - (#{$spacing-unit} / 2));
+    width:         calc(49% - (#{$spacing-unit} / 2));
     float: left;
     padding-left: $spacing-unit / 2;
-}
 
-.footer-col-1 {
-    position: relative;
-    height: 100%;
-    width: -webkit-calc(49% - (#{$spacing-unit} / 2));
-    width:         calc(49% - (#{$spacing-unit} / 2));
-}
+    @include media-query( $on-laptop ) {
+        width: -webkit-calc(100% - (#{$spacing-unit} / 2)) !important;
+        width:         calc(100% - (#{$spacing-unit} / 2)) !important;
+    }
 
-.footer-col-2 {
-    position: relative;
-    height: 100%;
-    width: -webkit-calc(49% - (#{$spacing-unit} / 2));
-    width:         calc(49% - (#{$spacing-unit} / 2));
+    @include media-query( $on-palm ) {
+        float: none !important;
+        width: -webkit-calc(100% - (#{$spacing-unit} / 2)) !important;
+        width:         calc(100% - (#{$spacing-unit} / 2)) !important;
+    }
 }
 
 .footer-col-bottom {
     position: absolute;
     bottom: 0px;
     margin-bottom: 0px;
+
+    @include media-query( $on-palm ) {
+        position: relative !important;
+    }
 }
 
 .footer-nav-list {
@@ -730,28 +745,6 @@ article {
         font-size: 12px;
     }
 }
-
-@include media-query($on-laptop) {
-    .footer-col-1 {
-        width: -webkit-calc(100% - (#{$spacing-unit} / 2));
-        width:         calc(100% - (#{$spacing-unit} / 2));
-    }
-
-    .footer-col-2 {
-        width: -webkit-calc(100% - (#{$spacing-unit} / 2));
-        width:         calc(100% - (#{$spacing-unit} / 2));
-    }
-}
-
-@include media-query($on-palm) {
-    .footer-col {
-        float: none;
-        width: -webkit-calc(100% - (#{$spacing-unit} / 2));
-        width:         calc(100% - (#{$spacing-unit} / 2));
-    }
-}
-
-
 
 /*
  * Page content
@@ -811,7 +804,7 @@ a:hover {
     font-size: 40px;
     color: #333 !important;
 
-    @include media-query($on-laptop) {
+    @include media-query( $on-laptop ) {
         font-size: 36px;
     }
 }
@@ -822,7 +815,7 @@ a:hover {
     h2 {
         font-size: 32px;
 
-        @include media-query($on-laptop) {
+        @include media-query( $on-laptop ) {
             font-size: 28px;
         }
     }
@@ -830,7 +823,7 @@ a:hover {
     h3 {
         font-size: 26px;
 
-        @include media-query($on-laptop) {
+        @include media-query( $on-laptop ) {
             font-size: 22px;
         }
     }
@@ -838,7 +831,7 @@ a:hover {
     h4 {
         font-size: 20px;
 
-        @include media-query($on-laptop) {
+        @include media-query( $on-laptop ) {
             font-size: 18px;
         }
     }
