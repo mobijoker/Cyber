@@ -678,6 +678,7 @@ article {
 }
 
 .footer-col-wrapper {
+    height: 320px;
     font-size: 15px;
     color: $grey-color;
     margin-top: 10px;
@@ -686,18 +687,30 @@ article {
 }
 
 .footer-col {
+    position: relative;
+    height: 100%;
     float: left;
     padding-left: $spacing-unit / 2;
 }
 
 .footer-col-1 {
+    position: relative;
+    height: 100%;
     width: -webkit-calc(49% - (#{$spacing-unit} / 2));
     width:         calc(49% - (#{$spacing-unit} / 2));
 }
 
 .footer-col-2 {
+    position: relative;
+    height: 100%;
     width: -webkit-calc(49% - (#{$spacing-unit} / 2));
     width:         calc(49% - (#{$spacing-unit} / 2));
+}
+
+.footer-col-bottom {
+    position: absolute;
+    bottom: 0px;
+    margin-bottom: 0px;
 }
 
 .footer-nav-list {
