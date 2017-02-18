@@ -1,12 +1,13 @@
 ---
-title: Помощь
+title: Поддержка
 lang: ru
-ref: donate
+ref: support
 order: 3
 date: 2015-09-15
 author: Arthur Gareginyan
 layout: page
-permalink: /ru/donate.html
+permalink: /ru/support.html
+redirect_from: /ru/donate.html
 remove_ad: true
 
 ---

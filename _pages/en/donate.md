@@ -1,12 +1,13 @@
 ---
-title: Donate
+title: Support
 lang: en
-ref: donate
+ref: support
 order: 3
 date: 2015-09-15
 author: Arthur Gareginyan
 layout: page
-permalink: /donate.html
+permalink: /support.html
+redirect_from: /donate.html
 remove_ad: true
 
 ---
