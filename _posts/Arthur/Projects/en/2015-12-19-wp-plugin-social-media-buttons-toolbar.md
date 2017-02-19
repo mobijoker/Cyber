@@ -154,6 +154,10 @@ Simple and easy!
 <img src="/images/social-media-buttons-toolbar/screenshot-5.png" alt="WP plugin &quot;Social Media Buttons Toolbar&quot; by Arthur Gareginyan" />
 6.  Shortcode placed in the Text Widget :
 <img src="/images/social-media-buttons-toolbar/screenshot-6.png" alt="WP plugin &quot;Social Media Buttons Toolbar&quot; by Arthur Gareginyan" />
+7.  All buttons :
+<img src="/images/social-media-buttons-toolbar/screenshot-7.png" alt="WP plugin &quot;Social Media Buttons Toolbar&quot; by Arthur Gareginyan" />
+8.  Bootstrap tooltip with name of the social media displayed above button when you hover over the button :
+<img src="/images/social-media-buttons-toolbar/screenshot-8.png" alt="WP plugin &quot;Social Media Buttons Toolbar&quot; by Arthur Gareginyan" />
 
 
 ### Translation
