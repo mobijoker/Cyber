@@ -21,8 +21,6 @@ remove_ad: true
 &nbsp;
 &nbsp;
 
-PayPal адрес: <a href="https://www.paypal.me/arthurd" target="_blank" rel="nofollow">www.paypal.me/arthurd</a>
-
 PayPal кнопка:    
 {% include button-paypal-custom.html %}
 

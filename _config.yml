@@ -37,9 +37,9 @@ contact:
 contact-thanks:
     en: _pages/en/contact-thanks.html
     ru: _pages/ru/contact-thanks.html
-donate:
-    en: _pages/en/donate.html
-    ru: _pages/ru/donate.html
+support:
+    en: _pages/en/support.html
+    ru: _pages/ru/support.html
 feed:
     en: feed.xml
     ru: feed.xml
