@@ -12,23 +12,23 @@ remove_ad: true
 
 ---
 
-Love MyCyberUniverse articles? Support Us Here!
+Любите статьи на MyCyberUniverse? Поддержите нас здесь!
 
-We’ve learned some things about the web design, software and web development by the hard way… and we share so that you don’t have to. If you love our articles, here’s how you can give some love back and help us continue making them.
+Мы знаем о веб-дизайне, программном обеспечении и веб-разработке благодаря сложному пути который мы прошли… и мы делимся этим опытом для того, что бы вам не пришлось проходить то же. Если вы любите наши статьи, here’s how you can give some love back and help us continue making them.
 
 
 ## Копилка
 
-Have our articles (or responses to your comments or emails) saved you time or money?  Or have we shared some great tip that improves your website administration experience? Planning & writing takes a lot of time & effort. If you’ve found our articles helpful, a contribution to help fund our website is a great way to send us back some love!
+Наши статьи (или ответы на ваши комментарии или имейл письма) сохранили вам время или деньги?  Может быть мы поделились с вами какимто классным советом который помог вам улучшить ваш опыт администрирования вебсайта? Планирование и написание занимает много времени и стараний. Если вы нашли наши статьи полезными, a contribution to help fund our website is a great way to send us back some love!
 
-Thank you in advance for any amount you feel comfortable sharing.
+Заранее спасибо вам за любую сумму которой вы решите поделится.
 
 {% include button-paypal-custom.html %}
 
 
 ## Поделиться
 
-If you think our articles are good or helpful please consider sharing them with your friends. Use the link/icon for the appropriate social media network on the bottom of any page or post on our website… and let your friends know what you like about MyCyberUniverse!
+Если вы думаете о том, что наши статьи хорошие или полезные то поделитесь ими с вашими друзьями. Используйте ссылку/иконку для соответствующей социальной сети которая распологается в конце каждой страницы или записи на нашем вебсайте… и дайте знать вышим друзьям о том, что вам нравится в MyCyberUniverse!
 
 {% include share-bar.html %}
 <br>
@@ -36,7 +36,7 @@ If you think our articles are good or helpful please consider sharing them with 
 
 ## Подписаться
 
-Make sure you receive a notification of our latest posts by subscribing to this website!
+Убедитесь в том, что вы получаете уведомления о наших последних записях подписавшись на этот вебсайт!
 
 {% include subscription-form-clean.html %}
 &nbsp;
@@ -44,7 +44,7 @@ Make sure you receive a notification of our latest posts by subscribing to this 
 
 ## Прокомментировать
 
-Вовлекайтесь!  Напишите комментарий к статье которую вы прочитали и дайте нам знать о том, что вы думаете. We value all input, expertise and questions. You might have noticed that we do our best to respond to every question, or at least refer people to a “higher authority” when we don’t know the answer. Присоединяйтесь к общению!
+Вовлекайтесь!  Напишите комментарий к статье которую вы прочитали и дайте нам знать о том, что вы думаете о ней. Мы ценим все input, expertise и вопросы. Вы могли заметить то, что мы делаем всё возможное для того, что бы ответить на каждый вопрос, или по крайней мере направить людей к “higher authority” в тех случаях когда мы не знаем ответ. Присоединяйтесь к общению!
 
 
 Спасибо за поддержку!
