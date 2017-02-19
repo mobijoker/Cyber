@@ -38,6 +38,9 @@ If you think our articles are good or helpful please consider sharing them with 
 
 Make sure you receive a notification of our latest posts by subscribing to this website!
 
+{% include subscription-form-clean.html %}
+&nbsp;
+
 
 ## Comment
 
