@@ -113,7 +113,7 @@ All HTML/CSS/JAVASCRIPT code, and PNG files is released under the restrictive pr
 {% include button-download-label.html %}
 
 {% assign label = "Authors Notepad Child" %}
-{% assign url = "https://dl.dropboxusercontent.com/u/42808809/authors-notepad-child.zip" %}
+{% assign url = "http://mycyberuniverse.com/public-files/authors-notepad-child.zip" %}
 {% include button-download-label.html %}
 
 

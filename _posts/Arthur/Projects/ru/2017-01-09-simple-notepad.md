@@ -113,7 +113,7 @@ tags:
 {% include button-download-label.html %}
 
 {% assign label = "Simple Notepad Child" %}
-{% assign url = "https://dl.dropboxusercontent.com/u/42808809/simple-notepad-child.zip" %}
+{% assign url = "http://mycyberuniverse.com/public-files/simple-notepad-child.zip" %}
 {% include button-download-label.html %}
 
 
