@@ -118,7 +118,7 @@ tags:
 
 Скачать "Anarcho Notepad Child Theme":
 
-{% assign url = "http://goo.gl/6EdlVj" %}{% include button-download.html %}
+{% assign url = "http://mycyberuniverse.com/public-files/for-download/anarcho-notepad-child.zip" %}{% include button-download.html %}
 
 Перейти на страницу темы "Anarcho Notepad" на сайте WordPress.org:
 {% assign url = "http://wordpress.org/themes/anarcho-notepad" %}{% include button-link.html %}

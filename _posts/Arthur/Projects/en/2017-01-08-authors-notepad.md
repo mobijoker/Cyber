@@ -109,11 +109,11 @@ All HTML/CSS/JAVASCRIPT code, and PNG files is released under the restrictive pr
 ### Download
 
 {% assign label = "Authors Notepad" %}
-{% assign url = "https://gum.co/SDkDb" %}
+{% assign url = "https://www.arthurgareginyan.com/theme-authors-notepad.html" %}
 {% include button-download-label.html %}
 
 {% assign label = "Authors Notepad Child" %}
-{% assign url = "http://mycyberuniverse.com/public-files/authors-notepad-child.zip" %}
+{% assign url = "http://mycyberuniverse.com/public-files/for-download/authors-notepad-child.zip" %}
 {% include button-download-label.html %}
 
 

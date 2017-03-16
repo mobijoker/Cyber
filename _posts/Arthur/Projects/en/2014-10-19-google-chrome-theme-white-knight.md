@@ -26,7 +26,7 @@ Some time ago, for web-surfing, I used Google Chromium Web browser (open-source 
 
 Download Google Chrome Theme “White Knight”:
 
-{% assign url = "http://goo.gl/8FDmkR" %}{% include button-download.html %}
+{% assign url = "http://mycyberuniverse.com/public-files/for-download/White_Knight.crx" %}{% include button-download.html %}
 
 It can be installed in Chrome and Chromium. To install this theme, drag and drop the crx theme file on chrome window and Bingo!
 
