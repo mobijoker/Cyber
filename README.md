@@ -65,10 +65,10 @@ Arthur Garegnyan
 ---
 #### Technologies:
 
-[![Jekyll](https://dl.dropboxusercontent.com/s/dp6m6js1fyc4sqb/jekyll.png)]()
-[![Disqus](https://dl.dropboxusercontent.com/s/ovxqphuxjvyl804/Disqus.png)]()
-[![HTML5](https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/html5-64.png)]()
-[![CSS3](https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/css3-64.png)]()
-[![Sass](https://dl.dropboxusercontent.com/s/kgn2na1wruv64ju/Sass.png?dl=0)]()
-[![JS](https://dl.dropboxusercontent.com/s/zumy31fjzyj4p6z/JavaScript.png)]()
-[![JQuery](https://dl.dropboxusercontent.com/s/dh75pqw99jhga8c/jQurery.png)]()
+[![Jekyll](http://mycyberuniverse.com/public-files/images/logos/Jekyll.png)]()
+[![Disqus](http://mycyberuniverse.com/public-files/images/logos/Disqus.png)]()
+[![HTML5](http://mycyberuniverse.com/public-files/images/logos/HTML5.png)]()
+[![CSS3](http://mycyberuniverse.com/public-files/images/logos/CSS3.png)]()
+[![Sass](http://mycyberuniverse.com/public-files/images/logos/Sass.png)]()
+[![JS](http://mycyberuniverse.com/public-files/images/logos/JavaScript.png)]()
+[![JQuery](http://mycyberuniverse.com/public-files/images/logos/jQurery.png)]()
