@@ -54,7 +54,7 @@ Inspired by the idea of anarchy, I designed this premium WordPress theme for you
 * HTML5 Inside
 * CSS3 Inside
 * Easy to set up - Theme Customizer
-* Customize using "Google Web Fonts"
+* All 732 Google Fonts with one click
 * Built-in iconic font "Font Awesome"
 * Widget ready (in sidebar and footer)
 * Built-in Pagination

@@ -54,7 +54,7 @@ tags:
 * HTML5 Inside
 * CSS3 Inside
 * Легко настроить - Theme Customizer
-* Customize using "Google Web Fonts"
+* All 732 Google Fonts with one click
 * Встроенный iconic font "Font Awesome"
 * Widget ready (in footer)
 * Встроенная Пагинация
