@@ -174,7 +174,7 @@ Run the script:
 After you create the SSL certificate then you should bind it to the server.
 
 A screenshot of the menu of script:
-<img class="aligncenter" src="/images/ssl-certificate-automatically-by-a-bash-script/ssl_crt_creater.png" alt="SSL Certificate Creater" />
+<img class="aligncenter" src="/images/projects/scripts/ssl-certificate-automatically-by-a-bash-script/ssl_crt_creater.png" alt="SSL Certificate Creater" />
 
 
 ### Description

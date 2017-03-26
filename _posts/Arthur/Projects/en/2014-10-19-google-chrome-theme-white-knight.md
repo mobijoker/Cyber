@@ -19,7 +19,7 @@ tags:
 
 ---
 
-![White Night](/images/white-knight/screenshot-1.png)
+![White Night](/images/projects/other/white-knight/screenshot-1.png)
 Some time ago, for web-surfing, I used Google Chromium Web browser (open-source version of Chrome). Then I created the theme "White Knight", now I want to share it.
 
 <br><br><br>
