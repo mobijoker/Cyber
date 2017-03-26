@@ -30,14 +30,14 @@ tags:
 
 ---
 
-![thumb](/images/syntax-highlighter-for-wp-editor/icon.png)
+![thumb](/images/projects/plugins/syntax-highlighter-for-wp-editor/icon.png)
 An easy to use WordPress plugin that replaces the default Theme and Plugin Source Code Editor with an enhanced editor by a [CodeMirror library](https://codemirror.net/). The WordPress default Theme Editor (in Appearance => Editor) and Plugin Editor (in Plugins => Editor) is great for doing some custom changes to your Themes or Plugins files, although it is rather limited. This is where the "Syntax Highlighter for WP Editor" can help. With an enhanced source code editor you can see a code with syntax highlighting, and with line numbering, so you can easily read your code and detect any errors.
 
 <br><br>
 
 ### Description
 
-<img src="/images/syntax-highlighter-for-wp-editor/banner.png" alt="WP Plugin &quot;Syntax Highlighter for WP Editor&quot;" />
+<img src="/images/projects/plugins/syntax-highlighter-for-wp-editor/banner.png" alt="WP Plugin &quot;Syntax Highlighter for WP Editor&quot;" />
 
 This plugin give you finer control over editor, it can be configured on the plugin settings page. You can chose from 36 different color themes for your editor. If you want more options then tell me and I will be happy to add it.
 
@@ -79,15 +79,15 @@ Got more ideas? Tell me!
 ### Screenshots
 
 1. Plugin settings page:
-<img src="/images/syntax-highlighter-for-wp-editor/screenshot-1.png" alt="WP plugin &quot;Syntax Highlighter for WP Editor&quot; by Arthur Gareginyan" />
+<img src="/images/projects/plugins/syntax-highlighter-for-wp-editor/screenshot-1.png" alt="WP plugin &quot;Syntax Highlighter for WP Editor&quot; by Arthur Gareginyan" />
 2. Default WP Plugin Editor :
-<img src="/images/syntax-highlighter-for-wp-editor/screenshot-2.png" alt="WP plugin &quot;Syntax Highlighter for WP Editor&quot; by Arthur Gareginyan" />
+<img src="/images/projects/plugins/syntax-highlighter-for-wp-editor/screenshot-2.png" alt="WP plugin &quot;Syntax Highlighter for WP Editor&quot; by Arthur Gareginyan" />
 3. Plugin Editor that provided by this plugin (color theme: ambiance) :
-<img src="/images/syntax-highlighter-for-wp-editor/screenshot-3.png" alt="WP plugin &quot;Syntax Highlighter for WP Editor&quot; by Arthur Gareginyan" />
+<img src="/images/projects/plugins/syntax-highlighter-for-wp-editor/screenshot-3.png" alt="WP plugin &quot;Syntax Highlighter for WP Editor&quot; by Arthur Gareginyan" />
 4. Plugin Editor that provided by this plugin (color theme: default) :
-<img src="/images/syntax-highlighter-for-wp-editor/screenshot-4.png" alt="WP plugin &quot;Syntax Highlighter for WP Editor&quot; by Arthur Gareginyan" />
+<img src="/images/projects/plugins/syntax-highlighter-for-wp-editor/screenshot-4.png" alt="WP plugin &quot;Syntax Highlighter for WP Editor&quot; by Arthur Gareginyan" />
 5. Theme Editor that provided by this plugin (color theme: ambiance):
-<img src="/images/syntax-highlighter-for-wp-editor/screenshot-5.png" alt="WP plugin &quot;Syntax Highlighter for WP Editor&quot; by Arthur Gareginyan" />
+<img src="/images/projects/plugins/syntax-highlighter-for-wp-editor/screenshot-5.png" alt="WP plugin &quot;Syntax Highlighter for WP Editor&quot; by Arthur Gareginyan" />
 
 
 ### Translation

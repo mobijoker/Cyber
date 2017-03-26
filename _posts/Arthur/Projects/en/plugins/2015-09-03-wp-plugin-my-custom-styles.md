@@ -41,14 +41,14 @@ tags:
 
 ---
 
-![thumb](/images/my-custom-styles/icon.png)
+![thumb](/images/projects/plugins/my-custom-styles/icon.png)
 An easy to use WordPress plugin that gives you the ability to easily and safely add your custom styles (CSS code) to WordPress website's <head> section, directly out of your WordPress Dashboard, without any need of an external editor.
 
 <br><br>
 
 ### Description
 
-<img src="/images/my-custom-styles/banner.png" alt="WP Plugin &quot;My Custom Styles&quot;" />
+<img src="/images/projects/plugins/my-custom-styles/banner.png" alt="WP Plugin &quot;My Custom Styles&quot;" />
 
 It's purpose is to provide a familiar experience to WordPress users. No need anymore to editing a files of your theme and/or plugins for to add custom CSS code. Just add your CSS code in the field on the plugin page and this plugin will do the rest for you.
 
@@ -89,9 +89,9 @@ That’s it. You are already getting your custom CSS working.
 ### Screenshots
 
 1. Plugin page:
-<img src="/images/my-custom-styles/screenshot-1.png" alt="WP plugin &quot;My Custom Styles&quot; by Arthur Gareginyan" />
+<img src="/images/projects/plugins/my-custom-styles/screenshot-1.png" alt="WP plugin &quot;My Custom Styles&quot; by Arthur Gareginyan" />
 2. Plugin page with custom CSS code added:
-<img src="/images/my-custom-styles/screenshot-2.png" alt="WP plugin &quot;My Custom Styles&quot; by Arthur Gareginyan" />
+<img src="/images/projects/plugins/my-custom-styles/screenshot-2.png" alt="WP plugin &quot;My Custom Styles&quot; by Arthur Gareginyan" />
 
 
 ### Translation

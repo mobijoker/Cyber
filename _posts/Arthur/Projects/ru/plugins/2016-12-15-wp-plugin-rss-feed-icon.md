@@ -28,7 +28,7 @@ tags:
 
 ---
 
-![thumb](/images/rss-feed-icon/icon.png)
+![thumb](/images/projects/plugins/rss-feed-icon/icon.png)
 Лёгкий и простой в использовании WordPress плагин, который позволяет легко добавить иконку RSS канала с помощью простого шорткода в любое место вашего веб-сайта, такое как: заголовок, содержание записи, содержание страницы, в боковую панель и/или нижний колонтитул. Иконка RSS потока позволяет посетителям получать сообщения с вашего блога/RSS-канала по электронной почте.
 
 
@@ -36,7 +36,7 @@ tags:
 
 ### Описание
 
-![WP plugin "RSS Feed Icon" by Arthur Gareginyan](/images/rss-feed-icon/banner.png)
+![WP plugin "RSS Feed Icon" by Arthur Gareginyan](/images/projects/plugins/rss-feed-icon/banner.png)
 
 Плагин даёт вам полный контроль над иконкой RSS канала, которая может быть настроена на странице настройки плагина. Вы можете выбрать одну из встроенных в плагин иконок RSS канала или загрузите вашу собственную иконку. Вы можете изменить размер иконки и т.д.. Если же вам нужно больше опций то просто скажите мне об этом и Я буду рад добавить их.
 
@@ -69,9 +69,9 @@ tags:
 ### Скриншоты
 
 1. Страница настройки плагина.
-![WP plugin "RSS Feed Icon" by Arthur Gareginyan](/images/rss-feed-icon/screenshot-1.png)
+![WP plugin "RSS Feed Icon" by Arthur Gareginyan](/images/projects/plugins/rss-feed-icon/screenshot-1.png)
 2. Шорткод добавленный в виджет.
-![WP plugin "RSS Feed Icon" by Arthur Gareginyan](/images/rss-feed-icon/screenshot-2.png)
+![WP plugin "RSS Feed Icon" by Arthur Gareginyan](/images/projects/plugins/rss-feed-icon/screenshot-2.png)
 
 
 ### Перевод

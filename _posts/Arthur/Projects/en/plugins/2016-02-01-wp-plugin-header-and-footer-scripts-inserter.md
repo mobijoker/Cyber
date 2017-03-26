@@ -54,14 +54,14 @@ tags:
 
 ---
 
-![thumb](/images/header-and-footer-scripts-inserter/icon.png)
+![thumb](/images/projects/plugins/header-and-footer-scripts-inserter/icon.png)
 An easy to use and lightweight WordPress plugin that gives you the ability to easily insert custom scripts (HTML, JavaScript, and CSS) in the head or/and footer section of your website.
 
 <br><br>
 
 ### Description
 
-<img src="/images/header-and-footer-scripts-inserter/banner.png" alt="WP Plugin &quot;Head and Footer Scripts Inserter&quot;" />
+<img src="/images/projects/plugins/header-and-footer-scripts-inserter/banner.png" alt="WP Plugin &quot;Head and Footer Scripts Inserter&quot;" />
 
 No need anymore to editing a files of your theme or plugins in order to add custom scripts (HTML with JavaScript, CSS and else). You can add they on plugin's page. Just add your scripts in the field on the plugin's page and this plugin will do the rest for you. It adds required scripts to the head section of your website automatically, without changing any of your themes file and without slowing down your website. It's really useful in case of any theme update, because your scripts would never be lost! Your scripts will keep on working, no matter how many times you upgrade or switch your theme and plugins.
 
@@ -98,11 +98,11 @@ If you want more options then tell me and I will be happy to add it.
 ### Screenshots
 
 1. Plugin page. Section "Header Section" :
-<img src="/images/header-and-footer-scripts-inserter/screenshot-1.png" alt="WP plugin &quot;Head and Footer Scripts Inserter&quot; by Arthur Gareginyan" />
+<img src="/images/projects/plugins/header-and-footer-scripts-inserter/screenshot-1.png" alt="WP plugin &quot;Head and Footer Scripts Inserter&quot; by Arthur Gareginyan" />
 2. Plugin page. Section "Footer Section":
-<img src="/images/header-and-footer-scripts-inserter/screenshot-2.png" alt="WP plugin &quot;Head and Footer Scripts Inserter&quot; by Arthur Gareginyan" />
+<img src="/images/projects/plugins/header-and-footer-scripts-inserter/screenshot-2.png" alt="WP plugin &quot;Head and Footer Scripts Inserter&quot; by Arthur Gareginyan" />
 3. Plugin page with Google Tag Manager code added and saved:
-<img src="/images/header-and-footer-scripts-inserter/screenshot-3.png" alt="WP plugin &quot;Head and Footer Scripts Inserter&quot; by Arthur Gareginyan" />
+<img src="/images/projects/plugins/header-and-footer-scripts-inserter/screenshot-3.png" alt="WP plugin &quot;Head and Footer Scripts Inserter&quot; by Arthur Gareginyan" />
 
 
 ### Translation

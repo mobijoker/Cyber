@@ -65,7 +65,7 @@ tags:
 
 ---
 
-![thumb](/images/all-meta-tags/icon.png)
+![thumb](/images/projects/plugins/all-meta-tags/icon.png)
 Простой в использовании WordPress плагин дающий возможность ЛЕГКО добавлять ваши Мета Тэги в head секцию вашего вебсайта. Это необходимый инструмент для авторов и владельцев вебсайтов.
 
 
@@ -73,7 +73,7 @@ tags:
 
 ### Описание
 
-<img src="/images/all-meta-tags/banner.png" alt="WP Plugin &quot;All Meta Tags&quot;" />
+<img src="/images/projects/plugins/all-meta-tags/banner.png" alt="WP Plugin &quot;All Meta Tags&quot;" />
 
 An easy to use and lightweight WordPress plugin that gives you the ability to easily add your Meta Tags to the head section of your website.
 
@@ -131,7 +131,7 @@ If you want more options then tell me and I will be happy to add it.
 ### Скриншоты
 
 1. Страница плагина:
-<img src="/images/all-meta-tags/screenshot-1.png" alt="WP plugin &quot;All Meta Tags&quot; by Arthur Gareginyan" />
+<img src="/images/projects/plugins/all-meta-tags/screenshot-1.png" alt="WP plugin &quot;All Meta Tags&quot; by Arthur Gareginyan" />
 <caption>WP plugin "All Meta Tags" by Arthur Gareginyan</caption>
 
 

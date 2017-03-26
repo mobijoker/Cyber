@@ -46,14 +46,14 @@ tags:
 
 ---
 
-![thumb](/images/my-syntax-highlighter/icon.png)
+![thumb](/images/projects/plugins/my-syntax-highlighter/icon.png)
 An easy to use WordPress plugin that provides a simple way for embedding syntax-highlighted source code within pages or posts on your website, without losing it's formatting or making any manual changes. Supporting 14 languages, 16 shortcodes and 36 themes. The syntax highlighting feature implemented via a [CodeMirror](https://codemirror.net/) library. If you want more options then tell me and I will be happy to add it.
 
 <br><br>
 
 ### Description
 
-<img src="/images/my-syntax-highlighter/banner.png" alt="WP Plugin &quot;My Syntax Highlighter&quot;" />
+<img src="/images/projects/plugins/my-syntax-highlighter/banner.png" alt="WP Plugin &quot;My Syntax Highlighter&quot;" />
 
 Syntax highlighting is a feature that displays source code, in different colors and fonts according to the category of terms. Syntax highlighting is one strategy to improve the readability and context of the text; especially for code that spans several pages. The reader can easily ignore large sections of comments or code, depending on what they are looking for. 
 
@@ -159,13 +159,13 @@ Click to view language examples. Highlighted with Default theme.
 ### Screenshots
 
 1. Plugin settings page.
-<img src="/images/my-syntax-highlighter/screenshot-1.png" alt="WP plugin &quot;My Syntax Highlighter&quot; by Arthur Gareginyan" />
+<img src="/images/projects/plugins/my-syntax-highlighter/screenshot-1.png" alt="WP plugin &quot;My Syntax Highlighter&quot; by Arthur Gareginyan" />
 2. Example of post with added source code and wrapped it in shortcode provided by this plugin. Default theme of highlighter.
-<img src="/images/my-syntax-highlighter/screenshot-2.png" alt="WP plugin &quot;My Syntax Highlighter&quot; by Arthur Gareginyan" />
+<img src="/images/projects/plugins/my-syntax-highlighter/screenshot-2.png" alt="WP plugin &quot;My Syntax Highlighter&quot; by Arthur Gareginyan" />
 3. Example of post with added source code and wrapped it in shortcode provided by this plugin. The "The Matrix" theme of highlighter.
-<img src="/images/my-syntax-highlighter/screenshot-3.png" alt="WP plugin &quot;My Syntax Highlighter&quot; by Arthur Gareginyan" />
+<img src="/images/projects/plugins/my-syntax-highlighter/screenshot-3.png" alt="WP plugin &quot;My Syntax Highlighter&quot; by Arthur Gareginyan" />
 4. Example of post with added source codes on multiple language and wrapped it in shortcode provided by this plugin. Default theme of highlighter.
-<img src="/images/my-syntax-highlighter/screenshot-4.png" alt="WP plugin &quot;My Syntax Highlighter&quot; by Arthur Gareginyan" />
+<img src="/images/projects/plugins/my-syntax-highlighter/screenshot-4.png" alt="WP plugin &quot;My Syntax Highlighter&quot; by Arthur Gareginyan" />
 
 
 ### Quick-Start Guide

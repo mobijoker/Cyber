@@ -42,7 +42,7 @@ tags:
 
 ---
 
-![WP plugin "My Custom Styles PRO" by Arthur Gareginyan](/images/my-custom-styles-pro/preview.jpg)
+![WP plugin "My Custom Styles PRO" by Arthur Gareginyan](/images/projects/plugins/my-custom-styles-pro/preview.jpg)
 "My Custom Styles PRO" is a premium WordPress plugin that gives you the ability to easily and safely add your custom styles (CSS code) to WordPress website's <head> section, directly out of your WordPress Dashboard, without any need of an external editor. This is a "PRO" version of the plugin "My Custom Styles". More features, more power. Unlimited number of snippets, Trigger for temporary disable the certain snippets, Automatic backup of all snippets to a file, CSS minifier, etc.
 
 It's purpose is to provide a familiar experience to WordPress users. No need anymore to editing a files of your theme and/or plugins for to add custom CSS code. Just add your CSS code in the field on the plugin page and this plugin will do the rest for you.
@@ -89,15 +89,15 @@ That’s it. You are already getting your custom CSS working.
 
 ### Screenshots
 
-![WP plugin "My Custom Styles PRO" by Arthur Gareginyan](/images/my-custom-styles-pro/screenshot-1.jpg)
+![WP plugin "My Custom Styles PRO" by Arthur Gareginyan](/images/projects/plugins/my-custom-styles-pro/screenshot-1.jpg)
 
-![WP plugin "My Custom Styles PRO" by Arthur Gareginyan](/images/my-custom-styles-pro/screenshot-2.jpg)
+![WP plugin "My Custom Styles PRO" by Arthur Gareginyan](/images/projects/plugins/my-custom-styles-pro/screenshot-2.jpg)
 
-![WP plugin "My Custom Styles PRO" by Arthur Gareginyan](/images/my-custom-styles-pro/screenshot-3.jpg)
+![WP plugin "My Custom Styles PRO" by Arthur Gareginyan](/images/projects/plugins/my-custom-styles-pro/screenshot-3.jpg)
 
-![WP plugin "My Custom Styles PRO" by Arthur Gareginyan](/images/my-custom-styles-pro/screenshot-4.jpg)
+![WP plugin "My Custom Styles PRO" by Arthur Gareginyan](/images/projects/plugins/my-custom-styles-pro/screenshot-4.jpg)
 
-![WP plugin "My Custom Styles PRO" by Arthur Gareginyan](/images/my-custom-styles-pro/screenshot-5.jpg)
+![WP plugin "My Custom Styles PRO" by Arthur Gareginyan](/images/projects/plugins/my-custom-styles-pro/screenshot-5.jpg)
 
 
 ### Translation

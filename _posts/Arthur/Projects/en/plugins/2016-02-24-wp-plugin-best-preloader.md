@@ -27,14 +27,14 @@ tags:
 
 ---
 
-![thumb](/images/best-preloader/icon.png)
+![thumb](/images/projects/plugins/best-preloader/icon.png)
 An easy to use WordPress plugin that gives you the ability to add the preloader (animated loading screen indicator) to your website in a simple and elegant way.
 
 <br><br>
 
 ### Description
 
-<img src="/images/best-preloader/banner.png" alt="WP Plugin &quot;Best Preloader&quot;" />
+<img src="/images/projects/plugins/best-preloader/banner.png" alt="WP Plugin &quot;Best Preloader&quot;" />
 
 This plugin give you finer control over preloader, it can be configured on the plugin settings page. You can select where the preloading page will be showed, such as home page or all pages. You can replace default preloader image with your own image. You can change the size of image, and etc. If you want more options then tell me and I will be happy to add it.
 
@@ -66,11 +66,11 @@ Also you don't need to edit any file of your theme, this plugin will do everythi
 ### Screenshots
 
 1. Plugin page:
-<img src="/images/best-preloader/screenshot-1.png" alt="WP plugin &quot;Best Preloader&quot; by Arthur Gareginyan" />
+<img src="/images/projects/plugins/best-preloader/screenshot-1.png" alt="WP plugin &quot;Best Preloader&quot; by Arthur Gareginyan" />
 2. Preloader displayed on the website with "Anarcho Notepad" theme. Used default image (spinner with text) and default (white) color of background:
-<img src="/images/best-preloader/screenshot-2.png" alt="WP plugin &quot;Best Preloader&quot; by Arthur Gareginyan" />
+<img src="/images/projects/plugins/best-preloader/screenshot-2.png" alt="WP plugin &quot;Best Preloader&quot; by Arthur Gareginyan" />
 3. Preloader displayed on the website with "Anarcho Notepad" theme. Used default image (spinner with text) and custom (black) color of background:
-<img src="/images/best-preloader/screenshot-3.png" alt="WP plugin &quot;Best Preloader&quot; by Arthur Gareginyan" />
+<img src="/images/projects/plugins/best-preloader/screenshot-3.png" alt="WP plugin &quot;Best Preloader&quot; by Arthur Gareginyan" />
 
 
 ### Translation

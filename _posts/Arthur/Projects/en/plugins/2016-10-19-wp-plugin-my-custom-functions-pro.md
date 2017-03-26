@@ -40,7 +40,7 @@ tags:
 
 ---
 
-![WP plugin "My Custom Functions PRO" by Arthur Gareginyan](/images/my-custom-functions-pro/preview.jpg)
+![WP plugin "My Custom Functions PRO" by Arthur Gareginyan](/images/projects/plugins/my-custom-functions-pro/preview.jpg)
 "My Custom Functions PRO" is a premium WordPress plugin that gives you the ability to easily and safely add your custom functions (PHP code) for execution in WordPress environment directly out of your WordPress Dashboard and without any need of an external editor. This is a "PRO" version of the plugin "My Custom Functions". More features, more power. Unlimited number of functions, Trigger for temporary disable the snippet, and Automatic backup of all functions to a file.
 
 It's purpose is to provide a familiar experience to WordPress users. No need anymore editing the functions.php file of your theme. Just add your PHP code in the field on the plugin page and this plugin will do the rest for you.
@@ -90,15 +90,15 @@ That’s it. You are already getting your functions working.
 
 ### Screenshots
 
-![WP plugin "My Custom Functions PRO" by Arthur Gareginyan](/images/my-custom-functions-pro/screenshot-1.jpg)
+![WP plugin "My Custom Functions PRO" by Arthur Gareginyan](/images/projects/plugins/my-custom-functions-pro/screenshot-1.jpg)
 
-![WP plugin "My Custom Functions PRO" by Arthur Gareginyan](/images/my-custom-functions-pro/screenshot-2.jpg)
+![WP plugin "My Custom Functions PRO" by Arthur Gareginyan](/images/projects/plugins/my-custom-functions-pro/screenshot-2.jpg)
 
-![WP plugin "My Custom Functions PRO" by Arthur Gareginyan](/images/my-custom-functions-pro/screenshot-3.jpg)
+![WP plugin "My Custom Functions PRO" by Arthur Gareginyan](/images/projects/plugins/my-custom-functions-pro/screenshot-3.jpg)
 
-![WP plugin "My Custom Functions PRO" by Arthur Gareginyan](/images/my-custom-functions-pro/screenshot-4.jpg)
+![WP plugin "My Custom Functions PRO" by Arthur Gareginyan](/images/projects/plugins/my-custom-functions-pro/screenshot-4.jpg)
 
-![WP plugin "My Custom Functions PRO" by Arthur Gareginyan](/images/my-custom-functions-pro/screenshot-5.jpg)
+![WP plugin "My Custom Functions PRO" by Arthur Gareginyan](/images/projects/plugins/my-custom-functions-pro/screenshot-5.jpg)
 
 
 ### Translation

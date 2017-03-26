@@ -39,14 +39,14 @@ tags:
 
 ---
 
-![thumb](/images/my-custom-functions/icon.png)
+![thumb](/images/projects/plugins/my-custom-functions/icon.png)
 An easy to use WordPress plugin that gives you the ability to easily and safely add your custome functions (PHP code) for execution in WordPress environment directly out of your WordPress Dashboard and without any need of an external editor. 
 
 <br><br>
 
 ### Description
 
-<img src="/images/my-custom-functions/banner.png" alt="WP Plugin &quot;My Custom Functions&quot;" />
+<img src="/images/projects/plugins/my-custom-functions/banner.png" alt="WP Plugin &quot;My Custom Functions&quot;" />
 
 It's purpose is to provide a familiar experience to WordPress users. No need anymore editing the functions.php file of your theme. Just add your PHP code in the field on the plugin page and this plugin will do the rest for you.This is a simple and perfect tool to use as your site's functionality plugin.
 It's really useful in case of any theme update, because your custom PHP code would never be overwritten. Your custom PHP code will keep on working, no matter how many times you upgrade or switch your theme.On the plugin page you find the PHP editor powered by CodeMirror. It have syntax highlighting and line numbering options. Also this editor support a tab indentation. If you want more options then tell me and I will be happy to add it.
@@ -86,13 +86,13 @@ That’s it. You are already getting your functions working.
 ### Screenshots
 
 1. Plugin page:
-<img src="/images/my-custom-functions/screenshot-1.png" alt="WP plugin &quot;My Custom Functions&quot; by Arthur Gareginyan" />
+<img src="/images/projects/plugins/my-custom-functions/screenshot-1.png" alt="WP plugin &quot;My Custom Functions&quot; by Arthur Gareginyan" />
 2. Plugin page with custom code added:
-<img src="/images/my-custom-functions/screenshot-2.png" alt="WP plugin &quot;My Custom Functions&quot; by Arthur Gareginyan" />
+<img src="/images/projects/plugins/my-custom-functions/screenshot-2.png" alt="WP plugin &quot;My Custom Functions&quot; by Arthur Gareginyan" />
 3. Success message:
-<img src="/images/my-custom-functions/screenshot-3.png" alt="WP plugin &quot;My Custom Functions&quot; by Arthur Gareginyan" />
+<img src="/images/projects/plugins/my-custom-functions/screenshot-3.png" alt="WP plugin &quot;My Custom Functions&quot; by Arthur Gareginyan" />
 4. "Fatal error" message:
-<img src="/images/my-custom-functions/screenshot-4.png" alt="WP plugin &quot;My Custom Functions&quot; by Arthur Gareginyan" />
+<img src="/images/projects/plugins/my-custom-functions/screenshot-4.png" alt="WP plugin &quot;My Custom Functions&quot; by Arthur Gareginyan" />
 
 
 ### Translation

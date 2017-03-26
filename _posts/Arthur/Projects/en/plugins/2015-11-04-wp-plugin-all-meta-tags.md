@@ -65,14 +65,14 @@ tags:
 
 ---
 
-![thumb](/images/all-meta-tags/icon.png)
+![thumb](/images/projects/plugins/all-meta-tags/icon.png)
 An easy to use and lightweight WordPress plugin that gives you the ability to easily add your Meta Tags to the head section of your website.
 
 <br><br>
 
 ### Description
 
-<img src="/images/all-meta-tags/banner.png" alt="WP Plugin &quot;All Meta Tags&quot;" />
+<img src="/images/projects/plugins/all-meta-tags/banner.png" alt="WP Plugin &quot;All Meta Tags&quot;" />
 
 No need anymore to editing a files of your theme or plugins in order to add meta tags. You can add they on plugins settings page. Just add your ID (the meta key "content" value from your verification code) or/and the URL to the social media profile of the publisher in the field on the plugin page and this plugin will do the rest for you. It adds required meta tags to the head section of your website automatically, without changing any of your themes file and without slowing down your website. It's really useful in case of any theme update, because your meta tags would never be lost! Your meta tags will keep on working, no matter how many times you upgrade or switch your theme and plugins.
 
@@ -127,7 +127,7 @@ If you want more options then tell me and I will be happy to add it.
 ### Screenshot
 
 1. Plugin page:
-<img src="/images/all-meta-tags/screenshot-1.png" alt="WP plugin &quot;All Meta Tags&quot; by Arthur Gareginyan" />
+<img src="/images/projects/plugins/all-meta-tags/screenshot-1.png" alt="WP plugin &quot;All Meta Tags&quot; by Arthur Gareginyan" />
 
 
 
