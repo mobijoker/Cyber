@@ -5,8 +5,8 @@ title: 'WP Theme: “Anarcho Notepad”'
 date: 2013-09-13
 author: Arthur Gareginyan
 layout: post
-permalink: /web/anarcho-notepad.html
-redirect_from: /anarcho-notepad.html
+permalink: /anarcho-notepad.html
+redirect_from: /web/anarcho-notepad.html
 categories:
   - web
   - wordpress

@@ -6,8 +6,8 @@ date: 2013-09-13
 author: Arthur Gareginyan
 translator: Arthur Gareginyan
 layout: post
-permalink: /ru/web/anarcho-notepad.html
-redirect_from: /ru/anarcho-notepad.html
+permalink: /ru/anarcho-notepad.html
+redirect_from: /ru/web/anarcho-notepad.html
 categories:
   - web
   - wordpress
