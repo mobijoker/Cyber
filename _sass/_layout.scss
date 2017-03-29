@@ -172,7 +172,13 @@ table {
     box-shadow: 0 3px 10px #838383;
     font-size: 21px;
 }
-.read-more:hover,
+.read-more:hover {
+    color: #17c6ff;
+    -o-transition: .5s;
+    -ms-transition: .5s;
+    -moz-transition: .5s;
+    -webkit-transition: .5s;
+}
 .read-more:visited {
     color: black;
 }
@@ -203,7 +209,11 @@ table {
             color: #494949;
         }
         a:hover {
-            color: #979797;
+            color: #17c6ff;
+            -o-transition: .5s;
+            -ms-transition: .5s;
+            -moz-transition: .5s;
+            -webkit-transition: .5s;
         }
     }
 
@@ -228,7 +238,11 @@ table {
         color: #494949;
     }
     a:hover {
-        color: #979797;
+        color: #17c6ff;
+        -o-transition: .5s;
+        -ms-transition: .5s;
+        -moz-transition: .5s;
+        -webkit-transition: .5s;
     }
 }
 .sidebar-item-title {
