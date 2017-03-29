@@ -30,7 +30,7 @@ img.website-logo {
 
 В **My Cyber Universe** мы специализируемся на веб дизайне и разработке программ и веб приолжений/сайтов, но you’ll also see us contributing tutorials, новости и opinion pieces from time to time. Главная цель это быть источником для каждого кто хочет изучать веб дизайн и разработку программ и веб приложений/сайтов. 
 
-Мы также предлагаем WordPress плагины и темы такие как [My Custom Functions PRO](/web/wp-plugin-my-custom-functions-pro.html) и [Anarcho Notepad](/ru/web/anarcho-notepad.html) для тех из вас кто ищет возможности улучшить их вебсайт. Все наши разработки вы можете найти на странице [Наши программы](/ru/our-programms.html).
+Мы также предлагаем WordPress плагины и темы такие как [My Custom Functions PRO](https://www.arthurgareginyan.com/plugin-my-custom-functions-pro.html) и [Author's Notepad](https://www.arthurgareginyan.com/theme-authors-notepad.html) для тех из вас кто ищет возможности улучшить их вебсайт. Все наши разработки вы можете найти на странице [Наши программы](/ru/our-programms.html).
 
 **My Cyber Universe** уже три года и он имеет устойчивый рост трафика. Вот некоторые из наших достижений за последние годы:
 

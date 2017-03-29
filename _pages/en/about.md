@@ -30,7 +30,7 @@ Welcome to **MyCyberUniverse.com**, thanks for taking the time to stop by. We ho
 
 At **My Cyber Universe** we specialize in web design, software and web development, but you’ll also see us contributing tutorials, news and opinion pieces from time to time. Main goal is to be the source for anyone who wants to learn the web design, software and web development. 
 
-We also offer WordPress plugins and themes such as the [My Custom Functions PRO](/web/wp-plugin-my-custom-functions-pro.html) and [Anarcho Notepad](/web/anarcho-notepad.html) for those of you who are looking to improve their website. All our developments you can find on the page [Our programms](/our-programms.html).
+We also offer WordPress plugins and themes such as the [My Custom Functions PRO](https://www.arthurgareginyan.com/plugin-my-custom-functions-pro.html) and [Author's Notepad](https://www.arthurgareginyan.com/theme-authors-notepad.html) for those of you who are looking to improve their website. All our developments you can find on the page [Our programms](/our-programms.html).
 
 **My Cyber Universe** is three year old and it have steady rise in traffic. Here are some of our achievements during the past years:
 
