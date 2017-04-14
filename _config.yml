@@ -1,7 +1,10 @@
-##### WEBSITE SETTINGS #####
+##################################################
+#####            WEBSITE SETTINGS            #####
+##################################################
 
 
-##### Website Title, Tagline and Description
+##### Website Title, Tagline and Description #####
+##################################################
 title: My Cyber Universe
 tagline: Back to the future!
 description: At My Cyber Universe we specialize in web design, software and web development, but you’ll also see us contributing tutorials, news and opinion pieces from time to time. Main goal is to be the source for anyone who wants to learn the web design, software and web development.
@@ -9,19 +12,23 @@ description: At My Cyber Universe we specialize in web design, software and web 
 
 
 ##### The base hostname & protocol for the website
+##################################################
 url: "http://mycyberuniverse.com"
 
 ##### The subpath of the website, e.g. /blog
+##################################################
 baseurl: ""
 
 
 
 ##### Syntax Highlighter
+##################################################
 highlighter: rouge
 
 
 
 ##### Pages (in EN and RU languages)
+##################################################
 index:
     en: index.html
     ru: _pages/ru/index.html
@@ -47,6 +54,7 @@ feed:
 
 
 ##### Data for the jekyll-seo-tag plugin
+##################################################
 logo: /images/WEBSITE/website-logo.png
 twitter:
     username: AGareginyan
@@ -79,12 +87,14 @@ exclude: [vendor]
 
 
 ##### JavaScript files
+##################################################
 jsarray:
     - TEST.js
 
 
 
 ##### Enabled plugins
+##################################################
 gems:
     - jemoji
     - jekyll-redirect-from
