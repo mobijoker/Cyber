@@ -3,7 +3,8 @@
 ##################################################
 
 
-##### Website Title, Tagline and Description #####
+##################################################
+##### Website Title, Tagline and Description
 ##################################################
 title: My Cyber Universe
 tagline: Back to the future!
@@ -11,22 +12,28 @@ description: At My Cyber Universe we specialize in web design, software and web 
 
 
 
+##################################################
 ##### The base hostname & protocol for the website
 ##################################################
 url: "http://mycyberuniverse.com"
 
+
+
+##################################################
 ##### The subpath of the website, e.g. /blog
 ##################################################
 baseurl: ""
 
 
 
+##################################################
 ##### Syntax Highlighter
 ##################################################
 highlighter: rouge
 
 
 
+##################################################
 ##### Pages (in EN and RU languages)
 ##################################################
 index:
@@ -53,6 +60,7 @@ feed:
 
 
 
+##################################################
 ##### Data for the jekyll-seo-tag plugin
 ##################################################
 logo: /images/WEBSITE/website-logo.png
@@ -86,6 +94,8 @@ include: ['_pages']
 exclude: [vendor]
 
 
+
+##################################################
 ##### JavaScript files
 ##################################################
 jsarray:
@@ -93,6 +103,8 @@ jsarray:
 
 
 
+
+##################################################
 ##### Enabled plugins
 ##################################################
 gems:
