@@ -1,22 +1,42 @@
 <div class="top-banner">
-    <a class="post-link" href="" target="_blank" rel="nofollow">...</a>
+    {% assign posts=site.posts | where:"lang", post.lang %}
+    {% if posts[0].lang == "ru" %}
+        Пожалуйста, отключите AdBlock на моём сайте<br>
+        <span>MyCyberUniverse.com существует только за счёт этих объявлений. Спасибо! :)</span>
+    {% elsif posts[0].lang == "en" %}
+        Please disable AdBlock on my site<br>
+        <span>MyCyberUniverse.com exists only at the expense of these ads. Thank you! :)</span>
+    {% endif %}
+
+    {% assign pages=site.pages | where:"lang", page.lang %}
+    {% if pages[0].lang == "ru" %}
+        Пожалуйста, отключите AdBlock на моём сайте<br>
+        <span>MyCyberUniverse.com существует только за счёт этих объявлений. Спасибо! :)</span>
+    {% elsif pages[0].lang == "en" %}
+        Please disable AdBlock on my site<br>
+        <span>MyCyberUniverse.com exists only at the expense of these ads. Thank you! :)</span>
+    {% endif %}
 </div>
 <br>
 
 <style>
 .top-banner {
+    text-align: center;
+    color: #333;
     margin: 0 10px;
-    padding-right: 30px;
+    padding-right: 26px;
     padding-left: 30px;
     padding: 20px;
-    background-color: #fff;
+    background-color: #ffb8ba;
     -webkit-box-shadow: 0 3px 10px rgb(131, 131, 131);
     -moz-box-shadow: 0 3px 10px rgb(131, 131, 131);
     box-shadow: 0 3px 10px rgb(131, 131, 131);
+    border: solid 1px #ffdbd9;
+    border-radius: 10px;
 }
-.top-banner .post-link {
-    font-size: 18px;
+.top-banner span {
+    font-size: 20px;
     text-align: center;
-    color: rgb(255, 135, 133);
+    color: #333;
 }
 </style>
