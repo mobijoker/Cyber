@@ -40,7 +40,7 @@ We also offer WordPress plugins and themes such as the [My Custom Functions PRO]
 * Published posts: **160+**
 * Comments: **300+** Thanks!
 
-This is latest stats from the November 2016 report (received from Google Analytics). 
+<s>This is latest stats from the November 2016 report (received from Google Analytics).</s>
 
 <br>
 
