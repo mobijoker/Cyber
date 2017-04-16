@@ -34,7 +34,7 @@ Sometimes you may want to create a separate style sheet and/or JavaScript file f
 
 To load a style sheet and/or JavaScript file in the head section (header) of admin page/s we can use the `admin_enqueue_scripts` or the `wp_enqueue_scripts` action hook.
 
-Depending on the purpose, you can load scripts on all pages of the web-site, on all pages of the Admin Panel or on a specific page of Admin Panel.
+Depending on the purpose, you can load scripts on all pages of the website, on all pages of the Admin Panel or on a specific page of Admin Panel.
 
 **1.** Load scripts everywhere on your website:
 
