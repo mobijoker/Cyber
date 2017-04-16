@@ -1,7 +1,7 @@
 <div class="top-banner">
     {% assign posts=site.posts | where:"lang", post.lang %}
     {% if posts[0].lang == "ru" %}
-        Пожалуйста, отключите AdBlock на моём сайте<br>
+        Пожалуйста, отключите AdBlock на нашем сайте<br>
         <span>MyCyberUniverse.com существует только за счёт этих объявлений. Спасибо! :)</span>
         <style>
             .post,
@@ -10,13 +10,13 @@
             }
         </style>
     {% elsif posts[0].lang == "en" %}
-        Please disable AdBlock on my site<br>
+        Please disable AdBlock on our site<br>
         <span>MyCyberUniverse.com exists only at the expense of these ads. Thank you! :)</span>
     {% endif %}
 
     {% assign pages=site.pages | where:"lang", page.lang %}
     {% if pages[0].lang == "ru" %}
-        Пожалуйста, отключите AdBlock на моём сайте<br>
+        Пожалуйста, отключите AdBlock на нашем сайте<br>
         <span>MyCyberUniverse.com существует только за счёт этих объявлений. Спасибо! :)</span>
         <style>
             .post,
@@ -25,7 +25,7 @@
             }
         </style>
     {% elsif pages[0].lang == "en" %}
-        Please disable AdBlock on my site<br>
+        Please disable AdBlock on our site<br>
         <span>MyCyberUniverse.com exists only at the expense of these ads. Thank you! :)</span>
     {% endif %}
 </div>
