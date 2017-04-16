@@ -100,7 +100,7 @@ exclude: [vendor]
 ##################################################
 jsarray:
     - TEST.js
-    - sticky-kit.js
+    - sticky-kit.min.js
 
 
 
