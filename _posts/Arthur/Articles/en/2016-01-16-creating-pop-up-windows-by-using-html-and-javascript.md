@@ -62,6 +62,7 @@ Parameter values:
     <th>Feature</th>
     <th>Description</th>
   </tr>
+  <tr>
     <th>directories=yes|no|1|0</th>
     <th>Obsolete. Whether or not to add directory buttons. Default is yes. IE only</th>
   </tr>
@@ -103,6 +104,8 @@ Parameter values:
   </tr>
 </table>
 
+
+<br>
 
 **Step 2.** Add the link to any objects that you want to act as a pop-up window.
 
