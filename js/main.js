@@ -12,6 +12,8 @@
 jQuery(document).ready(function($) {
 
     "use strict";
+                       
+    //$("#sidebar").stick_in_parent();
 
     //var language = ( navigator.language || navigator.browserLanguage ).split('-')[0];
 
