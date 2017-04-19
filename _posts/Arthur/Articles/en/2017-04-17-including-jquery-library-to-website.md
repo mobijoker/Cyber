@@ -53,7 +53,7 @@ And here is an example of a web template with the jQuery `<script>` tag included
 			<title>Your Project</title>
 			<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 			<script src="//ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-			<style type="text/css">...</style>
+			<link rel="stylesheet" type="text/css" href="style.css">
 		</head>
 	<body>
 		...
