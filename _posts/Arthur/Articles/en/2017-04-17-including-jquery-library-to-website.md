@@ -34,7 +34,7 @@ If we would like to create custom JavaScript functionality using the jQuery libr
 We will include the latest (for April 2017 it's a v3.2.1) jQuery library to our website. For this we need to find the file of our project that is responsible for the HEAD section of our website. Depending on your website platform (WordPress, Joomla, Jekyll, and etc) this file may have the name such as `head.php`, `index.html`, `default.html`, or another name. Then we place the following code before the closing `</head>` tag in this file:
 
 ```html
-<script src="//ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 ```
 
 This will ensure that the jQuery library will be loaded from the Google CDN (Content Delivery Network) and included to every page of our website.
@@ -52,7 +52,7 @@ And here is an example of a web template with the jQuery `<script>` tag included
 		<head>
 			<title>Your Project</title>
 			<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-			<script src="//ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+			<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 			<link rel="stylesheet" type="text/css" href="style.css">
 		</head>
 	<body>
