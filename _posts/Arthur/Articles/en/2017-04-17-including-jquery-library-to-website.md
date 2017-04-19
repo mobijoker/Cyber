@@ -48,7 +48,7 @@ And here is an example of a web template with the jQuery `<script>` tag included
 
 ```
 <!doctype html>
-	<html>
+<html>
 		<head>
 			<title>Your Project</title>
 			<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
