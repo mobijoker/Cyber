@@ -104,7 +104,7 @@
         <div class="inside">
             <img src="http://mycyberuniverse.com/public-files/dynamic-content/images/authors-notepad-preview.png">
             <p>With the <strong>Author's Notepad</strong> theme you'll get the following:</p>
-            <ul>
+            <ul class="checked">
                 <li>&#9989; Fancy & Pixel-perfect design</li>
                 <li>&#9989; Layout optimized for mobile devices</li>
                 <li>&#9989; Lightweight & Secure code</li>
@@ -126,7 +126,7 @@
         <div class="inside">
             <img src="http://mycyberuniverse.com/public-files/dynamic-content/images/simple-notepad-preview.png">
             <p>With the <strong>Simple Notepad</strong> theme you'll get the following:</p>
-            <ul>
+            <ul class="checked">
                 <li>&#9989; Fancy & Pixel-perfect design</li>
                 <li>&#9989; Layout optimized for mobile devices</li>
                 <li>&#9989; Lightweight & Secure code</li>
@@ -148,9 +148,8 @@
         #tab-family .notice {
             margin-top: 20px;
         }
-        #tab-family .notice p {
-            font-family: Georgia, "Times New Roman", "Bitstream Charter", Times, serif;
-            font-size: 15px;
+        #tab-family .checked li:before {
+            content: "";
         }
         #tab-family .separator {
             border-top: 1px solid #dddddd;
