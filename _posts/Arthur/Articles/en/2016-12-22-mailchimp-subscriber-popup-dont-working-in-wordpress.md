@@ -58,11 +58,13 @@ In order to get it work we need to add the `jquery.js` file to the root director
  
 ![](/images/articles/mailchimp-subscriber-popup-not-working-in-wordpress/3.png)
 
-**Step 4.** Create an empty text file with the name `jquery.js`. Open it in the text editor and paste the following code into it:
+**Step 4.** Create an empty plain text file with the name `jquery.js` on your computer. Open it in the text editor and paste the following code into it:
 
 ```js
-jQuery.getScript("/wp-includes/js/jquery/jquery.js").done(function(){ })
+jQuery.getScript("/wp-includes/js/jquery/jquery.js").done(function(){ });
 ```
+
+> **Note:** If you have the Mac computer then just use the "TextEdit" app that ships with every MacOS in order to create this file.
 
 **Step 5.** Using FTP or your cPanel File Manager move the `jquery.js` file (that you created on step 4) to the root directory of your website. Usually the root directory is a directory with name `www` if you use cPanel, or `httpdocs` if you use Parallels Plesk Panel.
 
