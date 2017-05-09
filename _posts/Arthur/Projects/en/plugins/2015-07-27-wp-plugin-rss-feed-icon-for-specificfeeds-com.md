@@ -48,14 +48,20 @@ To use, enter your personal link from SpecificFeeds.com, choose icon and click "
 
 ### Features
 
-* Responsive
-* Retina support
-* Cross Browser Compatible (work smooth in any modern browser)
+* Lightweight and fast
+* Secure code with using clear coding standards
+* Intuitive interface with many settings
+* Cross browser compatible (work smooth in any modern browser)
+* Compatible with all WordPress themes
+* RTL compatible (right to left)
+* Translation ready
+* Published on [WordPress.org](http://wordpess.org/)
+
+**Current features:**
+
 * Simple shortcode for displaying the SpecificFeeds icon
 * 13 official icons from SpecificFeeds.com
 * Ability to set the size of icon
-* Ready for translation (POT file included)
-* Published on [WordPress.org](http://wordpess.org/)
 
 **Coming soon:**
 

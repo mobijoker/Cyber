@@ -50,7 +50,6 @@ tags:
 
 **Текущие:**
 
-   * Hand-coded, no WYSIWYG stuff
    * HTML5 Inside
    * CSS3 Inside
    * Легко настроить – Theme Customizer
@@ -68,7 +67,6 @@ tags:
    * Произвольный фон
    * Произвольное меню
    * Готово к переводу (переведено на 12 языков)
-   * Опубликовано в репозитории [WordPress.org](http://wordpess.org/)
 
 **Скоро:**
 	

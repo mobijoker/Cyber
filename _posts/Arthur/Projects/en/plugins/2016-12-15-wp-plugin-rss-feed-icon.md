@@ -51,16 +51,20 @@ Also you don't need to edit any file of your theme, this plugin will do everythi
 
 ### Features
 
+* Lightweight and fast
+* Secure code with using clear coding standards
+* Intuitive interface with many settings
+* Cross browser compatible (work smooth in any modern browser)
+* Compatible with all WordPress themes
+* RTL compatible (right to left)
+* Translation ready
+* Published on [WordPress.org](http://wordpess.org/)
+
 **Current features:**
 
-* Responsive
-* Retina support
-* Cross Browser Compatible (work smooth in any modern browser)
 * Simple shortcode for displaying the RSS feed icon
 * 8 integrated icons from IconFinder.com
 * Ability to upload your own icon
-* Ready for translation (POT file included)
-* Published on [WordPress.org](http://wordpess.org/)
 
 **Coming soon:**
 

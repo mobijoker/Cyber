@@ -64,9 +64,17 @@ That’s it. You are already getting your custom CSS working.
 
 ### Features
 
+* Lightweight and fast
+* Secure code with using clear coding standards
+* Intuitive interface with many settings
+* Cross browser compatible (work smooth in any modern browser)
+* Compatible with all WordPress themes
+* RTL compatible (right to left)
+* Translation ready
+* Free version published on [WordPress.org](http://wordpess.org/)
+
 **Current features:**
 
-* Responsive & Mobile optimized settings page
 * Unlimited number of snippets
 * CSS minifier
 * Automatic backup of all snippets to a file
@@ -77,9 +85,7 @@ That’s it. You are already getting your custom CSS working.
 * Editor allow for tab indentation
 * Button for collapse/expand the field with code
 * Sidebar items can be collapsed or expanded
-* Ready for translation (POT file included)
 * Well documented
-* Free version published on [WordPress.org](http://wordpress.org/)
 
 **Coming soon:**
 

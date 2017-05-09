@@ -64,9 +64,17 @@ That’s it. You are already getting your functions working.
 
 ### Features
 
+* Lightweight and fast
+* Secure code with using clear coding standards
+* Intuitive interface with many settings
+* Cross browser compatible (work smooth in any modern browser)
+* Compatible with all WordPress themes
+* RTL compatible (right to left)
+* Translation ready
+* Published on [WordPress.org](http://wordpess.org/)
+
 **Current features:**
 
-* Responsive & Mobile optimized settings page
 * Checks the entered code for fatal errors (simple checks)
 * Trigger for temporary disable the custom functions
 * Easy disable option for WSOD
@@ -74,8 +82,6 @@ That’s it. You are already getting your functions working.
 * Line numbering
 * Active line highlighting
 * Editor allow for tab indentation
-* Ready for translation (POT file included)
-* Published on [WordPress.org](http://wordpess.org/)
 
 **Coming soon:**
 * Reload the settings page at same position after pushing the save button

@@ -50,17 +50,23 @@ Also you don't need to edit any file of your theme, this plugin will do everythi
 
 ### Features
 
-* Responsive
-* Retina support
-* Cross Browser Compatible (work smooth in any modern browser)
+* Lightweight and fast
+* Secure code with using clear coding standards
+* Intuitive interface with many settings
+* Cross browser compatible (work smooth in any modern browser)
+* Compatible with all WordPress themes
+* RTL compatible (right to left)
+* Translation ready
+* Published on [WordPress.org](http://wordpess.org/)
+
+**Current features:**
+
 * Background color changer (Unlimited colors)
 * Changeable preloader image
 * Have default animated GIF preloader image
 * Option to enable/disable preloader
 * Option to display preloader in full website or in Home page only
 * Option to set the delay before the preloader appears
-* Ready for translation (POT file included)
-* Published on [WordPress.org](http://wordpess.org/)
 
 
 ### Screenshots

@@ -77,14 +77,22 @@ It give you finer control over buttons. You can configure they on plugins settin
 
 ### Features
 
+* Lightweight and fast
+* Secure code with using clear coding standards
+* Intuitive interface with many settings
+* Cross browser compatible (work smooth in any modern browser)
+* Compatible with all WordPress themes
+* RTL compatible (right to left)
+* Translation ready
+* Published on [WordPress.org](http://wordpess.org/)
+
+**Current features:**
+
 * Beautiful icons
-* Plugin settings page with many settings
 * Preview on plugin settings page
 * Bootstrap Tooltips with name of the social media above every button
 * Shortcode for add social media follow buttons from Post/Page Editor
 * PHP/HTML code for add social media follow buttons directly in your theme files
-* Ready for translation (POT file included)
-* Published on [WordPress.org](http://wordpess.org/)
 
 **Supported social media and links:**
 
@@ -152,7 +160,7 @@ Simple and easy!
 
 7.  All social media buttons :
 <img src="/images/projects/plugins/social-media-buttons-toolbar/screenshot-7.png" alt="WP plugin &quot;Social Media Follow Buttons Bar&quot; by Arthur Gareginyan" />
-8.  Bootstrap tooltip with name of the social media displayed above button when you hover over the button :
+8.  Tooltip with name of the social media displayed above button when you hover over the button :
 <img src="/images/projects/plugins/social-media-buttons-toolbar/screenshot-8.png" alt="WP plugin &quot;Social Media Follow Buttons Bar&quot; by Arthur Gareginyan" />
 2.  Social Media Follow Buttons Bar displayed below the content of a post (Twenty Sixteen theme) :
 <img src="/images/projects/plugins/social-media-buttons-toolbar/screenshot-2.png" alt="WP plugin &quot;Social Media Follow Buttons Bar&quot; by Arthur Gareginyan" />

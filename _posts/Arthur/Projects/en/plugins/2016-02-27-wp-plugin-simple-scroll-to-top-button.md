@@ -80,10 +80,17 @@ Also you don't need to edit any file of your theme, this plugin will do everythi
 
 ### Features
 
-* Responsive
-* Retina display support
-* Cross Browser Compatible (work smooth in any modern browser)
-* Compatible with all WordPress themes.
+* Lightweight and fast
+* Secure code with using clear coding standards
+* Intuitive interface with many settings
+* Cross browser compatible (work smooth in any modern browser)
+* Compatible with all WordPress themes
+* RTL compatible (right to left)
+* Translation ready
+* Published on [WordPress.org](http://wordpess.org/)
+
+**Current features:**
+
 * FontAwesome integrated (available 40 combinations of icons)
 * Background color changer (Unlimited colors)
 * Symbol color changer (Unlimited colors)
@@ -93,8 +100,6 @@ Also you don't need to edit any file of your theme, this plugin will do everythi
 * Option to display button in full website or in Home page only
 * Auto hide button on top of webpage
 * Live preview
-* Ready for translation (POT file included)
-* Published on [WordPress.org](http://wordpess.org/)
 
 
 ### Screenshots

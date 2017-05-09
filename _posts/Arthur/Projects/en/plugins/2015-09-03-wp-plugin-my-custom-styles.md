@@ -69,15 +69,22 @@ That’s it. You are already getting your custom CSS working.
 
 ### Features
 
+* Lightweight and fast
+* Secure code with using clear coding standards
+* Intuitive interface with many settings
+* Cross browser compatible (work smooth in any modern browser)
+* Compatible with all WordPress themes
+* RTL compatible (right to left)
+* Translation ready
+* Published on [WordPress.org](http://wordpess.org/)
+
 **Current features:**
 
-* Responsive & Mobile optimized settings page
 * Trigger for temporary disable the custom CSS code
 * Syntax highlighting (by CodeMirror)
 * Line numbering
 * Active line highlighting
 * Editor allow for tab indentation
-* Ready for translation (POT file included)
 
 **Coming soon:**
 

@@ -79,13 +79,19 @@ If you want more options then tell me and I will be happy to add it.
 
 ### Features
 
-* Light weight
-* User-friendly
-* No configuration required
+* Lightweight and fast
+* Secure code with using clear coding standards
+* Intuitive interface with many settings
+* Cross browser compatible (work smooth in any modern browser)
+* Compatible with all WordPress themes
+* RTL compatible (right to left)
+* Translation ready
+* Published on [WordPress.org](http://wordpess.org/)
+
+**Current features:**
+
 * Inserts scripts in beginning or/and end of <head> tag
 * Inserts scripts in beginning or/and end of footer
-* Ready for translation (POT file included)
-* Published on [WordPress.org](http://wordpess.org/)
 
 
 ### Supported

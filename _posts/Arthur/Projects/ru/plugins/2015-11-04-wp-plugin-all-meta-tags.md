@@ -95,7 +95,16 @@ If you want more options then tell me and I will be happy to add it.
 
 ### Возможности
 
-**Текущие:**
+* Лёгкий и быстрый
+* Безопасный код с применением чётких стандартов кодирования
+* Интуитивно понятный интерфейс с множеством настроек
+* Кросс-браузерная совместимость (работает гладко в любом современном браузере)
+* Совместим с всеми WordPress темами
+* Совместим с RTL (справа налево)
+* Переведён на русский язык
+* Опубликовано на [WordPress.org](http://wordpess.org/)
+
+**Текущие возможности:**
 
 * Google+ publisher link
 * Facebook publisher meta tag
@@ -115,8 +124,6 @@ If you want more options then tell me and I will be happy to add it.
 * Meta tag with name="copyright"
 * Meta tag with name="description" (Global, only for Static Home Page and only for Blog Page)
 * Meta tag with name="keywords" (Global, only for Static Home Page and only for Blog Page)
-* Ready for translation (POT file included)
-* Опубликовано в репозитории [WordPress.org](http://wordpess.org/)
 
 **Скоро:**
 

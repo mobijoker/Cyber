@@ -92,6 +92,15 @@ If you want more options then tell me and I will be happy to add it.
 
 ### Features
 
+* Lightweight and fast
+* Secure code with using clear coding standards
+* Intuitive interface with many settings
+* Cross browser compatible (work smooth in any modern browser)
+* Compatible with all WordPress themes
+* RTL compatible (right to left)
+* Translation ready
+* Published on [WordPress.org](http://wordpess.org/)
+
 **Current features:**
 
 * Google+ publisher link
@@ -112,8 +121,6 @@ If you want more options then tell me and I will be happy to add it.
 * Meta tag with name="copyright"
 * Meta tag with name="description" (Global, only for Static Home Page and only for Blog Page)
 * Meta tag with name="keywords" (Global, only for Static Home Page and only for Blog Page)
-* Ready for translation (POT file included)
-* Published on [WordPress.org](http://wordpess.org/)
 
 **Coming soon:**
 

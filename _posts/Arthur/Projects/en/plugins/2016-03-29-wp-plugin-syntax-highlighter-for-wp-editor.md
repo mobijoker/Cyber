@@ -53,16 +53,22 @@ This plugin is just plug and play, no tedious configurations or hacks, just inst
 
 ### Features
 
+* Lightweight and fast
+* Secure code with using clear coding standards
+* Intuitive interface with many settings
+* Cross browser compatible (work smooth in any modern browser)
+* Compatible with all WordPress themes
+* RTL compatible (right to left)
+* Translation ready
+* Published on [WordPress.org](http://wordpess.org/)
+
 **Current features:**
 
 * Syntax highlighting (by CodeMirror)
 * Changeable color theme (36 variants)
 * Line numbering
 * Editor allow for tab indentation
-* Easy to use Settings Page
 * Live preview on Settings Page
-* Ready for translation (POT file included)
-* Published on [WordPress.org](http://wordpess.org/)
 
 Got more ideas? Tell me!
 
