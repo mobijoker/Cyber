@@ -1,4 +1,9 @@
-var e=document.createElement('div');
-e.id='NMHOTUQiztoK';
-e.style.display='none';
-document.body.appendChild(e);
+
+(function() {
+ 
+ var e=document.createElement('div');
+ e.id='test-block';
+ e.style.display='none';
+ document.body.appendChild(e);
+ 
+})();
