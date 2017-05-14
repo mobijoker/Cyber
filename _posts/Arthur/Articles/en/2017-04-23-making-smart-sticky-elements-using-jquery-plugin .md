@@ -48,7 +48,7 @@ We will include the latest version (for April 2017 it’s a v1.1.2) of the Stick
 
 > The compressed version of the `sticky-kit.js` script is named `sticky-kit.min.js`.
 
-Now we need to find the file of our theme that is responsible for the HEAD section of your website. Depending on your website platform (WordPress, Joomla, Jekyll, and etc) this file may have the name such as `head.php`, `index.html`, `default.html`, or another name. Then we place the following code before the closing `</head>` tag in this file:
+Now we need to find the file of our theme that is responsible for the HEAD section of our website. Depending on your website platform (WordPress, Joomla, Jekyll, and etc) this file may have the name such as `head.php`, `index.html`, `default.html`, or another name. Then we place the following code before the closing `</head>` tag in this file:
 
 ```html
 <script src="/sticky-kit.min.js"></script>
