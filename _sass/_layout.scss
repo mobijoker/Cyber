@@ -421,8 +421,11 @@ article a:visited {
 }
 @include media-query( $on-laptop ) {
     .wrapper .post,
-    .wrapper .home,
     .post-comments {
+        width: -webkit-calc(100% - 80px ) !important;
+        width:         calc(100% - 80px ) !important;
+    }
+    .wrapper .home {
         width: -webkit-calc(100% - 20px ) !important;
         width:         calc(100% - 20px ) !important;
     }
