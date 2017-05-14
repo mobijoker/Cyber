@@ -525,7 +525,8 @@ article {
  * Language trigger
  */
 .lang-trigger {
-    right: 10px;
+    position: absolute;
+    right: 5px;
     color: orange;
     background-color: #424242;
     margin-top: -5px;
