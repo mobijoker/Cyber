@@ -13,7 +13,7 @@ jQuery(document).ready(function($) {
 
     "use strict";
 
-    if ( $('#test-block').length > 0 ) ) {
+    if ( $('#test-block').length == 0 ) ) {
         $('#top-banner').show();
     }
 
