@@ -7,15 +7,15 @@
     //document.getElementsByClassName("test-lang")[0].innerHTML = "language";
     //document.getElementById("test-lang").innerHTML = "language";
 
-    if ( !document.getElementById('test-block') ) {
-        document.getElementById('top-banner').style.display='block';
-    }
-
 })();
 
 jQuery(document).ready(function($) {
 
     "use strict";
+
+    if ( $('#test-block').length > 0 ) ) {
+        $('#top-banner').show();
+    }
 
     //$("#sidebar").stick_in_parent();
 
