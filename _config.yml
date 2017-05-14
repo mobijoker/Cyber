@@ -99,7 +99,8 @@ exclude: [vendor]
 ##### JavaScript files
 ##################################################
 jsarray:
-    - TEST.js
+    - main.js
+    - ads.js
     - sticky-kit.min.js
 
 

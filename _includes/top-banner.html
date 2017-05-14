@@ -1,4 +1,4 @@
-<div class="top-banner">
+<div id="top-banner">
     {% assign posts=site.posts | where:"lang", post.lang %}
     {% if posts[0].lang == "ru" %}
         Пожалуйста, отключите AdBlock на нашем сайте<br>
@@ -32,28 +32,29 @@
 <br>
 
 <style>
-.top-banner {
-    text-align: center;
-    font-size: 24px;
-    font-weight: 600;
-    color: #fff;
-    margin: 0 10px;
-    padding-right: 26px;
-    padding-left: 30px;
-    padding: 15px;
-    //background-color: rgba(255, 5, 22, 0.7);
-    background: #ffffff;
-    background-image: linear-gradient(rgba(170, 4, 17, 0.57), #db004d);
-    //-webkit-box-shadow: 0 3px 10px rgb(131, 131, 131);
-    //-moz-box-shadow: 0 3px 10px rgb(131, 131, 131);
-    //box-shadow: 0 3px 10px rgb(131, 131, 131);
-    border: solid 1px #ffdbd9;
-    border-radius: 10px;
-}
-.top-banner span {
-    text-align: center;
-    font-size: 20px;
-    font-weight: 400;
-    color: #fff;
-}
+    #top-banner {
+        display: none;
+        text-align: center;
+        font-size: 24px;
+        font-weight: 600;
+        color: #fff;
+        margin: 0 10px;
+        padding-right: 26px;
+        padding-left: 30px;
+        padding: 15px;
+        //background-color: rgba(255, 5, 22, 0.7);
+        background: #ffffff;
+        background-image: linear-gradient(rgba(170, 4, 17, 0.57), #db004d);
+        //-webkit-box-shadow: 0 3px 10px rgb(131, 131, 131);
+        //-moz-box-shadow: 0 3px 10px rgb(131, 131, 131);
+        //box-shadow: 0 3px 10px rgb(131, 131, 131);
+        border: solid 1px #ffdbd9;
+        border-radius: 10px;
+    }
+    #top-banner span {
+        text-align: center;
+        font-size: 20px;
+        font-weight: 400;
+        color: #fff;
+    }
 </style>
