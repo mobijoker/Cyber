@@ -44,7 +44,7 @@ All you need is a table. In a table you can place multiple images on the grid. Y
 </table>
 ```
 
-Note: Replace the `Photo 1` and `Photo 2` with links to your images.
+> **Note:** Replace the `Photo 1` and `Photo 2` with links to your images.
 
 If you have more then two images then, repeat part of the table code like following:
 
@@ -67,7 +67,7 @@ If you have more then two images then, repeat part of the table code like follow
 </table>
 ```
 
-Note: Replace the `Photo *` with links to your images.
+> **Note:** Replace the `Photo *` with links to your images.
 
 
 <br>

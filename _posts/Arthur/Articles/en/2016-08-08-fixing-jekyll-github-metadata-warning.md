@@ -34,7 +34,7 @@ Here’s the solution to fix this warning:
 
 ![](/images/fixing-jekyll-github-metadata-warning/github-metadata-error.png)
 
-Note: Remember to keep the token secret - you don’t want other people to use the API on your behalf!
+> **Note:** Remember to keep the token secret - you don’t want other people to use the API on your behalf!
 
 
 <br>
@@ -44,7 +44,7 @@ Note: Remember to keep the token secret - you don’t want other people to use t
 nano ~/.bash_profile
 ```
 
-Note: This file may have different names and locations depending on your shell and OS. For example: `.profile`, `.bashrc`, `.zshenv`. In MacOS is a `.bash_profile` that loacated at user home directory (`~/`). You can search in Google for information about file in your OS in wich you can add a new environment variable.
+> **Note:** This file may have different names and locations depending on your shell and OS. For example: `.profile`, `.bashrc`, `.zshenv`. In MacOS is a `.bash_profile` that loacated at user home directory (`~/`). You can search in Google for information about file in your OS in wich you can add a new environment variable.
 
 
 <br>
@@ -54,7 +54,7 @@ Note: This file may have different names and locations depending on your shell a
 export JEKYLL_GITHUB_TOKEN='abc123def456'
 ```
 
-Note: Replace the `abc123def456` with your token.
+> **Note:** Replace the `abc123def456` with your token.
 
 
 <br>
