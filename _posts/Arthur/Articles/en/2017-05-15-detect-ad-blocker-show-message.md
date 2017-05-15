@@ -1,5 +1,5 @@
 ---
-title: Detect an ad blocker and show a message
+title: Detect an ad blocker and show a message to visitor of website
 ref: detect-ad-blocker-show-message
 permalink: /web/detect-ad-blocker-show-message.html
 author: Arthur Gareginyan
@@ -18,6 +18,9 @@ tags:
   - ad blocker
   - ads blocker
   - adblock
+  - adblocker
+  - adblocking
+  - ad blocking
 
 ---
 
