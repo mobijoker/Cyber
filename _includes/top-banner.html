@@ -2,7 +2,7 @@
     {% assign posts=site.posts | where:"lang", post.lang %}
     {% if posts[0].lang == "ru" %}
         Пожалуйста, отключите AdBlock на нашем сайте<br>
-        <span>Наш веб-сайт существует только за счёт этих объявлений. Спасибо! :)</span>
+        <span>Наш веб-сайт существует только за счёт этих объявлений. Спасибо!</span>
         <style>
             .post,
             .post-list {
@@ -11,13 +11,13 @@
         </style>
     {% elsif posts[0].lang == "en" %}
         Please disable AdBlock on our website<br>
-        <span>Our website exists only at the expense of these ads. Thank you! :)</span>
+        <span>Our website exists only at the expense of these ads. Thank you!</span>
     {% endif %}
 
     {% assign pages=site.pages | where:"lang", page.lang %}
     {% if pages[0].lang == "ru" %}
         Пожалуйста, отключите AdBlock на нашем сайте<br>
-        <span>Наш веб-сайт существует только за счёт этих объявлений. Спасибо! :)</span>
+        <span>Наш веб-сайт существует только за счёт этих объявлений. Спасибо!</span>
         <style>
             .post,
             .post-list {
@@ -26,7 +26,7 @@
         </style>
     {% elsif pages[0].lang == "en" %}
         Please disable AdBlock on our website<br>
-        <span>Our website exists only at the expense of these ads. Thank you! :)</span>
+        <span>Our website exists only at the expense of these ads. Thank you!</span>
     {% endif %}
 </div>
 
