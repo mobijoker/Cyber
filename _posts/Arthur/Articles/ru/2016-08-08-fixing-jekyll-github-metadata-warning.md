@@ -21,14 +21,14 @@ tags:
 ---
 
 ![thumb](/images/fixing-jekyll-github-metadata-warning/error.png)
-Когда Я использую `jekyll serve` команду в моём локальном Jekyll окружении Я получаю следующее предупреждение:
+Мы можем настроить локальную версию нашего Jekyll GitHub Pages веб-сайта для предварительного просмотра нашего веб-сайта, прежде чем публиковать изменения. Но когда я запускаю `jekyll serve` команду, он выдает следующее сообщение об ошибке:
 <pre>
 GitHub Metadata: No GitHub API authentication could be found. Some fields may be missing or have incorrect data.
 </pre>
 
 <br>
 
-Здесь объяснение того, как исправить эту ошибку:
+Вот решение этой проблемы:
 
 
 **Шаг 1.** Создай персональный токен доступа GitHub с `public_repo` scope. Ты можешь найти руководство здесь [here](https://help.github.com/articles/creating-an-access-token-for-command-line-use/).

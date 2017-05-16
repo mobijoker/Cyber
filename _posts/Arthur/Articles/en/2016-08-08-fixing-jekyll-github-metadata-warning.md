@@ -20,7 +20,7 @@ tags:
 ---
 
 ![thumb](/images/fixing-jekyll-github-metadata-warning/error.png)
-When I run the `jekyll serve` command in my local Jekyll environment I got the following warning:
+We can set up a local version of our Jekyll GitHub Pages website to preview our website before making the changes public. But when I run the `jekyll serve` command it throws the following error message:
 <pre>
 GitHub Metadata: No GitHub API authentication could be found. Some fields may be missing or have incorrect data.
 </pre>
