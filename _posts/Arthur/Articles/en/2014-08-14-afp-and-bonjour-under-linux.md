@@ -28,9 +28,12 @@ tags:
 ![thumb](/images/thumbnail/time-capsule.png)
 For quite some time I use my Linux machine as a file and backup server (Mac File Server and Time Machine Volume) for all Mac’s in my network which is accessible from the Finder in Mac OS X.
 
-`Apple Filing Protocol (AFP)` -&gt; `Netatalk`
+</br>
 
-`Bonjour` -&gt; `Avahi`
+We will use the following packages to implement the needed features on Linux mashine:
+
+* The analog of the `Apple Filing Protocol (AFP)` in Linux is the `Netatalk`.
+* The analog of the `Bonjour` in Linux is the `Avahi`.
 
 
 ### Install and configure Netatalk
