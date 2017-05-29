@@ -29,8 +29,6 @@ tags:
 
 ![thumb](/images/thumbnail/error.png)
 Some time ago WordPress.org is changed the rules of the publication of a themes to their repository. And then, I have not been able to publish update of my theme, because of the following error:
-
-
 <pre>
 REQUIRED: Found a Customizer setting that did not have a sanitization callback function. Every call to the add_setting() method needs to have a sanitization callback function passed.
 </pre>
