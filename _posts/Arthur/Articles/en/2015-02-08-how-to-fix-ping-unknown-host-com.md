@@ -50,7 +50,7 @@ To fix this, simply type the following command:
 echo "nameserver 8.8.8.8" | sudo tee /etc/resolv.conf
 ```
 
-Or you can manual edit the `resolv.conf` file. For this you need to open the `resolv.conf` file:
+Or you can manually edit the `resolv.conf` file. For this you need to open the `resolv.conf` file:
 
 ```
 sudo nano /etc/resolv.conf
