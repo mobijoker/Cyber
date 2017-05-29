@@ -313,6 +313,10 @@ pre.highlight {
     max-width: 98%;
     min-height: 30px;
     width: 100%;
+    white-space: revert;
+    white-space: -moz-revert;
+    white-space: -o-revert;
+    word-wrap: revert;
     overflow-x: auto;
     vertical-align: middle;
     -webkit-border-radius: 5px;
