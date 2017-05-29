@@ -26,7 +26,9 @@ tags:
 ---
 
 ![thumb](/images/thumbnail/question.png)
-The source code was something like this:
+I just noticed that one of my articles on the website has a strange JavaScript code added to my raw code that I show in article.
+
+This is how my original code looks like:
 
 ```sh
 scp SourceFile user@remote.host:
