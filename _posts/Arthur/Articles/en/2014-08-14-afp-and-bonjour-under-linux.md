@@ -28,7 +28,6 @@ tags:
 ![thumb](/images/thumbnail/time-capsule.png)
 For quite some time I use my Linux machine as a file and backup server (Mac File Server and Time Machine Volume) for all Mac’s in my network which is accessible from the Finder in Mac OS X.
 
-</br>
 
 We will use the following packages to implement the needed features on Linux mashine:
 
