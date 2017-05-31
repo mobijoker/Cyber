@@ -30,6 +30,7 @@ Fatal error: Can’t use function return value in write context in /public_html/
 
 
 
+
 ### What causes this error
 
 This error message is self explanatory. It means that we are trying to use function to return value in write context. It also tells us where exactly this error occurred. To solve this issue, follow the steps below.
