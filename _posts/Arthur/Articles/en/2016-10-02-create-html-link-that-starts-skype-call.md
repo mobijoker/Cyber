@@ -54,6 +54,12 @@ Also you can use the another method that is more universal:
 <a href="callto://+1234567890">Call Me</a>
 ```
 
+or:
+
+```
+<a href="tel://+1234567890">Call Me</a>
+```
+
 
 ## Link with Skype Username
 
