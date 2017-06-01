@@ -144,7 +144,7 @@ This is much nicer to read, isn't it?
 
 
 
-## Summarizing
+### Summarizing
 
 This way I use PHP constants in all of my WordPress plugins. This method is compatible with PHP versions from 5.2 to 7.0.
 

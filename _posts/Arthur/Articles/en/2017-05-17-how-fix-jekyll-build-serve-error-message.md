@@ -42,12 +42,12 @@ Ignoring redcarpet-3.3.4 because its extensions are not built.  Try: gem pristin
 ```
 
 
-## What causes this problem
+### What causes this problem
 
 This error message means that we haven’t properly set up the Jekyll dependencies (gems and their versions) in our system. To solve this issue, follow the steps below.
 
 
-## How to solve it
+### How to solve it
 
 The best way to eliminate these errors is to solve each gems and their versions issues separately. But there is also the easiest way to solve this issue, it's just use the [Bundler](http://bundler.io). 
 
@@ -72,3 +72,5 @@ bundle exec jekyll serve
 ```
 
 Now our website was successfully being served locally at `http://127.0.0.1:4000/` using the built-in web server provided by Jekyll.
+
+Thanks for reading!
