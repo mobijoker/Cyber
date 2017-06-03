@@ -103,11 +103,11 @@ If you want more options then tell me and I will be happy to add it.
 
 ### Screenshots
 
-1. Plugin page. Section "Header Section" :
+1. Plugin page. Section "Header Section".
 <img src="/images/projects/plugins/header-and-footer-scripts-inserter/screenshot-1.png" alt="WP plugin &quot;Head and Footer Scripts Inserter&quot; by Arthur Gareginyan" />
-2. Plugin page. Section "Footer Section":
+2. Plugin page with Google Tag Manager code added and saved.
 <img src="/images/projects/plugins/header-and-footer-scripts-inserter/screenshot-2.png" alt="WP plugin &quot;Head and Footer Scripts Inserter&quot; by Arthur Gareginyan" />
-3. Plugin page with Google Tag Manager code added and saved:
+3. Plugin page with Google Analytics tracking code added.
 <img src="/images/projects/plugins/header-and-footer-scripts-inserter/screenshot-3.png" alt="WP plugin &quot;Head and Footer Scripts Inserter&quot; by Arthur Gareginyan" />
 
 
