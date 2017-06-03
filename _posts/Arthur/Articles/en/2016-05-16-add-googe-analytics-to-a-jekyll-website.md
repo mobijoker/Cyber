@@ -44,7 +44,11 @@ To generate your analytics tracking code you first need to create the account (i
 
 Tracking code - is a snippet of JavaScript that collects and sends data to Analytics from a website. It’s automatically generated for every web property.
 
-Once you are finished to create an account for website, you will click the "Get Tracking ID" button. Your tracking code (in this example is Universal Analytics) will be similar to the following one:
+Once you are finished to create an account for website, you will click the `Get Tracking ID` button.
+
+![](/images/add-googe-analytics-to-a-jekyll-website/analytics-account-2.png)
+
+Your tracking code (in this example is Universal Analytics) will be similar to the following one:
 
 ```js
 <script>
