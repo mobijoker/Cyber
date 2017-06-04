@@ -168,22 +168,22 @@ Simple and easy!
 
 ### Screenshots
 
-7.  All social media buttons :
-<img src="/images/projects/plugins/social-media-buttons-toolbar/screenshot-7.png" alt="WP plugin &quot;Social Media Follow Buttons Bar&quot; by Arthur Gareginyan" />
-8.  Tooltip with name of the social media displayed above button when you hover over the button :
-<img src="/images/projects/plugins/social-media-buttons-toolbar/screenshot-8.png" alt="WP plugin &quot;Social Media Follow Buttons Bar&quot; by Arthur Gareginyan" />
-2.  Social Media Follow Buttons Bar displayed below the content of a post (Twenty Sixteen theme) :
+1.  All social media buttons :
+<img src="/images/projects/plugins/social-media-buttons-toolbar/screenshot-1.png" alt="WP plugin &quot;Social Media Follow Buttons Bar&quot; by Arthur Gareginyan" />
+2.  Tooltip with name of the social media displayed above button when you hover over the button :
 <img src="/images/projects/plugins/social-media-buttons-toolbar/screenshot-2.png" alt="WP plugin &quot;Social Media Follow Buttons Bar&quot; by Arthur Gareginyan" />
-3.  Social Media Follow Buttons Bar displayed in the sidebar using a shortcode in text widget (Twenty Sixteen theme) :
+3.  Social Media Follow Buttons Bar displayed below the content of a post (Twenty Sixteen theme) :
 <img src="/images/projects/plugins/social-media-buttons-toolbar/screenshot-3.png" alt="WP plugin &quot;Social Media Follow Buttons Bar&quot; by Arthur Gareginyan" />
+4.  Social Media Follow Buttons Bar displayed in the sidebar using a shortcode in text widget (Twenty Sixteen theme) :
+<img src="/images/projects/plugins/social-media-buttons-toolbar/screenshot-4.png" alt="WP plugin &quot;Social Media Follow Buttons Bar&quot; by Arthur Gareginyan" />
 5. Social Media Follow Buttons Bar displayed in the footer using a simple call the function directly from theme file (vCard theme) :
 <img src="/images/projects/plugins/social-media-buttons-toolbar/screenshot-5.png" alt="WP plugin &quot;Social Media Follow Buttons Bar&quot; by Arthur Gareginyan" />
-4. Social Media Follow Buttons Bar displayed in the footer using a shortcode in text widget (Anarcho Notepad theme) :
-<img src="/images/projects/plugins/social-media-buttons-toolbar/screenshot-4.png" alt="WP plugin &quot;Social Media Follow Buttons Bar&quot; by Arthur Gareginyan" />
-6.  Shortcode placed in the Text Widget :
+6. Social Media Follow Buttons Bar displayed in the footer using a shortcode in text widget (Anarcho Notepad theme) :
 <img src="/images/projects/plugins/social-media-buttons-toolbar/screenshot-6.png" alt="WP plugin &quot;Social Media Follow Buttons Bar&quot; by Arthur Gareginyan" />
-1. Plugin settings page :
-<img src="/images/projects/plugins/social-media-buttons-toolbar/screenshot-1.png" alt="WP plugin &quot;Social Media Follow Buttons Bar&quot; by Arthur Gareginyan" />
+7.  Shortcode placed in the Text Widget :
+<img src="/images/projects/plugins/social-media-buttons-toolbar/screenshot-7.png" alt="WP plugin &quot;Social Media Follow Buttons Bar&quot; by Arthur Gareginyan" />
+8. Plugin settings page :
+<img src="/images/projects/plugins/social-media-buttons-toolbar/screenshot-8.png" alt="WP plugin &quot;Social Media Follow Buttons Bar&quot; by Arthur Gareginyan" />
 
 
 ### Translation
