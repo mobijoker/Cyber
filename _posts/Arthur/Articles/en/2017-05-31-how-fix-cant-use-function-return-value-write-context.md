@@ -29,6 +29,7 @@ Fatal error: Can’t use function return value in write context in /public_html/
 </pre>
 
 
+For users, I recommend reading [another article](/web/wordpress-error-cant-use-function-return-value-write-context.html) about this error.
 
 
 ### What causes this error
