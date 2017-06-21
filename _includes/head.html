@@ -1,11 +1,10 @@
 <head>
+
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     {% include google-analytics.html %}
-
-    <link rel="shortcut icon" type="image/x-icon" href="{{ "/favicon.ico" | prepend: site.baseurl }}" >
 
     <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
 
@@ -28,7 +27,7 @@
     {% include meta-tags.html %}
 
     {% include flattr-script.html %}
-    
+
     {% include adsense-head-n4.html %}
 
     <link rel="alternate" type="application/rss+xml" title="{{ site.title[page.lang] }}" href="{{ site.feed[page.lang] | prepend: site.baseurl | prepend: site.url }}">
