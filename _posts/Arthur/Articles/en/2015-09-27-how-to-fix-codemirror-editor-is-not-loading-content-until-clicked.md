@@ -63,7 +63,7 @@ setTimeout(function() {
 },1);
 ```
 
-The above Javascript code will refresh the CodeMirror editor after 1 second.
+The above Javascript code will refresh the CodeMirror editor after 1 millisecond.
 
 And it’s work.
 
